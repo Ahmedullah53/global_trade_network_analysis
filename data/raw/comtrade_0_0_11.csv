@@ -1,0 +1,937 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,2,0,1,Import,8,Albania,ALB,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5620976,,,0
+H3,2011,2011,2011,2,0,2,Export,31,Azerbaijan,AZE,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,95754051,,,0
+H3,2011,2011,2011,2,0,2,Export,31,Azerbaijan,AZE,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,108936,,,0
+H3,2011,2011,2011,2,0,1,Import,36,Australia,AUS,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,290768599,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,29450,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,382470,,,0
+H3,2011,2011,2011,2,0,1,Import,40,Austria,AUT,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,197845227,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10813,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,445,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,265546,,,0
+H3,2011,2011,2011,2,0,1,Import,56,Belgium,BEL,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,9,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,151432,,,0
+H3,2011,2011,2011,2,0,1,Import,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,545523945,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,54928609,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,76809,,,0
+H3,2011,2011,2011,2,0,2,Export,70,Bosnia Herzegovina,BIH,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,18235649,,,0
+H3,2011,2011,2011,2,0,1,Import,76,Brazil,BRA,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3211675008,,,0
+H3,2011,2011,2011,2,0,2,Export,100,Bulgaria,BGR,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1114,,,0
+H3,2011,2011,2011,2,0,1,Import,100,Bulgaria,BGR,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,31357,,,0
+H3,2011,2011,2011,2,0,2,Export,100,Bulgaria,BGR,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,521866,,,0
+H3,2011,2011,2011,2,0,2,Export,100,Bulgaria,BGR,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,651780,,,0
+H3,2011,2011,2011,2,0,2,Export,112,Belarus,BLR,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,135180700,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,13527,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,22131,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,17910,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,13,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,369840,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4782,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5537677149,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,17387,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5830,,,0
+H3,2011,2011,2011,2,0,1,Import,156,China,CHN,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1952869808,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,785128,,,0
+H3,2011,2011,2011,2,0,1,Import,188,Costa Rica,CRI,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,67441432,,,0
+H3,2011,2011,2011,2,0,2,Export,191,Croatia,HRV,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,14739112,,,0
+H3,2011,2011,2011,2,0,2,Export,191,Croatia,HRV,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,24152057,,,0
+H3,2011,2011,2011,2,0,1,Import,203,Czechia,CZE,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,756764,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5699970,,,0
+H3,2011,2011,2011,2,0,1,Import,203,Czechia,CZE,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5524344,,,0
+H3,2011,2011,2011,2,0,1,Import,208,Denmark,DNK,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,142860641,,,0
+H3,2011,2011,2011,2,0,2,Export,208,Denmark,DNK,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5188,,,0
+H3,2011,2011,2011,2,0,2,Export,233,Estonia,EST,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,22839890,,,0
+H3,2011,2011,2011,2,0,2,Export,233,Estonia,EST,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2528682,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2893703,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,525939,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,12383733,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5930977842,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,168772612,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,76402103,,,0
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1487628,,,0
+H3,2011,2011,2011,2,0,1,Import,276,Germany,DEU,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,16706229,,,0
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3956463,,,0
+H3,2011,2011,2011,2,0,1,Import,276,Germany,DEU,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2717295054,,,0
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3174881,,,0
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,165,,,0
+H3,2011,2011,2011,2,0,1,Import,300,Greece,GRC,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5954145,,,0
+H3,2011,2011,2011,2,0,2,Export,300,Greece,GRC,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,122450952,,,0
+H3,2011,2011,2011,2,0,1,Import,300,Greece,GRC,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,481753257,,,0
+H3,2011,2011,2011,2,0,2,Export,300,Greece,GRC,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,25045760,,,0
+H3,2011,2011,2011,2,0,2,Export,344,"China, Hong Kong SAR",HKG,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,127810,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,122414,,,0
+H3,2011,2011,2011,2,0,2,Export,348,Hungary,HUN,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,643000,,,0
+H3,2011,2011,2011,2,0,1,Import,348,Hungary,HUN,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3000,,,0
+H3,2011,2011,2011,2,0,2,Export,348,Hungary,HUN,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2542000,,,0
+H3,2011,2011,2011,2,0,1,Import,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,328071940,,,0
+H3,2011,2011,2011,2,0,2,Export,364,Iran,IRN,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,206383622,,,0
+H3,2011,2011,2011,2,0,2,Export,364,Iran,IRN,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,14184,,,0
+H3,2011,2011,2011,2,0,2,Export,364,Iran,IRN,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,694600,,,0
+H3,2011,2011,2011,2,0,1,Import,372,Ireland,IRL,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,37836407,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,52869,,,0
+H3,2011,2011,2011,2,0,1,Import,381,Italy,ITA,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,128440520,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,427580220,,,0
+H3,2011,2011,2011,2,0,1,Import,381,Italy,ITA,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,11427912557,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,452514455,,,0
+H3,2011,2011,2011,2,0,1,Import,384,Côte d'Ivoire,CIV,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,10268892,,,0
+H3,2011,2011,2011,2,0,2,Export,392,Japan,JPN,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,56778,,,0
+H3,2011,2011,2011,2,0,1,Import,392,Japan,JPN,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,277429463,,,0
+H3,2011,2011,2011,2,0,2,Export,392,Japan,JPN,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,23912,,,0
+H3,2011,2011,2011,2,0,2,Export,398,Kazakhstan,KAZ,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,136797662,,,0
+H3,2011,2011,2011,2,0,2,Export,398,Kazakhstan,KAZ,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2171967,,,0
+H3,2011,2011,2011,2,0,2,Export,400,Jordan,JOR,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2430,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,400,Jordan,JOR,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2430,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,238969,,,0
+H3,2011,2011,2011,2,0,1,Import,410,Rep. of Korea,KOR,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,127034101,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,188780,,,0
+H3,2011,2011,2011,2,0,2,Export,414,Kuwait,KWT,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,43720,,,0
+H3,2011,2011,2011,2,0,2,Export,417,Kyrgyzstan,KGZ,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,21013294,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,417,Kyrgyzstan,KGZ,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2783,,,0
+H3,2011,2011,2011,2,0,2,Export,422,Lebanon,LBN,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,271,,,0
+H3,2011,2011,2011,2,0,1,Import,422,Lebanon,LBN,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,34172,,,0
+H3,2011,2011,2011,2,0,2,Export,428,Latvia,LVA,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,183005387,,,0
+H3,2011,2011,2011,2,0,2,Export,428,Latvia,LVA,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,49784,,,0
+H3,2011,2011,2011,2,0,2,Export,428,Latvia,LVA,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,40479,,,0
+H3,2011,2011,2011,2,0,2,Export,440,Lithuania,LTU,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,687032,,,0
+H3,2011,2011,2011,2,0,2,Export,440,Lithuania,LTU,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,128520,,,0
+H3,2011,2011,2011,2,0,2,Export,440,Lithuania,LTU,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,9130,,,0
+H3,2011,2011,2011,2,0,1,Import,454,Malawi,MWI,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,46407,,,0
+H3,2011,2011,2011,2,0,2,Export,458,Malaysia,MYS,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2317,,,0
+H3,2011,2011,2011,2,0,1,Import,458,Malaysia,MYS,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,35062,,,0
+H3,2011,2011,2011,2,0,1,Import,466,Mali,MLI,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,19064,,,0
+H3,2011,2011,2011,2,0,1,Import,470,Malta,MLT,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6024417,,,0
+H3,2011,2011,2011,2,0,1,Import,470,Malta,MLT,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4850123,,,0
+H3,2011,2011,2011,2,0,2,Export,478,Mauritania,MRT,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,302,,,0
+H3,2011,2011,2011,2,0,1,Import,478,Mauritania,MRT,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4758,,,0
+H3,2011,2011,2011,2,0,1,Import,484,Mexico,MEX,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,21790515,,,0
+H3,2011,2011,2011,2,0,1,Import,490,"Other Asia, nes",,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,36772914,,,0
+H3,2011,2011,2011,2,0,2,Export,498,Rep. of Moldova,MDA,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,12075,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,498,Rep. of Moldova,MDA,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1157,,,0
+H3,2011,2011,2011,2,0,1,Import,498,Rep. of Moldova,MDA,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,897443,,,0
+H3,2011,2011,2011,2,0,1,Import,499,Montenegro,MNE,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2779889,,,0
+H3,2011,2011,2011,2,0,2,Export,499,Montenegro,MNE,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,73391,,,0
+H3,2011,2011,2011,2,0,1,Import,499,Montenegro,MNE,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,62040,,,0
+H3,2011,2011,2011,2,0,1,Import,524,Nepal,NPL,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1139695,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,221743,,,0
+H3,2011,2011,2011,2,0,1,Import,528,Netherlands,NLD,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,72,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,576925,,,0
+H3,2011,2011,2011,2,0,1,Import,528,Netherlands,NLD,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3544961064,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,63633993,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,105239,,,0
+H3,2011,2011,2011,2,0,1,Import,562,Niger,NER,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,21526,,,0
+H3,2011,2011,2011,2,0,1,Import,566,Nigeria,NGA,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,308888144,,,0
+H3,2011,2011,2011,2,0,2,Export,566,Nigeria,NGA,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4394932976,,,0
+H3,2011,2011,2011,2,0,1,Import,566,Nigeria,NGA,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,221227,,,0
+H3,2011,2011,2011,2,0,2,Export,566,Nigeria,NGA,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2210882,,,0
+H3,2011,2011,2011,2,0,1,Import,579,Norway,NOR,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,34232205,,,0
+H3,2011,2011,2011,2,0,2,Export,579,Norway,NOR,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,7682,,,0
+H3,2011,2011,2011,2,0,1,Import,586,Pakistan,PAK,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,36823152,,,0
+H3,2011,2011,2011,2,0,2,Export,586,Pakistan,PAK,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,776315211,,,0
+H3,2011,2011,2011,2,0,2,Export,616,Poland,POL,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2026508,,,0
+H3,2011,2011,2011,2,0,1,Import,616,Poland,POL,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,15590,,,0
+H3,2011,2011,2011,2,0,2,Export,616,Poland,POL,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,159792534,,,0
+H3,2011,2011,2011,2,0,2,Export,620,Portugal,PRT,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,143322,,,0
+H3,2011,2011,2011,2,0,1,Import,620,Portugal,PRT,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1022301632,,,0
+H3,2011,2011,2011,2,0,2,Export,620,Portugal,PRT,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3728448,,,0
+H3,2011,2011,2011,2,0,2,Export,634,Qatar,QAT,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,62157,,,0
+H3,2011,2011,2011,2,0,2,Export,642,Romania,ROU,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2441779,,,0
+H3,2011,2011,2011,2,0,1,Import,642,Romania,ROU,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,14,,,0
+H3,2011,2011,2011,2,0,2,Export,642,Romania,ROU,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6862105,,,0
+H3,2011,2011,2011,2,0,2,Export,643,Russian Federation,RUS,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,642302382,,,0
+H3,2011,2011,2011,2,0,2,Export,643,Russian Federation,RUS,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2401873,,,0
+H3,2011,2011,2011,2,0,1,Import,643,Russian Federation,RUS,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4,,,0
+H3,2011,2011,2011,2,0,2,Export,643,Russian Federation,RUS,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,60507532,,,0
+H3,2011,2011,2011,2,0,1,Import,686,Senegal,SEN,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,74604,,,0
+H3,2011,2011,2011,2,0,1,Import,688,Serbia,SRB,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,16626124,,,0
+H3,2011,2011,2011,2,0,2,Export,688,Serbia,SRB,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,18747146,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4137,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4629511,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,87485545,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1926326619,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,488559,,,0
+H3,2011,2011,2011,2,0,1,Import,702,Singapore,SGP,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6010324,,,0
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,17954,,,0
+H3,2011,2011,2011,2,0,2,Export,703,Slovakia,SVK,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5202,,,0
+H3,2011,2011,2011,2,0,2,Export,704,Viet Nam,VNM,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,219590,,,0
+H3,2011,2011,2011,2,0,2,Export,705,Slovenia,SVN,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,178568,,,0
+H3,2011,2011,2011,2,0,1,Import,705,Slovenia,SVN,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,114708713,,,0
+H3,2011,2011,2011,2,0,2,Export,710,South Africa,ZAF,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,8151,,,0
+H3,2011,2011,2011,2,0,1,Import,710,South Africa,ZAF,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,31504615,,,0
+H3,2011,2011,2011,2,0,2,Export,710,South Africa,ZAF,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,824,,,4
+H3,2011,2011,2011,2,0,2,Export,716,Zimbabwe,ZWE,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,50,,,4
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,16904,,,0
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2500477,,,0
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,88478692,,,0
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2797242,,,0
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7602228915,,,4
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,299367378,,,0
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,143764680,,,4
+H3,2011,2011,2011,2,0,1,Import,736,Fmr Sudan,SDN,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2754,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,244364,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,20351,,,0
+H3,2011,2011,2011,2,0,1,Import,752,Sweden,SWE,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,209516277,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,471770,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8021,,,0
+H3,2011,2011,2011,2,0,1,Import,757,Switzerland,CHE,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,56404,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,41609,,,0
+H3,2011,2011,2011,2,0,1,Import,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,644447492,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,109041,,,0
+H3,2011,2011,2011,2,0,1,Import,764,Thailand,THA,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,69595494,,,0
+H3,2011,2011,2011,2,0,1,Import,764,Thailand,THA,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,64,,,0
+H3,2011,2011,2011,2,0,2,Export,780,Trinidad and Tobago,TTO,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,200,,,0
+H3,2011,2011,2011,2,0,1,Import,784,United Arab Emirates,ARE,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4255,,,0
+H3,2011,2011,2011,2,0,2,Export,784,United Arab Emirates,ARE,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,12469141,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,784,United Arab Emirates,ARE,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3472862,,,0
+H3,2011,2011,2011,2,0,2,Export,784,United Arab Emirates,ARE,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,107050,,,0
+H3,2011,2011,2011,2,0,2,Export,784,United Arab Emirates,ARE,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,38022763,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,784,United Arab Emirates,ARE,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1473187,,,0
+H3,2011,2011,2011,2,0,2,Export,788,Tunisia,TUN,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,726338,,,0
+H3,2011,2011,2011,2,0,1,Import,788,Tunisia,TUN,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,561857001,,,0
+H3,2011,2011,2011,2,0,2,Export,788,Tunisia,TUN,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10113119,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5522640,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2663768,,,0
+H3,2011,2011,2011,2,0,1,Import,792,Turkey,TUR,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1131147115,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4304373,,,0
+H3,2011,2011,2011,2,0,2,Export,804,Ukraine,UKR,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,17804,,,0
+H3,2011,2011,2011,2,0,1,Import,804,Ukraine,UKR,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,57998,,,0
+H3,2011,2011,2011,2,0,2,Export,804,Ukraine,UKR,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4687016,,,0
+H3,2011,2011,2011,2,0,2,Export,804,Ukraine,UKR,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,14244700,,,0
+H3,2011,2011,2011,2,0,1,Import,807,North Macedonia,MKD,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,178599,,,0
+H3,2011,2011,2011,2,0,2,Export,807,North Macedonia,MKD,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,870321,,,0
+H3,2011,2011,2011,2,0,1,Import,807,North Macedonia,MKD,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,140484,,,0
+H3,2011,2011,2011,2,0,1,Import,818,Egypt,EGY,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,657391261,,,0
+H3,2011,2011,2011,2,0,2,Export,818,Egypt,EGY,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,930299,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,30581962,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,353017,,,0
+H3,2011,2011,2011,2,0,1,Import,826,United Kingdom,GBR,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2361010563,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2107972,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,719469,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,842,USA,USA,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,25166,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,18478,,,0
+H3,2011,2011,2011,2,0,1,Import,842,USA,USA,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,14901323850,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,157000915,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4679,,,0
+H3,2011,2011,2011,2,0,1,Import,854,Burkina Faso,BFA,4,Afghanistan,AFG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,26088,,,0
+H3,2011,2011,2011,2,0,1,Import,854,Burkina Faso,BFA,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,30531,,,0
+H3,2011,2011,2011,2,0,1,Import,882,Samoa,WSM,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1405,,,0
+H3,2011,2011,2011,2,0,1,Import,12,Algeria,DZA,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31,,,0
+H3,2011,2011,2011,2,0,1,Import,20,Andorra,AND,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,74904,,,0
+H3,2011,2011,2011,2,0,4,Re-Import,20,Andorra,AND,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,74904,,,0
+H3,2011,2011,2011,2,0,1,Import,24,Angola,AGO,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33,,,0
+H3,2011,2011,2011,2,0,1,Import,24,Angola,AGO,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34840,,,0
+H3,2011,2011,2011,2,0,1,Import,31,Azerbaijan,AZE,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,170,,,0
+H3,2011,2011,2011,2,0,1,Import,32,Argentina,ARG,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2110,,,0
+H3,2011,2011,2011,2,0,2,Export,32,Argentina,ARG,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2000,,,0
+H3,2011,2011,2011,2,0,2,Export,32,Argentina,ARG,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1772204,,,0
+H3,2011,2011,2011,2,0,1,Import,36,Australia,AUS,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1534,,,0
+H3,2011,2011,2011,2,0,2,Export,36,Australia,AUS,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,53559,,,0
+H3,2011,2011,2011,2,0,2,Export,36,Australia,AUS,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9073,,,0
+H3,2011,2011,2011,2,0,2,Export,36,Australia,AUS,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,393,,,0
+H3,2011,2011,2011,2,0,1,Import,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1679,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,469125,,,0
+H3,2011,2011,2011,2,0,1,Import,40,Austria,AUT,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,99769,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1250398,,,0
+H3,2011,2011,2011,2,0,1,Import,40,Austria,AUT,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,102327,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4475269,,,0
+H3,2011,2011,2011,2,0,1,Import,40,Austria,AUT,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,81,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13066,,,0
+H3,2011,2011,2011,2,0,2,Export,48,Bahrain,BHR,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21141,,,0
+H3,2011,2011,2011,2,0,1,Import,50,Bangladesh,BGD,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14859,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,439107,,,0
+H3,2011,2011,2011,2,0,1,Import,56,Belgium,BEL,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1327,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,709527,,,4
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,72680009,,,4
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,18262,,,4
+H3,2011,2011,2011,2,0,2,Export,70,Bosnia Herzegovina,BIH,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,129435,,,0
+H3,2011,2011,2011,2,0,1,Import,70,Bosnia Herzegovina,BIH,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,387,,,0
+H3,2011,2011,2011,2,0,1,Import,76,Brazil,BRA,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2009,,,0
+H3,2011,2011,2011,2,0,2,Export,76,Brazil,BRA,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7444,,,0
+H3,2011,2011,2011,2,0,2,Export,76,Brazil,BRA,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8142531,,,0
+H3,2011,2011,2011,2,0,2,Export,100,Bulgaria,BGR,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,107911,,,0
+H3,2011,2011,2011,2,0,1,Import,100,Bulgaria,BGR,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,428000,,,0
+H3,2011,2011,2011,2,0,2,Export,100,Bulgaria,BGR,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2641544,,,0
+H3,2011,2011,2011,2,0,2,Export,100,Bulgaria,BGR,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,49160,,,0
+H3,2011,2011,2011,2,0,2,Export,100,Bulgaria,BGR,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3786,,,0
+H3,2011,2011,2011,2,0,2,Export,112,Belarus,BLR,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,600,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8588,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,482802,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17288,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9511,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,113851,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3397,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1339110,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39495,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12185,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16708,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,157,,,0
+H3,2011,2011,2011,2,0,1,Import,144,Sri Lanka,LKA,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26,,,0
+H3,2011,2011,2011,2,0,2,Export,144,Sri Lanka,LKA,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,170,,,0
+H3,2011,2011,2011,2,0,2,Export,144,Sri Lanka,LKA,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,965,,,0
+H3,2011,2011,2011,2,0,1,Import,144,Sri Lanka,LKA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,767,,,0
+H3,2011,2011,2011,2,0,1,Import,152,Chile,CHL,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,209,,,0
+H3,2011,2011,2011,2,0,1,Import,152,Chile,CHL,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1216,,,0
+H3,2011,2011,2011,2,0,1,Import,156,China,CHN,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,284,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2171867,,,0
+H3,2011,2011,2011,2,0,1,Import,156,China,CHN,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,734275,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21949428,,,0
+H3,2011,2011,2011,2,0,1,Import,156,China,CHN,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,196147,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,144583538,,,0
+H3,2011,2011,2011,2,0,1,Import,156,China,CHN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,337,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30345,,,0
+H3,2011,2011,2011,2,0,1,Import,170,Colombia,COL,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,682,,,0
+H3,2011,2011,2011,2,0,1,Import,170,Colombia,COL,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8936,,,0
+H3,2011,2011,2011,2,0,1,Import,170,Colombia,COL,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,143,,,0
+H3,2011,2011,2011,2,0,2,Export,170,Colombia,COL,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,58792,,,0
+H3,2011,2011,2011,2,0,1,Import,170,Colombia,COL,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11515,,,0
+H3,2011,2011,2011,2,0,1,Import,188,Costa Rica,CRI,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1298,,,0
+H3,2011,2011,2011,2,0,1,Import,188,Costa Rica,CRI,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33,,,0
+H3,2011,2011,2011,2,0,1,Import,188,Costa Rica,CRI,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,116941,,,0
+H3,2011,2011,2011,2,0,1,Import,191,Croatia,HRV,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5688,,,0
+H3,2011,2011,2011,2,0,2,Export,191,Croatia,HRV,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2494036,,,0
+H3,2011,2011,2011,2,0,1,Import,191,Croatia,HRV,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1249,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,52712,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1453238,,,0
+H3,2011,2011,2011,2,0,1,Import,203,Czechia,CZE,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13145,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1300703,,,0
+H3,2011,2011,2011,2,0,1,Import,203,Czechia,CZE,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13210,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,705,,,0
+H3,2011,2011,2011,2,0,2,Export,208,Denmark,DNK,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15802,,,0
+H3,2011,2011,2011,2,0,2,Export,208,Denmark,DNK,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9733,,,0
+H3,2011,2011,2011,2,0,1,Import,208,Denmark,DNK,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,116,,,0
+H3,2011,2011,2011,2,0,2,Export,208,Denmark,DNK,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28674,,,0
+H3,2011,2011,2011,2,0,1,Import,208,Denmark,DNK,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1404,,,0
+H3,2011,2011,2011,2,0,2,Export,208,Denmark,DNK,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12906,,,0
+H3,2011,2011,2011,2,0,1,Import,214,Dominican Rep.,DOM,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,517,,,0
+H3,2011,2011,2011,2,0,1,Import,214,Dominican Rep.,DOM,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,38877,,,0
+H3,2011,2011,2011,2,0,1,Import,214,Dominican Rep.,DOM,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1044,,,0
+H3,2011,2011,2011,2,0,1,Import,222,El Salvador,SLV,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,381,,,0
+H3,2011,2011,2011,2,0,1,Import,231,Ethiopia,ETH,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4825,,,0
+H3,2011,2011,2011,2,0,2,Export,233,Estonia,EST,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26,,,0
+H3,2011,2011,2011,2,0,2,Export,233,Estonia,EST,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16387,,,0
+H3,2011,2011,2011,2,0,2,Export,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1265,,,0
+H3,2011,2011,2011,2,0,2,Export,246,Finland,FIN,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19498,,,0
+H3,2011,2011,2011,2,0,2,Export,246,Finland,FIN,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1061409,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1944,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,244142,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,471702,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,217537,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15347,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,151124867,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,70064,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2101914,,,0
+H3,2011,2011,2011,2,0,2,Export,268,Georgia,GEO,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,207542,,,0
+H3,2011,2011,2011,2,0,1,Import,270,Gambia,GMB,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,272,,,0
+H3,2011,2011,2011,2,0,2,Export,270,Gambia,GMB,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2054,,,0
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4279508,,,4
+H3,2011,2011,2011,2,0,1,Import,276,Germany,DEU,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,315532,,,0
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6203699,,,4
+H3,2011,2011,2011,2,0,1,Import,276,Germany,DEU,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,45926,,,4
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,51004018,,,4
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,690292,,,4
+H3,2011,2011,2011,2,0,1,Import,300,Greece,GRC,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3047494,,,0
+H3,2011,2011,2011,2,0,2,Export,300,Greece,GRC,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34633290,,,0
+H3,2011,2011,2011,2,0,1,Import,300,Greece,GRC,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,50404,,,0
+H3,2011,2011,2011,2,0,2,Export,300,Greece,GRC,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4030552,,,0
+H3,2011,2011,2011,2,0,2,Export,300,Greece,GRC,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9107,,,0
+H3,2011,2011,2011,2,0,1,Import,304,Greenland,GRL,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1209,,,0
+H3,2011,2011,2011,2,0,2,Export,320,Guatemala,GTM,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13155,,,0
+H3,2011,2011,2011,2,0,1,Import,320,Guatemala,GTM,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6275,,,0
+H3,2011,2011,2011,2,0,1,Import,328,Guyana,GUY,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,79,,,0
+H3,2011,2011,2011,2,0,2,Export,344,"China, Hong Kong SAR",HKG,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31061,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31061,,,0
+H3,2011,2011,2011,2,0,1,Import,344,"China, Hong Kong SAR",HKG,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5699,,,0
+H3,2011,2011,2011,2,0,2,Export,344,"China, Hong Kong SAR",HKG,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14577,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14577,,,0
+H3,2011,2011,2011,2,0,2,Export,344,"China, Hong Kong SAR",HKG,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,99029,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,99029,,,0
+H3,2011,2011,2011,2,0,1,Import,344,"China, Hong Kong SAR",HKG,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5,,,0
+H3,2011,2011,2011,2,0,2,Export,344,"China, Hong Kong SAR",HKG,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,132574,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,132574,,,0
+H3,2011,2011,2011,2,0,2,Export,348,Hungary,HUN,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1000,,,0
+H3,2011,2011,2011,2,0,1,Import,348,Hungary,HUN,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7000,,,0
+H3,2011,2011,2011,2,0,2,Export,348,Hungary,HUN,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1565000,,,0
+H3,2011,2011,2011,2,0,2,Export,348,Hungary,HUN,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1862000,,,0
+H3,2011,2011,2011,2,0,1,Import,360,Indonesia,IDN,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1222,,,0
+H3,2011,2011,2011,2,0,2,Export,360,Indonesia,IDN,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3744,,,0
+H3,2011,2011,2011,2,0,2,Export,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8636753,,,0
+H3,2011,2011,2011,2,0,1,Import,360,Indonesia,IDN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,155550,,,0
+H3,2011,2011,2011,2,0,1,Import,364,Iran,IRN,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,145422,,,0
+H3,2011,2011,2011,2,0,2,Export,364,Iran,IRN,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,122933448,,,0
+H3,2011,2011,2011,2,0,1,Import,364,Iran,IRN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14484,,,0
+H3,2011,2011,2011,2,0,1,Import,372,Ireland,IRL,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,235,,,0
+H3,2011,2011,2011,2,0,2,Export,372,Ireland,IRL,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3400,,,0
+H3,2011,2011,2011,2,0,2,Export,372,Ireland,IRL,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,210395,,,0
+H3,2011,2011,2011,2,0,1,Import,372,Ireland,IRL,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,41754,,,0
+H3,2011,2011,2011,2,0,2,Export,372,Ireland,IRL,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,308,,,0
+H3,2011,2011,2011,2,0,2,Export,376,Israel,ISR,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,103000,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,570244,,,0
+H3,2011,2011,2011,2,0,1,Import,381,Italy,ITA,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3570163,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,41027343,,,0
+H3,2011,2011,2011,2,0,1,Import,381,Italy,ITA,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16328,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,117779729,,,0
+H3,2011,2011,2011,2,0,1,Import,381,Italy,ITA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,45205,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,970992,,,0
+H3,2011,2011,2011,2,0,2,Export,392,Japan,JPN,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32351,,,0
+H3,2011,2011,2011,2,0,2,Export,392,Japan,JPN,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9463719,,,0
+H3,2011,2011,2011,2,0,2,Export,398,Kazakhstan,KAZ,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2852861,,,0
+H3,2011,2011,2011,2,0,1,Import,398,Kazakhstan,KAZ,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,188,,,0
+H3,2011,2011,2011,2,0,2,Export,400,Jordan,JOR,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3961,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,400,Jordan,JOR,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1637,,,0
+H3,2011,2011,2011,2,0,1,Import,400,Jordan,JOR,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3935,,,0
+H3,2011,2011,2011,2,0,2,Export,400,Jordan,JOR,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1792633,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,400,Jordan,JOR,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,166258,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1434471,,,0
+H3,2011,2011,2011,2,0,1,Import,410,Rep. of Korea,KOR,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,514,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2039908,,,0
+H3,2011,2011,2011,2,0,1,Import,410,Rep. of Korea,KOR,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1179,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,109757135,,,0
+H3,2011,2011,2011,2,0,1,Import,410,Rep. of Korea,KOR,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22879,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7820,,,0
+H3,2011,2011,2011,2,0,2,Export,414,Kuwait,KWT,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,239731,,,0
+H3,2011,2011,2011,2,0,2,Export,414,Kuwait,KWT,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,146982,,,0
+H3,2011,2011,2011,2,0,2,Export,414,Kuwait,KWT,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9861375,,,0
+H3,2011,2011,2011,2,0,1,Import,417,Kyrgyzstan,KGZ,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10,,,0
+H3,2011,2011,2011,2,0,2,Export,422,Lebanon,LBN,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,125401,,,0
+H3,2011,2011,2011,2,0,1,Import,422,Lebanon,LBN,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,140,,,0
+H3,2011,2011,2011,2,0,2,Export,422,Lebanon,LBN,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,648299,,,0
+H3,2011,2011,2011,2,0,2,Export,428,Latvia,LVA,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7495,,,0
+H3,2011,2011,2011,2,0,2,Export,428,Latvia,LVA,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1045,,,0
+H3,2011,2011,2011,2,0,2,Export,440,Lithuania,LTU,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10060,,,0
+H3,2011,2011,2011,2,0,2,Export,440,Lithuania,LTU,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,161,,,0
+H3,2011,2011,2011,2,0,1,Import,442,Luxembourg,LUX,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,164,,,0
+H3,2011,2011,2011,2,0,1,Import,442,Luxembourg,LUX,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,791208,,,0
+H3,2011,2011,2011,2,0,2,Export,442,Luxembourg,LUX,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,126324,,,0
+H3,2011,2011,2011,2,0,2,Export,442,Luxembourg,LUX,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,418,,,0
+H3,2011,2011,2011,2,0,2,Export,450,Madagascar,MDG,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1954,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,450,Madagascar,MDG,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1954,,,0
+H3,2011,2011,2011,2,0,2,Export,454,Malawi,MWI,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,230,,,0
+H3,2011,2011,2011,2,0,1,Import,458,Malaysia,MYS,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4258,,,0
+H3,2011,2011,2011,2,0,2,Export,458,Malaysia,MYS,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,453986,,,0
+H3,2011,2011,2011,2,0,2,Export,458,Malaysia,MYS,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,61449,,,0
+H3,2011,2011,2011,2,0,2,Export,458,Malaysia,MYS,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,796796,,,0
+H3,2011,2011,2011,2,0,1,Import,462,Maldives,MDV,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43,,,0
+H3,2011,2011,2011,2,0,1,Import,466,Mali,MLI,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13346,,,0
+H3,2011,2011,2011,2,0,1,Import,466,Mali,MLI,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10663,,,0
+H3,2011,2011,2011,2,0,1,Import,470,Malta,MLT,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1361,,,0
+H3,2011,2011,2011,2,0,2,Export,470,Malta,MLT,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1110,,,0
+H3,2011,2011,2011,2,0,1,Import,478,Mauritania,MRT,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,48246,,,0
+H3,2011,2011,2011,2,0,1,Import,478,Mauritania,MRT,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3252,,,0
+H3,2011,2011,2011,2,0,1,Import,484,Mexico,MEX,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1644,,,0
+H3,2011,2011,2011,2,0,2,Export,484,Mexico,MEX,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,177772,,,0
+H3,2011,2011,2011,2,0,1,Import,484,Mexico,MEX,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3853,,,0
+H3,2011,2011,2011,2,0,2,Export,484,Mexico,MEX,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,169748,,,0
+H3,2011,2011,2011,2,0,1,Import,484,Mexico,MEX,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6036,,,0
+H3,2011,2011,2011,2,0,2,Export,490,"Other Asia, nes",,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1052,,,0
+H3,2011,2011,2011,2,0,1,Import,490,"Other Asia, nes",,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20171,,,0
+H3,2011,2011,2011,2,0,2,Export,490,"Other Asia, nes",,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6599638,,,0
+H3,2011,2011,2011,2,0,2,Export,490,"Other Asia, nes",,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14696187,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,490,"Other Asia, nes",,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,136,,,0
+H3,2011,2011,2011,2,0,2,Export,490,"Other Asia, nes",,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15244,,,0
+H3,2011,2011,2011,2,0,1,Import,498,Rep. of Moldova,MDA,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10,,,0
+H3,2011,2011,2011,2,0,1,Import,498,Rep. of Moldova,MDA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8014,,,0
+H3,2011,2011,2011,2,0,1,Import,499,Montenegro,MNE,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,180250,,,0
+H3,2011,2011,2011,2,0,2,Export,499,Montenegro,MNE,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,87667,,,0
+H3,2011,2011,2011,2,0,2,Export,516,Namibia,NAM,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5684,,,0
+H3,2011,2011,2011,2,0,1,Import,524,Nepal,NPL,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,59,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,907639,,,4
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1336570,,,0
+H3,2011,2011,2011,2,0,1,Import,528,Netherlands,NLD,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1647,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,35057395,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,121709,,,0
+H3,2011,2011,2011,2,0,1,Import,558,Nicaragua,NIC,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,213,,,0
+H3,2011,2011,2011,2,0,1,Import,562,Niger,NER,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,103,,,0
+H3,2011,2011,2011,2,0,1,Import,562,Niger,NER,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,683,,,0
+H3,2011,2011,2011,2,0,1,Import,562,Niger,NER,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31771,,,0
+H3,2011,2011,2011,2,0,1,Import,566,Nigeria,NGA,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6104192,,,0
+H3,2011,2011,2011,2,0,2,Export,566,Nigeria,NGA,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1043357,,,0
+H3,2011,2011,2011,2,0,1,Import,566,Nigeria,NGA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1734433,,,0
+H3,2011,2011,2011,2,0,2,Export,566,Nigeria,NGA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3025021,,,0
+H3,2011,2011,2011,2,0,2,Export,579,Norway,NOR,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19623,,,0
+H3,2011,2011,2011,2,0,1,Import,579,Norway,NOR,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,312,,,0
+H3,2011,2011,2011,2,0,2,Export,579,Norway,NOR,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29325,,,0
+H3,2011,2011,2011,2,0,1,Import,579,Norway,NOR,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,106450,,,0
+H3,2011,2011,2011,2,0,1,Import,586,Pakistan,PAK,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6259,,,0
+H3,2011,2011,2011,2,0,2,Export,586,Pakistan,PAK,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,96498717,,,0
+H3,2011,2011,2011,2,0,2,Export,586,Pakistan,PAK,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5294,,,0
+H3,2011,2011,2011,2,0,2,Export,586,Pakistan,PAK,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10946,,,0
+H3,2011,2011,2011,2,0,1,Import,598,Papua New Guinea,PNG,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1854,,,0
+H3,2011,2011,2011,2,0,1,Import,604,Peru,PER,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3173,,,0
+H3,2011,2011,2011,2,0,1,Import,616,Poland,POL,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25734,,,0
+H3,2011,2011,2011,2,0,2,Export,616,Poland,POL,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,153,,,0
+H3,2011,2011,2011,2,0,1,Import,616,Poland,POL,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15,,,0
+H3,2011,2011,2011,2,0,2,Export,616,Poland,POL,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,257005,,,0
+H3,2011,2011,2011,2,0,2,Export,616,Poland,POL,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,949083,,,0
+H3,2011,2011,2011,2,0,1,Import,616,Poland,POL,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6,,,0
+H3,2011,2011,2011,2,0,2,Export,620,Portugal,PRT,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,121558,,,0
+H3,2011,2011,2011,2,0,1,Import,620,Portugal,PRT,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,753,,,0
+H3,2011,2011,2011,2,0,2,Export,620,Portugal,PRT,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17413338,,,0
+H3,2011,2011,2011,2,0,1,Import,620,Portugal,PRT,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3013,,,0
+H3,2011,2011,2011,2,0,2,Export,620,Portugal,PRT,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2406,,,0
+H3,2011,2011,2011,2,0,2,Export,634,Qatar,QAT,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26617,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,634,Qatar,QAT,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26617,,,0
+H3,2011,2011,2011,2,0,2,Export,634,Qatar,QAT,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,124000,,,0
+H3,2011,2011,2011,2,0,2,Export,634,Qatar,QAT,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21779560,,,0
+H3,2011,2011,2011,2,0,1,Import,642,Romania,ROU,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28550,,,0
+H3,2011,2011,2011,2,0,2,Export,642,Romania,ROU,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,622039,,,0
+H3,2011,2011,2011,2,0,2,Export,642,Romania,ROU,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3586063,,,0
+H3,2011,2011,2011,2,0,2,Export,643,Russian Federation,RUS,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26548,,,0
+H3,2011,2011,2011,2,0,1,Import,643,Russian Federation,RUS,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26423,,,0
+H3,2011,2011,2011,2,0,2,Export,643,Russian Federation,RUS,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,77445,,,0
+H3,2011,2011,2011,2,0,2,Export,643,Russian Federation,RUS,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1865874,,,0
+H3,2011,2011,2011,2,0,1,Import,643,Russian Federation,RUS,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3370,,,0
+H3,2011,2011,2011,2,0,1,Import,646,Rwanda,RWA,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,28227,,,0
+H3,2011,2011,2011,2,0,1,Import,659,Saint Kitts and Nevis,KNA,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2134,,,0
+H3,2011,2011,2011,2,0,2,Export,659,Saint Kitts and Nevis,KNA,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,650,,,0
+H3,2011,2011,2011,2,0,1,Import,659,Saint Kitts and Nevis,KNA,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,55,,,0
+H3,2011,2011,2011,2,0,1,Import,659,Saint Kitts and Nevis,KNA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11619,,,0
+H3,2011,2011,2011,2,0,2,Export,682,Saudi Arabia,SAU,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2225069,,,0
+H3,2011,2011,2011,2,0,2,Export,682,Saudi Arabia,SAU,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,71467,,,0
+H3,2011,2011,2011,2,0,2,Export,682,Saudi Arabia,SAU,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,250909380,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,682,Saudi Arabia,SAU,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,180534,,,0
+H3,2011,2011,2011,2,0,1,Import,686,Senegal,SEN,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,355007,,,0
+H3,2011,2011,2011,2,0,2,Export,686,Senegal,SEN,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,821,,,0
+H3,2011,2011,2011,2,0,1,Import,686,Senegal,SEN,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9664,,,0
+H3,2011,2011,2011,2,0,2,Export,686,Senegal,SEN,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3143,,,0
+H3,2011,2011,2011,2,0,1,Import,688,Serbia,SRB,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,234,,,0
+H3,2011,2011,2011,2,0,2,Export,688,Serbia,SRB,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6140357,,,0
+H3,2011,2011,2011,2,0,2,Export,688,Serbia,SRB,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6749,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,96281,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9517990,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1942,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,207194,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,74286,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13659881,,,0
+H3,2011,2011,2011,2,0,1,Import,702,Singapore,SGP,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,588,,,4
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,23603,,,4
+H3,2011,2011,2011,2,0,1,Import,702,Singapore,SGP,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1299,,,4
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,114112,,,0
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,253455,,,4
+H3,2011,2011,2011,2,0,1,Import,702,Singapore,SGP,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,26402,,,4
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,49976,,,4
+H3,2011,2011,2011,2,0,2,Export,703,Slovakia,SVK,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16177,,,0
+H3,2011,2011,2011,2,0,2,Export,703,Slovakia,SVK,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,162734,,,0
+H3,2011,2011,2011,2,0,2,Export,703,Slovakia,SVK,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,24678,,,0
+H3,2011,2011,2011,2,0,1,Import,703,Slovakia,SVK,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9572,,,0
+H3,2011,2011,2011,2,0,2,Export,704,Viet Nam,VNM,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,407682,,,0
+H3,2011,2011,2011,2,0,1,Import,705,Slovenia,SVN,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,62,,,0
+H3,2011,2011,2011,2,0,2,Export,705,Slovenia,SVN,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,866275,,,0
+H3,2011,2011,2011,2,0,2,Export,705,Slovenia,SVN,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17458,,,0
+H3,2011,2011,2011,2,0,1,Import,705,Slovenia,SVN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2500,,,0
+H3,2011,2011,2011,2,0,2,Export,705,Slovenia,SVN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,229,,,0
+H3,2011,2011,2011,2,0,2,Export,710,South Africa,ZAF,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,35403,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,710,South Africa,ZAF,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1670,,,0
+H3,2011,2011,2011,2,0,1,Import,710,South Africa,ZAF,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1441,,,0
+H3,2011,2011,2011,2,0,2,Export,710,South Africa,ZAF,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,101443,,,0
+H3,2011,2011,2011,2,0,1,Import,710,South Africa,ZAF,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,36924,,,0
+H3,2011,2011,2011,2,0,2,Export,710,South Africa,ZAF,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,811290,,,0
+H3,2011,2011,2011,2,0,2,Export,716,Zimbabwe,ZWE,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9963,,,0
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,108074,,,0
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,145538,,,4
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,35465,,,0
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,612337,,,0
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14937,,,0
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,118254001,,,0
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,635637,,,4
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14067051,,,4
+H3,2011,2011,2011,2,0,3,Re-Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,198033,,,0
+H3,2011,2011,2011,2,0,1,Import,736,Fmr Sudan,SDN,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,77777,,,0
+H3,2011,2011,2011,2,0,1,Import,736,Fmr Sudan,SDN,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1949,,,0
+H3,2011,2011,2011,2,0,1,Import,740,Suriname,SUR,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6561,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6013,,,0
+H3,2011,2011,2011,2,0,1,Import,752,Sweden,SWE,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2929,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12180,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13412756,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,154,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,59304,,,0
+H3,2011,2011,2011,2,0,1,Import,757,Switzerland,CHE,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,101756,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,89043,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7208585,,,0
+H3,2011,2011,2011,2,0,1,Import,757,Switzerland,CHE,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39389,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18614,,,0
+H3,2011,2011,2011,2,0,1,Import,764,Thailand,THA,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,966,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,422364,,,0
+H3,2011,2011,2011,2,0,1,Import,764,Thailand,THA,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,791,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,196072,,,0
+H3,2011,2011,2011,2,0,1,Import,764,Thailand,THA,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,740,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13476842,,,0
+H3,2011,2011,2011,2,0,1,Import,764,Thailand,THA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,701,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9538,,,0
+H3,2011,2011,2011,2,0,1,Import,784,United Arab Emirates,ARE,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16894,,,0
+H3,2011,2011,2011,2,0,2,Export,784,United Arab Emirates,ARE,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24724354,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,784,United Arab Emirates,ARE,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16402510,,,0
+H3,2011,2011,2011,2,0,2,Export,784,United Arab Emirates,ARE,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7955,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,784,United Arab Emirates,ARE,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7072,,,0
+H3,2011,2011,2011,2,0,2,Export,784,United Arab Emirates,ARE,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,70573905,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,784,United Arab Emirates,ARE,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4204591,,,0
+H3,2011,2011,2011,2,0,2,Export,784,United Arab Emirates,ARE,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,784,United Arab Emirates,ARE,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15,,,0
+H3,2011,2011,2011,2,0,1,Import,788,Tunisia,TUN,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,207,,,0
+H3,2011,2011,2011,2,0,1,Import,788,Tunisia,TUN,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3188915,,,0
+H3,2011,2011,2011,2,0,2,Export,788,Tunisia,TUN,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23402368,,,0
+H3,2011,2011,2011,2,0,1,Import,788,Tunisia,TUN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,389,,,0
+H3,2011,2011,2011,2,0,1,Import,792,Turkey,TUR,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,710,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12173922,,,0
+H3,2011,2011,2011,2,0,1,Import,792,Turkey,TUR,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1507944,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16399919,,,0
+H3,2011,2011,2011,2,0,1,Import,792,Turkey,TUR,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,231222,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,51208678,,,0
+H3,2011,2011,2011,2,0,2,Export,804,Ukraine,UKR,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,363,,,0
+H3,2011,2011,2011,2,0,1,Import,804,Ukraine,UKR,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6120,,,0
+H3,2011,2011,2011,2,0,2,Export,804,Ukraine,UKR,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,66810,,,0
+H3,2011,2011,2011,2,0,2,Export,804,Ukraine,UKR,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,707986,,,0
+H3,2011,2011,2011,2,0,1,Import,807,North Macedonia,MKD,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,324887,,,0
+H3,2011,2011,2011,2,0,2,Export,807,North Macedonia,MKD,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9573844,,,0
+H3,2011,2011,2011,2,0,2,Export,818,Egypt,EGY,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,249877,,,0
+H3,2011,2011,2011,2,0,2,Export,818,Egypt,EGY,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,801732,,,0
+H3,2011,2011,2011,2,0,1,Import,818,Egypt,EGY,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16344,,,0
+H3,2011,2011,2011,2,0,2,Export,818,Egypt,EGY,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21993918,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1347187,,,0
+H3,2011,2011,2011,2,0,1,Import,826,United Kingdom,GBR,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2299,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1971776,,,0
+H3,2011,2011,2011,2,0,1,Import,826,United Kingdom,GBR,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7598,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18895305,,,0
+H3,2011,2011,2011,2,0,1,Import,826,United Kingdom,GBR,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,49857,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,191068,,,0
+H3,2011,2011,2011,2,0,1,Import,842,USA,USA,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15135,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7791214,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,842,USA,USA,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,473846,,,0
+H3,2011,2011,2011,2,0,1,Import,842,USA,USA,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4037,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,316144,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,842,USA,USA,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29936,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,100079764,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,842,USA,USA,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,392355,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,346894,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,842,USA,USA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13685,,,0
+H3,2011,2011,2011,2,0,1,Import,854,Burkina Faso,BFA,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1330,,,0
+H3,2011,2011,2011,2,0,1,Import,887,Yemen,YEM,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,647,,,0
+H3,2011,2011,2011,2,0,1,Import,894,Zambia,ZMB,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,442,,,0
+H3,2011,2011,2011,2,0,1,Import,12,Algeria,DZA,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,151,,,0
+H3,2011,2011,2011,2,0,1,Import,12,Algeria,DZA,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,446,,,0
+H3,2011,2011,2011,2,0,1,Import,24,Angola,AGO,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5589,,,0
+H3,2011,2011,2011,2,0,1,Import,24,Angola,AGO,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4623,,,0
+H3,2011,2011,2011,2,0,2,Export,32,Argentina,ARG,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12,,,0
+H3,2011,2011,2011,2,0,1,Import,32,Argentina,ARG,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1586,,,0
+H3,2011,2011,2011,2,0,2,Export,32,Argentina,ARG,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1648,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43711,,,0
+H3,2011,2011,2011,2,0,1,Import,40,Austria,AUT,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,92,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2790642,,,0
+H3,2011,2011,2011,2,0,1,Import,40,Austria,AUT,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,151938,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2545,,,0
+H3,2011,2011,2011,2,0,1,Import,48,Bahrain,BHR,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,44,,,0
+H3,2011,2011,2011,2,0,2,Export,48,Bahrain,BHR,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,218173,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,48,Bahrain,BHR,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,218173,,,0
+H3,2011,2011,2011,2,0,1,Import,50,Bangladesh,BGD,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5548,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,126891,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,106554,,,4
+H3,2011,2011,2011,2,0,1,Import,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,55207,,,4
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3744502,,,4
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,20232,,,0
+H3,2011,2011,2011,2,0,1,Import,70,Bosnia Herzegovina,BIH,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1439,,,0
+H3,2011,2011,2011,2,0,1,Import,70,Bosnia Herzegovina,BIH,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5201,,,0
+H3,2011,2011,2011,2,0,2,Export,70,Bosnia Herzegovina,BIH,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2456,,,0
+H3,2011,2011,2011,2,0,1,Import,76,Brazil,BRA,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,273,,,4
+H3,2011,2011,2011,2,0,2,Export,76,Brazil,BRA,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,215663,,,4
+H3,2011,2011,2011,2,0,1,Import,100,Bulgaria,BGR,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,833,,,0
+H3,2011,2011,2011,2,0,2,Export,100,Bulgaria,BGR,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10069,,,0
+H3,2011,2011,2011,2,0,1,Import,100,Bulgaria,BGR,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7229,,,0
+H3,2011,2011,2011,2,0,2,Export,100,Bulgaria,BGR,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,50091,,,0
+H3,2011,2011,2011,2,0,2,Export,100,Bulgaria,BGR,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,58049,,,0
+H3,2011,2011,2011,2,0,2,Export,112,Belarus,BLR,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,97500,,,0
+H3,2011,2011,2011,2,0,2,Export,112,Belarus,BLR,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1340500,,,0
+H3,2011,2011,2011,2,0,1,Import,112,Belarus,BLR,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6000,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6492,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,52132,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32877,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6869,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,557975,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,99302,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1013,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,305744,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,112802,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,150,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,586,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,326,,,0
+H3,2011,2011,2011,2,0,2,Export,144,Sri Lanka,LKA,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,589810,,,0
+H3,2011,2011,2011,2,0,1,Import,144,Sri Lanka,LKA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,98,,,0
+H3,2011,2011,2011,2,0,1,Import,152,Chile,CHL,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,292,,,0
+H3,2011,2011,2011,2,0,1,Import,152,Chile,CHL,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,225,,,0
+H3,2011,2011,2011,2,0,1,Import,156,China,CHN,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17015677,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6241372,,,0
+H3,2011,2011,2011,2,0,1,Import,156,China,CHN,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,331,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,158460805,,,0
+H3,2011,2011,2011,2,0,1,Import,156,China,CHN,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,75336,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1156,,,0
+H3,2011,2011,2011,2,0,1,Import,170,Colombia,COL,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,512,,,0
+H3,2011,2011,2011,2,0,1,Import,188,Costa Rica,CRI,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,471,,,0
+H3,2011,2011,2011,2,0,1,Import,188,Costa Rica,CRI,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,709,,,0
+H3,2011,2011,2011,2,0,1,Import,191,Croatia,HRV,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,424,,,0
+H3,2011,2011,2011,2,0,2,Export,191,Croatia,HRV,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,166,,,0
+H3,2011,2011,2011,2,0,2,Export,191,Croatia,HRV,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9855,,,0
+H3,2011,2011,2011,2,0,1,Import,203,Czechia,CZE,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,234352,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,105710,,,0
+H3,2011,2011,2011,2,0,1,Import,203,Czechia,CZE,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1763,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5077554,,,0
+H3,2011,2011,2011,2,0,1,Import,203,Czechia,CZE,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22045,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4612,,,0
+H3,2011,2011,2011,2,0,1,Import,208,Denmark,DNK,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,185,,,0
+H3,2011,2011,2011,2,0,2,Export,208,Denmark,DNK,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14793,,,0
+H3,2011,2011,2011,2,0,2,Export,208,Denmark,DNK,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,176,,,0
+H3,2011,2011,2011,2,0,1,Import,208,Denmark,DNK,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,567,,,0
+H3,2011,2011,2011,2,0,2,Export,208,Denmark,DNK,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3095,,,0
+H3,2011,2011,2011,2,0,2,Export,208,Denmark,DNK,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24,,,0
+H3,2011,2011,2011,2,0,1,Import,214,Dominican Rep.,DOM,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2026,,,0
+H3,2011,2011,2011,2,0,1,Import,214,Dominican Rep.,DOM,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,456,,,0
+H3,2011,2011,2011,2,0,1,Import,218,Ecuador,ECU,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2955,,,0
+H3,2011,2011,2011,2,0,1,Import,231,Ethiopia,ETH,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1923,,,0
+H3,2011,2011,2011,2,0,1,Import,231,Ethiopia,ETH,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,10208,,,0
+H3,2011,2011,2011,2,0,1,Import,231,Ethiopia,ETH,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,12568,,,0
+H3,2011,2011,2011,2,0,2,Export,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2617,,,0
+H3,2011,2011,2011,2,0,2,Export,246,Finland,FIN,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,45,,,0
+H3,2011,2011,2011,2,0,2,Export,246,Finland,FIN,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1848,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,892,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1143032,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15811,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16557,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,184598,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,63174216,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5242,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3672235,,,0
+H3,2011,2011,2011,2,0,1,Import,258,French Polynesia,PYF,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,178,,,0
+H3,2011,2011,2011,2,0,2,Export,268,Georgia,GEO,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2725,,,0
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,819802,,,4
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1409602,,,4
+H3,2011,2011,2011,2,0,1,Import,276,Germany,DEU,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,30090,,,0
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,15094643,,,4
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,9548,,,4
+H3,2011,2011,2011,2,0,1,Import,288,Ghana,GHA,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,317076,,,0
+H3,2011,2011,2011,2,0,1,Import,300,Greece,GRC,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,60293,,,0
+H3,2011,2011,2011,2,0,2,Export,300,Greece,GRC,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4813017,,,0
+H3,2011,2011,2011,2,0,2,Export,300,Greece,GRC,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,121414,,,0
+H3,2011,2011,2011,2,0,2,Export,348,Hungary,HUN,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2000,,,0
+H3,2011,2011,2011,2,0,2,Export,348,Hungary,HUN,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,626000,,,0
+H3,2011,2011,2011,2,0,2,Export,348,Hungary,HUN,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3257000,,,0
+H3,2011,2011,2011,2,0,2,Export,360,Indonesia,IDN,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,430201,,,0
+H3,2011,2011,2011,2,0,2,Export,360,Indonesia,IDN,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,270911,,,0
+H3,2011,2011,2011,2,0,2,Export,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4203199,,,0
+H3,2011,2011,2011,2,0,1,Import,360,Indonesia,IDN,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30,,,0
+H3,2011,2011,2011,2,0,2,Export,364,Iran,IRN,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18878601,,,0
+H3,2011,2011,2011,2,0,1,Import,372,Ireland,IRL,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,36427,,,0
+H3,2011,2011,2011,2,0,2,Export,372,Ireland,IRL,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,53911,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,158910,,,0
+H3,2011,2011,2011,2,0,1,Import,381,Italy,ITA,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,840488,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5142192,,,0
+H3,2011,2011,2011,2,0,1,Import,381,Italy,ITA,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24492,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19843164,,,0
+H3,2011,2011,2011,2,0,1,Import,384,Côte d'Ivoire,CIV,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,38706,,,0
+H3,2011,2011,2011,2,0,2,Export,392,Japan,JPN,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8588071,,,0
+H3,2011,2011,2011,2,0,2,Export,392,Japan,JPN,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30207332,,,0
+H3,2011,2011,2011,2,0,2,Export,398,Kazakhstan,KAZ,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,704643,,,0
+H3,2011,2011,2011,2,0,2,Export,400,Jordan,JOR,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,263,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,400,Jordan,JOR,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,263,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,65391,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2285238,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14526232,,,0
+H3,2011,2011,2011,2,0,2,Export,414,Kuwait,KWT,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,49326,,,0
+H3,2011,2011,2011,2,0,1,Import,414,Kuwait,KWT,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2384,,,0
+H3,2011,2011,2011,2,0,1,Import,414,Kuwait,KWT,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,176971,,,0
+H3,2011,2011,2011,2,0,2,Export,417,Kyrgyzstan,KGZ,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,162709,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,417,Kyrgyzstan,KGZ,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,109499,,,0
+H3,2011,2011,2011,2,0,1,Import,422,Lebanon,LBN,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,56129,,,0
+H3,2011,2011,2011,2,0,2,Export,422,Lebanon,LBN,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,70025,,,0
+H3,2011,2011,2011,2,0,2,Export,428,Latvia,LVA,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14883,,,0
+H3,2011,2011,2011,2,0,2,Export,440,Lithuania,LTU,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2141,,,0
+H3,2011,2011,2011,2,0,2,Export,440,Lithuania,LTU,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3720,,,0
+H3,2011,2011,2011,2,0,2,Export,440,Lithuania,LTU,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,86,,,0
+H3,2011,2011,2011,2,0,2,Export,442,Luxembourg,LUX,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1468,,,0
+H3,2011,2011,2011,2,0,2,Export,442,Luxembourg,LUX,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12523,,,0
+H3,2011,2011,2011,2,0,2,Export,450,Madagascar,MDG,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,409,,,0
+H3,2011,2011,2011,2,0,1,Import,450,Madagascar,MDG,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,84,,,0
+H3,2011,2011,2011,2,0,2,Export,458,Malaysia,MYS,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,63803,,,0
+H3,2011,2011,2011,2,0,2,Export,458,Malaysia,MYS,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,489869,,,0
+H3,2011,2011,2011,2,0,2,Export,458,Malaysia,MYS,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8589662,,,0
+H3,2011,2011,2011,2,0,1,Import,466,Mali,MLI,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,44853,,,0
+H3,2011,2011,2011,2,0,2,Export,466,Mali,MLI,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4821,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,466,Mali,MLI,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4821,,,0
+H3,2011,2011,2011,2,0,1,Import,466,Mali,MLI,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,94,,,0
+H3,2011,2011,2011,2,0,1,Import,480,Mauritius,MUS,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16428,,,0
+H3,2011,2011,2011,2,0,1,Import,484,Mexico,MEX,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8372,,,0
+H3,2011,2011,2011,2,0,1,Import,484,Mexico,MEX,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,371,,,0
+H3,2011,2011,2011,2,0,2,Export,490,"Other Asia, nes",,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,167138,,,0
+H3,2011,2011,2011,2,0,2,Export,490,"Other Asia, nes",,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2323199,,,0
+H3,2011,2011,2011,2,0,2,Export,498,Rep. of Moldova,MDA,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6696,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,498,Rep. of Moldova,MDA,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6046,,,0
+H3,2011,2011,2011,2,0,1,Import,499,Montenegro,MNE,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17407,,,0
+H3,2011,2011,2011,2,0,2,Export,499,Montenegro,MNE,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43842,,,0
+H3,2011,2011,2011,2,0,1,Import,528,Netherlands,NLD,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1097,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,418397,,,4
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1116321,,,0
+H3,2011,2011,2011,2,0,1,Import,528,Netherlands,NLD,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,19922,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,7093255,,,4
+H3,2011,2011,2011,2,0,1,Import,528,Netherlands,NLD,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,7057,,,0
+H3,2011,2011,2011,2,0,1,Import,558,Nicaragua,NIC,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22,,,0
+H3,2011,2011,2011,2,0,1,Import,562,Niger,NER,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6295,,,0
+H3,2011,2011,2011,2,0,1,Import,562,Niger,NER,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,223,,,0
+H3,2011,2011,2011,2,0,1,Import,566,Nigeria,NGA,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2773407,,,0
+H3,2011,2011,2011,2,0,2,Export,566,Nigeria,NGA,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14567981,,,0
+H3,2011,2011,2011,2,0,1,Import,566,Nigeria,NGA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,345496,,,0
+H3,2011,2011,2011,2,0,2,Export,566,Nigeria,NGA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2134075,,,0
+H3,2011,2011,2011,2,0,2,Export,579,Norway,NOR,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8822,,,0
+H3,2011,2011,2011,2,0,2,Export,579,Norway,NOR,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,60260,,,0
+H3,2011,2011,2011,2,0,1,Import,586,Pakistan,PAK,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2688,,,0
+H3,2011,2011,2011,2,0,2,Export,586,Pakistan,PAK,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4649061,,,0
+H3,2011,2011,2011,2,0,1,Import,598,Papua New Guinea,PNG,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,106,,,0
+H3,2011,2011,2011,2,0,1,Import,604,Peru,PER,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2,,,0
+H3,2011,2011,2011,2,0,1,Import,616,Poland,POL,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1,,,0
+H3,2011,2011,2011,2,0,2,Export,616,Poland,POL,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14793,,,0
+H3,2011,2011,2011,2,0,1,Import,616,Poland,POL,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,55,,,0
+H3,2011,2011,2011,2,0,2,Export,616,Poland,POL,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6821002,,,0
+H3,2011,2011,2011,2,0,2,Export,620,Portugal,PRT,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,83890,,,0
+H3,2011,2011,2011,2,0,1,Import,620,Portugal,PRT,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2781,,,0
+H3,2011,2011,2011,2,0,2,Export,620,Portugal,PRT,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,860961,,,0
+H3,2011,2011,2011,2,0,2,Export,634,Qatar,QAT,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23646,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,634,Qatar,QAT,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23646,,,0
+H3,2011,2011,2011,2,0,2,Export,642,Romania,ROU,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3000,,,0
+H3,2011,2011,2011,2,0,1,Import,642,Romania,ROU,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,40889,,,0
+H3,2011,2011,2011,2,0,2,Export,642,Romania,ROU,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,702157,,,0
+H3,2011,2011,2011,2,0,2,Export,642,Romania,ROU,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1789078,,,0
+H3,2011,2011,2011,2,0,2,Export,643,Russian Federation,RUS,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1633997,,,0
+H3,2011,2011,2011,2,0,2,Export,643,Russian Federation,RUS,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5281,,,0
+H3,2011,2011,2011,2,0,2,Export,643,Russian Federation,RUS,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1824574,,,0
+H3,2011,2011,2011,2,0,1,Import,646,Rwanda,RWA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,133,,,0
+H3,2011,2011,2011,2,0,1,Import,659,Saint Kitts and Nevis,KNA,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22,,,0
+H3,2011,2011,2011,2,0,1,Import,659,Saint Kitts and Nevis,KNA,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2513,,,0
+H3,2011,2011,2011,2,0,1,Import,682,Saudi Arabia,SAU,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5185340,,,0
+H3,2011,2011,2011,2,0,2,Export,682,Saudi Arabia,SAU,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,77333,,,0
+H3,2011,2011,2011,2,0,1,Import,686,Senegal,SEN,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,56167,,,0
+H3,2011,2011,2011,2,0,1,Import,688,Serbia,SRB,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12484,,,0
+H3,2011,2011,2011,2,0,2,Export,688,Serbia,SRB,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,972508,,,0
+H3,2011,2011,2011,2,0,2,Export,688,Serbia,SRB,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,508446,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13280,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12375995,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,430568,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7059126,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5023,,,0
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1860682,,,4
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,559958,,,4
+H3,2011,2011,2011,2,0,2,Export,703,Slovakia,SVK,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4903,,,0
+H3,2011,2011,2011,2,0,2,Export,703,Slovakia,SVK,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2660,,,4
+H3,2011,2011,2011,2,0,2,Export,703,Slovakia,SVK,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1838930,,,0
+H3,2011,2011,2011,2,0,1,Import,703,Slovakia,SVK,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,250,,,0
+H3,2011,2011,2011,2,0,1,Import,704,Viet Nam,VNM,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9416,,,0
+H3,2011,2011,2011,2,0,2,Export,704,Viet Nam,VNM,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,928297,,,0
+H3,2011,2011,2011,2,0,2,Export,705,Slovenia,SVN,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,739,,,0
+H3,2011,2011,2011,2,0,1,Import,705,Slovenia,SVN,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12,,,0
+H3,2011,2011,2011,2,0,2,Export,705,Slovenia,SVN,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1327233,,,0
+H3,2011,2011,2011,2,0,2,Export,705,Slovenia,SVN,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,257007,,,0
+H3,2011,2011,2011,2,0,1,Import,705,Slovenia,SVN,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1211,,,0
+H3,2011,2011,2011,2,0,2,Export,705,Slovenia,SVN,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2526,,,0
+H3,2011,2011,2011,2,0,1,Import,710,South Africa,ZAF,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,158,,,0
+H3,2011,2011,2011,2,0,2,Export,710,South Africa,ZAF,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1592665,,,4
+H3,2011,2011,2011,2,0,1,Import,710,South Africa,ZAF,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,66864,,,0
+H3,2011,2011,2011,2,0,2,Export,710,South Africa,ZAF,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,506069,,,0
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,75,,,0
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,373434,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1435,,,0
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3339,,,0
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,260779,,,0
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14949876,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,724,Spain,ESP,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,321895,,,0
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3230,,,0
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,11967407,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,277835,,,0
+H3,2011,2011,2011,2,0,1,Import,736,Fmr Sudan,SDN,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,571,,,0
+H3,2011,2011,2011,2,0,1,Import,736,Fmr Sudan,SDN,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,410114,,,0
+H3,2011,2011,2011,2,0,1,Import,748,Eswatini,SWZ,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,62,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3700,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,87725,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,316055,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3204,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15459,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,206014,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,219,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1600993,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,650835,,,0
+H3,2011,2011,2011,2,0,1,Import,764,Thailand,THA,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,294,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7456735,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13,,,0
+H3,2011,2011,2011,2,0,2,Export,784,United Arab Emirates,ARE,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9017279,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,784,United Arab Emirates,ARE,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8956021,,,0
+H3,2011,2011,2011,2,0,2,Export,784,United Arab Emirates,ARE,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,40551,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,784,United Arab Emirates,ARE,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,40551,,,0
+H3,2011,2011,2011,2,0,1,Import,784,United Arab Emirates,ARE,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1074509,,,0
+H3,2011,2011,2011,2,0,2,Export,784,United Arab Emirates,ARE,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3388748,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,784,United Arab Emirates,ARE,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3247258,,,0
+H3,2011,2011,2011,2,0,2,Export,784,United Arab Emirates,ARE,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4166,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,784,United Arab Emirates,ARE,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,76,,,0
+H3,2011,2011,2011,2,0,1,Import,788,Tunisia,TUN,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,354,,,0
+H3,2011,2011,2011,2,0,1,Import,788,Tunisia,TUN,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15896,,,0
+H3,2011,2011,2011,2,0,1,Import,788,Tunisia,TUN,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,132948,,,0
+H3,2011,2011,2011,2,0,2,Export,788,Tunisia,TUN,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15312100,,,0
+H3,2011,2011,2011,2,0,1,Import,792,Turkey,TUR,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,357,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2573141,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1904329,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,26036149,,,0
+H3,2011,2011,2011,2,0,2,Export,804,Ukraine,UKR,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3123,,,0
+H3,2011,2011,2011,2,0,1,Import,804,Ukraine,UKR,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15,,,0
+H3,2011,2011,2011,2,0,2,Export,804,Ukraine,UKR,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,109848,,,0
+H3,2011,2011,2011,2,0,2,Export,807,North Macedonia,MKD,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,482,,,0
+H3,2011,2011,2011,2,0,1,Import,807,North Macedonia,MKD,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8933,,,0
+H3,2011,2011,2011,2,0,2,Export,807,North Macedonia,MKD,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,34424,,,0
+H3,2011,2011,2011,2,0,1,Import,807,North Macedonia,MKD,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,79,,,0
+H3,2011,2011,2011,2,0,2,Export,818,Egypt,EGY,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,119557,,,0
+H3,2011,2011,2011,2,0,1,Import,818,Egypt,EGY,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,95712,,,0
+H3,2011,2011,2011,2,0,2,Export,818,Egypt,EGY,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,241255,,,0
+H3,2011,2011,2011,2,0,1,Import,826,United Kingdom,GBR,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3555,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,275677,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11909,,,0
+H3,2011,2011,2011,2,0,1,Import,826,United Kingdom,GBR,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,75546,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2184852,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4268,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3091760,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,842,USA,USA,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,147238,,,0
+H3,2011,2011,2011,2,0,1,Import,842,USA,USA,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2399,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,151524,,,0
+H3,2011,2011,2011,2,0,1,Import,842,USA,USA,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3107,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4342800,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,842,USA,USA,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17115,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,374294,,,0
+H3,2011,2011,2011,2,0,1,Import,858,Uruguay,URY,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,41,,,0
+H3,2011,2011,2011,2,0,1,Import,894,Zambia,ZMB,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1854,,,0
+H2,2011,2011,2011,2,0,1,Import,504,Morocco,MAR,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1051659728,,,0
+H2,2011,2011,2011,2,0,2,Export,504,Morocco,MAR,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,9625251,,,0
+H2,2011,2011,2011,2,0,1,Import,508,Mozambique,MOZ,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1000,,,0
+H2,2011,2011,2011,2,0,1,Import,72,Botswana,BWA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6426,,,0
+H2,2011,2011,2011,2,0,1,Import,120,Cameroon,CMR,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,204,,,0
+H2,2011,2011,2011,2,0,1,Import,120,Cameroon,CMR,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,333927,,,0
+H2,2011,2011,2011,2,0,1,Import,204,Benin,BEN,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1619,,,0
+H2,2011,2011,2011,2,0,1,Import,204,Benin,BEN,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,606,,,0
+H2,2011,2011,2011,2,0,1,Import,504,Morocco,MAR,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,323980,,,0
+H2,2011,2011,2011,2,0,2,Export,504,Morocco,MAR,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,658008,,,0
+H2,2011,2011,2011,2,0,1,Import,504,Morocco,MAR,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,64,,,0
+H2,2011,2011,2011,2,0,1,Import,508,Mozambique,MOZ,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2000,,,0
+H2,2011,2011,2011,2,0,1,Import,508,Mozambique,MOZ,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7000,,,0
+H2,2011,2011,2011,2,0,1,Import,508,Mozambique,MOZ,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32000,,,0
+H2,2011,2011,2011,2,0,2,Export,512,Oman,OMN,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,111296,,,0
+H2,2011,2011,2011,2,0,2,Export,512,Oman,OMN,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16027018,,,0
+H2,2011,2011,2011,2,0,3,Re-Export,512,Oman,OMN,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16,,,0
+H2,2011,2011,2011,2,0,1,Import,608,Philippines,PHL,12,Algeria,DZA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,52160,,,0
+H2,2011,2011,2011,2,0,1,Import,690,Seychelles,SYC,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,79,,,0
+H2,2011,2011,2011,2,0,1,Import,690,Seychelles,SYC,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1208,,,0
+H2,2011,2011,2011,2,0,1,Import,690,Seychelles,SYC,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,608,,,0
+H2,2011,2011,2011,2,0,1,Import,862,Venezuela,VEN,4,Afghanistan,AFG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,71,,,0
+H2,2011,2011,2011,2,0,1,Import,862,Venezuela,VEN,8,Albania,ALB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,925,,,0
+H2,2011,2011,2011,2,0,1,Import,120,Cameroon,CMR,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,278695,,,0
+H2,2011,2011,2011,2,0,2,Export,504,Morocco,MAR,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,121919,,,0
+H2,2011,2011,2011,2,0,1,Import,508,Mozambique,MOZ,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1000,,,0
+H2,2011,2011,2011,2,0,1,Import,508,Mozambique,MOZ,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1000,,,0
+H2,2011,2011,2011,2,0,1,Import,512,Oman,OMN,12,Algeria,DZA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,339705,,,0
+H2,2011,2011,2011,2,0,2,Export,608,Philippines,PHL,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2280,,,0
+H2,2011,2011,2011,2,0,1,Import,862,Venezuela,VEN,4,Afghanistan,AFG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,75,,,0
+H2,2011,2011,2011,2,0,1,Import,862,Venezuela,VEN,8,Albania,ALB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,109497,,,0
+H0,2011,2011,2011,2,0,1,Import,184,Cook Isds,COK,20,Andorra,AND,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,139306,,,0

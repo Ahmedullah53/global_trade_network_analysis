@@ -1,0 +1,953 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,2,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,12348,,,0
+H1,2000,2000,2000,2,0,1,Import,12,Algeria,DZA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,63009168,,,0
+H1,2000,2000,2000,2,0,2,Export,12,Algeria,DZA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2826140023,,,0
+H1,2000,2000,2000,2,0,1,Import,20,Andorra,AND,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,19226045,,,0
+H1,2000,2000,2000,2,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2451,,,0
+H1,2000,2000,2000,2,0,1,Import,28,Antigua and Barbuda,ATG,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,6731,,,0
+H1,2000,2000,2000,2,0,2,Export,28,Antigua and Barbuda,ATG,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,320023,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,28,Antigua and Barbuda,ATG,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,320023,,,0
+H1,2000,2000,2000,2,0,1,Import,31,Azerbaijan,AZE,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,31632,,,0
+H1,2000,2000,2000,2,0,2,Export,31,Azerbaijan,AZE,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,204907789,,,0
+H1,2000,2000,2000,2,0,1,Import,32,Argentina,ARG,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3220444,,,0
+H1,2000,2000,2000,2,0,2,Export,32,Argentina,ARG,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,14046919,,,0
+H1,2000,2000,2000,2,0,1,Import,36,Australia,AUS,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2441329,,,0
+H1,2000,2000,2000,2,0,2,Export,36,Australia,AUS,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,138704241,,,0
+H1,2000,2000,2000,2,0,2,Export,36,Australia,AUS,258,French Polynesia,PYF,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,98159860,,,0
+H1,2000,2000,2000,2,0,2,Export,36,Australia,AUS,260,Fr. South Antarctic Terr.,ATF,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,399637,,,0
+H1,2000,2000,2000,2,0,1,Import,40,Austria,AUT,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,16158528,,,0
+H1,2000,2000,2000,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1180588,,,0
+H1,2000,2000,2000,2,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,952043,,,0
+H1,2000,2000,2000,2,0,1,Import,52,Barbados,BRB,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,6556,,,0
+H1,2000,2000,2000,2,0,2,Export,52,Barbados,BRB,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,52,Barbados,BRB,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5,,,0
+H1,2000,2000,2000,2,0,1,Import,56,Belgium,BEL,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,574698214,,,0
+H1,2000,2000,2000,2,0,2,Export,56,Belgium,BEL,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1116188550,,,0
+H1,2000,2000,2000,2,0,2,Export,56,Belgium,BEL,258,French Polynesia,PYF,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,11520,,,0
+H1,2000,2000,2000,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,13022,,,0
+H1,2000,2000,2000,2,0,2,Export,68,Bolivia (Plurinational State of),BOL,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,7350,,,0
+H1,2000,2000,2000,2,0,1,Import,72,Botswana,BWA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,173,,,0
+H1,2000,2000,2000,2,0,1,Import,76,Brazil,BRA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,52257670,,,4
+H1,2000,2000,2000,2,0,2,Export,76,Brazil,BRA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,11920003,,,0
+H1,2000,2000,2000,2,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,15765,,,0
+H1,2000,2000,2000,2,0,1,Import,100,Bulgaria,BGR,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,852520,,,0
+H1,2000,2000,2000,2,0,2,Export,100,Bulgaria,BGR,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2145111,,,0
+H1,2000,2000,2000,2,0,1,Import,112,Belarus,BLR,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,373700,,,0
+H1,2000,2000,2000,2,0,1,Import,116,Cambodia,KHM,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,139680,,,0
+H1,2000,2000,2000,2,0,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,9835140,,,0
+H1,2000,2000,2000,2,0,2,Export,120,Cameroon,CMR,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,36145786,,,0
+H1,2000,2000,2000,2,0,1,Import,124,Canada,CAN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,16676392,,,0
+H1,2000,2000,2000,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,14302478,,,0
+H1,2000,2000,2000,2,0,1,Import,132,Cabo Verde,CPV,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,377286,,,0
+H1,2000,2000,2000,2,0,1,Import,144,Sri Lanka,LKA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,93969,,,0
+H1,2000,2000,2000,2,0,2,Export,144,Sri Lanka,LKA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,75921,,,0
+H1,2000,2000,2000,2,0,1,Import,152,Chile,CHL,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1084128,,,0
+H1,2000,2000,2000,2,0,2,Export,152,Chile,CHL,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1928,,,0
+H1,2000,2000,2000,2,0,1,Import,156,China,CHN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,12969847,,,0
+H1,2000,2000,2000,2,0,2,Export,156,China,CHN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,73594576,,,0
+H1,2000,2000,2000,2,0,1,Import,170,Colombia,COL,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1178664,,,0
+H1,2000,2000,2000,2,0,2,Export,170,Colombia,COL,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,65134197,,,0
+H1,2000,2000,2000,2,0,1,Import,175,Mayotte,MYT,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,732650,,,0
+H1,2000,2000,2000,2,0,2,Export,175,Mayotte,MYT,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2237,,,0
+H1,2000,2000,2000,2,0,1,Import,188,Costa Rica,CRI,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,39206479,,,0
+H1,2000,2000,2000,2,0,2,Export,188,Costa Rica,CRI,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,18975,,,0
+H1,2000,2000,2000,2,0,1,Import,191,Croatia,HRV,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,979295,,,0
+H1,2000,2000,2000,2,0,2,Export,191,Croatia,HRV,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,7967046,,,0
+H1,2000,2000,2000,2,0,1,Import,192,Cuba,CUB,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,26969499,,,0
+H1,2000,2000,2000,2,0,2,Export,192,Cuba,CUB,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2950890,,,0
+H1,2000,2000,2000,2,0,1,Import,196,Cyprus,CYP,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1836723,,,0
+H1,2000,2000,2000,2,0,2,Export,196,Cyprus,CYP,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,32,,,0
+H1,2000,2000,2000,2,0,1,Import,203,Czechia,CZE,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,10850099,,,0
+H1,2000,2000,2000,2,0,2,Export,203,Czechia,CZE,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3139694,,,0
+H1,2000,2000,2000,2,0,1,Import,203,Czechia,CZE,838,Free Zones,,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,428135,,,0
+H1,2000,2000,2000,2,0,2,Export,203,Czechia,CZE,838,Free Zones,,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,11284,,,0
+H1,2000,2000,2000,2,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,6147047,,,0
+H1,2000,2000,2000,2,0,1,Import,208,Denmark,DNK,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,29171798,,,0
+H1,2000,2000,2000,2,0,2,Export,208,Denmark,DNK,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,119064605,,,0
+H1,2000,2000,2000,2,0,1,Import,212,Dominica,DMA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1951,,,0
+H1,2000,2000,2000,2,0,1,Import,218,Ecuador,ECU,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2504,,,0
+H1,2000,2000,2000,2,0,1,Import,222,El Salvador,SLV,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,920521,,,0
+H1,2000,2000,2000,2,0,1,Import,231,Ethiopia,ETH,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,1411034,,,4
+H1,2000,2000,2000,2,0,1,Import,233,Estonia,EST,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,98726,,,0
+H1,2000,2000,2000,2,0,2,Export,233,Estonia,EST,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1411741,,,0
+H1,2000,2000,2000,2,0,2,Export,233,Estonia,EST,260,Fr. South Antarctic Terr.,ATF,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,22126,,,0
+H1,2000,2000,2000,2,0,1,Import,234,Faeroe Isds,FRO,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1019475,,,0
+H1,2000,2000,2000,2,0,1,Import,246,Finland,FIN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,9848537,,,0
+H1,2000,2000,2000,2,0,2,Export,246,Finland,FIN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,170048418,,,0
+H1,2000,2000,2000,2,0,1,Import,251,France,FRA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,8639152,,,0
+H1,2000,2000,2000,2,0,4,Re-Import,251,France,FRA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,8639152,,,0
+H1,2000,2000,2000,2,0,2,Export,251,France,FRA,258,French Polynesia,PYF,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1268168,,,0
+H1,2000,2000,2000,2,0,1,Import,258,French Polynesia,PYF,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1768966,,,0
+H1,2000,2000,2000,2,0,2,Export,258,French Polynesia,PYF,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,77,,,0
+H1,2000,2000,2000,2,0,1,Import,266,Gabon,GAB,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2759289,,,0
+H1,2000,2000,2000,2,0,2,Export,266,Gabon,GAB,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,7165352,,,0
+H1,2000,2000,2000,2,0,1,Import,268,Georgia,GEO,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,14461,,,0
+H1,2000,2000,2000,2,0,2,Export,268,Georgia,GEO,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,33593,,,0
+H1,2000,2000,2000,2,0,1,Import,276,Germany,DEU,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,697152000,,,0
+H1,2000,2000,2000,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,635935000,,,0
+H1,2000,2000,2000,2,0,1,Import,300,Greece,GRC,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,22293341,,,0
+H1,2000,2000,2000,2,0,2,Export,300,Greece,GRC,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,7863237,,,0
+H1,2000,2000,2000,2,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,15,,,0
+H1,2000,2000,2000,2,0,1,Import,320,Guatemala,GTM,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,120366,,,0
+H1,2000,2000,2000,2,0,1,Import,320,Guatemala,GTM,838,Free Zones,,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,6649248,,,0
+H1,2000,2000,2000,2,0,2,Export,320,Guatemala,GTM,838,Free Zones,,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2652,,,0
+H1,2000,2000,2000,2,0,1,Import,324,Guinea,GIN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,19609613,,,0
+H1,2000,2000,2000,2,0,2,Export,324,Guinea,GIN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,57,,,0
+H1,2000,2000,2000,2,0,1,Import,328,Guyana,GUY,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,13,,,0
+H1,2000,2000,2000,2,0,1,Import,340,Honduras,HND,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4462867,,,0
+H1,2000,2000,2000,2,0,2,Export,340,Honduras,HND,838,Free Zones,,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,42408,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,340,Honduras,HND,838,Free Zones,,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,333,,,0
+H1,2000,2000,2000,2,0,1,Import,344,"China, Hong Kong SAR",HKG,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,9489318,,,0
+H1,2000,2000,2000,2,0,1,Import,348,Hungary,HUN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,50680000,,,0
+H1,2000,2000,2000,2,0,2,Export,348,Hungary,HUN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3486000,,,0
+H1,2000,2000,2000,2,0,1,Import,352,Iceland,ISL,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,10259720,,,0
+H1,2000,2000,2000,2,0,1,Import,360,Indonesia,IDN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3135446,,,0
+H1,2000,2000,2000,2,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,40691,,,0
+H1,2000,2000,2000,2,0,1,Import,364,Iran,IRN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,8948592,,,0
+H1,2000,2000,2000,2,0,2,Export,364,Iran,IRN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1022955187,,,0
+H1,2000,2000,2000,2,0,2,Export,364,Iran,IRN,838,Free Zones,,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,39118,,,0
+H1,2000,2000,2000,2,0,1,Import,372,Ireland,IRL,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,37015958,,,0
+H1,2000,2000,2000,2,0,2,Export,372,Ireland,IRL,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,9960175,,,0
+H1,2000,2000,2000,2,0,1,Import,376,Israel,ISR,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,10227000,,,0
+H1,2000,2000,2000,2,0,1,Import,381,Italy,ITA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,330179007,,,0
+H1,2000,2000,2000,2,0,2,Export,381,Italy,ITA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,417225206,,,0
+H1,2000,2000,2000,2,0,2,Export,381,Italy,ITA,258,French Polynesia,PYF,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1722,,,0
+H1,2000,2000,2000,2,0,1,Import,384,Côte d'Ivoire,CIV,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,14076329,,,0
+H1,2000,2000,2000,2,0,2,Export,384,Côte d'Ivoire,CIV,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,9307357,,,0
+H1,2000,2000,2000,2,0,1,Import,388,Jamaica,JAM,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,76389,,,0
+H1,2000,2000,2000,2,0,1,Import,392,Japan,JPN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,6885545,,,0
+H1,2000,2000,2000,2,0,2,Export,392,Japan,JPN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4043504,,,0
+H1,2000,2000,2000,2,0,1,Import,398,Kazakhstan,KAZ,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,166200,,,0
+H1,2000,2000,2000,2,0,1,Import,400,Jordan,JOR,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1099080,,,0
+H1,2000,2000,2000,2,0,1,Import,400,Jordan,JOR,838,Free Zones,,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,31701,,,0
+H1,2000,2000,2000,2,0,2,Export,400,Jordan,JOR,838,Free Zones,,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,306392,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,400,Jordan,JOR,838,Free Zones,,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,242922,,,0
+H1,2000,2000,2000,2,0,1,Import,404,Kenya,KEN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4574894,,,0
+H1,2000,2000,2000,2,0,1,Import,410,Rep. of Korea,KOR,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2464019,,,0
+H1,2000,2000,2000,2,0,2,Export,410,Rep. of Korea,KOR,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1300,,,0
+H1,2000,2000,2000,2,0,2,Export,410,Rep. of Korea,KOR,258,French Polynesia,PYF,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,184000,,,0
+H1,2000,2000,2000,2,0,1,Import,417,Kyrgyzstan,KGZ,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,14051,,,0
+H1,2000,2000,2000,2,0,1,Import,422,Lebanon,LBN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,78044754,,,0
+H1,2000,2000,2000,2,0,2,Export,422,Lebanon,LBN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1732,,,0
+H1,2000,2000,2000,2,0,1,Import,428,Latvia,LVA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,503136,,,0
+H1,2000,2000,2000,2,0,2,Export,428,Latvia,LVA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,304702,,,0
+H1,2000,2000,2000,2,0,1,Import,440,Lithuania,LTU,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,711960,,,0
+H1,2000,2000,2000,2,0,2,Export,440,Lithuania,LTU,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,12080255,,,0
+H1,2000,2000,2000,2,0,1,Import,442,Luxembourg,LUX,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,39015684,,,0
+H1,2000,2000,2000,2,0,2,Export,442,Luxembourg,LUX,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,155149,,,0
+H1,2000,2000,2000,2,0,1,Import,446,"China, Macao SAR",MAC,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,29125,,,0
+H1,2000,2000,2000,2,0,1,Import,450,Madagascar,MDG,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1312040,,,0
+H1,2000,2000,2000,2,0,2,Export,450,Madagascar,MDG,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,13183337,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,450,Madagascar,MDG,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,13183337,,,0
+H1,2000,2000,2000,2,0,1,Import,454,Malawi,MWI,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,139986,,,0
+H1,2000,2000,2000,2,0,1,Import,458,Malaysia,MYS,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1555096,,,0
+H1,2000,2000,2000,2,0,2,Export,458,Malaysia,MYS,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,14675968,,,0
+H1,2000,2000,2000,2,0,1,Import,462,Maldives,MDV,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,95,,,0
+H1,2000,2000,2000,2,0,1,Import,466,Mali,MLI,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,15728,,,0
+H1,2000,2000,2000,2,0,2,Export,466,Mali,MLI,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1123993,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,466,Mali,MLI,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1123978,,,0
+H1,2000,2000,2000,2,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,247805,,,0
+H1,2000,2000,2000,2,0,1,Import,478,Mauritania,MRT,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5993493,,,0
+H1,2000,2000,2000,2,0,1,Import,480,Mauritius,MUS,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,814802,,,0
+H1,2000,2000,2000,2,0,2,Export,480,Mauritius,MUS,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,21797,,,0
+H1,2000,2000,2000,2,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,33175273,,,0
+H1,2000,2000,2000,2,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,407242,,,0
+H1,2000,2000,2000,2,0,1,Import,490,"Other Asia, nes",,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,18328329,,,0
+H1,2000,2000,2000,2,0,2,Export,490,"Other Asia, nes",,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1475762,,,0
+H1,2000,2000,2000,2,0,1,Import,496,Mongolia,MNG,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,100,,,0
+H1,2000,2000,2000,2,0,1,Import,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,65728,,,0
+H1,2000,2000,2000,2,0,1,Import,512,Oman,OMN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,186934,,,0
+H1,2000,2000,2000,2,0,2,Export,512,Oman,OMN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,39,,,0
+H1,2000,2000,2000,2,0,1,Import,516,Namibia,NAM,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,26504,,,0
+H1,2000,2000,2000,2,0,1,Import,524,Nepal,NPL,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,57076,,,0
+H1,2000,2000,2000,2,0,1,Import,528,Netherlands,NLD,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,432863352,,,0
+H1,2000,2000,2000,2,0,2,Export,528,Netherlands,NLD,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1538033722,,,0
+H1,2000,2000,2000,2,0,2,Export,528,Netherlands,NLD,258,French Polynesia,PYF,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,22092,,,0
+H1,2000,2000,2000,2,0,1,Import,548,Vanuatu,VUT,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,25627,,,0
+H1,2000,2000,2000,2,0,1,Import,554,New Zealand,NZL,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,555471,,,0
+H1,2000,2000,2000,2,0,1,Import,554,New Zealand,NZL,258,French Polynesia,PYF,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2978,,,0
+H1,2000,2000,2000,2,0,2,Export,554,New Zealand,NZL,258,French Polynesia,PYF,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3203833,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,554,New Zealand,NZL,258,French Polynesia,PYF,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,103,,,0
+H1,2000,2000,2000,2,0,1,Import,558,Nicaragua,NIC,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,12737,,,0
+H1,2000,2000,2000,2,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,555992,,,0
+H1,2000,2000,2000,2,0,2,Export,562,Niger,NER,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,79693,,,0
+H1,2000,2000,2000,2,0,1,Import,566,Nigeria,NGA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,7991281,,,0
+H1,2000,2000,2000,2,0,2,Export,566,Nigeria,NGA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1654039341,,,0
+H1,2000,2000,2000,2,0,1,Import,579,Norway,NOR,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,18856318,,,0
+H1,2000,2000,2000,2,0,2,Export,579,Norway,NOR,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4703658741,,,0
+H1,2000,2000,2000,2,0,1,Import,591,Panama,PAN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,833,,,0
+H1,2000,2000,2000,2,0,1,Import,600,Paraguay,PRY,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,56695,,,0
+H1,2000,2000,2000,2,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,50498,,,0
+H1,2000,2000,2000,2,0,1,Import,608,Philippines,PHL,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1645610,,,0
+H1,2000,2000,2000,2,0,2,Export,608,Philippines,PHL,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,93855,,,0
+H1,2000,2000,2000,2,0,1,Import,616,Poland,POL,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,15849000,,,0
+H1,2000,2000,2000,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,45692000,,,0
+H1,2000,2000,2000,2,0,1,Import,620,Portugal,PRT,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,83820024,,,0
+H1,2000,2000,2000,2,0,2,Export,620,Portugal,PRT,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,27615327,,,0
+H1,2000,2000,2000,2,0,1,Import,634,Qatar,QAT,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,465474,,,0
+H1,2000,2000,2000,2,0,2,Export,634,Qatar,QAT,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3408053,,,0
+H1,2000,2000,2000,2,0,1,Import,642,Romania,ROU,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,1804000,,,0
+H1,2000,2000,2000,2,0,2,Export,642,Romania,ROU,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,1384000,,,0
+H1,2000,2000,2000,2,0,1,Import,642,Romania,ROU,838,Free Zones,,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,43000,,,0
+H1,2000,2000,2000,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5721777,,,0
+H1,2000,2000,2000,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,332901743,,,0
+H1,2000,2000,2000,2,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,14459,,,0
+H1,2000,2000,2000,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,249,,,0
+H1,2000,2000,2000,2,0,1,Import,678,Sao Tome and Principe,STP,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,8881,,,0
+H1,2000,2000,2000,2,0,1,Import,682,Saudi Arabia,SAU,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1133068,,,0
+H1,2000,2000,2000,2,0,1,Import,686,Senegal,SEN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,12010242,,,0
+H1,2000,2000,2000,2,0,2,Export,686,Senegal,SEN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4203,,,0
+H1,2000,2000,2000,2,0,1,Import,699,India,IND,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5242146,,,0
+H1,2000,2000,2000,2,0,2,Export,699,India,IND,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2893903,,,0
+H1,2000,2000,2000,2,0,1,Import,702,Singapore,SGP,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,17034210,,,0
+H1,2000,2000,2000,2,0,2,Export,702,Singapore,SGP,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1269306,,,0
+H1,2000,2000,2000,2,0,2,Export,702,Singapore,SGP,258,French Polynesia,PYF,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,8354649,,,0
+H1,2000,2000,2000,2,0,1,Import,703,Slovakia,SVK,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1400114,,,0
+H1,2000,2000,2000,2,0,2,Export,703,Slovakia,SVK,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1,,,0
+H1,2000,2000,2000,2,0,1,Import,703,Slovakia,SVK,838,Free Zones,,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,637320,,,0
+H1,2000,2000,2000,2,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,518000,,,0
+H1,2000,2000,2000,2,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1201000,,,0
+H1,2000,2000,2000,2,0,1,Import,705,Slovenia,SVN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,36191755,,,0
+H1,2000,2000,2000,2,0,2,Export,705,Slovenia,SVN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,36207,,,0
+H1,2000,2000,2000,2,0,1,Import,710,South Africa,ZAF,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,9058211,,,0
+H1,2000,2000,2000,2,0,2,Export,710,South Africa,ZAF,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,112762615,,,0
+H1,2000,2000,2000,2,0,1,Import,716,Zimbabwe,ZWE,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,11755,,,0
+H1,2000,2000,2000,2,0,1,Import,724,Spain,ESP,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,420429858,,,4
+H1,2000,2000,2000,2,0,2,Export,724,Spain,ESP,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,245215641,,,4
+H1,2000,2000,2000,2,0,1,Import,736,Fmr Sudan,SDN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1185677,,,0
+H1,2000,2000,2000,2,0,1,Import,752,Sweden,SWE,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,38368093,,,0
+H1,2000,2000,2000,2,0,2,Export,752,Sweden,SWE,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,230129155,,,0
+H1,2000,2000,2000,2,0,1,Import,757,Switzerland,CHE,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,598085074,,,0
+H1,2000,2000,2000,2,0,2,Export,757,Switzerland,CHE,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,23757895,,,0
+H1,2000,2000,2000,2,0,1,Import,764,Thailand,THA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4580727,,,0
+H1,2000,2000,2000,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,303194,,,0
+H1,2000,2000,2000,2,0,1,Import,768,Togo,TGO,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,10889567,,,0
+H1,2000,2000,2000,2,0,2,Export,768,Togo,TGO,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,11523,,,0
+H1,2000,2000,2000,2,0,2,Export,768,Togo,TGO,838,Free Zones,,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,461374,,,0
+H1,2000,2000,2000,2,0,1,Import,780,Trinidad and Tobago,TTO,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,268981,,,0
+H1,2000,2000,2000,2,0,2,Export,780,Trinidad and Tobago,TTO,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,104597608,,,0
+H1,2000,2000,2000,2,0,1,Import,784,United Arab Emirates,ARE,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2284098,,,0
+H1,2000,2000,2000,2,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,56615674,,,0
+H1,2000,2000,2000,2,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,134744437,,,0
+H1,2000,2000,2000,2,0,1,Import,792,Turkey,TUR,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,123283120,,,0
+H1,2000,2000,2000,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,8759419,,,0
+H1,2000,2000,2000,2,0,1,Import,792,Turkey,TUR,838,Free Zones,,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1148908968,,,0
+H1,2000,2000,2000,2,0,2,Export,792,Turkey,TUR,838,Free Zones,,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2712370,,,0
+H1,2000,2000,2000,2,0,1,Import,795,Turkmenistan,TKM,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,50958,,,0
+H1,2000,2000,2000,2,0,2,Export,795,Turkmenistan,TKM,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,11445,,,0
+H1,2000,2000,2000,2,0,1,Import,800,Uganda,UGA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,79120,,,0
+H1,2000,2000,2000,2,0,1,Import,807,North Macedonia,MKD,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,248829,,,0
+H1,2000,2000,2000,2,0,2,Export,807,North Macedonia,MKD,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,756,,,0
+H1,2000,2000,2000,2,0,1,Import,826,United Kingdom,GBR,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,856823966,,,0
+H1,2000,2000,2000,2,0,2,Export,826,United Kingdom,GBR,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3544945081,,,0
+H1,2000,2000,2000,2,0,2,Export,826,United Kingdom,GBR,258,French Polynesia,PYF,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,10020,,,0
+H1,2000,2000,2000,2,0,1,Import,834,United Rep. of Tanzania,TZA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,331763,,,0
+H1,2000,2000,2000,2,0,1,Import,842,USA,USA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,609118119,,,0
+H1,2000,2000,2000,2,0,2,Export,842,USA,USA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,204537170,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,842,USA,USA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2418459,,,0
+H1,2000,2000,2000,2,0,2,Export,842,USA,USA,258,French Polynesia,PYF,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,742919,,,0
+H1,2000,2000,2000,2,0,1,Import,854,Burkina Faso,BFA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1288143,,,0
+H1,2000,2000,2000,2,0,2,Export,854,Burkina Faso,BFA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,176377,,,0
+H1,2000,2000,2000,2,0,1,Import,858,Uruguay,URY,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,358175,,,0
+H1,2000,2000,2000,2,0,1,Import,858,Uruguay,URY,838,Free Zones,,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,16405,,,0
+H1,2000,2000,2000,2,0,2,Export,858,Uruguay,URY,838,Free Zones,,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,91470,,,0
+H1,2000,2000,2000,2,0,1,Import,862,Venezuela,VEN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,607741,,,0
+H1,2000,2000,2000,2,0,2,Export,862,Venezuela,VEN,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,124919504,,,0
+H1,2000,2000,2000,2,0,1,Import,891,Serbia and Montenegro,SCG,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1512000,,,0
+H1,2000,2000,2000,2,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,159489,,,0
+H1,2000,2000,2000,2,0,1,Import,12,Algeria,DZA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,54665206,,,0
+H1,2000,2000,2000,2,0,2,Export,12,Algeria,DZA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,510278,,,0
+H1,2000,2000,2000,2,0,1,Import,20,Andorra,AND,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2024987,,,0
+H1,2000,2000,2000,2,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,639012,,,0
+H1,2000,2000,2000,2,0,1,Import,28,Antigua and Barbuda,ATG,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8891,,,0
+H1,2000,2000,2000,2,0,1,Import,31,Azerbaijan,AZE,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1163571,,,0
+H1,2000,2000,2000,2,0,2,Export,31,Azerbaijan,AZE,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,820,,,0
+H1,2000,2000,2000,2,0,1,Import,32,Argentina,ARG,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32551347,,,0
+H1,2000,2000,2000,2,0,2,Export,32,Argentina,ARG,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4384185,,,0
+H1,2000,2000,2000,2,0,1,Import,36,Australia,AUS,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,56245248,,,0
+H1,2000,2000,2000,2,0,2,Export,36,Australia,AUS,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1389766,,,0
+H1,2000,2000,2000,2,0,2,Export,36,Australia,AUS,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,146566,,,0
+H1,2000,2000,2000,2,0,2,Export,36,Australia,AUS,260,Fr. South Antarctic Terr.,ATF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4216,,,0
+H1,2000,2000,2000,2,0,1,Import,40,Austria,AUT,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,137332974,,,0
+H1,2000,2000,2000,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,153678435,,,0
+H1,2000,2000,2000,2,0,2,Export,40,Austria,AUT,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28638,,,0
+H1,2000,2000,2000,2,0,1,Import,44,Bahamas,BHS,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,114818,,,0
+H1,2000,2000,2000,2,0,2,Export,44,Bahamas,BHS,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,44,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,44,Bahamas,BHS,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,44,,,0
+H1,2000,2000,2000,2,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,260883,,,0
+H1,2000,2000,2000,2,0,1,Import,52,Barbados,BRB,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,165180,,,0
+H1,2000,2000,2000,2,0,2,Export,52,Barbados,BRB,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23598,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,52,Barbados,BRB,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1523,,,0
+H1,2000,2000,2000,2,0,1,Import,56,Belgium,BEL,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1206076284,,,0
+H1,2000,2000,2000,2,0,2,Export,56,Belgium,BEL,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2243561905,,,0
+H1,2000,2000,2000,2,0,2,Export,56,Belgium,BEL,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,720185,,,0
+H1,2000,2000,2000,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,969437,,,0
+H1,2000,2000,2000,2,0,1,Import,72,Botswana,BWA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1565,,,0
+H1,2000,2000,2000,2,0,1,Import,76,Brazil,BRA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,81585630,,,4
+H1,2000,2000,2000,2,0,2,Export,76,Brazil,BRA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4468332,,,4
+H1,2000,2000,2000,2,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1057,,,0
+H1,2000,2000,2000,2,0,1,Import,100,Bulgaria,BGR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9951141,,,0
+H1,2000,2000,2000,2,0,2,Export,100,Bulgaria,BGR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1004472,,,0
+H1,2000,2000,2000,2,0,1,Import,112,Belarus,BLR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5697500,,,0
+H1,2000,2000,2000,2,0,2,Export,112,Belarus,BLR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1562100,,,0
+H1,2000,2000,2000,2,0,1,Import,116,Cambodia,KHM,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,999920,,,0
+H1,2000,2000,2000,2,0,2,Export,116,Cambodia,KHM,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,531,,,0
+H1,2000,2000,2000,2,0,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11634896,,,0
+H1,2000,2000,2000,2,0,2,Export,120,Cameroon,CMR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,133,,,0
+H1,2000,2000,2000,2,0,1,Import,124,Canada,CAN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,35684403,,,0
+H1,2000,2000,2000,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14404244,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,124,Canada,CAN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,237259,,,0
+H1,2000,2000,2000,2,0,1,Import,132,Cabo Verde,CPV,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,120375,,,0
+H1,2000,2000,2000,2,0,1,Import,144,Sri Lanka,LKA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,883155,,,0
+H1,2000,2000,2000,2,0,2,Export,144,Sri Lanka,LKA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,726846,,,0
+H1,2000,2000,2000,2,0,1,Import,152,Chile,CHL,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14019315,,,0
+H1,2000,2000,2000,2,0,2,Export,152,Chile,CHL,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,126838,,,0
+H1,2000,2000,2000,2,0,1,Import,156,China,CHN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,102886717,,,0
+H1,2000,2000,2000,2,0,2,Export,156,China,CHN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,142571339,,,0
+H1,2000,2000,2000,2,0,2,Export,156,China,CHN,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1021629,,,0
+H1,2000,2000,2000,2,0,1,Import,170,Colombia,COL,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11392351,,,0
+H1,2000,2000,2000,2,0,2,Export,170,Colombia,COL,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,202179,,,0
+H1,2000,2000,2000,2,0,1,Import,175,Mayotte,MYT,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2993491,,,0
+H1,2000,2000,2000,2,0,2,Export,175,Mayotte,MYT,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,208,,,0
+H1,2000,2000,2000,2,0,1,Import,188,Costa Rica,CRI,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1514470,,,0
+H1,2000,2000,2000,2,0,2,Export,188,Costa Rica,CRI,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,115097,,,0
+H1,2000,2000,2000,2,0,1,Import,191,Croatia,HRV,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13138363,,,0
+H1,2000,2000,2000,2,0,2,Export,191,Croatia,HRV,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6856344,,,0
+H1,2000,2000,2000,2,0,1,Import,192,Cuba,CUB,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4846735,,,0
+H1,2000,2000,2000,2,0,2,Export,192,Cuba,CUB,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,725,,,0
+H1,2000,2000,2000,2,0,1,Import,196,Cyprus,CYP,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5673156,,,0
+H1,2000,2000,2000,2,0,2,Export,196,Cyprus,CYP,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,304826,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,196,Cyprus,CYP,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,873,,,0
+H1,2000,2000,2000,2,0,1,Import,203,Czechia,CZE,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,60474814,,,0
+H1,2000,2000,2000,2,0,2,Export,203,Czechia,CZE,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34363786,,,0
+H1,2000,2000,2000,2,0,1,Import,203,Czechia,CZE,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7997880,,,0
+H1,2000,2000,2000,2,0,2,Export,203,Czechia,CZE,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1517439,,,0
+H1,2000,2000,2000,2,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1933042,,,0
+H1,2000,2000,2000,2,0,1,Import,208,Denmark,DNK,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,109714550,,,0
+H1,2000,2000,2000,2,0,2,Export,208,Denmark,DNK,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,80475495,,,0
+H1,2000,2000,2000,2,0,2,Export,208,Denmark,DNK,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28547,,,0
+H1,2000,2000,2000,2,0,1,Import,212,Dominica,DMA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,64096,,,0
+H1,2000,2000,2000,2,0,1,Import,218,Ecuador,ECU,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1053624,,,0
+H1,2000,2000,2000,2,0,2,Export,218,Ecuador,ECU,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,117,,,0
+H1,2000,2000,2000,2,0,1,Import,222,El Salvador,SLV,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1151508,,,0
+H1,2000,2000,2000,2,0,1,Import,231,Ethiopia,ETH,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1618470,,,0
+H1,2000,2000,2000,2,0,1,Import,233,Estonia,EST,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1559305,,,0
+H1,2000,2000,2000,2,0,2,Export,233,Estonia,EST,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,249054,,,0
+H1,2000,2000,2000,2,0,1,Import,234,Faeroe Isds,FRO,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,131549,,,0
+H1,2000,2000,2000,2,0,1,Import,242,Fiji,FJI,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10648,,,0
+H1,2000,2000,2000,2,0,2,Export,242,Fiji,FJI,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,234,,,0
+H1,2000,2000,2000,2,0,2,Export,242,Fiji,FJI,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,806,,,0
+H1,2000,2000,2000,2,0,1,Import,242,Fiji,FJI,260,Fr. South Antarctic Terr.,ATF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,307,,,0
+H1,2000,2000,2000,2,0,1,Import,246,Finland,FIN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,80325027,,,0
+H1,2000,2000,2000,2,0,2,Export,246,Finland,FIN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32551904,,,0
+H1,2000,2000,2000,2,0,1,Import,251,France,FRA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,61715369,,,0
+H1,2000,2000,2000,2,0,4,Re-Import,251,France,FRA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,61715369,,,0
+H1,2000,2000,2000,2,0,1,Import,251,France,FRA,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39453,,,0
+H1,2000,2000,2000,2,0,2,Export,251,France,FRA,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13188301,,,0
+H1,2000,2000,2000,2,0,1,Import,258,French Polynesia,PYF,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16151743,,,0
+H1,2000,2000,2000,2,0,2,Export,258,French Polynesia,PYF,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,63415,,,0
+H1,2000,2000,2000,2,0,1,Import,266,Gabon,GAB,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7426344,,,0
+H1,2000,2000,2000,2,0,2,Export,266,Gabon,GAB,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,189553,,,0
+H1,2000,2000,2000,2,0,1,Import,268,Georgia,GEO,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,361853,,,0
+H1,2000,2000,2000,2,0,1,Import,276,Germany,DEU,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1885577000,,,0
+H1,2000,2000,2000,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2876132000,,,0
+H1,2000,2000,2000,2,0,2,Export,276,Germany,DEU,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,730000,,,0
+H1,2000,2000,2000,2,0,1,Import,300,Greece,GRC,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,77252424,,,0
+H1,2000,2000,2000,2,0,2,Export,300,Greece,GRC,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11717333,,,0
+H1,2000,2000,2000,2,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1371,,,0
+H1,2000,2000,2000,2,0,1,Import,320,Guatemala,GTM,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1133122,,,0
+H1,2000,2000,2000,2,0,2,Export,320,Guatemala,GTM,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,84911,,,0
+H1,2000,2000,2000,2,0,1,Import,320,Guatemala,GTM,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,827193,,,0
+H1,2000,2000,2000,2,0,2,Export,320,Guatemala,GTM,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,858549,,,0
+H1,2000,2000,2000,2,0,1,Import,324,Guinea,GIN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1125665,,,0
+H1,2000,2000,2000,2,0,1,Import,328,Guyana,GUY,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18543,,,0
+H1,2000,2000,2000,2,0,1,Import,340,Honduras,HND,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,729111,,,0
+H1,2000,2000,2000,2,0,1,Import,340,Honduras,HND,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,48479,,,0
+H1,2000,2000,2000,2,0,2,Export,340,Honduras,HND,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,58248,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,340,Honduras,HND,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32655,,,0
+H1,2000,2000,2000,2,0,1,Import,344,"China, Hong Kong SAR",HKG,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,51121049,,,0
+H1,2000,2000,2000,2,0,2,Export,344,"China, Hong Kong SAR",HKG,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,122449104,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,121026056,,,0
+H1,2000,2000,2000,2,0,1,Import,348,Hungary,HUN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,56055000,,,0
+H1,2000,2000,2000,2,0,2,Export,348,Hungary,HUN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,41549000,,,0
+H1,2000,2000,2000,2,0,1,Import,352,Iceland,ISL,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2280780,,,0
+H1,2000,2000,2000,2,0,2,Export,352,Iceland,ISL,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,186909,,,0
+H1,2000,2000,2000,2,0,1,Import,360,Indonesia,IDN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12075338,,,0
+H1,2000,2000,2000,2,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17245143,,,0
+H1,2000,2000,2000,2,0,2,Export,360,Indonesia,IDN,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,97296,,,0
+H1,2000,2000,2000,2,0,1,Import,364,Iran,IRN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14792463,,,0
+H1,2000,2000,2000,2,0,2,Export,364,Iran,IRN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7072,,,0
+H1,2000,2000,2000,2,0,1,Import,364,Iran,IRN,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1671352,,,0
+H1,2000,2000,2000,2,0,2,Export,364,Iran,IRN,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8024,,,0
+H1,2000,2000,2000,2,0,1,Import,372,Ireland,IRL,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,75295996,,,0
+H1,2000,2000,2000,2,0,2,Export,372,Ireland,IRL,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,62857858,,,0
+H1,2000,2000,2000,2,0,2,Export,372,Ireland,IRL,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12190,,,0
+H1,2000,2000,2000,2,0,1,Import,376,Israel,ISR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,50929000,,,0
+H1,2000,2000,2000,2,0,2,Export,376,Israel,ISR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,60903000,,,0
+H1,2000,2000,2000,2,0,1,Import,381,Italy,ITA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1374129247,,,0
+H1,2000,2000,2000,2,0,2,Export,381,Italy,ITA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1574366908,,,0
+H1,2000,2000,2000,2,0,2,Export,381,Italy,ITA,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,894636,,,0
+H1,2000,2000,2000,2,0,1,Import,384,Côte d'Ivoire,CIV,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21253399,,,0
+H1,2000,2000,2000,2,0,2,Export,384,Côte d'Ivoire,CIV,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28292,,,0
+H1,2000,2000,2000,2,0,1,Import,388,Jamaica,JAM,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,531659,,,0
+H1,2000,2000,2000,2,0,1,Import,392,Japan,JPN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,121629415,,,0
+H1,2000,2000,2000,2,0,2,Export,392,Japan,JPN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,114720815,,,0
+H1,2000,2000,2000,2,0,1,Import,392,Japan,JPN,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19598,,,0
+H1,2000,2000,2000,2,0,2,Export,392,Japan,JPN,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,377256,,,0
+H1,2000,2000,2000,2,0,1,Import,398,Kazakhstan,KAZ,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,604700,,,0
+H1,2000,2000,2000,2,0,1,Import,400,Jordan,JOR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4209676,,,0
+H1,2000,2000,2000,2,0,2,Export,400,Jordan,JOR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,222280,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,400,Jordan,JOR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2821,,,0
+H1,2000,2000,2000,2,0,1,Import,400,Jordan,JOR,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,333229,,,0
+H1,2000,2000,2000,2,0,2,Export,400,Jordan,JOR,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4957688,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,400,Jordan,JOR,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4601647,,,0
+H1,2000,2000,2000,2,0,1,Import,404,Kenya,KEN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2790748,,,0
+H1,2000,2000,2000,2,0,2,Export,404,Kenya,KEN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,324,,,0
+H1,2000,2000,2000,2,0,1,Import,410,Rep. of Korea,KOR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,40637300,,,0
+H1,2000,2000,2000,2,0,2,Export,410,Rep. of Korea,KOR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30698174,,,0
+H1,2000,2000,2000,2,0,2,Export,410,Rep. of Korea,KOR,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,64374,,,0
+H1,2000,2000,2000,2,0,1,Import,417,Kyrgyzstan,KGZ,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21195,,,0
+H1,2000,2000,2000,2,0,1,Import,422,Lebanon,LBN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16694721,,,0
+H1,2000,2000,2000,2,0,2,Export,422,Lebanon,LBN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,268395,,,0
+H1,2000,2000,2000,2,0,1,Import,428,Latvia,LVA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2652518,,,0
+H1,2000,2000,2000,2,0,2,Export,428,Latvia,LVA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,104214,,,0
+H1,2000,2000,2000,2,0,1,Import,440,Lithuania,LTU,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5513891,,,0
+H1,2000,2000,2000,2,0,2,Export,440,Lithuania,LTU,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2394394,,,0
+H1,2000,2000,2000,2,0,1,Import,442,Luxembourg,LUX,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,42250249,,,0
+H1,2000,2000,2000,2,0,2,Export,442,Luxembourg,LUX,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,123461267,,,0
+H1,2000,2000,2000,2,0,2,Export,442,Luxembourg,LUX,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,67558,,,0
+H1,2000,2000,2000,2,0,1,Import,446,"China, Macao SAR",MAC,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,62728,,,0
+H1,2000,2000,2000,2,0,2,Export,446,"China, Macao SAR",MAC,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,853,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,446,"China, Macao SAR",MAC,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,853,,,0
+H1,2000,2000,2000,2,0,1,Import,450,Madagascar,MDG,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5029447,,,0
+H1,2000,2000,2000,2,0,2,Export,450,Madagascar,MDG,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3550689,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,450,Madagascar,MDG,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3180484,,,0
+H1,2000,2000,2000,2,0,1,Import,454,Malawi,MWI,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,165007,,,0
+H1,2000,2000,2000,2,0,1,Import,458,Malaysia,MYS,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21051743,,,0
+H1,2000,2000,2000,2,0,2,Export,458,Malaysia,MYS,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21189505,,,0
+H1,2000,2000,2000,2,0,2,Export,458,Malaysia,MYS,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2569,,,0
+H1,2000,2000,2000,2,0,1,Import,462,Maldives,MDV,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8305,,,0
+H1,2000,2000,2000,2,0,1,Import,466,Mali,MLI,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,66447,,,0
+H1,2000,2000,2000,2,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3037773,,,0
+H1,2000,2000,2000,2,0,2,Export,470,Malta,MLT,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2303997,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,470,Malta,MLT,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6141,,,0
+H1,2000,2000,2000,2,0,1,Import,478,Mauritania,MRT,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1342262,,,0
+H1,2000,2000,2000,2,0,1,Import,480,Mauritius,MUS,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5522542,,,0
+H1,2000,2000,2000,2,0,2,Export,480,Mauritius,MUS,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,588633,,,0
+H1,2000,2000,2000,2,0,2,Export,480,Mauritius,MUS,260,Fr. South Antarctic Terr.,ATF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12914,,,0
+H1,2000,2000,2000,2,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,48735622,,,0
+H1,2000,2000,2000,2,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3200224,,,0
+H1,2000,2000,2000,2,0,1,Import,490,"Other Asia, nes",,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,41122843,,,0
+H1,2000,2000,2000,2,0,2,Export,490,"Other Asia, nes",,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,44612664,,,0
+H1,2000,2000,2000,2,0,2,Export,490,"Other Asia, nes",,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,593050,,,0
+H1,2000,2000,2000,2,0,1,Import,496,Mongolia,MNG,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,55913,,,0
+H1,2000,2000,2000,2,0,1,Import,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,394258,,,0
+H1,2000,2000,2000,2,0,2,Export,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,180,,,0
+H1,2000,2000,2000,2,0,1,Import,512,Oman,OMN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3215982,,,0
+H1,2000,2000,2000,2,0,2,Export,512,Oman,OMN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,401,,,0
+H1,2000,2000,2000,2,0,1,Import,516,Namibia,NAM,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,35321,,,0
+H1,2000,2000,2000,2,0,2,Export,516,Namibia,NAM,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,466,,,0
+H1,2000,2000,2000,2,0,1,Import,524,Nepal,NPL,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,61108,,,0
+H1,2000,2000,2000,2,0,1,Import,528,Netherlands,NLD,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,336184746,,,0
+H1,2000,2000,2000,2,0,2,Export,528,Netherlands,NLD,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,865977781,,,0
+H1,2000,2000,2000,2,0,1,Import,528,Netherlands,NLD,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6445,,,0
+H1,2000,2000,2000,2,0,2,Export,528,Netherlands,NLD,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,138077,,,0
+H1,2000,2000,2000,2,0,1,Import,533,Aruba,ABW,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18888,,,0
+H1,2000,2000,2000,2,0,1,Import,548,Vanuatu,VUT,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,58755,,,0
+H1,2000,2000,2000,2,0,1,Import,554,New Zealand,NZL,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12408107,,,0
+H1,2000,2000,2000,2,0,2,Export,554,New Zealand,NZL,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,662833,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,554,New Zealand,NZL,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,943,,,0
+H1,2000,2000,2000,2,0,1,Import,554,New Zealand,NZL,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,683,,,0
+H1,2000,2000,2000,2,0,2,Export,554,New Zealand,NZL,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1422629,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,554,New Zealand,NZL,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,98721,,,0
+H1,2000,2000,2000,2,0,1,Import,558,Nicaragua,NIC,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,161941,,,0
+H1,2000,2000,2000,2,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,638758,,,0
+H1,2000,2000,2000,2,0,2,Export,562,Niger,NER,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2090,,,0
+H1,2000,2000,2000,2,0,1,Import,566,Nigeria,NGA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9680326,,,0
+H1,2000,2000,2000,2,0,2,Export,566,Nigeria,NGA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5759,,,0
+H1,2000,2000,2000,2,0,1,Import,579,Norway,NOR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,61215661,,,0
+H1,2000,2000,2000,2,0,2,Export,579,Norway,NOR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14204931,,,0
+H1,2000,2000,2000,2,0,1,Import,591,Panama,PAN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,166319,,,0
+H1,2000,2000,2000,2,0,1,Import,600,Paraguay,PRY,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,193035,,,0
+H1,2000,2000,2000,2,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6521978,,,0
+H1,2000,2000,2000,2,0,2,Export,604,Peru,PER,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28100,,,0
+H1,2000,2000,2000,2,0,1,Import,608,Philippines,PHL,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7483034,,,0
+H1,2000,2000,2000,2,0,2,Export,608,Philippines,PHL,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,510399,,,0
+H1,2000,2000,2000,2,0,2,Export,608,Philippines,PHL,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,40,,,0
+H1,2000,2000,2000,2,0,1,Import,616,Poland,POL,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,181621000,,,0
+H1,2000,2000,2000,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,42652000,,,0
+H1,2000,2000,2000,2,0,1,Import,620,Portugal,PRT,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,138599486,,,0
+H1,2000,2000,2000,2,0,2,Export,620,Portugal,PRT,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,74195779,,,0
+H1,2000,2000,2000,2,0,2,Export,620,Portugal,PRT,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15345,,,0
+H1,2000,2000,2000,2,0,1,Import,634,Qatar,QAT,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1039040,,,0
+H1,2000,2000,2000,2,0,2,Export,634,Qatar,QAT,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1856,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,634,Qatar,QAT,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1856,,,0
+H1,2000,2000,2000,2,0,1,Import,642,Romania,ROU,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,34046000,,,0
+H1,2000,2000,2000,2,0,2,Export,642,Romania,ROU,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4571000,,,0
+H1,2000,2000,2000,2,0,1,Import,642,Romania,ROU,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1117000,,,0
+H1,2000,2000,2000,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34300909,,,0
+H1,2000,2000,2000,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4029652,,,0
+H1,2000,2000,2000,2,0,1,Import,659,Saint Kitts and Nevis,KNA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,50396,,,0
+H1,2000,2000,2000,2,0,2,Export,659,Saint Kitts and Nevis,KNA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7,,,0
+H1,2000,2000,2000,2,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,307956,,,0
+H1,2000,2000,2000,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,131684,,,0
+H1,2000,2000,2000,2,0,1,Import,678,Sao Tome and Principe,STP,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33891,,,0
+H1,2000,2000,2000,2,0,1,Import,682,Saudi Arabia,SAU,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25432298,,,0
+H1,2000,2000,2000,2,0,2,Export,682,Saudi Arabia,SAU,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6055208,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,682,Saudi Arabia,SAU,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,46933,,,0
+H1,2000,2000,2000,2,0,1,Import,686,Senegal,SEN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18331563,,,0
+H1,2000,2000,2000,2,0,2,Export,686,Senegal,SEN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28406,,,0
+H1,2000,2000,2000,2,0,1,Import,699,India,IND,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19565176,,,0
+H1,2000,2000,2000,2,0,2,Export,699,India,IND,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5669420,,,0
+H1,2000,2000,2000,2,0,1,Import,702,Singapore,SGP,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25316346,,,0
+H1,2000,2000,2000,2,0,2,Export,702,Singapore,SGP,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9570956,,,0
+H1,2000,2000,2000,2,0,2,Export,702,Singapore,SGP,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,485704,,,0
+H1,2000,2000,2000,2,0,1,Import,703,Slovakia,SVK,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23565118,,,0
+H1,2000,2000,2000,2,0,2,Export,703,Slovakia,SVK,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5667443,,,0
+H1,2000,2000,2000,2,0,1,Import,703,Slovakia,SVK,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2604956,,,0
+H1,2000,2000,2000,2,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2464000,,,0
+H1,2000,2000,2000,2,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3194000,,,0
+H1,2000,2000,2000,2,0,1,Import,705,Slovenia,SVN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27415396,,,0
+H1,2000,2000,2000,2,0,2,Export,705,Slovenia,SVN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6879890,,,0
+H1,2000,2000,2000,2,0,1,Import,710,South Africa,ZAF,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37818435,,,0
+H1,2000,2000,2000,2,0,2,Export,710,South Africa,ZAF,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4600361,,,0
+H1,2000,2000,2000,2,0,1,Import,716,Zimbabwe,ZWE,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1494706,,,0
+H1,2000,2000,2000,2,0,2,Export,716,Zimbabwe,ZWE,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,28,,,0
+H1,2000,2000,2000,2,0,1,Import,724,Spain,ESP,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,820815788,,,4
+H1,2000,2000,2000,2,0,2,Export,724,Spain,ESP,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,708749752,,,4
+H1,2000,2000,2000,2,0,2,Export,724,Spain,ESP,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,186942,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,724,Spain,ESP,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,743,,,0
+H1,2000,2000,2000,2,0,1,Import,736,Fmr Sudan,SDN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,879601,,,0
+H1,2000,2000,2000,2,0,1,Import,748,Eswatini,SWZ,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,152,,,0
+H1,2000,2000,2000,2,0,1,Import,752,Sweden,SWE,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,114597590,,,0
+H1,2000,2000,2000,2,0,2,Export,752,Sweden,SWE,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,148574940,,,0
+H1,2000,2000,2000,2,0,2,Export,752,Sweden,SWE,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6220,,,0
+H1,2000,2000,2000,2,0,1,Import,757,Switzerland,CHE,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,282667725,,,0
+H1,2000,2000,2000,2,0,2,Export,757,Switzerland,CHE,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,226929912,,,0
+H1,2000,2000,2000,2,0,2,Export,757,Switzerland,CHE,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2433,,,0
+H1,2000,2000,2000,2,0,1,Import,762,Tajikistan,TJK,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2000,,,0
+H1,2000,2000,2000,2,0,1,Import,764,Thailand,THA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22552192,,,0
+H1,2000,2000,2000,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18741404,,,0
+H1,2000,2000,2000,2,0,2,Export,764,Thailand,THA,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,83790,,,0
+H1,2000,2000,2000,2,0,2,Export,764,Thailand,THA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25527,,,0
+H1,2000,2000,2000,2,0,1,Import,768,Togo,TGO,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1191471,,,0
+H1,2000,2000,2000,2,0,2,Export,768,Togo,TGO,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7308,,,0
+H1,2000,2000,2000,2,0,1,Import,768,Togo,TGO,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33245,,,0
+H1,2000,2000,2000,2,0,2,Export,768,Togo,TGO,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7926,,,0
+H1,2000,2000,2000,2,0,1,Import,780,Trinidad and Tobago,TTO,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1006347,,,0
+H1,2000,2000,2000,2,0,2,Export,780,Trinidad and Tobago,TTO,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,140218,,,0
+H1,2000,2000,2000,2,0,1,Import,784,United Arab Emirates,ARE,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23912122,,,0
+H1,2000,2000,2000,2,0,2,Export,784,United Arab Emirates,ARE,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,301435,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,784,United Arab Emirates,ARE,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,240257,,,0
+H1,2000,2000,2000,2,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,72715609,,,0
+H1,2000,2000,2000,2,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19452344,,,0
+H1,2000,2000,2000,2,0,1,Import,788,Tunisia,TUN,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11833,,,0
+H1,2000,2000,2000,2,0,1,Import,792,Turkey,TUR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,177358454,,,0
+H1,2000,2000,2000,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13378238,,,0
+H1,2000,2000,2000,2,0,1,Import,792,Turkey,TUR,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4774773,,,0
+H1,2000,2000,2000,2,0,2,Export,792,Turkey,TUR,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43762667,,,0
+H1,2000,2000,2000,2,0,1,Import,795,Turkmenistan,TKM,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,194202,,,0
+H1,2000,2000,2000,2,0,1,Import,800,Uganda,UGA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1045342,,,0
+H1,2000,2000,2000,2,0,2,Export,800,Uganda,UGA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32497,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,800,Uganda,UGA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32497,,,0
+H1,2000,2000,2000,2,0,1,Import,807,North Macedonia,MKD,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,670348,,,0
+H1,2000,2000,2000,2,0,2,Export,807,North Macedonia,MKD,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,67506,,,0
+H1,2000,2000,2000,2,0,1,Import,826,United Kingdom,GBR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,962572281,,,0
+H1,2000,2000,2000,2,0,2,Export,826,United Kingdom,GBR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,787721924,,,0
+H1,2000,2000,2000,2,0,2,Export,826,United Kingdom,GBR,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20770,,,0
+H1,2000,2000,2000,2,0,1,Import,834,United Rep. of Tanzania,TZA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1388805,,,0
+H1,2000,2000,2000,2,0,1,Import,842,USA,USA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,377362228,,,0
+H1,2000,2000,2000,2,0,2,Export,842,USA,USA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,415384923,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,842,USA,USA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12939333,,,0
+H1,2000,2000,2000,2,0,2,Export,842,USA,USA,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2420460,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,842,USA,USA,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,122681,,,0
+H1,2000,2000,2000,2,0,1,Import,854,Burkina Faso,BFA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1818566,,,0
+H1,2000,2000,2000,2,0,2,Export,854,Burkina Faso,BFA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4451,,,0
+H1,2000,2000,2000,2,0,1,Import,858,Uruguay,URY,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2716398,,,0
+H1,2000,2000,2000,2,0,2,Export,858,Uruguay,URY,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,766,,,0
+H1,2000,2000,2000,2,0,1,Import,858,Uruguay,URY,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,333093,,,0
+H1,2000,2000,2000,2,0,2,Export,858,Uruguay,URY,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,847002,,,0
+H1,2000,2000,2000,2,0,1,Import,862,Venezuela,VEN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3383370,,,0
+H1,2000,2000,2000,2,0,2,Export,862,Venezuela,VEN,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,748310,,,0
+H1,2000,2000,2000,2,0,1,Import,891,Serbia and Montenegro,SCG,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3752000,,,0
+H1,2000,2000,2000,2,0,2,Export,891,Serbia and Montenegro,SCG,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,119000,,,0
+H1,2000,2000,2000,2,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,545,,,0
+H1,2000,2000,2000,2,0,1,Import,12,Algeria,DZA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29415686,,,0
+H1,2000,2000,2000,2,0,2,Export,12,Algeria,DZA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,31683,,,0
+H1,2000,2000,2000,2,0,1,Import,20,Andorra,AND,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2102597,,,0
+H1,2000,2000,2000,2,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,132,,,0
+H1,2000,2000,2000,2,0,1,Import,28,Antigua and Barbuda,ATG,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5394,,,0
+H1,2000,2000,2000,2,0,2,Export,28,Antigua and Barbuda,ATG,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,201,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,28,Antigua and Barbuda,ATG,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,201,,,0
+H1,2000,2000,2000,2,0,1,Import,31,Azerbaijan,AZE,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,231909,,,0
+H1,2000,2000,2000,2,0,1,Import,32,Argentina,ARG,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25266503,,,0
+H1,2000,2000,2000,2,0,2,Export,32,Argentina,ARG,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1429641,,,0
+H1,2000,2000,2000,2,0,1,Import,36,Australia,AUS,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24012704,,,0
+H1,2000,2000,2000,2,0,2,Export,36,Australia,AUS,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,509638,,,0
+H1,2000,2000,2000,2,0,2,Export,36,Australia,AUS,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,235762,,,0
+H1,2000,2000,2000,2,0,1,Import,40,Austria,AUT,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,51147710,,,0
+H1,2000,2000,2000,2,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24165920,,,0
+H1,2000,2000,2000,2,0,2,Export,40,Austria,AUT,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,69789,,,0
+H1,2000,2000,2000,2,0,1,Import,44,Bahamas,BHS,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9432,,,0
+H1,2000,2000,2000,2,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14334,,,0
+H1,2000,2000,2000,2,0,1,Import,52,Barbados,BRB,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,287432,,,0
+H1,2000,2000,2000,2,0,1,Import,56,Belgium,BEL,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,328292943,,,0
+H1,2000,2000,2000,2,0,2,Export,56,Belgium,BEL,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,250765528,,,0
+H1,2000,2000,2000,2,0,2,Export,56,Belgium,BEL,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18807,,,0
+H1,2000,2000,2000,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,343613,,,0
+H1,2000,2000,2000,2,0,1,Import,72,Botswana,BWA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29106,,,0
+H1,2000,2000,2000,2,0,1,Import,76,Brazil,BRA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,57017743,,,4
+H1,2000,2000,2000,2,0,2,Export,76,Brazil,BRA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14401412,,,4
+H1,2000,2000,2000,2,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3753,,,0
+H1,2000,2000,2000,2,0,1,Import,100,Bulgaria,BGR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2495166,,,0
+H1,2000,2000,2000,2,0,2,Export,100,Bulgaria,BGR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32175,,,0
+H1,2000,2000,2000,2,0,1,Import,112,Belarus,BLR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1809300,,,0
+H1,2000,2000,2000,2,0,2,Export,112,Belarus,BLR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,600,,,0
+H1,2000,2000,2000,2,0,1,Import,116,Cambodia,KHM,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17893,,,0
+H1,2000,2000,2000,2,0,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7227087,,,0
+H1,2000,2000,2000,2,0,2,Export,120,Cameroon,CMR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3433807,,,0
+H1,2000,2000,2000,2,0,1,Import,124,Canada,CAN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,45434027,,,0
+H1,2000,2000,2000,2,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1141880,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,124,Canada,CAN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,437499,,,0
+H1,2000,2000,2000,2,0,1,Import,124,Canada,CAN,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1357,,,0
+H1,2000,2000,2000,2,0,2,Export,124,Canada,CAN,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,77739,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,124,Canada,CAN,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,77113,,,0
+H1,2000,2000,2000,2,0,1,Import,132,Cabo Verde,CPV,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,80156,,,0
+H1,2000,2000,2000,2,0,2,Export,132,Cabo Verde,CPV,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,132,Cabo Verde,CPV,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3,,,0
+H1,2000,2000,2000,2,0,1,Import,144,Sri Lanka,LKA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,256319,,,0
+H1,2000,2000,2000,2,0,2,Export,144,Sri Lanka,LKA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16685881,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,144,Sri Lanka,LKA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3222,,,0
+H1,2000,2000,2000,2,0,1,Import,152,Chile,CHL,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8215829,,,0
+H1,2000,2000,2000,2,0,2,Export,152,Chile,CHL,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,293,,,0
+H1,2000,2000,2000,2,0,1,Import,156,China,CHN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27840576,,,0
+H1,2000,2000,2000,2,0,2,Export,156,China,CHN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16634815,,,0
+H1,2000,2000,2000,2,0,2,Export,156,China,CHN,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,73926,,,0
+H1,2000,2000,2000,2,0,1,Import,170,Colombia,COL,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14596883,,,0
+H1,2000,2000,2000,2,0,2,Export,170,Colombia,COL,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16722,,,0
+H1,2000,2000,2000,2,0,1,Import,175,Mayotte,MYT,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,684623,,,0
+H1,2000,2000,2000,2,0,2,Export,175,Mayotte,MYT,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1014,,,0
+H1,2000,2000,2000,2,0,1,Import,188,Costa Rica,CRI,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,383994,,,0
+H1,2000,2000,2000,2,0,2,Export,188,Costa Rica,CRI,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1599637,,,0
+H1,2000,2000,2000,2,0,1,Import,191,Croatia,HRV,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9584477,,,0
+H1,2000,2000,2000,2,0,2,Export,191,Croatia,HRV,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,36725,,,0
+H1,2000,2000,2000,2,0,1,Import,192,Cuba,CUB,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6217630,,,0
+H1,2000,2000,2000,2,0,1,Import,196,Cyprus,CYP,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3129914,,,0
+H1,2000,2000,2000,2,0,1,Import,203,Czechia,CZE,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,34271786,,,0
+H1,2000,2000,2000,2,0,2,Export,203,Czechia,CZE,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,40179145,,,0
+H1,2000,2000,2000,2,0,1,Import,203,Czechia,CZE,838,Free Zones,,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5487164,,,0
+H1,2000,2000,2000,2,0,2,Export,203,Czechia,CZE,838,Free Zones,,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,229343,,,0
+H1,2000,2000,2000,2,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2226741,,,0
+H1,2000,2000,2000,2,0,1,Import,208,Denmark,DNK,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,21493121,,,0
+H1,2000,2000,2000,2,0,2,Export,208,Denmark,DNK,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24767812,,,0
+H1,2000,2000,2000,2,0,1,Import,212,Dominica,DMA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,26877,,,0
+H1,2000,2000,2000,2,0,2,Export,212,Dominica,DMA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,94,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,212,Dominica,DMA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,94,,,0
+H1,2000,2000,2000,2,0,1,Import,218,Ecuador,ECU,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1099159,,,0
+H1,2000,2000,2000,2,0,1,Import,222,El Salvador,SLV,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,225895,,,0
+H1,2000,2000,2000,2,0,1,Import,231,Ethiopia,ETH,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,896733,,,4
+H1,2000,2000,2000,2,0,1,Import,233,Estonia,EST,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,492724,,,0
+H1,2000,2000,2000,2,0,2,Export,233,Estonia,EST,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,66389,,,0
+H1,2000,2000,2000,2,0,1,Import,234,Faeroe Isds,FRO,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,133807,,,0
+H1,2000,2000,2000,2,0,2,Export,242,Fiji,FJI,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1216,,,0
+H1,2000,2000,2000,2,0,1,Import,246,Finland,FIN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,44046803,,,0
+H1,2000,2000,2000,2,0,2,Export,246,Finland,FIN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6200740,,,0
+H1,2000,2000,2000,2,0,1,Import,251,France,FRA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28218946,,,0
+H1,2000,2000,2000,2,0,4,Re-Import,251,France,FRA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28218946,,,0
+H1,2000,2000,2000,2,0,1,Import,251,France,FRA,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1264,,,0
+H1,2000,2000,2000,2,0,2,Export,251,France,FRA,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1661442,,,0
+H1,2000,2000,2000,2,0,1,Import,258,French Polynesia,PYF,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3076526,,,0
+H1,2000,2000,2000,2,0,2,Export,258,French Polynesia,PYF,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,65196,,,0
+H1,2000,2000,2000,2,0,1,Import,266,Gabon,GAB,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5905030,,,0
+H1,2000,2000,2000,2,0,2,Export,266,Gabon,GAB,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,737981,,,0
+H1,2000,2000,2000,2,0,1,Import,268,Georgia,GEO,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,48407,,,0
+H1,2000,2000,2000,2,0,1,Import,276,Germany,DEU,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,917342000,,,0
+H1,2000,2000,2000,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,554779000,,,0
+H1,2000,2000,2000,2,0,2,Export,276,Germany,DEU,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,146000,,,0
+H1,2000,2000,2000,2,0,1,Import,300,Greece,GRC,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10161656,,,0
+H1,2000,2000,2000,2,0,2,Export,300,Greece,GRC,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,362314,,,0
+H1,2000,2000,2000,2,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2108,,,0
+H1,2000,2000,2000,2,0,1,Import,320,Guatemala,GTM,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,44802,,,0
+H1,2000,2000,2000,2,0,1,Import,320,Guatemala,GTM,838,Free Zones,,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1327827,,,0
+H1,2000,2000,2000,2,0,2,Export,320,Guatemala,GTM,838,Free Zones,,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30870,,,0
+H1,2000,2000,2000,2,0,1,Import,324,Guinea,GIN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2275550,,,0
+H1,2000,2000,2000,2,0,1,Import,328,Guyana,GUY,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,77855,,,0
+H1,2000,2000,2000,2,0,2,Export,328,Guyana,GUY,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8,,,0
+H1,2000,2000,2000,2,0,1,Import,340,Honduras,HND,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20198,,,0
+H1,2000,2000,2000,2,0,1,Import,340,Honduras,HND,838,Free Zones,,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,256,,,0
+H1,2000,2000,2000,2,0,2,Export,340,Honduras,HND,838,Free Zones,,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2154,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,340,Honduras,HND,838,Free Zones,,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,467,,,0
+H1,2000,2000,2000,2,0,1,Import,344,"China, Hong Kong SAR",HKG,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12463074,,,0
+H1,2000,2000,2000,2,0,2,Export,344,"China, Hong Kong SAR",HKG,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6430131,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6384662,,,0
+H1,2000,2000,2000,2,0,1,Import,348,Hungary,HUN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30635000,,,0
+H1,2000,2000,2000,2,0,2,Export,348,Hungary,HUN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28807000,,,0
+H1,2000,2000,2000,2,0,1,Import,352,Iceland,ISL,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2455706,,,0
+H1,2000,2000,2000,2,0,2,Export,352,Iceland,ISL,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19,,,0
+H1,2000,2000,2000,2,0,1,Import,360,Indonesia,IDN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7421197,,,0
+H1,2000,2000,2000,2,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15371235,,,0
+H1,2000,2000,2000,2,0,2,Export,360,Indonesia,IDN,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30512,,,0
+H1,2000,2000,2000,2,0,1,Import,364,Iran,IRN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6570555,,,0
+H1,2000,2000,2000,2,0,1,Import,372,Ireland,IRL,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7978077,,,0
+H1,2000,2000,2000,2,0,2,Export,372,Ireland,IRL,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3768439,,,0
+H1,2000,2000,2000,2,0,1,Import,376,Israel,ISR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7762000,,,0
+H1,2000,2000,2000,2,0,2,Export,376,Israel,ISR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8944000,,,0
+H1,2000,2000,2000,2,0,1,Import,381,Italy,ITA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,486457335,,,0
+H1,2000,2000,2000,2,0,2,Export,381,Italy,ITA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,341500505,,,0
+H1,2000,2000,2000,2,0,2,Export,381,Italy,ITA,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,250035,,,0
+H1,2000,2000,2000,2,0,1,Import,384,Côte d'Ivoire,CIV,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5026379,,,0
+H1,2000,2000,2000,2,0,2,Export,384,Côte d'Ivoire,CIV,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13929862,,,0
+H1,2000,2000,2000,2,0,1,Import,388,Jamaica,JAM,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,302754,,,0
+H1,2000,2000,2000,2,0,2,Export,388,Jamaica,JAM,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38429,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,388,Jamaica,JAM,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38429,,,0
+H1,2000,2000,2000,2,0,1,Import,392,Japan,JPN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,51438925,,,0
+H1,2000,2000,2000,2,0,2,Export,392,Japan,JPN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,114900846,,,0
+H1,2000,2000,2000,2,0,2,Export,392,Japan,JPN,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,159786,,,0
+H1,2000,2000,2000,2,0,1,Import,398,Kazakhstan,KAZ,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1777500,,,0
+H1,2000,2000,2000,2,0,2,Export,398,Kazakhstan,KAZ,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,600,,,0
+H1,2000,2000,2000,2,0,1,Import,400,Jordan,JOR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,849724,,,0
+H1,2000,2000,2000,2,0,2,Export,400,Jordan,JOR,838,Free Zones,,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1089380,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,400,Jordan,JOR,838,Free Zones,,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1075628,,,0
+H1,2000,2000,2000,2,0,1,Import,404,Kenya,KEN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,605810,,,0
+H1,2000,2000,2000,2,0,1,Import,410,Rep. of Korea,KOR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,26478785,,,0
+H1,2000,2000,2000,2,0,2,Export,410,Rep. of Korea,KOR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,46363614,,,0
+H1,2000,2000,2000,2,0,2,Export,410,Rep. of Korea,KOR,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,608150,,,0
+H1,2000,2000,2000,2,0,1,Import,417,Kyrgyzstan,KGZ,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,92301,,,0
+H1,2000,2000,2000,2,0,1,Import,422,Lebanon,LBN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1622290,,,0
+H1,2000,2000,2000,2,0,2,Export,422,Lebanon,LBN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,100279,,,0
+H1,2000,2000,2000,2,0,1,Import,428,Latvia,LVA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,452389,,,0
+H1,2000,2000,2000,2,0,2,Export,428,Latvia,LVA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,199,,,0
+H1,2000,2000,2000,2,0,1,Import,440,Lithuania,LTU,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2017456,,,0
+H1,2000,2000,2000,2,0,2,Export,440,Lithuania,LTU,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1613,,,0
+H1,2000,2000,2000,2,0,1,Import,442,Luxembourg,LUX,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9773248,,,0
+H1,2000,2000,2000,2,0,2,Export,442,Luxembourg,LUX,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24552549,,,0
+H1,2000,2000,2000,2,0,1,Import,446,"China, Macao SAR",MAC,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47983,,,0
+H1,2000,2000,2000,2,0,1,Import,450,Madagascar,MDG,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1155306,,,0
+H1,2000,2000,2000,2,0,2,Export,450,Madagascar,MDG,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,312308,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,450,Madagascar,MDG,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,21450,,,0
+H1,2000,2000,2000,2,0,1,Import,454,Malawi,MWI,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,57197,,,0
+H1,2000,2000,2000,2,0,1,Import,458,Malaysia,MYS,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2719259,,,0
+H1,2000,2000,2000,2,0,2,Export,458,Malaysia,MYS,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,67602038,,,0
+H1,2000,2000,2000,2,0,1,Import,462,Maldives,MDV,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5754,,,0
+H1,2000,2000,2000,2,0,1,Import,466,Mali,MLI,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,248013,,,0
+H1,2000,2000,2000,2,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,594876,,,0
+H1,2000,2000,2000,2,0,2,Export,470,Malta,MLT,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4475079,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,470,Malta,MLT,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,102,,,0
+H1,2000,2000,2000,2,0,1,Import,478,Mauritania,MRT,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1348984,,,0
+H1,2000,2000,2000,2,0,1,Import,480,Mauritius,MUS,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1701425,,,0
+H1,2000,2000,2000,2,0,2,Export,480,Mauritius,MUS,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,130657,,,0
+H1,2000,2000,2000,2,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,31040151,,,0
+H1,2000,2000,2000,2,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,832379,,,0
+H1,2000,2000,2000,2,0,1,Import,490,"Other Asia, nes",,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19905285,,,0
+H1,2000,2000,2000,2,0,2,Export,490,"Other Asia, nes",,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15280903,,,0
+H1,2000,2000,2000,2,0,2,Export,490,"Other Asia, nes",,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,85015,,,0
+H1,2000,2000,2000,2,0,1,Import,496,Mongolia,MNG,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9841,,,0
+H1,2000,2000,2000,2,0,1,Import,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,152538,,,0
+H1,2000,2000,2000,2,0,1,Import,512,Oman,OMN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3299833,,,0
+H1,2000,2000,2000,2,0,2,Export,512,Oman,OMN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,33506,,,0
+H1,2000,2000,2000,2,0,1,Import,516,Namibia,NAM,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28953,,,0
+H1,2000,2000,2000,2,0,1,Import,524,Nepal,NPL,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,11760,,,0
+H1,2000,2000,2000,2,0,1,Import,528,Netherlands,NLD,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,156907084,,,0
+H1,2000,2000,2000,2,0,2,Export,528,Netherlands,NLD,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,121691899,,,0
+H1,2000,2000,2000,2,0,1,Import,528,Netherlands,NLD,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,921,,,0
+H1,2000,2000,2000,2,0,2,Export,528,Netherlands,NLD,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,788880,,,0
+H1,2000,2000,2000,2,0,1,Import,533,Aruba,ABW,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4743,,,0
+H1,2000,2000,2000,2,0,1,Import,548,Vanuatu,VUT,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7479,,,0
+H1,2000,2000,2000,2,0,1,Import,554,New Zealand,NZL,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3736905,,,0
+H1,2000,2000,2000,2,0,2,Export,554,New Zealand,NZL,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,217496,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,554,New Zealand,NZL,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,36252,,,0
+H1,2000,2000,2000,2,0,2,Export,554,New Zealand,NZL,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,166798,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,554,New Zealand,NZL,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,541,,,0
+H1,2000,2000,2000,2,0,1,Import,558,Nicaragua,NIC,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6349,,,0
+H1,2000,2000,2000,2,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,796812,,,0
+H1,2000,2000,2000,2,0,2,Export,562,Niger,NER,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11045,,,0
+H1,2000,2000,2000,2,0,1,Import,566,Nigeria,NGA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3216369,,,0
+H1,2000,2000,2000,2,0,2,Export,566,Nigeria,NGA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,171622,,,0
+H1,2000,2000,2000,2,0,1,Import,579,Norway,NOR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25278715,,,0
+H1,2000,2000,2000,2,0,2,Export,579,Norway,NOR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,543023,,,0
+H1,2000,2000,2000,2,0,1,Import,591,Panama,PAN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12112,,,0
+H1,2000,2000,2000,2,0,1,Import,600,Paraguay,PRY,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,503655,,,0
+H1,2000,2000,2000,2,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3189390,,,0
+H1,2000,2000,2000,2,0,1,Import,604,Peru,PER,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4330,,,0
+H1,2000,2000,2000,2,0,1,Import,608,Philippines,PHL,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2097710,,,0
+H1,2000,2000,2000,2,0,2,Export,608,Philippines,PHL,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,288508,,,0
+H1,2000,2000,2000,2,0,1,Import,616,Poland,POL,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47553000,,,0
+H1,2000,2000,2000,2,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,40219000,,,0
+H1,2000,2000,2000,2,0,1,Import,620,Portugal,PRT,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,31510667,,,0
+H1,2000,2000,2000,2,0,2,Export,620,Portugal,PRT,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30730379,,,0
+H1,2000,2000,2000,2,0,1,Import,634,Qatar,QAT,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1183455,,,0
+H1,2000,2000,2000,2,0,1,Import,642,Romania,ROU,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,7400000,,,0
+H1,2000,2000,2000,2,0,2,Export,642,Romania,ROU,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3868000,,,0
+H1,2000,2000,2000,2,0,1,Import,642,Romania,ROU,838,Free Zones,,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,204000,,,0
+H1,2000,2000,2000,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13698095,,,0
+H1,2000,2000,2000,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,495790,,,0
+H1,2000,2000,2000,2,0,1,Import,643,Russian Federation,RUS,260,Fr. South Antarctic Terr.,ATF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,267,,,0
+H1,2000,2000,2000,2,0,1,Import,659,Saint Kitts and Nevis,KNA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,98,,,0
+H1,2000,2000,2000,2,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,51014,,,0
+H1,2000,2000,2000,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,961,,,0
+H1,2000,2000,2000,2,0,1,Import,678,Sao Tome and Principe,STP,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,178,,,0
+H1,2000,2000,2000,2,0,1,Import,682,Saudi Arabia,SAU,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29239770,,,0
+H1,2000,2000,2000,2,0,2,Export,682,Saudi Arabia,SAU,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,72267,,,0
+H1,2000,2000,2000,2,0,1,Import,686,Senegal,SEN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5928231,,,0
+H1,2000,2000,2000,2,0,2,Export,686,Senegal,SEN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,44690,,,0
+H1,2000,2000,2000,2,0,1,Import,699,India,IND,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,21314968,,,0
+H1,2000,2000,2000,2,0,2,Export,699,India,IND,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3226318,,,0
+H1,2000,2000,2000,2,0,1,Import,702,Singapore,SGP,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14613723,,,0
+H1,2000,2000,2000,2,0,2,Export,702,Singapore,SGP,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16316585,,,0
+H1,2000,2000,2000,2,0,2,Export,702,Singapore,SGP,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19363,,,0
+H1,2000,2000,2000,2,0,1,Import,703,Slovakia,SVK,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7056244,,,0
+H1,2000,2000,2000,2,0,2,Export,703,Slovakia,SVK,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3998808,,,0
+H1,2000,2000,2000,2,0,1,Import,703,Slovakia,SVK,838,Free Zones,,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1172458,,,0
+H1,2000,2000,2000,2,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,474000,,,0
+H1,2000,2000,2000,2,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5024000,,,0
+H1,2000,2000,2000,2,0,1,Import,705,Slovenia,SVN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19263506,,,0
+H1,2000,2000,2000,2,0,2,Export,705,Slovenia,SVN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9697432,,,0
+H1,2000,2000,2000,2,0,1,Import,710,South Africa,ZAF,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20039304,,,0
+H1,2000,2000,2000,2,0,2,Export,710,South Africa,ZAF,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6374747,,,0
+H1,2000,2000,2000,2,0,1,Import,716,Zimbabwe,ZWE,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,170738,,,0
+H1,2000,2000,2000,2,0,1,Import,724,Spain,ESP,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,474446927,,,4
+H1,2000,2000,2000,2,0,2,Export,724,Spain,ESP,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,361806669,,,0
+H1,2000,2000,2000,2,0,2,Export,724,Spain,ESP,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,12298,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,724,Spain,ESP,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,10448,,,0
+H1,2000,2000,2000,2,0,1,Import,736,Fmr Sudan,SDN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,976989,,,0
+H1,2000,2000,2000,2,0,2,Export,736,Fmr Sudan,SDN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2,,,0
+H1,2000,2000,2000,2,0,1,Import,752,Sweden,SWE,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,129596341,,,0
+H1,2000,2000,2000,2,0,2,Export,752,Sweden,SWE,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,34452555,,,0
+H1,2000,2000,2000,2,0,1,Import,757,Switzerland,CHE,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,69582664,,,0
+H1,2000,2000,2000,2,0,2,Export,757,Switzerland,CHE,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18823445,,,0
+H1,2000,2000,2000,2,0,1,Import,762,Tajikistan,TJK,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1000,,,0
+H1,2000,2000,2000,2,0,1,Import,764,Thailand,THA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11919088,,,0
+H1,2000,2000,2000,2,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,56355545,,,0
+H1,2000,2000,2000,2,0,2,Export,764,Thailand,THA,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,89279,,,0
+H1,2000,2000,2000,2,0,1,Import,768,Togo,TGO,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,644799,,,0
+H1,2000,2000,2000,2,0,1,Import,780,Trinidad and Tobago,TTO,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,288558,,,0
+H1,2000,2000,2000,2,0,1,Import,784,United Arab Emirates,ARE,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17066358,,,0
+H1,2000,2000,2000,2,0,2,Export,784,United Arab Emirates,ARE,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,331022,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,784,United Arab Emirates,ARE,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,233892,,,0
+H1,2000,2000,2000,2,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14916611,,,0
+H1,2000,2000,2000,2,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2857756,,,0
+H1,2000,2000,2000,2,0,1,Import,792,Turkey,TUR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,61078742,,,0
+H1,2000,2000,2000,2,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24209126,,,0
+H1,2000,2000,2000,2,0,1,Import,792,Turkey,TUR,838,Free Zones,,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5670100,,,0
+H1,2000,2000,2000,2,0,2,Export,792,Turkey,TUR,838,Free Zones,,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10400364,,,0
+H1,2000,2000,2000,2,0,1,Import,795,Turkmenistan,TKM,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,334005,,,0
+H1,2000,2000,2000,2,0,1,Import,800,Uganda,UGA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30495,,,0
+H1,2000,2000,2000,2,0,1,Import,807,North Macedonia,MKD,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,403821,,,0
+H1,2000,2000,2000,2,0,1,Import,826,United Kingdom,GBR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,348204927,,,0
+H1,2000,2000,2000,2,0,2,Export,826,United Kingdom,GBR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,262376114,,,0
+H1,2000,2000,2000,2,0,2,Export,826,United Kingdom,GBR,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12393,,,0
+H1,2000,2000,2000,2,0,1,Import,834,United Rep. of Tanzania,TZA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,482248,,,0
+H1,2000,2000,2000,2,0,1,Import,842,USA,USA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,266435462,,,0
+H1,2000,2000,2000,2,0,2,Export,842,USA,USA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,136908678,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,842,USA,USA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4975702,,,0
+H1,2000,2000,2000,2,0,2,Export,842,USA,USA,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,405519,,,0
+H1,2000,2000,2000,2,0,2,Export,842,USA,USA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15450,,,0
+H1,2000,2000,2000,2,0,1,Import,854,Burkina Faso,BFA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1347699,,,0
+H1,2000,2000,2000,2,0,2,Export,854,Burkina Faso,BFA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,614,,,0
+H1,2000,2000,2000,2,0,1,Import,858,Uruguay,URY,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,961555,,,0
+H1,2000,2000,2000,2,0,1,Import,858,Uruguay,URY,838,Free Zones,,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,56391,,,0
+H1,2000,2000,2000,2,0,2,Export,858,Uruguay,URY,838,Free Zones,,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28916,,,0
+H1,2000,2000,2000,2,0,1,Import,862,Venezuela,VEN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6634543,,,0
+H1,2000,2000,2000,2,0,2,Export,862,Venezuela,VEN,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,106289,,,0
+H1,2000,2000,2000,2,0,1,Import,891,Serbia and Montenegro,SCG,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1631000,,,0
+H1,2000,2000,2000,2,0,2,Export,891,Serbia and Montenegro,SCG,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2060000,,,0
+H0,2000,2000,2000,2,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,315507,,,0
+H0,2000,2000,2000,2,0,1,Import,50,Bangladesh,BGD,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,817132,,,0
+H0,2000,2000,2000,2,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,181,,,0
+H0,2000,2000,2000,2,0,1,Import,140,Central African Rep.,CAF,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,647987,,,0
+H0,2000,2000,2000,2,0,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,85306,,,0
+H0,2000,2000,2000,2,0,1,Import,270,Gambia,GMB,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,432211,,,0
+H0,2000,2000,2000,2,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1232850,,,0
+H0,2000,2000,2000,2,0,1,Import,414,Kuwait,KWT,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,372556,,,0
+H0,2000,2000,2000,2,0,1,Import,504,Morocco,MAR,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,73956480,,,0
+H0,2000,2000,2000,2,0,2,Export,504,Morocco,MAR,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,117321168,,,0
+H0,2000,2000,2000,2,0,2,Export,504,Morocco,MAR,838,Free Zones,,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,93335,,,0
+H0,2000,2000,2000,2,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,404459,,,0
+H0,2000,2000,2000,2,0,2,Export,508,Mozambique,MOZ,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,41558,,,0
+H0,2000,2000,2000,2,0,1,Import,540,New Caledonia,NCL,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1852609,,,0
+H0,2000,2000,2000,2,0,2,Export,540,New Caledonia,NCL,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,39633,,,0
+H0,2000,2000,2000,2,0,1,Import,598,Papua New Guinea,PNG,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1569,,,0
+H0,2000,2000,2000,2,0,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2978,,,0
+H0,2000,2000,2000,2,0,1,Import,690,Seychelles,SYC,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,68443,,,0
+H0,2000,2000,2000,2,0,2,Export,690,Seychelles,SYC,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,94651,,,0
+H0,2000,2000,2000,2,0,3,Re-Export,690,Seychelles,SYC,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,94651,,,0
+H0,2000,2000,2000,2,0,1,Import,694,Sierra Leone,SLE,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,39651,,,0
+H0,2000,2000,2000,2,0,1,Import,740,Suriname,SUR,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,25867,,,0
+H0,2000,2000,2000,2,0,1,Import,804,Ukraine,UKR,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,8683990,,,0
+H0,2000,2000,2000,2,0,2,Export,804,Ukraine,UKR,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1296120,,,0
+H0,2000,2000,2000,2,0,1,Import,818,Egypt,EGY,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,23399592,,,0
+H0,2000,2000,2000,2,0,2,Export,818,Egypt,EGY,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,191017543,,,0
+H0,2000,2000,2000,2,0,1,Import,876,Wallis and Futuna Isds,WLF,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,202278,,,0
+H0,2000,2000,2000,2,0,1,Import,894,Zambia,ZMB,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,61762,,,0
+H0,2000,2000,2000,2,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1548968,,,0
+H0,2000,2000,2000,2,0,2,Export,48,Bahrain,BHR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,202109,,,0
+H0,2000,2000,2000,2,0,3,Re-Export,48,Bahrain,BHR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,141274,,,0
+H0,2000,2000,2000,2,0,1,Import,50,Bangladesh,BGD,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,991155,,,0
+H0,2000,2000,2000,2,0,2,Export,50,Bangladesh,BGD,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,192286,,,0
+H0,2000,2000,2000,2,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,83805,,,0
+H0,2000,2000,2000,2,0,1,Import,140,Central African Rep.,CAF,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,269602,,,0
+H0,2000,2000,2000,2,0,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,110736,,,0
+H0,2000,2000,2000,2,0,2,Export,174,Comoros,COM,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,747,,,0
+H0,2000,2000,2000,2,0,1,Import,270,Gambia,GMB,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,340272,,,4
+H0,2000,2000,2000,2,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3151659,,,0
+H0,2000,2000,2000,2,0,2,Export,288,Ghana,GHA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23527,,,0
+H0,2000,2000,2000,2,0,1,Import,414,Kuwait,KWT,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4798211,,,0
+H0,2000,2000,2000,2,0,2,Export,414,Kuwait,KWT,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11088,,,0
+H0,2000,2000,2000,2,0,3,Re-Export,414,Kuwait,KWT,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11088,,,0
+H0,2000,2000,2000,2,0,2,Export,414,Kuwait,KWT,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17307,,,0
+H0,2000,2000,2000,2,0,3,Re-Export,414,Kuwait,KWT,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17307,,,0
+H0,2000,2000,2000,2,0,1,Import,504,Morocco,MAR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,91080704,,,0
+H0,2000,2000,2000,2,0,2,Export,504,Morocco,MAR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3595932,,,0
+H0,2000,2000,2000,2,0,1,Import,504,Morocco,MAR,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,40707,,,0
+H0,2000,2000,2000,2,0,2,Export,504,Morocco,MAR,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1370,,,0
+H0,2000,2000,2000,2,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39832,,,0
+H0,2000,2000,2000,2,0,1,Import,540,New Caledonia,NCL,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14106664,,,0
+H0,2000,2000,2000,2,0,2,Export,540,New Caledonia,NCL,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13238,,,0
+H0,2000,2000,2000,2,0,1,Import,540,New Caledonia,NCL,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,61421,,,0
+H0,2000,2000,2000,2,0,2,Export,540,New Caledonia,NCL,258,French Polynesia,PYF,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5081,,,0
+H0,2000,2000,2000,2,0,1,Import,598,Papua New Guinea,PNG,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1276,,,0
+H0,2000,2000,2000,2,0,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1384,,,0
+H0,2000,2000,2000,2,0,1,Import,690,Seychelles,SYC,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1013255,,,0
+H0,2000,2000,2000,2,0,2,Export,690,Seychelles,SYC,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,110,,,0
+H0,2000,2000,2000,2,0,3,Re-Export,690,Seychelles,SYC,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,110,,,0
+H0,2000,2000,2000,2,0,1,Import,694,Sierra Leone,SLE,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,770681,,,0
+H0,2000,2000,2000,2,0,1,Import,740,Suriname,SUR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,105843,,,0
+H0,2000,2000,2000,2,0,2,Export,740,Suriname,SUR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4496,,,0
+H0,2000,2000,2000,2,0,1,Import,804,Ukraine,UKR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7508070,,,0
+H0,2000,2000,2000,2,0,2,Export,804,Ukraine,UKR,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15060,,,0
+H0,2000,2000,2000,2,0,1,Import,818,Egypt,EGY,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15463746,,,0
+H0,2000,2000,2000,2,0,2,Export,818,Egypt,EGY,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7302112,,,0
+H0,2000,2000,2000,2,0,1,Import,876,Wallis and Futuna Isds,WLF,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,310269,,,0
+H0,2000,2000,2000,2,0,1,Import,894,Zambia,ZMB,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,65326,,,0
+H0,2000,2000,2000,2,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1070621,,,0
+H0,2000,2000,2000,2,0,1,Import,50,Bangladesh,BGD,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,500623,,,0
+H0,2000,2000,2000,2,0,2,Export,50,Bangladesh,BGD,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7489,,,0
+H0,2000,2000,2000,2,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13964,,,0
+H0,2000,2000,2000,2,0,1,Import,140,Central African Rep.,CAF,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,198601,,,0
+H0,2000,2000,2000,2,0,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,213278,,,0
+H0,2000,2000,2000,2,0,1,Import,270,Gambia,GMB,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,18926,,,0
+H0,2000,2000,2000,2,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,528448,,,0
+H0,2000,2000,2000,2,0,2,Export,288,Ghana,GHA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1460282,,,0
+H0,2000,2000,2000,2,0,1,Import,414,Kuwait,KWT,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2152974,,,0
+H0,2000,2000,2000,2,0,2,Export,414,Kuwait,KWT,838,Free Zones,,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,78807,,,0
+H0,2000,2000,2000,2,0,3,Re-Export,414,Kuwait,KWT,838,Free Zones,,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,78807,,,0
+H0,2000,2000,2000,2,0,1,Import,504,Morocco,MAR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13774259,,,0
+H0,2000,2000,2000,2,0,2,Export,504,Morocco,MAR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1112629,,,0
+H0,2000,2000,2000,2,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,69035,,,0
+H0,2000,2000,2000,2,0,1,Import,540,New Caledonia,NCL,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3643011,,,0
+H0,2000,2000,2000,2,0,2,Export,540,New Caledonia,NCL,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2973,,,0
+H0,2000,2000,2000,2,0,2,Export,540,New Caledonia,NCL,258,French Polynesia,PYF,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2879,,,0
+H0,2000,2000,2000,2,0,1,Import,598,Papua New Guinea,PNG,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19975,,,0
+H0,2000,2000,2000,2,0,2,Export,598,Papua New Guinea,PNG,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,55035,,,0
+H0,2000,2000,2000,2,0,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,281,,,0
+H0,2000,2000,2000,2,0,1,Import,690,Seychelles,SYC,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,307339,,,0
+H0,2000,2000,2000,2,0,1,Import,694,Sierra Leone,SLE,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,130,,,0
+H0,2000,2000,2000,2,0,1,Import,740,Suriname,SUR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,31505,,,0
+H0,2000,2000,2000,2,0,2,Export,740,Suriname,SUR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4336,,,0
+H0,2000,2000,2000,2,0,1,Import,804,Ukraine,UKR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2129920,,,0
+H0,2000,2000,2000,2,0,2,Export,804,Ukraine,UKR,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,279960,,,0
+H0,2000,2000,2000,2,0,1,Import,818,Egypt,EGY,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7762053,,,0
+H0,2000,2000,2000,2,0,2,Export,818,Egypt,EGY,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2598,,,0
+H0,2000,2000,2000,2,0,1,Import,876,Wallis and Futuna Isds,WLF,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,39200,,,0
+H0,2000,2000,2000,2,0,1,Import,894,Zambia,ZMB,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,102832,,,0

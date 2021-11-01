@@ -1,0 +1,934 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,2,0,1,Import,8,Albania,ALB,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3988454,,,0
+H5,2017,2017,2017,2,0,2,Export,8,Albania,ALB,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,60456,,,0
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,94354,,,0
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,11968,,,0
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7207977,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3463578,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4020,,,0
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,209430,,,0
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,897841,,,0
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,998417,,,0
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1057160,,,0
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1366964390,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,39683569,,,4
+H5,2017,2017,2017,2,0,1,Import,100,Bulgaria,BGR,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4412312,,,0
+H5,2017,2017,2017,2,0,2,Export,100,Bulgaria,BGR,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,898449,,,0
+H5,2017,2017,2017,2,0,1,Import,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,10,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,8220759,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5079,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,83557,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,387,,,0
+H5,2017,2017,2017,2,0,1,Import,152,Chile,CHL,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,178952,,,0
+H5,2017,2017,2017,2,0,2,Export,152,Chile,CHL,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,65456810,,,4
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1646507,,,0
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,64,Bhutan,BTN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,25189,,,0
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,45689,,,4
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,106997,,,0
+H5,2017,2017,2017,2,0,2,Export,170,Colombia,COL,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3618799,,,0
+H5,2017,2017,2017,2,0,1,Import,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,230395382,,,4
+H5,2017,2017,2017,2,0,2,Export,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,512257587,,,4
+H5,2017,2017,2017,2,0,1,Import,196,Cyprus,CYP,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6023209,,,0
+H5,2017,2017,2017,2,0,1,Import,203,Czechia,CZE,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,34792186,,,4
+H5,2017,2017,2017,2,0,2,Export,203,Czechia,CZE,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,30870191,,,4
+H5,2017,2017,2017,2,0,2,Export,208,Denmark,DNK,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,11,,,0
+H5,2017,2017,2017,2,0,2,Export,218,Ecuador,ECU,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,152697,,,0
+H5,2017,2017,2017,2,0,2,Export,233,Estonia,EST,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2643,,,0
+H5,2017,2017,2017,2,0,2,Export,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,20,,,4
+H5,2017,2017,2017,2,0,2,Export,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,34122,,,0
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,144,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,676667,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,752260,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1293,,,0
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2903928,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,449062,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2053359,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7828189,,,0
+H5,2017,2017,2017,2,0,2,Export,300,Greece,GRC,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,8858486,,,0
+H5,2017,2017,2017,2,0,1,Import,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,92780,,,0
+H5,2017,2017,2017,2,0,2,Export,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,36298,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7543,,,0
+H5,2017,2017,2017,2,0,2,Export,344,"China, Hong Kong SAR",HKG,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,54854,,,0
+H5,2017,2017,2017,2,0,1,Import,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2804691,,,0
+H5,2017,2017,2017,2,0,2,Export,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6870938,,,0
+H5,2017,2017,2017,2,0,2,Export,348,Hungary,HUN,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,89105,,,0
+H5,2017,2017,2017,2,0,2,Export,352,Iceland,ISL,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,236350,,,0
+H5,2017,2017,2017,2,0,2,Export,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,127776,,,0
+H5,2017,2017,2017,2,0,2,Export,364,Iran,IRN,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,175780,,,0
+H5,2017,2017,2017,2,0,1,Import,372,Ireland,IRL,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,808,,,0
+H5,2017,2017,2017,2,0,2,Export,381,Italy,ITA,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4680,,,0
+H5,2017,2017,2017,2,0,1,Import,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1190784,,,0
+H5,2017,2017,2017,2,0,2,Export,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3404085,,,0
+H5,2017,2017,2017,2,0,2,Export,381,Italy,ITA,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,331857,,,0
+H5,2017,2017,2017,2,0,2,Export,392,Japan,JPN,64,Bhutan,BTN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,11370,,,0
+H5,2017,2017,2017,2,0,2,Export,392,Japan,JPN,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,38533,,,0
+H5,2017,2017,2017,2,0,2,Export,398,Kazakhstan,KAZ,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,186578,,,0
+H5,2017,2017,2017,2,0,2,Export,410,Rep. of Korea,KOR,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,38327,,,0
+H5,2017,2017,2017,2,0,1,Import,410,Rep. of Korea,KOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,133,,,0
+H5,2017,2017,2017,2,0,2,Export,410,Rep. of Korea,KOR,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,268288,,,0
+H5,2017,2017,2017,2,0,1,Import,414,Kuwait,KWT,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,9307,,,0
+H5,2017,2017,2017,2,0,2,Export,422,Lebanon,LBN,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2039,,,0
+H5,2017,2017,2017,2,0,2,Export,428,Latvia,LVA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,205590,,,0
+H5,2017,2017,2017,2,0,2,Export,440,Lithuania,LTU,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,761975,,,0
+H5,2017,2017,2017,2,0,2,Export,440,Lithuania,LTU,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,109538,,,0
+H5,2017,2017,2017,2,0,2,Export,458,Malaysia,MYS,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,261148,,,0
+H5,2017,2017,2017,2,0,2,Export,470,Malta,MLT,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,268587,,,0
+H5,2017,2017,2017,2,0,2,Export,490,"Other Asia, nes",,64,Bhutan,BTN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,17464,,,0
+H5,2017,2017,2017,2,0,1,Import,499,Montenegro,MNE,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,13417903,,,4
+H5,2017,2017,2017,2,0,2,Export,499,Montenegro,MNE,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,4561244,,,4
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,602,,,0
+H5,2017,2017,2017,2,0,2,Export,504,Morocco,MAR,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,33679,,,0
+H5,2017,2017,2017,2,0,2,Export,516,Namibia,NAM,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3833,,,0
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3843,,,0
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,23876,,,0
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,600215,,,0
+H5,2017,2017,2017,2,0,1,Import,528,Netherlands,NLD,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,124,,,0
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,8328895,,,0
+H5,2017,2017,2017,2,0,2,Export,579,Norway,NOR,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1181,,,0
+H5,2017,2017,2017,2,0,1,Import,586,Pakistan,PAK,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,49475842,,,0
+H5,2017,2017,2017,2,0,2,Export,591,Panama,PAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,324,,,0
+H5,2017,2017,2017,2,0,1,Import,600,Paraguay,PRY,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,35774179,,,0
+H5,2017,2017,2017,2,0,2,Export,600,Paraguay,PRY,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1301742,,,0
+H5,2017,2017,2017,2,0,1,Import,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,23366387,,,0
+H5,2017,2017,2017,2,0,2,Export,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,83084850,,,0
+H5,2017,2017,2017,2,0,2,Export,616,Poland,POL,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,49825,,,0
+H5,2017,2017,2017,2,0,1,Import,616,Poland,POL,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7055092,,,0
+H5,2017,2017,2017,2,0,2,Export,616,Poland,POL,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,20541148,,,0
+H5,2017,2017,2017,2,0,2,Export,616,Poland,POL,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,13479,,,0
+H5,2017,2017,2017,2,0,2,Export,620,Portugal,PRT,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,175105,,,0
+H5,2017,2017,2017,2,0,2,Export,620,Portugal,PRT,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,81388,,,0
+H5,2017,2017,2017,2,0,2,Export,620,Portugal,PRT,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2479,,,0
+H5,2017,2017,2017,2,0,1,Import,642,Romania,ROU,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,713604,,,0
+H5,2017,2017,2017,2,0,2,Export,642,Romania,ROU,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1448880,,,0
+H5,2017,2017,2017,2,0,2,Export,643,Russian Federation,RUS,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,33307,,,0
+H5,2017,2017,2017,2,0,1,Import,643,Russian Federation,RUS,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,130333,,,0
+H5,2017,2017,2017,2,0,2,Export,643,Russian Federation,RUS,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,343691,,,0
+H5,2017,2017,2017,2,0,2,Export,643,Russian Federation,RUS,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,337600,,,0
+H5,2017,2017,2017,2,0,1,Import,688,Serbia,SRB,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,161326549,,,4
+H5,2017,2017,2017,2,0,2,Export,688,Serbia,SRB,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,105393422,,,4
+H5,2017,2017,2017,2,0,1,Import,699,India,IND,64,Bhutan,BTN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,34762487,,,4
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,64,Bhutan,BTN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,112001943,,,4
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,20439,,,0
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1522234,,,4
+H5,2017,2017,2017,2,0,1,Import,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1263659,,,0
+H5,2017,2017,2017,2,0,2,Export,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,384901,,,0
+H5,2017,2017,2017,2,0,1,Import,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,14669921,,,0
+H5,2017,2017,2017,2,0,2,Export,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,49499488,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1763243,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,23,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2918995,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,568755,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2986732,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,376129,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,994713,,,0
+H5,2017,2017,2017,2,0,2,Export,752,Sweden,SWE,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,321433,,,4
+H5,2017,2017,2017,2,0,1,Import,752,Sweden,SWE,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,703,,,4
+H5,2017,2017,2017,2,0,2,Export,752,Sweden,SWE,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,92926,,,4
+H5,2017,2017,2017,2,0,2,Export,752,Sweden,SWE,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,117,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,37506,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1291,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,227,,,0
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,19,,,0
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,64,Bhutan,BTN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,10277,,,0
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,59143,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,133516,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,813,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,677183,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,173389,,,0
+H5,2017,2017,2017,2,0,1,Import,807,North Macedonia,MKD,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3505941,,,0
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,13678,,,0
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,4507,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,219574,,,0
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3573,,,0
+H5,2017,2017,2017,2,0,1,Import,834,United Rep. of Tanzania,TZA,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,803,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,30449,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,107831627,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,842,USA,USA,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3710306,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,64,Bhutan,BTN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,32343978,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,26044524,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,19898,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,61773,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,11124847,,,0
+H5,2017,2017,2017,2,0,1,Import,8,Albania,ALB,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,552372,,,0
+H5,2017,2017,2017,2,0,2,Export,8,Albania,ALB,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,63681,,,0
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6257,,,0
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1061,,,0
+H5,2017,2017,2017,2,0,2,Export,20,Andorra,AND,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,47,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,17238,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,17350,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,48855,,,0
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6817,,,0
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,19843,,,0
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,266430,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,34519358,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,40963517,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1347,,,0
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,18904,,,4
+H5,2017,2017,2017,2,0,1,Import,48,Bahrain,BHR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,96,,,0
+H5,2017,2017,2017,2,0,1,Import,51,Armenia,ARM,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,386,,,0
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6742,,,0
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,337,,,0
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,241759,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2028666,,,0
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8026886,,,0
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,227,,,0
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,600133,,,0
+H5,2017,2017,2017,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1217,,,0
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,150,,,0
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,719929,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,93313600,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,46220,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,750,,,0
+H5,2017,2017,2017,2,0,1,Import,96,Brunei Darussalam,BRN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1663,,,0
+H5,2017,2017,2017,2,0,2,Export,100,Bulgaria,BGR,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,882,,,0
+H5,2017,2017,2017,2,0,1,Import,100,Bulgaria,BGR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,207223,,,0
+H5,2017,2017,2017,2,0,2,Export,100,Bulgaria,BGR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3427572,,,4
+H5,2017,2017,2017,2,0,2,Export,100,Bulgaria,BGR,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,18404,,,0
+H5,2017,2017,2017,2,0,1,Import,104,Myanmar,MMR,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,300,,,0
+H5,2017,2017,2017,2,0,1,Import,112,Belarus,BLR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,11500,,,4
+H5,2017,2017,2017,2,0,2,Export,112,Belarus,BLR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7500,,,0
+H5,2017,2017,2017,2,0,1,Import,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,2041,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,847017,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,81845,,,0
+H5,2017,2017,2017,2,0,1,Import,124,Canada,CAN,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,235,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,50,,,4
+H5,2017,2017,2017,2,0,1,Import,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,263596,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,31681,,,0
+H5,2017,2017,2017,2,0,1,Import,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,60631,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6098,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,439,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2434,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,124,Canada,CAN,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2434,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,277,,,0
+H5,2017,2017,2017,2,0,1,Import,152,Chile,CHL,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,28137,,,0
+H5,2017,2017,2017,2,0,1,Import,152,Chile,CHL,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,98977,,,4
+H5,2017,2017,2017,2,0,2,Export,152,Chile,CHL,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,31600520,,,4
+H5,2017,2017,2017,2,0,1,Import,152,Chile,CHL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,23996,,,0
+H5,2017,2017,2017,2,0,2,Export,152,Chile,CHL,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,230,,,4
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,164434,,,4
+H5,2017,2017,2017,2,0,1,Import,156,China,CHN,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,257,,,0
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,22145,,,4
+H5,2017,2017,2017,2,0,1,Import,156,China,CHN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1093,,,0
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13199356,,,4
+H5,2017,2017,2017,2,0,1,Import,156,China,CHN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,15601,,,4
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2035042,,,4
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,35147566,,,4
+H5,2017,2017,2017,2,0,1,Import,170,Colombia,COL,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2862,,,0
+H5,2017,2017,2017,2,0,2,Export,170,Colombia,COL,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,22300317,,,4
+H5,2017,2017,2017,2,0,1,Import,170,Colombia,COL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3276,,,0
+H5,2017,2017,2017,2,0,2,Export,170,Colombia,COL,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,67601,,,0
+H5,2017,2017,2017,2,0,1,Import,188,Costa Rica,CRI,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,40,,,0
+H5,2017,2017,2017,2,0,2,Export,188,Costa Rica,CRI,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,32735,,,0
+H5,2017,2017,2017,2,0,1,Import,188,Costa Rica,CRI,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,168,,,0
+H5,2017,2017,2017,2,0,2,Export,188,Costa Rica,CRI,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1361,,,0
+H5,2017,2017,2017,2,0,1,Import,188,Costa Rica,CRI,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,30,,,0
+H5,2017,2017,2017,2,0,1,Import,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,49310696,,,4
+H5,2017,2017,2017,2,0,2,Export,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,42400764,,,4
+H5,2017,2017,2017,2,0,2,Export,191,Croatia,HRV,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,2678,,,4
+H5,2017,2017,2017,2,0,1,Import,196,Cyprus,CYP,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,120212,,,0
+H5,2017,2017,2017,2,0,2,Export,203,Czechia,CZE,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,384,,,0
+H5,2017,2017,2017,2,0,2,Export,203,Czechia,CZE,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,544987,,,0
+H5,2017,2017,2017,2,0,1,Import,203,Czechia,CZE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2681521,,,4
+H5,2017,2017,2017,2,0,2,Export,203,Czechia,CZE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10071250,,,4
+H5,2017,2017,2017,2,0,2,Export,203,Czechia,CZE,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5509,,,0
+H5,2017,2017,2017,2,0,2,Export,208,Denmark,DNK,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,440,,,0
+H5,2017,2017,2017,2,0,2,Export,208,Denmark,DNK,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1151,,,0
+H5,2017,2017,2017,2,0,1,Import,208,Denmark,DNK,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1350,,,0
+H5,2017,2017,2017,2,0,2,Export,208,Denmark,DNK,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14088,,,0
+H5,2017,2017,2017,2,0,1,Import,208,Denmark,DNK,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,773198,,,0
+H5,2017,2017,2017,2,0,2,Export,208,Denmark,DNK,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,136396,,,0
+H5,2017,2017,2017,2,0,2,Export,208,Denmark,DNK,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,59730,,,0
+H5,2017,2017,2017,2,0,2,Export,214,Dominican Rep.,DOM,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,15,,,4
+H5,2017,2017,2017,2,0,1,Import,214,Dominican Rep.,DOM,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1233,,,4
+H5,2017,2017,2017,2,0,2,Export,214,Dominican Rep.,DOM,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10533,,,4
+H5,2017,2017,2017,2,0,1,Import,214,Dominican Rep.,DOM,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,396,,,4
+H5,2017,2017,2017,2,0,1,Import,218,Ecuador,ECU,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5733,,,0
+H5,2017,2017,2017,2,0,1,Import,218,Ecuador,ECU,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,106,,,0
+H5,2017,2017,2017,2,0,2,Export,218,Ecuador,ECU,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,868485,,,0
+H5,2017,2017,2017,2,0,1,Import,222,El Salvador,SLV,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,11250,,,0
+H5,2017,2017,2017,2,0,1,Import,222,El Salvador,SLV,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16162,,,0
+H5,2017,2017,2017,2,0,2,Export,222,El Salvador,SLV,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,30,,,0
+H5,2017,2017,2017,2,0,1,Import,222,El Salvador,SLV,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3173,,,0
+H5,2017,2017,2017,2,0,1,Import,233,Estonia,EST,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,144,,,0
+H5,2017,2017,2017,2,0,2,Export,233,Estonia,EST,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,31,,,0
+H5,2017,2017,2017,2,0,1,Import,233,Estonia,EST,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1914,,,0
+H5,2017,2017,2017,2,0,2,Export,233,Estonia,EST,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,79454,,,0
+H5,2017,2017,2017,2,0,2,Export,246,Finland,FIN,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2277,,,0
+H5,2017,2017,2017,2,0,2,Export,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,139524,,,4
+H5,2017,2017,2017,2,0,1,Import,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,106527,,,4
+H5,2017,2017,2017,2,0,2,Export,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,423678,,,4
+H5,2017,2017,2017,2,0,2,Export,246,Finland,FIN,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1246,,,0
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,53522,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1188949,,,0
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,811,,,0
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,407,,,0
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,878913,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2779630,,,0
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2388521,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5030,,,0
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3570857,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,152857,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,59806,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,26559,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2936649,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,42069881,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,85133226,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,509070,,,4
+H5,2017,2017,2017,2,0,1,Import,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,453295,,,0
+H5,2017,2017,2017,2,0,2,Export,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7848734,,,4
+H5,2017,2017,2017,2,0,2,Export,300,Greece,GRC,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2435,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,500,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,411849,,,0
+H5,2017,2017,2017,2,0,2,Export,344,"China, Hong Kong SAR",HKG,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5040,,,4
+H5,2017,2017,2017,2,0,2,Export,344,"China, Hong Kong SAR",HKG,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,254094,,,4
+H5,2017,2017,2017,2,0,1,Import,344,"China, Hong Kong SAR",HKG,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5831,,,0
+H5,2017,2017,2017,2,0,2,Export,344,"China, Hong Kong SAR",HKG,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12094,,,4
+H5,2017,2017,2017,2,0,2,Export,344,"China, Hong Kong SAR",HKG,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,30974,,,4
+H5,2017,2017,2017,2,0,2,Export,348,Hungary,HUN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10982,,,4
+H5,2017,2017,2017,2,0,1,Import,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8805351,,,4
+H5,2017,2017,2017,2,0,2,Export,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,22164036,,,4
+H5,2017,2017,2017,2,0,2,Export,348,Hungary,HUN,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,108,,,4
+H5,2017,2017,2017,2,0,1,Import,352,Iceland,ISL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4293,,,0
+H5,2017,2017,2017,2,0,2,Export,360,Indonesia,IDN,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1372,,,0
+H5,2017,2017,2017,2,0,1,Import,360,Indonesia,IDN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,69,,,0
+H5,2017,2017,2017,2,0,1,Import,360,Indonesia,IDN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,29,,,0
+H5,2017,2017,2017,2,0,2,Export,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,95848,,,0
+H5,2017,2017,2017,2,0,2,Export,364,Iran,IRN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2600437,,,0
+H5,2017,2017,2017,2,0,1,Import,372,Ireland,IRL,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,192,,,0
+H5,2017,2017,2017,2,0,2,Export,372,Ireland,IRL,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,90656,,,0
+H5,2017,2017,2017,2,0,1,Import,372,Ireland,IRL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,43664,,,0
+H5,2017,2017,2017,2,0,2,Export,372,Ireland,IRL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,310244,,,4
+H5,2017,2017,2017,2,0,2,Export,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,40000,,,4
+H5,2017,2017,2017,2,0,1,Import,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1000,,,4
+H5,2017,2017,2017,2,0,2,Export,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,218000,,,4
+H5,2017,2017,2017,2,0,2,Export,381,Italy,ITA,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,52779,,,0
+H5,2017,2017,2017,2,0,1,Import,381,Italy,ITA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16921,,,0
+H5,2017,2017,2017,2,0,2,Export,381,Italy,ITA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1944416,,,0
+H5,2017,2017,2017,2,0,1,Import,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7319588,,,0
+H5,2017,2017,2017,2,0,2,Export,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,53863851,,,0
+H5,2017,2017,2017,2,0,2,Export,381,Italy,ITA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,994276,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,381,Italy,ITA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,26774,,,0
+H5,2017,2017,2017,2,0,2,Export,392,Japan,JPN,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,20127,,,0
+H5,2017,2017,2017,2,0,2,Export,392,Japan,JPN,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,54139,,,0
+H5,2017,2017,2017,2,0,2,Export,392,Japan,JPN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,167384,,,0
+H5,2017,2017,2017,2,0,2,Export,392,Japan,JPN,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,108920,,,0
+H5,2017,2017,2017,2,0,2,Export,398,Kazakhstan,KAZ,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,100,,,0
+H5,2017,2017,2017,2,0,1,Import,398,Kazakhstan,KAZ,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,11130,,,0
+H5,2017,2017,2017,2,0,2,Export,400,Jordan,JOR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4994,,,0
+H5,2017,2017,2017,2,0,2,Export,410,Rep. of Korea,KOR,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,543,,,0
+H5,2017,2017,2017,2,0,1,Import,410,Rep. of Korea,KOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12,,,0
+H5,2017,2017,2017,2,0,2,Export,410,Rep. of Korea,KOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,560574,,,0
+H5,2017,2017,2017,2,0,1,Import,410,Rep. of Korea,KOR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1390,,,0
+H5,2017,2017,2017,2,0,2,Export,410,Rep. of Korea,KOR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9165,,,0
+H5,2017,2017,2017,2,0,2,Export,410,Rep. of Korea,KOR,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1302880,,,0
+H5,2017,2017,2017,2,0,1,Import,414,Kuwait,KWT,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1193,,,0
+H5,2017,2017,2017,2,0,2,Export,414,Kuwait,KWT,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,42251,,,0
+H5,2017,2017,2017,2,0,1,Import,417,Kyrgyzstan,KGZ,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,493,,,0
+H5,2017,2017,2017,2,0,1,Import,422,Lebanon,LBN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1933,,,0
+H5,2017,2017,2017,2,0,2,Export,422,Lebanon,LBN,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,229933,,,0
+H5,2017,2017,2017,2,0,2,Export,428,Latvia,LVA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1622,,,0
+H5,2017,2017,2017,2,0,1,Import,428,Latvia,LVA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2272,,,0
+H5,2017,2017,2017,2,0,2,Export,428,Latvia,LVA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14846,,,4
+H5,2017,2017,2017,2,0,2,Export,440,Lithuania,LTU,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,130,,,0
+H5,2017,2017,2017,2,0,1,Import,440,Lithuania,LTU,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,38516,,,0
+H5,2017,2017,2017,2,0,2,Export,440,Lithuania,LTU,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,268129,,,0
+H5,2017,2017,2017,2,0,2,Export,442,Luxembourg,LUX,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16525,,,0
+H5,2017,2017,2017,2,0,1,Import,442,Luxembourg,LUX,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,669233,,,0
+H5,2017,2017,2017,2,0,2,Export,442,Luxembourg,LUX,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9988,,,0
+H5,2017,2017,2017,2,0,2,Export,458,Malaysia,MYS,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,23159,,,0
+H5,2017,2017,2017,2,0,2,Export,458,Malaysia,MYS,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,69185,,,0
+H5,2017,2017,2017,2,0,2,Export,458,Malaysia,MYS,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4362,,,0
+H5,2017,2017,2017,2,0,2,Export,458,Malaysia,MYS,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,64269,,,0
+H5,2017,2017,2017,2,0,2,Export,490,"Other Asia, nes",,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,20851,,,4
+H5,2017,2017,2017,2,0,2,Export,490,"Other Asia, nes",,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7827,,,0
+H5,2017,2017,2017,2,0,2,Export,490,"Other Asia, nes",,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,195327,,,0
+H5,2017,2017,2017,2,0,1,Import,490,"Other Asia, nes",,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4537,,,0
+H5,2017,2017,2017,2,0,2,Export,490,"Other Asia, nes",,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,18352,,,0
+H5,2017,2017,2017,2,0,2,Export,490,"Other Asia, nes",,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,860278,,,0
+H5,2017,2017,2017,2,0,1,Import,496,Mongolia,MNG,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1494,,,0
+H5,2017,2017,2017,2,0,1,Import,499,Montenegro,MNE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3543825,,,0
+H5,2017,2017,2017,2,0,2,Export,499,Montenegro,MNE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,561669,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3509,,,0
+H5,2017,2017,2017,2,0,2,Export,504,Morocco,MAR,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,476080,,,0
+H5,2017,2017,2017,2,0,2,Export,512,Oman,OMN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,517,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,512,Oman,OMN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,517,,,0
+H5,2017,2017,2017,2,0,1,Import,512,Oman,OMN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,860,,,0
+H5,2017,2017,2017,2,0,2,Export,516,Namibia,NAM,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,151,,,0
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13682,,,0
+H5,2017,2017,2017,2,0,1,Import,528,Netherlands,NLD,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,230,,,0
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,286081,,,0
+H5,2017,2017,2017,2,0,1,Import,528,Netherlands,NLD,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,680,,,4
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,258847,,,4
+H5,2017,2017,2017,2,0,1,Import,528,Netherlands,NLD,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8717148,,,0
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10252688,,,0
+H5,2017,2017,2017,2,0,1,Import,528,Netherlands,NLD,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,22698,,,0
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,75454,,,0
+H5,2017,2017,2017,2,0,2,Export,554,New Zealand,NZL,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,3740553,,,0
+H5,2017,2017,2017,2,0,2,Export,554,New Zealand,NZL,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6508,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,554,New Zealand,NZL,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6508,,,0
+H5,2017,2017,2017,2,0,1,Import,554,New Zealand,NZL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10888,,,4
+H5,2017,2017,2017,2,0,2,Export,579,Norway,NOR,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,81228,,,0
+H5,2017,2017,2017,2,0,2,Export,579,Norway,NOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1142,,,0
+H5,2017,2017,2017,2,0,1,Import,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,489734,,,0
+H5,2017,2017,2017,2,0,2,Export,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,15732,,,0
+H5,2017,2017,2017,2,0,1,Import,586,Pakistan,PAK,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2272,,,0
+H5,2017,2017,2017,2,0,2,Export,591,Panama,PAN,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14575,,,0
+H5,2017,2017,2017,2,0,1,Import,591,Panama,PAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,594,,,0
+H5,2017,2017,2017,2,0,2,Export,591,Panama,PAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,621090,,,0
+H5,2017,2017,2017,2,0,1,Import,600,Paraguay,PRY,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,393128,,,0
+H5,2017,2017,2017,2,0,2,Export,600,Paraguay,PRY,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3618337,,,4
+H5,2017,2017,2017,2,0,1,Import,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,293461,,,0
+H5,2017,2017,2017,2,0,2,Export,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,59714690,,,0
+H5,2017,2017,2017,2,0,1,Import,604,Peru,PER,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,232441,,,0
+H5,2017,2017,2017,2,0,2,Export,616,Poland,POL,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4236,,,4
+H5,2017,2017,2017,2,0,2,Export,616,Poland,POL,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,20820,,,4
+H5,2017,2017,2017,2,0,1,Import,616,Poland,POL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1927002,,,4
+H5,2017,2017,2017,2,0,2,Export,616,Poland,POL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,17526331,,,4
+H5,2017,2017,2017,2,0,1,Import,616,Poland,POL,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4033,,,0
+H5,2017,2017,2017,2,0,2,Export,616,Poland,POL,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5192,,,0
+H5,2017,2017,2017,2,0,2,Export,620,Portugal,PRT,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,18,,,0
+H5,2017,2017,2017,2,0,2,Export,620,Portugal,PRT,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,124845,,,0
+H5,2017,2017,2017,2,0,1,Import,620,Portugal,PRT,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,841988,,,0
+H5,2017,2017,2017,2,0,2,Export,620,Portugal,PRT,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,137651,,,4
+H5,2017,2017,2017,2,0,2,Export,620,Portugal,PRT,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,258990,,,4
+H5,2017,2017,2017,2,0,1,Import,642,Romania,ROU,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1336631,,,0
+H5,2017,2017,2017,2,0,2,Export,642,Romania,ROU,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2090884,,,0
+H5,2017,2017,2017,2,0,2,Export,643,Russian Federation,RUS,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1011,,,0
+H5,2017,2017,2017,2,0,1,Import,643,Russian Federation,RUS,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,185526,,,0
+H5,2017,2017,2017,2,0,2,Export,643,Russian Federation,RUS,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,317796,,,0
+H5,2017,2017,2017,2,0,1,Import,688,Serbia,SRB,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,17388033,,,4
+H5,2017,2017,2017,2,0,2,Export,688,Serbia,SRB,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,70560046,,,4
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1784,,,4
+H5,2017,2017,2017,2,0,1,Import,699,India,IND,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5692188,,,0
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9669919,,,4
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,865542,,,0
+H5,2017,2017,2017,2,0,1,Import,699,India,IND,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5011,,,4
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,242044,,,4
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4483158,,,4
+H5,2017,2017,2017,2,0,1,Import,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,360504,,,0
+H5,2017,2017,2017,2,0,2,Export,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3208306,,,4
+H5,2017,2017,2017,2,0,2,Export,705,Slovenia,SVN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,937,,,0
+H5,2017,2017,2017,2,0,1,Import,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12110829,,,0
+H5,2017,2017,2017,2,0,2,Export,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,40631166,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,107,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,42472,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,24690,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,455,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,274800,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,510,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7608,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,67348,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,69251,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3342707,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,51635,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,63314,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1916541,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1001205,,,0
+H5,2017,2017,2017,2,0,1,Import,752,Sweden,SWE,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,117,,,4
+H5,2017,2017,2017,2,0,2,Export,752,Sweden,SWE,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,18749,,,4
+H5,2017,2017,2017,2,0,2,Export,752,Sweden,SWE,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,35740,,,4
+H5,2017,2017,2017,2,0,2,Export,752,Sweden,SWE,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,706498,,,4
+H5,2017,2017,2017,2,0,1,Import,752,Sweden,SWE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3980270,,,4
+H5,2017,2017,2017,2,0,2,Export,752,Sweden,SWE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3896463,,,4
+H5,2017,2017,2017,2,0,2,Export,752,Sweden,SWE,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,229562,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8117,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13757,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1014,,,0
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,143044,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6678829,,,0
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1834435,,,4
+H5,2017,2017,2017,2,0,4,Re-Import,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5195,,,0
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,107568,,,4
+H5,2017,2017,2017,2,0,1,Import,764,Thailand,THA,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12,,,4
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2647,,,4
+H5,2017,2017,2017,2,0,1,Import,764,Thailand,THA,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,316,,,4
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,954448,,,4
+H5,2017,2017,2017,2,0,1,Import,764,Thailand,THA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1065,,,4
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,18523,,,4
+H5,2017,2017,2017,2,0,1,Import,764,Thailand,THA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,74814,,,4
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,75,,,0
+H5,2017,2017,2017,2,0,1,Import,764,Thailand,THA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,47,,,4
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1343091,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1027,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,642102,,,0
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,856236,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,31663981,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,697081,,,0
+H5,2017,2017,2017,2,0,1,Import,807,North Macedonia,MKD,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,827392,,,4
+H5,2017,2017,2017,2,0,2,Export,807,North Macedonia,MKD,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,25166,,,0
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1257,,,0
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,454372,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,44486,,,0
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,114437,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,257390,,,0
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4752836,,,0
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,452860,,,0
+H5,2017,2017,2017,2,0,1,Import,834,United Rep. of Tanzania,TZA,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,40993,,,0
+H5,2017,2017,2017,2,0,2,Export,834,United Rep. of Tanzania,TZA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,160,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,214881,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,11454747,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,842,USA,USA,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,329491,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,216428,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,21219,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,505993,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,15768367,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,693517,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,688969,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,468404,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,71829,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,624,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1888155,,,4
+H5,2017,2017,2017,2,0,1,Import,858,Uruguay,URY,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,25138,,,0
+H5,2017,2017,2017,2,0,2,Export,858,Uruguay,URY,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2524954,,,0
+H5,2017,2017,2017,2,0,1,Import,8,Albania,ALB,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,25346,,,0
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,13672,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,3039,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,27821,,,0
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,10060,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3521,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,179615,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,817626,,,0
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5067586,,,0
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5089,,,0
+H5,2017,2017,2017,2,0,1,Import,48,Bahrain,BHR,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2182,,,0
+H5,2017,2017,2017,2,0,1,Import,48,Bahrain,BHR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1056,,,0
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6504,,,0
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,740,,,0
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,49396,,,0
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,7568,,,0
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1062929,,,0
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,866626,,,0
+H5,2017,2017,2017,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,200,,,0
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,43088,,,0
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,520,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14575228,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,10,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,266,,,0
+H5,2017,2017,2017,2,0,1,Import,100,Bulgaria,BGR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,189896,,,0
+H5,2017,2017,2017,2,0,2,Export,100,Bulgaria,BGR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,242865,,,4
+H5,2017,2017,2017,2,0,2,Export,104,Myanmar,MMR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1155,,,4
+H5,2017,2017,2017,2,0,1,Import,112,Belarus,BLR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,100,,,0
+H5,2017,2017,2017,2,0,2,Export,112,Belarus,BLR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1981900,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,110636,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,24467,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,508,,,4
+H5,2017,2017,2017,2,0,1,Import,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,39,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,50329,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,40714,,,0
+H5,2017,2017,2017,2,0,1,Import,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,1762,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,770,,,4
+H5,2017,2017,2017,2,0,1,Import,124,Canada,CAN,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,64,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,20810,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,124,Canada,CAN,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1149,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2275,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,67766,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,294,,,0
+H5,2017,2017,2017,2,0,1,Import,152,Chile,CHL,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4839,,,4
+H5,2017,2017,2017,2,0,2,Export,152,Chile,CHL,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,40446316,,,4
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,398695,,,0
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,151961,,,0
+H5,2017,2017,2017,2,0,1,Import,156,China,CHN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,595,,,0
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,32667709,,,4
+H5,2017,2017,2017,2,0,1,Import,156,China,CHN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,344,,,4
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1897474,,,4
+H5,2017,2017,2017,2,0,1,Import,156,China,CHN,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,124,,,4
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,12888811,,,0
+H5,2017,2017,2017,2,0,1,Import,170,Colombia,COL,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,233,,,0
+H5,2017,2017,2017,2,0,1,Import,170,Colombia,COL,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,219,,,0
+H5,2017,2017,2017,2,0,2,Export,170,Colombia,COL,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,544917,,,0
+H5,2017,2017,2017,2,0,1,Import,170,Colombia,COL,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,37,,,0
+H5,2017,2017,2017,2,0,2,Export,188,Costa Rica,CRI,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,210596,,,0
+H5,2017,2017,2017,2,0,2,Export,188,Costa Rica,CRI,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,676414,,,0
+H5,2017,2017,2017,2,0,1,Import,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,561350,,,4
+H5,2017,2017,2017,2,0,2,Export,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,7547669,,,4
+H5,2017,2017,2017,2,0,2,Export,203,Czechia,CZE,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,74,,,0
+H5,2017,2017,2017,2,0,2,Export,203,Czechia,CZE,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5827,,,0
+H5,2017,2017,2017,2,0,1,Import,203,Czechia,CZE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,54859,,,4
+H5,2017,2017,2017,2,0,2,Export,203,Czechia,CZE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,796879,,,0
+H5,2017,2017,2017,2,0,2,Export,203,Czechia,CZE,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,189,,,0
+H5,2017,2017,2017,2,0,2,Export,208,Denmark,DNK,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,24398,,,0
+H5,2017,2017,2017,2,0,1,Import,208,Denmark,DNK,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,47262,,,0
+H5,2017,2017,2017,2,0,2,Export,208,Denmark,DNK,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,116420,,,0
+H5,2017,2017,2017,2,0,2,Export,208,Denmark,DNK,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,83084,,,0
+H5,2017,2017,2017,2,0,2,Export,214,Dominican Rep.,DOM,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,107,,,4
+H5,2017,2017,2017,2,0,1,Import,214,Dominican Rep.,DOM,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,187,,,4
+H5,2017,2017,2017,2,0,1,Import,218,Ecuador,ECU,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,817,,,0
+H5,2017,2017,2017,2,0,1,Import,218,Ecuador,ECU,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1717,,,0
+H5,2017,2017,2017,2,0,2,Export,218,Ecuador,ECU,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3734548,,,0
+H5,2017,2017,2017,2,0,1,Import,233,Estonia,EST,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,424,,,0
+H5,2017,2017,2017,2,0,2,Export,233,Estonia,EST,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,78246,,,0
+H5,2017,2017,2017,2,0,1,Import,233,Estonia,EST,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,57,,,0
+H5,2017,2017,2017,2,0,2,Export,233,Estonia,EST,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6431,,,0
+H5,2017,2017,2017,2,0,2,Export,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,10132,,,4
+H5,2017,2017,2017,2,0,1,Import,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,15390,,,4
+H5,2017,2017,2017,2,0,2,Export,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,90811,,,0
+H5,2017,2017,2017,2,0,2,Export,246,Finland,FIN,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,10936,,,0
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,11014,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,29237,,,0
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,99,,,0
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,42557,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1130,,,0
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1021082,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,953239,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,123142,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,57337,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1690420,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1250480,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,11414719,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,519395,,,0
+H5,2017,2017,2017,2,0,2,Export,300,Greece,GRC,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,862,,,0
+H5,2017,2017,2017,2,0,1,Import,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,25525,,,0
+H5,2017,2017,2017,2,0,2,Export,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,12330,,,0
+H5,2017,2017,2017,2,0,2,Export,300,Greece,GRC,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,9017,,,0
+H5,2017,2017,2017,2,0,2,Export,348,Hungary,HUN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,65663,,,0
+H5,2017,2017,2017,2,0,1,Import,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,937238,,,0
+H5,2017,2017,2017,2,0,2,Export,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8782080,,,4
+H5,2017,2017,2017,2,0,2,Export,348,Hungary,HUN,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1,,,4
+H5,2017,2017,2017,2,0,2,Export,360,Indonesia,IDN,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,42870,,,0
+H5,2017,2017,2017,2,0,1,Import,360,Indonesia,IDN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,22175,,,0
+H5,2017,2017,2017,2,0,2,Export,360,Indonesia,IDN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,937456,,,0
+H5,2017,2017,2017,2,0,1,Import,360,Indonesia,IDN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,373,,,0
+H5,2017,2017,2017,2,0,2,Export,360,Indonesia,IDN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,81669,,,0
+H5,2017,2017,2017,2,0,2,Export,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,79500,,,0
+H5,2017,2017,2017,2,0,1,Import,372,Ireland,IRL,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1102,,,0
+H5,2017,2017,2017,2,0,2,Export,372,Ireland,IRL,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,308,,,4
+H5,2017,2017,2017,2,0,2,Export,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,49000,,,4
+H5,2017,2017,2017,2,0,2,Export,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,94000,,,4
+H5,2017,2017,2017,2,0,2,Export,381,Italy,ITA,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,17286,,,0
+H5,2017,2017,2017,2,0,2,Export,381,Italy,ITA,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,719293,,,0
+H5,2017,2017,2017,2,0,1,Import,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,209124,,,0
+H5,2017,2017,2017,2,0,2,Export,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5523476,,,0
+H5,2017,2017,2017,2,0,2,Export,381,Italy,ITA,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,81261,,,0
+H5,2017,2017,2017,2,0,2,Export,392,Japan,JPN,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,175365,,,0
+H5,2017,2017,2017,2,0,2,Export,392,Japan,JPN,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,117944,,,0
+H5,2017,2017,2017,2,0,2,Export,392,Japan,JPN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6187243,,,0
+H5,2017,2017,2017,2,0,2,Export,392,Japan,JPN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,19565,,,0
+H5,2017,2017,2017,2,0,2,Export,392,Japan,JPN,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1354626,,,0
+H5,2017,2017,2017,2,0,2,Export,398,Kazakhstan,KAZ,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1312,,,0
+H5,2017,2017,2017,2,0,1,Import,398,Kazakhstan,KAZ,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,32,,,0
+H5,2017,2017,2017,2,0,2,Export,410,Rep. of Korea,KOR,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,102329,,,0
+H5,2017,2017,2017,2,0,2,Export,410,Rep. of Korea,KOR,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,131,,,0
+H5,2017,2017,2017,2,0,2,Export,410,Rep. of Korea,KOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,151989,,,4
+H5,2017,2017,2017,2,0,1,Import,410,Rep. of Korea,KOR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,13,,,0
+H5,2017,2017,2017,2,0,2,Export,410,Rep. of Korea,KOR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,74650,,,0
+H5,2017,2017,2017,2,0,2,Export,410,Rep. of Korea,KOR,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,64414,,,0
+H5,2017,2017,2017,2,0,1,Import,414,Kuwait,KWT,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,32070,,,0
+H5,2017,2017,2017,2,0,2,Export,422,Lebanon,LBN,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,510,,,0
+H5,2017,2017,2017,2,0,2,Export,428,Latvia,LVA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3329,,,0
+H5,2017,2017,2017,2,0,2,Export,440,Lithuania,LTU,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,96,,,0
+H5,2017,2017,2017,2,0,2,Export,440,Lithuania,LTU,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6799,,,0
+H5,2017,2017,2017,2,0,2,Export,442,Luxembourg,LUX,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,11906,,,0
+H5,2017,2017,2017,2,0,2,Export,458,Malaysia,MYS,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,828647,,,4
+H5,2017,2017,2017,2,0,2,Export,458,Malaysia,MYS,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,399600,,,4
+H5,2017,2017,2017,2,0,2,Export,458,Malaysia,MYS,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,226777,,,4
+H5,2017,2017,2017,2,0,2,Export,490,"Other Asia, nes",,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,89129,,,0
+H5,2017,2017,2017,2,0,1,Import,490,"Other Asia, nes",,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1216,,,4
+H5,2017,2017,2017,2,0,2,Export,490,"Other Asia, nes",,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,146060,,,0
+H5,2017,2017,2017,2,0,1,Import,490,"Other Asia, nes",,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8088,,,4
+H5,2017,2017,2017,2,0,2,Export,490,"Other Asia, nes",,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,460,,,0
+H5,2017,2017,2017,2,0,2,Export,490,"Other Asia, nes",,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,76631,,,0
+H5,2017,2017,2017,2,0,1,Import,499,Montenegro,MNE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,397894,,,0
+H5,2017,2017,2017,2,0,2,Export,499,Montenegro,MNE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2596,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,203,,,0
+H5,2017,2017,2017,2,0,2,Export,504,Morocco,MAR,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,81,,,0
+H5,2017,2017,2017,2,0,2,Export,512,Oman,OMN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,32634,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,512,Oman,OMN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,32634,,,0
+H5,2017,2017,2017,2,0,1,Import,512,Oman,OMN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,254,,,0
+H5,2017,2017,2017,2,0,2,Export,516,Namibia,NAM,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,354,,,0
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14131,,,0
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,216977,,,0
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2244525,,,0
+H5,2017,2017,2017,2,0,1,Import,528,Netherlands,NLD,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,521,,,0
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,168044,,,0
+H5,2017,2017,2017,2,0,1,Import,554,New Zealand,NZL,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5030,,,4
+H5,2017,2017,2017,2,0,2,Export,554,New Zealand,NZL,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,2081,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,554,New Zealand,NZL,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,1855,,,0
+H5,2017,2017,2017,2,0,1,Import,554,New Zealand,NZL,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,44,,,4
+H5,2017,2017,2017,2,0,2,Export,579,Norway,NOR,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,27006,,,0
+H5,2017,2017,2017,2,0,1,Import,579,Norway,NOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,200,,,0
+H5,2017,2017,2017,2,0,2,Export,579,Norway,NOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,161196,,,0
+H5,2017,2017,2017,2,0,1,Import,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,11372,,,0
+H5,2017,2017,2017,2,0,2,Export,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,810,,,0
+H5,2017,2017,2017,2,0,2,Export,579,Norway,NOR,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,23931,,,0
+H5,2017,2017,2017,2,0,1,Import,586,Pakistan,PAK,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,304,,,0
+H5,2017,2017,2017,2,0,2,Export,591,Panama,PAN,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5613,,,0
+H5,2017,2017,2017,2,0,1,Import,591,Panama,PAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3464,,,0
+H5,2017,2017,2017,2,0,2,Export,591,Panama,PAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,64645,,,0
+H5,2017,2017,2017,2,0,1,Import,600,Paraguay,PRY,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2342,,,0
+H5,2017,2017,2017,2,0,2,Export,600,Paraguay,PRY,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,39300,,,0
+H5,2017,2017,2017,2,0,1,Import,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8313,,,0
+H5,2017,2017,2017,2,0,2,Export,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5044929,,,0
+H5,2017,2017,2017,2,0,1,Import,604,Peru,PER,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,91,,,0
+H5,2017,2017,2017,2,0,1,Import,616,Poland,POL,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,102,,,0
+H5,2017,2017,2017,2,0,2,Export,616,Poland,POL,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,60333,,,4
+H5,2017,2017,2017,2,0,1,Import,616,Poland,POL,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,972,,,0
+H5,2017,2017,2017,2,0,2,Export,616,Poland,POL,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,9005384,,,4
+H5,2017,2017,2017,2,0,2,Export,616,Poland,POL,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,12056,,,0
+H5,2017,2017,2017,2,0,2,Export,620,Portugal,PRT,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,9241,,,4
+H5,2017,2017,2017,2,0,2,Export,620,Portugal,PRT,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,676500,,,0
+H5,2017,2017,2017,2,0,2,Export,620,Portugal,PRT,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,180,,,0
+H5,2017,2017,2017,2,0,2,Export,642,Romania,ROU,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,13271,,,0
+H5,2017,2017,2017,2,0,1,Import,642,Romania,ROU,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,566,,,0
+H5,2017,2017,2017,2,0,2,Export,642,Romania,ROU,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1359107,,,0
+H5,2017,2017,2017,2,0,2,Export,643,Russian Federation,RUS,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,965,,,0
+H5,2017,2017,2017,2,0,1,Import,643,Russian Federation,RUS,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2153,,,0
+H5,2017,2017,2017,2,0,2,Export,643,Russian Federation,RUS,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,156245,,,0
+H5,2017,2017,2017,2,0,2,Export,643,Russian Federation,RUS,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3875,,,0
+H5,2017,2017,2017,2,0,1,Import,688,Serbia,SRB,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,359801,,,0
+H5,2017,2017,2017,2,0,2,Export,688,Serbia,SRB,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,16512081,,,4
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1751,,,4
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5544797,,,4
+H5,2017,2017,2017,2,0,1,Import,699,India,IND,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,127,,,0
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3934216,,,4
+H5,2017,2017,2017,2,0,1,Import,699,India,IND,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,936,,,0
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,571373,,,4
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,69775,,,4
+H5,2017,2017,2017,2,0,2,Export,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2235469,,,4
+H5,2017,2017,2017,2,0,2,Export,705,Slovenia,SVN,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,21503,,,0
+H5,2017,2017,2017,2,0,2,Export,705,Slovenia,SVN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,18481,,,0
+H5,2017,2017,2017,2,0,1,Import,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,262773,,,0
+H5,2017,2017,2017,2,0,2,Export,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,22408041,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,127,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,9174,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1596,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,12205,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,84,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,157,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,339798,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,425805,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,706262,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,72941,,,0
+H5,2017,2017,2017,2,0,2,Export,752,Sweden,SWE,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2812,,,4
+H5,2017,2017,2017,2,0,2,Export,752,Sweden,SWE,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,204836,,,4
+H5,2017,2017,2017,2,0,1,Import,752,Sweden,SWE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,45595,,,4
+H5,2017,2017,2017,2,0,2,Export,752,Sweden,SWE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,195461,,,4
+H5,2017,2017,2017,2,0,2,Export,752,Sweden,SWE,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,23671,,,0
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,796,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,52680,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,7096,,,0
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,91434,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,605859,,,4
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,181097,,,4
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,57234,,,4
+H5,2017,2017,2017,2,0,1,Import,764,Thailand,THA,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1375,,,4
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1290979,,,4
+H5,2017,2017,2017,2,0,1,Import,764,Thailand,THA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5556,,,4
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,152048,,,0
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2145184,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,858,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2416,,,0
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,260,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,419813,,,0
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,296631,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4780886,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,13187,,,0
+H5,2017,2017,2017,2,0,1,Import,807,North Macedonia,MKD,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,32894,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,23938,,,0
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,29719,,,0
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,118376,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,66430,,,0
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,56108,,,0
+H5,2017,2017,2017,2,0,1,Import,834,United Rep. of Tanzania,TZA,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,57940,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,7436,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2197114,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,842,USA,USA,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,277702,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,16755,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5874,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6524069,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,234311,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,34652,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2890,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,74142,,,4
+H5,2017,2017,2017,2,0,2,Export,858,Uruguay,URY,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,227858,,,0
+H4,2017,2017,2017,2,0,2,Export,31,Azerbaijan,AZE,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,9883,,,0
+H4,2017,2017,2017,2,0,1,Import,32,Argentina,ARG,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1180490743,,,0
+H4,2017,2017,2017,2,0,2,Export,32,Argentina,ARG,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,10024348,,,0
+H4,2017,2017,2017,2,0,1,Import,44,Bahamas,BHS,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,66,,,4
+H4,2017,2017,2017,2,0,2,Export,120,Cameroon,CMR,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,111918,,,0
+H4,2017,2017,2017,2,0,2,Export,178,Congo,COG,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2066,,,0
+H4,2017,2017,2017,2,0,2,Export,288,Ghana,GHA,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,234,,,0
+H4,2017,2017,2017,2,0,1,Import,384,Côte d'Ivoire,CIV,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1512020,,,0
+H4,2017,2017,2017,2,0,2,Export,384,Côte d'Ivoire,CIV,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4507453,,,0
+H4,2017,2017,2017,2,0,1,Import,388,Jamaica,JAM,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1488,,,0
+H4,2017,2017,2017,2,0,2,Export,404,Kenya,KEN,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1325016,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,404,Kenya,KEN,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1325016,,,0
+H4,2017,2017,2017,2,0,2,Export,404,Kenya,KEN,64,Bhutan,BTN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,390596,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,404,Kenya,KEN,64,Bhutan,BTN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,390596,,,0
+H4,2017,2017,2017,2,0,2,Export,404,Kenya,KEN,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2005279,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,404,Kenya,KEN,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2005279,,,0
+H4,2017,2017,2017,2,0,2,Export,404,Kenya,KEN,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,501951,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,404,Kenya,KEN,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,501951,,,0
+H4,2017,2017,2017,2,0,1,Import,466,Mali,MLI,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,77842059,,,0
+H4,2017,2017,2017,2,0,2,Export,484,Mexico,MEX,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3352493,,,4
+H4,2017,2017,2017,2,0,1,Import,524,Nepal,NPL,64,Bhutan,BTN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2468967,,,0
+H4,2017,2017,2017,2,0,2,Export,562,Niger,NER,64,Bhutan,BTN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1131,,,0
+H4,2017,2017,2017,2,0,1,Import,562,Niger,NER,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,254409,,,0
+H4,2017,2017,2017,2,0,2,Export,562,Niger,NER,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5427079,,,0
+H4,2017,2017,2017,2,0,1,Import,566,Nigeria,NGA,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,23536,,,4
+H4,2017,2017,2017,2,0,2,Export,566,Nigeria,NGA,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,84883568,,,4
+H4,2017,2017,2017,2,0,2,Export,686,Senegal,SEN,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,104220,,,0
+H4,2017,2017,2017,2,0,2,Export,702,Singapore,SGP,64,Bhutan,BTN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,73773,,,4
+H4,2017,2017,2017,2,0,1,Import,702,Singapore,SGP,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,35358993,,,4
+H4,2017,2017,2017,2,0,2,Export,702,Singapore,SGP,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,381,,,0
+H4,2017,2017,2017,2,0,1,Import,702,Singapore,SGP,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,11,,,0
+H4,2017,2017,2017,2,0,2,Export,702,Singapore,SGP,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,116921,,,4
+H4,2017,2017,2017,2,0,1,Import,768,Togo,TGO,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1256069,,,0
+H4,2017,2017,2017,2,0,2,Export,768,Togo,TGO,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2253658,,,0
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6807,,,0
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6532425,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,784,United Arab Emirates,ARE,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,83325,,,0
+H4,2017,2017,2017,2,0,1,Import,804,Ukraine,UKR,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1106678,,,0
+H4,2017,2017,2017,2,0,2,Export,804,Ukraine,UKR,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,251343,,,0
+H4,2017,2017,2017,2,0,2,Export,854,Burkina Faso,BFA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,16262,,,0
+H4,2017,2017,2017,2,0,1,Import,854,Burkina Faso,BFA,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,13144,,,0
+H4,2017,2017,2017,2,0,2,Export,854,Burkina Faso,BFA,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,280611,,,0
+H4,2017,2017,2017,2,0,2,Export,24,Angola,AGO,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,99,,,0
+H4,2017,2017,2017,2,0,1,Import,31,Azerbaijan,AZE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7852,,,0
+H4,2017,2017,2017,2,0,1,Import,32,Argentina,ARG,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,185402,,,0
+H4,2017,2017,2017,2,0,2,Export,32,Argentina,ARG,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,44254427,,,4
+H4,2017,2017,2017,2,0,1,Import,32,Argentina,ARG,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2271,,,0
+H4,2017,2017,2017,2,0,1,Import,44,Bahamas,BHS,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3338,,,0
+H4,2017,2017,2017,2,0,1,Import,84,Belize,BLZ,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12759,,,0
+H4,2017,2017,2017,2,0,1,Import,120,Cameroon,CMR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1147,,,0
+H4,2017,2017,2017,2,0,1,Import,120,Cameroon,CMR,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,15311,,,0
+H4,2017,2017,2017,2,0,2,Export,120,Cameroon,CMR,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,594,,,0
+H4,2017,2017,2017,2,0,1,Import,178,Congo,COG,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,348,,,0
+H4,2017,2017,2017,2,0,2,Export,231,Ethiopia,ETH,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4989,,,0
+H4,2017,2017,2017,2,0,2,Export,288,Ghana,GHA,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,20,,,0
+H4,2017,2017,2017,2,0,2,Export,288,Ghana,GHA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,871749,,,4
+H4,2017,2017,2017,2,0,1,Import,384,Côte d'Ivoire,CIV,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3,,,0
+H4,2017,2017,2017,2,0,1,Import,384,Côte d'Ivoire,CIV,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,469,,,0
+H4,2017,2017,2017,2,0,2,Export,384,Côte d'Ivoire,CIV,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3903732,,,4
+H4,2017,2017,2017,2,0,1,Import,388,Jamaica,JAM,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,23148,,,0
+H4,2017,2017,2017,2,0,2,Export,388,Jamaica,JAM,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,628,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,388,Jamaica,JAM,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,253,,,0
+H4,2017,2017,2017,2,0,1,Import,388,Jamaica,JAM,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9511,,,0
+H4,2017,2017,2017,2,0,1,Import,404,Kenya,KEN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,984,,,0
+H4,2017,2017,2017,2,0,1,Import,466,Mali,MLI,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,149350,,,0
+H4,2017,2017,2017,2,0,2,Export,466,Mali,MLI,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5121,,,0
+H4,2017,2017,2017,2,0,1,Import,484,Mexico,MEX,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,17351,,,0
+H4,2017,2017,2017,2,0,2,Export,484,Mexico,MEX,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,26279273,,,4
+H4,2017,2017,2017,2,0,1,Import,484,Mexico,MEX,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,223362,,,0
+H4,2017,2017,2017,2,0,1,Import,498,Rep. of Moldova,MDA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9962,,,4
+H4,2017,2017,2017,2,0,2,Export,498,Rep. of Moldova,MDA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1027,,,0
+H4,2017,2017,2017,2,0,1,Import,508,Mozambique,MOZ,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,20,,,0
+H4,2017,2017,2017,2,0,2,Export,524,Nepal,NPL,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,984,,,4
+H4,2017,2017,2017,2,0,1,Import,562,Niger,NER,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,259,,,0
+H4,2017,2017,2017,2,0,1,Import,562,Niger,NER,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,123616,,,0
+H4,2017,2017,2017,2,0,2,Export,562,Niger,NER,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,193485,,,4
+H4,2017,2017,2017,2,0,1,Import,566,Nigeria,NGA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,248547,,,4
+H4,2017,2017,2017,2,0,2,Export,566,Nigeria,NGA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,232540,,,4
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1480,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7090,,,0
+H4,2017,2017,2017,2,0,2,Export,634,Qatar,QAT,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1331189,,,0
+H4,2017,2017,2017,2,0,1,Import,634,Qatar,QAT,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,51256,,,0
+H4,2017,2017,2017,2,0,2,Export,634,Qatar,QAT,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,96348,,,0
+H4,2017,2017,2017,2,0,1,Import,646,Rwanda,RWA,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,571,,,0
+H4,2017,2017,2017,2,0,1,Import,646,Rwanda,RWA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3716,,,0
+H4,2017,2017,2017,2,0,1,Import,646,Rwanda,RWA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,137,,,0
+H4,2017,2017,2017,2,0,1,Import,662,Saint Lucia,LCA,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,848,,,0
+H4,2017,2017,2017,2,0,2,Export,682,Saudi Arabia,SAU,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,416520,,,0
+H4,2017,2017,2017,2,0,1,Import,682,Saudi Arabia,SAU,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,758602,,,0
+H4,2017,2017,2017,2,0,2,Export,682,Saudi Arabia,SAU,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,793457,,,0
+H4,2017,2017,2017,2,0,2,Export,686,Senegal,SEN,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,719781,,,0
+H4,2017,2017,2017,2,0,1,Import,702,Singapore,SGP,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5,,,4
+H4,2017,2017,2017,2,0,2,Export,702,Singapore,SGP,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3022,,,4
+H4,2017,2017,2017,2,0,2,Export,702,Singapore,SGP,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9555,,,4
+H4,2017,2017,2017,2,0,1,Import,702,Singapore,SGP,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,652,,,4
+H4,2017,2017,2017,2,0,2,Export,702,Singapore,SGP,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2098,,,4
+H4,2017,2017,2017,2,0,1,Import,702,Singapore,SGP,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,168,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,98091,,,4
+H4,2017,2017,2017,2,0,1,Import,768,Togo,TGO,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,969400,,,0
+H4,2017,2017,2017,2,0,2,Export,768,Togo,TGO,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,25168938,,,0
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,55062,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,784,United Arab Emirates,ARE,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7116,,,0
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1699214,,,0
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,356589,,,0
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1099970,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,784,United Arab Emirates,ARE,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,922978,,,0
+H4,2017,2017,2017,2,0,1,Import,788,Tunisia,TUN,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,614,,,0
+H4,2017,2017,2017,2,0,1,Import,788,Tunisia,TUN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5044,,,0
+H4,2017,2017,2017,2,0,2,Export,788,Tunisia,TUN,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,772765,,,0
+H4,2017,2017,2017,2,0,2,Export,804,Ukraine,UKR,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,42,,,0
+H4,2017,2017,2017,2,0,2,Export,804,Ukraine,UKR,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,594,,,0
+H4,2017,2017,2017,2,0,1,Import,804,Ukraine,UKR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,944531,,,0
+H4,2017,2017,2017,2,0,2,Export,804,Ukraine,UKR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,38672,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,11461,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,78904,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,29361,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1103094,,,0
+H4,2017,2017,2017,2,0,1,Import,854,Burkina Faso,BFA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14300,,,0
+H4,2017,2017,2017,2,0,1,Import,854,Burkina Faso,BFA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,90637,,,0
+H4,2017,2017,2017,2,0,2,Export,854,Burkina Faso,BFA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5281,,,0
+H4,2017,2017,2017,2,0,2,Export,24,Angola,AGO,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,59,,,0
+H4,2017,2017,2017,2,0,2,Export,31,Azerbaijan,AZE,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,118,,,0
+H4,2017,2017,2017,2,0,1,Import,32,Argentina,ARG,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3058,,,0
+H4,2017,2017,2017,2,0,2,Export,32,Argentina,ARG,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3882020,,,0
+H4,2017,2017,2017,2,0,1,Import,32,Argentina,ARG,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2805,,,0
+H4,2017,2017,2017,2,0,1,Import,44,Bahamas,BHS,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,464,,,4
+H4,2017,2017,2017,2,0,1,Import,72,Botswana,BWA,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,146,,,0
+H4,2017,2017,2017,2,0,1,Import,84,Belize,BLZ,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,121,,,0
+H4,2017,2017,2017,2,0,1,Import,120,Cameroon,CMR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,31,,,0
+H4,2017,2017,2017,2,0,1,Import,120,Cameroon,CMR,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,12077,,,0
+H4,2017,2017,2017,2,0,2,Export,178,Congo,COG,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,306,,,0
+H4,2017,2017,2017,2,0,1,Import,178,Congo,COG,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,9286,,,0
+H4,2017,2017,2017,2,0,2,Export,178,Congo,COG,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1549,,,0
+H4,2017,2017,2017,2,0,2,Export,288,Ghana,GHA,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,33164,,,0
+H4,2017,2017,2017,2,0,1,Import,384,Côte d'Ivoire,CIV,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2258,,,0
+H4,2017,2017,2017,2,0,1,Import,384,Côte d'Ivoire,CIV,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14515,,,0
+H4,2017,2017,2017,2,0,2,Export,384,Côte d'Ivoire,CIV,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,131664,,,4
+H4,2017,2017,2017,2,0,1,Import,388,Jamaica,JAM,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1523,,,0
+H4,2017,2017,2017,2,0,1,Import,404,Kenya,KEN,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,768,,,0
+H4,2017,2017,2017,2,0,1,Import,454,Malawi,MWI,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,311,,,0
+H4,2017,2017,2017,2,0,1,Import,466,Mali,MLI,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,62534,,,0
+H4,2017,2017,2017,2,0,2,Export,484,Mexico,MEX,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1807854,,,4
+H4,2017,2017,2017,2,0,1,Import,484,Mexico,MEX,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3466,,,0
+H4,2017,2017,2017,2,0,1,Import,562,Niger,NER,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,16417,,,0
+H4,2017,2017,2017,2,0,2,Export,562,Niger,NER,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,329014,,,0
+H4,2017,2017,2017,2,0,1,Import,566,Nigeria,NGA,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,34905,,,4
+H4,2017,2017,2017,2,0,2,Export,566,Nigeria,NGA,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,389065,,,4
+H4,2017,2017,2017,2,0,1,Import,585,Palau,PLW,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,251,,,0
+H4,2017,2017,2017,2,0,1,Import,634,Qatar,QAT,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1243,,,0
+H4,2017,2017,2017,2,0,1,Import,634,Qatar,QAT,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,471,,,0
+H4,2017,2017,2017,2,0,1,Import,646,Rwanda,RWA,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,416,,,0
+H4,2017,2017,2017,2,0,2,Export,686,Senegal,SEN,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,321118,,,0
+H4,2017,2017,2017,2,0,2,Export,702,Singapore,SGP,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,15022,,,4
+H4,2017,2017,2017,2,0,2,Export,702,Singapore,SGP,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1345220,,,4
+H4,2017,2017,2017,2,0,2,Export,702,Singapore,SGP,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,18,,,4
+H4,2017,2017,2017,2,0,2,Export,702,Singapore,SGP,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,783230,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1876763,,,4
+H4,2017,2017,2017,2,0,1,Import,768,Togo,TGO,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,185,,,0
+H4,2017,2017,2017,2,0,2,Export,768,Togo,TGO,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,12934,,,0
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8587,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,784,United Arab Emirates,ARE,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8587,,,0
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1064,,,0
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,227335,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,784,United Arab Emirates,ARE,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,215554,,,0
+H4,2017,2017,2017,2,0,1,Import,804,Ukraine,UKR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,338,,,0
+H4,2017,2017,2017,2,0,2,Export,804,Ukraine,UKR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3321,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1850,,,0
+H4,2017,2017,2017,2,0,1,Import,854,Burkina Faso,BFA,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,78852,,,0
+H3,2017,2017,2017,2,0,2,Export,28,Antigua and Barbuda,ATG,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,959,,,0
+H3,2017,2017,2017,2,0,3,Re-Export,28,Antigua and Barbuda,ATG,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,959,,,0
+H3,2017,2017,2017,2,0,1,Import,28,Antigua and Barbuda,ATG,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,471,,,0
+H3,2017,2017,2017,2,0,2,Export,28,Antigua and Barbuda,ATG,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13503,,,0
+H3,2017,2017,2017,2,0,3,Re-Export,28,Antigua and Barbuda,ATG,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13503,,,0
+H3,2017,2017,2017,2,0,1,Import,28,Antigua and Barbuda,ATG,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,190,,,0
+H3,2017,2017,2017,2,0,1,Import,328,Guyana,GUY,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6400,,,0
+H3,2017,2017,2017,2,0,1,Import,328,Guyana,GUY,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14,,,0
+H3,2017,2017,2017,2,0,1,Import,659,Saint Kitts and Nevis,KNA,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,37,,,0
+H3,2017,2017,2017,2,0,1,Import,659,Saint Kitts and Nevis,KNA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,56,,,0
+H3,2017,2017,2017,2,0,2,Export,28,Antigua and Barbuda,ATG,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1358,,,0
+H3,2017,2017,2017,2,0,3,Re-Export,28,Antigua and Barbuda,ATG,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1358,,,0
+H3,2017,2017,2017,2,0,1,Import,328,Guyana,GUY,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,115,,,0
+H3,2017,2017,2017,2,0,1,Import,659,Saint Kitts and Nevis,KNA,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,37,,,0
+H3,2017,2017,2017,2,0,1,Import,690,Seychelles,SYC,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,18,,,0
+H2,2017,2017,2017,2,0,1,Import,52,Barbados,BRB,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,914,,,0
+H2,2017,2017,2017,2,0,2,Export,52,Barbados,BRB,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,520,,,0
+H2,2017,2017,2017,2,0,3,Re-Export,52,Barbados,BRB,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,500,,,0
+H2,2017,2017,2017,2,0,1,Import,434,Libya,LBY,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,18210,,,0
+H2,2017,2017,2017,2,0,1,Import,52,Barbados,BRB,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4302,,,4
+H2,2017,2017,2017,2,0,2,Export,52,Barbados,BRB,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5,,,0
+H2,2017,2017,2017,2,0,1,Import,434,Libya,LBY,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,79235,,,4

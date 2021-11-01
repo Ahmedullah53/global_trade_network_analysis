@@ -1,0 +1,725 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2004,2004,2004,2,0,2,Export,12,Algeria,DZA,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,11172,,,0
+H2,2004,2004,2004,2,0,1,Import,31,Azerbaijan,AZE,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4503,,,0
+H2,2004,2004,2004,2,0,1,Import,36,Australia,AUS,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,8765,,,0
+H2,2004,2004,2004,2,0,2,Export,36,Australia,AUS,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,44062,,,0
+H2,2004,2004,2004,2,0,1,Import,40,Austria,AUT,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,50270124,,,0
+H2,2004,2004,2004,2,0,2,Export,40,Austria,AUT,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,400588,,,0
+H2,2004,2004,2004,2,0,1,Import,48,Bahrain,BHR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,11904,,,0
+H2,2004,2004,2004,2,0,1,Import,51,Armenia,ARM,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1810,,,0
+H2,2004,2004,2004,2,0,2,Export,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,832310,,,0
+H2,2004,2004,2004,2,0,2,Export,56,Belgium,BEL,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,35555,,,0
+H2,2004,2004,2004,2,0,2,Export,56,Belgium,BEL,232,Eritrea,ERI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1101,,,0
+H2,2004,2004,2004,2,0,1,Import,56,Belgium,BEL,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,59946920,,,0
+H2,2004,2004,2004,2,0,2,Export,56,Belgium,BEL,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3041629,,,0
+H2,2004,2004,2004,2,0,1,Import,70,Bosnia Herzegovina,BIH,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,12563,,,0
+H2,2004,2004,2004,2,0,1,Import,76,Brazil,BRA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,14003661,,,0
+H2,2004,2004,2004,2,0,2,Export,76,Brazil,BRA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,4778,,,0
+H2,2004,2004,2004,2,0,1,Import,100,Bulgaria,BGR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,12202,,,0
+H2,2004,2004,2004,2,0,2,Export,100,Bulgaria,BGR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,21599,,,0
+H2,2004,2004,2004,2,0,1,Import,112,Belarus,BLR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,879000,,,0
+H2,2004,2004,2004,2,0,2,Export,112,Belarus,BLR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,57141500,,,0
+H2,2004,2004,2004,2,0,1,Import,124,Canada,CAN,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,261896045,,,0
+H2,2004,2004,2004,2,0,2,Export,124,Canada,CAN,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1006,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,124,Canada,CAN,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,445,,,0
+H2,2004,2004,2004,2,0,1,Import,152,Chile,CHL,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,30251,,,0
+H2,2004,2004,2004,2,0,1,Import,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,928113538,,,0
+H2,2004,2004,2004,2,0,2,Export,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,15486,,,0
+H2,2004,2004,2004,2,0,2,Export,156,China,CHN,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1226196,,,0
+H2,2004,2004,2004,2,0,1,Import,156,China,CHN,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,40875,,,0
+H2,2004,2004,2004,2,0,2,Export,156,China,CHN,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,33068,,,0
+H2,2004,2004,2004,2,0,1,Import,170,Colombia,COL,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,25145,,,0
+H2,2004,2004,2004,2,0,1,Import,188,Costa Rica,CRI,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4133234,,,0
+H2,2004,2004,2004,2,0,1,Import,191,Croatia,HRV,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,265252,,,0
+H2,2004,2004,2004,2,0,1,Import,196,Cyprus,CYP,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,166036,,,0
+H2,2004,2004,2004,2,0,1,Import,203,Czechia,CZE,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,296155,,,0
+H2,2004,2004,2004,2,0,2,Export,203,Czechia,CZE,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,926,,,0
+H2,2004,2004,2004,2,0,2,Export,208,Denmark,DNK,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10784,,,0
+H2,2004,2004,2004,2,0,1,Import,208,Denmark,DNK,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3422179,,,0
+H2,2004,2004,2004,2,0,2,Export,208,Denmark,DNK,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10096,,,0
+H2,2004,2004,2004,2,0,1,Import,218,Ecuador,ECU,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,22210,,,0
+H2,2004,2004,2004,2,0,1,Import,233,Estonia,EST,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4969,,,0
+H2,2004,2004,2004,2,0,4,Re-Import,233,Estonia,EST,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4969,,,0
+H2,2004,2004,2004,2,0,2,Export,246,Finland,FIN,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,14407,,,0
+H2,2004,2004,2004,2,0,1,Import,246,Finland,FIN,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1741456,,,0
+H2,2004,2004,2004,2,0,2,Export,246,Finland,FIN,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,30896899,,,0
+H2,2004,2004,2004,2,0,1,Import,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,36100364,,,0
+H2,2004,2004,2004,2,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2706210,,,0
+H2,2004,2004,2004,2,0,2,Export,251,France,FRA,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1567015,,,0
+H2,2004,2004,2004,2,0,2,Export,251,France,FRA,232,Eritrea,ERI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,29848,,,0
+H2,2004,2004,2004,2,0,1,Import,251,France,FRA,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,230505693,,,0
+H2,2004,2004,2004,2,0,2,Export,251,France,FRA,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,388023,,,0
+H2,2004,2004,2004,2,0,2,Export,266,Gabon,GAB,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3680889,,,0
+H2,2004,2004,2004,2,0,2,Export,276,Germany,DEU,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,308000,,,0
+H2,2004,2004,2004,2,0,1,Import,276,Germany,DEU,232,Eritrea,ERI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,26000,,,0
+H2,2004,2004,2004,2,0,1,Import,276,Germany,DEU,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,42979000,,,0
+H2,2004,2004,2004,2,0,2,Export,276,Germany,DEU,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,6049000,,,0
+H2,2004,2004,2004,2,0,2,Export,300,Greece,GRC,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,12128,,,0
+H2,2004,2004,2004,2,0,1,Import,300,Greece,GRC,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,944643,,,0
+H2,2004,2004,2004,2,0,2,Export,300,Greece,GRC,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1292,,,0
+H2,2004,2004,2004,2,0,1,Import,348,Hungary,HUN,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,118000,,,0
+H2,2004,2004,2004,2,0,2,Export,348,Hungary,HUN,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5000,,,0
+H2,2004,2004,2004,2,0,1,Import,352,Iceland,ISL,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,22171497,,,0
+H2,2004,2004,2004,2,0,2,Export,364,Iran,IRN,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1643653,,,0
+H2,2004,2004,2004,2,0,2,Export,364,Iran,IRN,232,Eritrea,ERI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1255553,,,0
+H2,2004,2004,2004,2,0,1,Import,372,Ireland,IRL,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,11,,,0
+H2,2004,2004,2004,2,0,1,Import,376,Israel,ISR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1008000,,,0
+H2,2004,2004,2004,2,0,1,Import,381,Italy,ITA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,165435084,,,0
+H2,2004,2004,2004,2,0,2,Export,381,Italy,ITA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,44340,,,0
+H2,2004,2004,2004,2,0,2,Export,381,Italy,ITA,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,122181,,,0
+H2,2004,2004,2004,2,0,1,Import,381,Italy,ITA,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4376903,,,0
+H2,2004,2004,2004,2,0,2,Export,381,Italy,ITA,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,19515,,,0
+H2,2004,2004,2004,2,0,1,Import,384,Côte d'Ivoire,CIV,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,114448,,,0
+H2,2004,2004,2004,2,0,2,Export,384,Côte d'Ivoire,CIV,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,32429554,,,0
+H2,2004,2004,2004,2,0,1,Import,392,Japan,JPN,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,47263819,,,0
+H2,2004,2004,2004,2,0,1,Import,392,Japan,JPN,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,122442,,,0
+H2,2004,2004,2004,2,0,1,Import,398,Kazakhstan,KAZ,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,128796,,,0
+H2,2004,2004,2004,2,0,2,Export,398,Kazakhstan,KAZ,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,35800963,,,0
+H2,2004,2004,2004,2,0,1,Import,400,Jordan,JOR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,108446,,,0
+H2,2004,2004,2004,2,0,2,Export,404,Kenya,KEN,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,6207,,,0
+H2,2004,2004,2004,2,0,2,Export,404,Kenya,KEN,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1058818,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,404,Kenya,KEN,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1013467,,,0
+H2,2004,2004,2004,2,0,2,Export,404,Kenya,KEN,232,Eritrea,ERI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,193848,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,404,Kenya,KEN,232,Eritrea,ERI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,134977,,,0
+H2,2004,2004,2004,2,0,1,Import,410,Rep. of Korea,KOR,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,30546386,,,0
+H2,2004,2004,2004,2,0,2,Export,410,Rep. of Korea,KOR,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,40008,,,0
+H2,2004,2004,2004,2,0,1,Import,410,Rep. of Korea,KOR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,25846,,,0
+H2,2004,2004,2004,2,0,1,Import,417,Kyrgyzstan,KGZ,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,132056,,,0
+H2,2004,2004,2004,2,0,1,Import,422,Lebanon,LBN,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,23000,,,0
+H2,2004,2004,2004,2,0,1,Import,428,Latvia,LVA,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,40729081,,,0
+H2,2004,2004,2004,2,0,2,Export,428,Latvia,LVA,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,9006627,,,0
+H2,2004,2004,2004,2,0,1,Import,440,Lithuania,LTU,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,7704814,,,0
+H2,2004,2004,2004,2,0,2,Export,440,Lithuania,LTU,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,199895406,,,0
+H2,2004,2004,2004,2,0,2,Export,450,Madagascar,MDG,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5641,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,450,Madagascar,MDG,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5641,,,0
+H2,2004,2004,2004,2,0,2,Export,458,Malaysia,MYS,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,12951,,,0
+H2,2004,2004,2004,2,0,1,Import,470,Malta,MLT,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5360,,,0
+H2,2004,2004,2004,2,0,1,Import,484,Mexico,MEX,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,195934,,,0
+H2,2004,2004,2004,2,0,1,Import,490,"Other Asia, nes",,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,638433406,,,0
+H2,2004,2004,2004,2,0,1,Import,490,"Other Asia, nes",,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,294188,,,0
+H2,2004,2004,2004,2,0,1,Import,498,Rep. of Moldova,MDA,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,40406,,,0
+H2,2004,2004,2004,2,0,2,Export,512,Oman,OMN,232,Eritrea,ERI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,104416,,,0
+H2,2004,2004,2004,2,0,1,Import,528,Netherlands,NLD,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,25389818,,,0
+H2,2004,2004,2004,2,0,2,Export,528,Netherlands,NLD,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,43543,,,0
+H2,2004,2004,2004,2,0,2,Export,528,Netherlands,NLD,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,209009,,,0
+H2,2004,2004,2004,2,0,2,Export,528,Netherlands,NLD,232,Eritrea,ERI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,28614,,,0
+H2,2004,2004,2004,2,0,1,Import,528,Netherlands,NLD,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,77255776,,,0
+H2,2004,2004,2004,2,0,2,Export,528,Netherlands,NLD,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2096307,,,0
+H2,2004,2004,2004,2,0,1,Import,558,Nicaragua,NIC,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1223330,,,0
+H2,2004,2004,2004,2,0,2,Export,579,Norway,NOR,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,13037,,,0
+H2,2004,2004,2004,2,0,1,Import,579,Norway,NOR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,153807,,,0
+H2,2004,2004,2004,2,0,2,Export,579,Norway,NOR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1652780,,,0
+H2,2004,2004,2004,2,0,1,Import,616,Poland,POL,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,830932,,,0
+H2,2004,2004,2004,2,0,2,Export,616,Poland,POL,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2710900,,,0
+H2,2004,2004,2004,2,0,1,Import,620,Portugal,PRT,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,53591545,,,0
+H2,2004,2004,2004,2,0,2,Export,642,Romania,ROU,232,Eritrea,ERI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,14337,,,0
+H2,2004,2004,2004,2,0,1,Import,642,Romania,ROU,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,15535,,,0
+H2,2004,2004,2004,2,0,2,Export,642,Romania,ROU,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,802,,,0
+H2,2004,2004,2004,2,0,2,Export,643,Russian Federation,RUS,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,484,,,0
+H2,2004,2004,2004,2,0,2,Export,643,Russian Federation,RUS,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,122,,,0
+H2,2004,2004,2004,2,0,2,Export,643,Russian Federation,RUS,232,Eritrea,ERI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,6880,,,0
+H2,2004,2004,2004,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,26172402,,,0
+H2,2004,2004,2004,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,612900891,,,0
+H2,2004,2004,2004,2,0,2,Export,682,Saudi Arabia,SAU,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,52800,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,682,Saudi Arabia,SAU,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,52800,,,0
+H2,2004,2004,2004,2,0,1,Import,682,Saudi Arabia,SAU,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,54400,,,0
+H2,2004,2004,2004,2,0,2,Export,686,Senegal,SEN,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1430179,,,0
+H2,2004,2004,2004,2,0,2,Export,699,India,IND,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,458806,,,0
+H2,2004,2004,2004,2,0,1,Import,699,India,IND,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,15587,,,0
+H2,2004,2004,2004,2,0,2,Export,702,Singapore,SGP,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1857944,,,0
+H2,2004,2004,2004,2,0,2,Export,703,Slovakia,SVK,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,29716,,,0
+H2,2004,2004,2004,2,0,2,Export,703,Slovakia,SVK,232,Eritrea,ERI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,362,,,0
+H2,2004,2004,2004,2,0,1,Import,703,Slovakia,SVK,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,16981,,,0
+H2,2004,2004,2004,2,0,1,Import,705,Slovenia,SVN,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4861,,,0
+H2,2004,2004,2004,2,0,2,Export,705,Slovenia,SVN,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,6,,,0
+H2,2004,2004,2004,2,0,1,Import,710,South Africa,ZAF,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,11,,,0
+H2,2004,2004,2004,2,0,2,Export,710,South Africa,ZAF,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,736988,,,0
+H2,2004,2004,2004,2,0,2,Export,710,South Africa,ZAF,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,165405,,,0
+H2,2004,2004,2004,2,0,2,Export,710,South Africa,ZAF,232,Eritrea,ERI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,446001,,,0
+H2,2004,2004,2004,2,0,1,Import,710,South Africa,ZAF,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,11821,,,0
+H2,2004,2004,2004,2,0,1,Import,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,662403803,,,0
+H2,2004,2004,2004,2,0,2,Export,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,561525,,,0
+H2,2004,2004,2004,2,0,2,Export,724,Spain,ESP,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,8432,,,0
+H2,2004,2004,2004,2,0,1,Import,724,Spain,ESP,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,21108701,,,0
+H2,2004,2004,2004,2,0,2,Export,724,Spain,ESP,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,3676,,,0
+H2,2004,2004,2004,2,0,4,Re-Import,724,Spain,ESP,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,3676,,,0
+H2,2004,2004,2004,2,0,1,Import,752,Sweden,SWE,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,101014353,,,0
+H2,2004,2004,2004,2,0,2,Export,752,Sweden,SWE,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,14569348,,,0
+H2,2004,2004,2004,2,0,2,Export,757,Switzerland,CHE,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2144,,,0
+H2,2004,2004,2004,2,0,2,Export,757,Switzerland,CHE,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10026,,,0
+H2,2004,2004,2004,2,0,1,Import,757,Switzerland,CHE,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,299292,,,0
+H2,2004,2004,2004,2,0,2,Export,757,Switzerland,CHE,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,33175,,,0
+H2,2004,2004,2004,2,0,1,Import,764,Thailand,THA,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,20165,,,0
+H2,2004,2004,2004,2,0,2,Export,784,United Arab Emirates,ARE,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,229215,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,784,United Arab Emirates,ARE,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,81939,,,0
+H2,2004,2004,2004,2,0,2,Export,784,United Arab Emirates,ARE,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,137821,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,784,United Arab Emirates,ARE,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,117910,,,0
+H2,2004,2004,2004,2,0,2,Export,784,United Arab Emirates,ARE,232,Eritrea,ERI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,56007,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,784,United Arab Emirates,ARE,232,Eritrea,ERI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,41552,,,0
+H2,2004,2004,2004,2,0,1,Import,784,United Arab Emirates,ARE,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,17340,,,0
+H2,2004,2004,2004,2,0,2,Export,784,United Arab Emirates,ARE,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,82403,,,0
+H2,2004,2004,2004,2,0,1,Import,788,Tunisia,TUN,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,59231,,,0
+H2,2004,2004,2004,2,0,2,Export,792,Turkey,TUR,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,650255,,,0
+H2,2004,2004,2004,2,0,2,Export,792,Turkey,TUR,232,Eritrea,ERI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,131811,,,0
+H2,2004,2004,2004,2,0,1,Import,792,Turkey,TUR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,110139,,,0
+H2,2004,2004,2004,2,0,1,Import,800,Uganda,UGA,232,Eritrea,ERI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10391,,,0
+H2,2004,2004,2004,2,0,2,Export,826,United Kingdom,GBR,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1109069,,,0
+H2,2004,2004,2004,2,0,2,Export,826,United Kingdom,GBR,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,51966,,,0
+H2,2004,2004,2004,2,0,2,Export,826,United Kingdom,GBR,232,Eritrea,ERI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,15080,,,0
+H2,2004,2004,2004,2,0,1,Import,826,United Kingdom,GBR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,170756888,,,0
+H2,2004,2004,2004,2,0,2,Export,826,United Kingdom,GBR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,261420,,,0
+H2,2004,2004,2004,2,0,1,Import,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1147872681,,,0
+H2,2004,2004,2004,2,0,2,Export,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,836700,,,0
+H2,2004,2004,2004,2,0,2,Export,842,USA,USA,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,17473,,,0
+H2,2004,2004,2004,2,0,1,Import,842,USA,USA,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,245784723,,,0
+H2,2004,2004,2004,2,0,2,Export,842,USA,USA,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,434837,,,0
+H2,2004,2004,2004,2,0,1,Import,858,Uruguay,URY,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4379,,,0
+H2,2004,2004,2004,2,0,1,Import,31,Azerbaijan,AZE,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10213,,,0
+H2,2004,2004,2004,2,0,1,Import,32,Argentina,ARG,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,245,,,0
+H2,2004,2004,2004,2,0,2,Export,32,Argentina,ARG,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,554907,,,0
+H2,2004,2004,2004,2,0,2,Export,36,Australia,AUS,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2663,,,0
+H2,2004,2004,2004,2,0,2,Export,36,Australia,AUS,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4309,,,0
+H2,2004,2004,2004,2,0,1,Import,36,Australia,AUS,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4611,,,0
+H2,2004,2004,2004,2,0,2,Export,36,Australia,AUS,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24230,,,0
+H2,2004,2004,2004,2,0,1,Import,40,Austria,AUT,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20447,,,0
+H2,2004,2004,2004,2,0,2,Export,40,Austria,AUT,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,139237,,,0
+H2,2004,2004,2004,2,0,2,Export,40,Austria,AUT,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4839,,,0
+H2,2004,2004,2004,2,0,1,Import,40,Austria,AUT,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,148954,,,0
+H2,2004,2004,2004,2,0,2,Export,40,Austria,AUT,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2598093,,,0
+H2,2004,2004,2004,2,0,1,Import,51,Armenia,ARM,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21863,,,0
+H2,2004,2004,2004,2,0,2,Export,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,145052,,,0
+H2,2004,2004,2004,2,0,2,Export,56,Belgium,BEL,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2239675,,,0
+H2,2004,2004,2004,2,0,2,Export,56,Belgium,BEL,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24711,,,0
+H2,2004,2004,2004,2,0,1,Import,56,Belgium,BEL,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,304478,,,0
+H2,2004,2004,2004,2,0,2,Export,56,Belgium,BEL,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16999317,,,0
+H2,2004,2004,2004,2,0,2,Export,76,Brazil,BRA,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16258,,,0
+H2,2004,2004,2004,2,0,2,Export,76,Brazil,BRA,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,120662,,,4
+H2,2004,2004,2004,2,0,1,Import,76,Brazil,BRA,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1641,,,4
+H2,2004,2004,2004,2,0,2,Export,76,Brazil,BRA,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1743,,,0
+H2,2004,2004,2004,2,0,2,Export,100,Bulgaria,BGR,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,170,,,0
+H2,2004,2004,2004,2,0,1,Import,100,Bulgaria,BGR,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,434783,,,0
+H2,2004,2004,2004,2,0,2,Export,100,Bulgaria,BGR,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4741,,,0
+H2,2004,2004,2004,2,0,2,Export,112,Belarus,BLR,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,200,,,0
+H2,2004,2004,2004,2,0,1,Import,112,Belarus,BLR,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,751200,,,0
+H2,2004,2004,2004,2,0,2,Export,112,Belarus,BLR,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,371700,,,0
+H2,2004,2004,2004,2,0,2,Export,124,Canada,CAN,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3615,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,124,Canada,CAN,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3303,,,0
+H2,2004,2004,2004,2,0,1,Import,124,Canada,CAN,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23,,,0
+H2,2004,2004,2004,2,0,2,Export,124,Canada,CAN,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37,,,0
+H2,2004,2004,2004,2,0,2,Export,124,Canada,CAN,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,52528,,,0
+H2,2004,2004,2004,2,0,1,Import,124,Canada,CAN,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9773,,,0
+H2,2004,2004,2004,2,0,2,Export,124,Canada,CAN,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,161334,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,124,Canada,CAN,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3823,,,0
+H2,2004,2004,2004,2,0,2,Export,144,Sri Lanka,LKA,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,222287,,,0
+H2,2004,2004,2004,2,0,2,Export,144,Sri Lanka,LKA,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1861,,,0
+H2,2004,2004,2004,2,0,1,Import,152,Chile,CHL,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,166,,,0
+H2,2004,2004,2004,2,0,2,Export,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,254223,,,0
+H2,2004,2004,2004,2,0,1,Import,156,China,CHN,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,185,,,0
+H2,2004,2004,2004,2,0,2,Export,156,China,CHN,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3936156,,,0
+H2,2004,2004,2004,2,0,2,Export,156,China,CHN,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,86449,,,0
+H2,2004,2004,2004,2,0,1,Import,156,China,CHN,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,717681,,,0
+H2,2004,2004,2004,2,0,2,Export,156,China,CHN,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4886315,,,0
+H2,2004,2004,2004,2,0,1,Import,191,Croatia,HRV,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,533838,,,0
+H2,2004,2004,2004,2,0,2,Export,191,Croatia,HRV,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,700,,,0
+H2,2004,2004,2004,2,0,2,Export,196,Cyprus,CYP,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,51207,,,0
+H2,2004,2004,2004,2,0,2,Export,196,Cyprus,CYP,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23983,,,0
+H2,2004,2004,2004,2,0,1,Import,196,Cyprus,CYP,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,186036,,,0
+H2,2004,2004,2004,2,0,2,Export,203,Czechia,CZE,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10529,,,0
+H2,2004,2004,2004,2,0,2,Export,203,Czechia,CZE,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32339,,,0
+H2,2004,2004,2004,2,0,1,Import,203,Czechia,CZE,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,854185,,,0
+H2,2004,2004,2004,2,0,2,Export,203,Czechia,CZE,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5895415,,,0
+H2,2004,2004,2004,2,0,2,Export,208,Denmark,DNK,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20240,,,0
+H2,2004,2004,2004,2,0,2,Export,208,Denmark,DNK,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,91447,,,0
+H2,2004,2004,2004,2,0,2,Export,208,Denmark,DNK,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,156419,,,0
+H2,2004,2004,2004,2,0,1,Import,208,Denmark,DNK,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5535741,,,0
+H2,2004,2004,2004,2,0,2,Export,208,Denmark,DNK,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7302054,,,0
+H2,2004,2004,2004,2,0,1,Import,222,El Salvador,SLV,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1,,,0
+H2,2004,2004,2004,2,0,1,Import,233,Estonia,EST,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2823265,,,0
+H2,2004,2004,2004,2,0,4,Re-Import,233,Estonia,EST,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2823265,,,0
+H2,2004,2004,2004,2,0,1,Import,234,Faeroe Isds,FRO,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9356,,,0
+H2,2004,2004,2004,2,0,2,Export,246,Finland,FIN,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1504,,,0
+H2,2004,2004,2004,2,0,2,Export,246,Finland,FIN,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7767,,,0
+H2,2004,2004,2004,2,0,1,Import,246,Finland,FIN,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18138890,,,0
+H2,2004,2004,2004,2,0,2,Export,246,Finland,FIN,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,69748056,,,0
+H2,2004,2004,2004,2,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,310916,,,0
+H2,2004,2004,2004,2,0,1,Import,251,France,FRA,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27367,,,0
+H2,2004,2004,2004,2,0,2,Export,251,France,FRA,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1164068,,,0
+H2,2004,2004,2004,2,0,1,Import,251,France,FRA,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4976,,,0
+H2,2004,2004,2004,2,0,2,Export,251,France,FRA,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,104468,,,0
+H2,2004,2004,2004,2,0,1,Import,251,France,FRA,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3418345,,,0
+H2,2004,2004,2004,2,0,2,Export,251,France,FRA,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4040660,,,0
+H2,2004,2004,2004,2,0,1,Import,258,French Polynesia,PYF,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2293,,,0
+H2,2004,2004,2004,2,0,1,Import,266,Gabon,GAB,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2681,,,0
+H2,2004,2004,2004,2,0,2,Export,266,Gabon,GAB,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,81350,,,0
+H2,2004,2004,2004,2,0,2,Export,276,Germany,DEU,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,57000,,,0
+H2,2004,2004,2004,2,0,1,Import,276,Germany,DEU,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12000,,,0
+H2,2004,2004,2004,2,0,2,Export,276,Germany,DEU,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2599000,,,0
+H2,2004,2004,2004,2,0,1,Import,276,Germany,DEU,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9000,,,0
+H2,2004,2004,2004,2,0,2,Export,276,Germany,DEU,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,88000,,,0
+H2,2004,2004,2004,2,0,1,Import,276,Germany,DEU,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2219000,,,0
+H2,2004,2004,2004,2,0,2,Export,276,Germany,DEU,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,60224000,,,0
+H2,2004,2004,2004,2,0,1,Import,288,Ghana,GHA,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,98,,,0
+H2,2004,2004,2004,2,0,2,Export,300,Greece,GRC,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,229479,,,0
+H2,2004,2004,2004,2,0,2,Export,300,Greece,GRC,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,686,,,0
+H2,2004,2004,2004,2,0,2,Export,300,Greece,GRC,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,882629,,,0
+H2,2004,2004,2004,2,0,1,Import,320,Guatemala,GTM,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,259,,,0
+H2,2004,2004,2004,2,0,1,Import,344,"China, Hong Kong SAR",HKG,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5934,,,0
+H2,2004,2004,2004,2,0,2,Export,344,"China, Hong Kong SAR",HKG,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30899,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30899,,,0
+H2,2004,2004,2004,2,0,1,Import,344,"China, Hong Kong SAR",HKG,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,57028,,,0
+H2,2004,2004,2004,2,0,2,Export,344,"China, Hong Kong SAR",HKG,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,882722,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,872535,,,0
+H2,2004,2004,2004,2,0,2,Export,348,Hungary,HUN,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10000,,,0
+H2,2004,2004,2004,2,0,1,Import,348,Hungary,HUN,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2000,,,0
+H2,2004,2004,2004,2,0,2,Export,348,Hungary,HUN,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37000,,,0
+H2,2004,2004,2004,2,0,1,Import,348,Hungary,HUN,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1169000,,,0
+H2,2004,2004,2004,2,0,2,Export,348,Hungary,HUN,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3286000,,,0
+H2,2004,2004,2004,2,0,1,Import,352,Iceland,ISL,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,76360,,,0
+H2,2004,2004,2004,2,0,2,Export,352,Iceland,ISL,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27124,,,0
+H2,2004,2004,2004,2,0,2,Export,364,Iran,IRN,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,440837,,,0
+H2,2004,2004,2004,2,0,2,Export,372,Ireland,IRL,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,292804,,,0
+H2,2004,2004,2004,2,0,1,Import,372,Ireland,IRL,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,199645,,,0
+H2,2004,2004,2004,2,0,2,Export,372,Ireland,IRL,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,55630,,,0
+H2,2004,2004,2004,2,0,2,Export,376,Israel,ISR,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2285000,,,0
+H2,2004,2004,2004,2,0,2,Export,376,Israel,ISR,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11000,,,0
+H2,2004,2004,2004,2,0,1,Import,376,Israel,ISR,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8000,,,0
+H2,2004,2004,2004,2,0,2,Export,376,Israel,ISR,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,409000,,,0
+H2,2004,2004,2004,2,0,2,Export,381,Italy,ITA,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,338990,,,0
+H2,2004,2004,2004,2,0,2,Export,381,Italy,ITA,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6061067,,,0
+H2,2004,2004,2004,2,0,1,Import,381,Italy,ITA,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8117,,,0
+H2,2004,2004,2004,2,0,2,Export,381,Italy,ITA,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1217434,,,0
+H2,2004,2004,2004,2,0,1,Import,381,Italy,ITA,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,481582,,,0
+H2,2004,2004,2004,2,0,2,Export,381,Italy,ITA,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7539184,,,0
+H2,2004,2004,2004,2,0,2,Export,384,Côte d'Ivoire,CIV,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,171064,,,0
+H2,2004,2004,2004,2,0,2,Export,392,Japan,JPN,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2691,,,0
+H2,2004,2004,2004,2,0,1,Import,392,Japan,JPN,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2239,,,0
+H2,2004,2004,2004,2,0,2,Export,392,Japan,JPN,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,463023,,,0
+H2,2004,2004,2004,2,0,1,Import,398,Kazakhstan,KAZ,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,57505,,,0
+H2,2004,2004,2004,2,0,2,Export,400,Jordan,JOR,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,205024,,,0
+H2,2004,2004,2004,2,0,2,Export,400,Jordan,JOR,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,55395,,,0
+H2,2004,2004,2004,2,0,2,Export,404,Kenya,KEN,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,722253,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,404,Kenya,KEN,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,77652,,,0
+H2,2004,2004,2004,2,0,2,Export,404,Kenya,KEN,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39858,,,0
+H2,2004,2004,2004,2,0,2,Export,410,Rep. of Korea,KOR,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,75369,,,0
+H2,2004,2004,2004,2,0,2,Export,410,Rep. of Korea,KOR,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2975668,,,0
+H2,2004,2004,2004,2,0,2,Export,410,Rep. of Korea,KOR,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,81378,,,0
+H2,2004,2004,2004,2,0,1,Import,410,Rep. of Korea,KOR,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,50561,,,0
+H2,2004,2004,2004,2,0,2,Export,410,Rep. of Korea,KOR,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,576737,,,0
+H2,2004,2004,2004,2,0,1,Import,417,Kyrgyzstan,KGZ,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1565,,,0
+H2,2004,2004,2004,2,0,2,Export,422,Lebanon,LBN,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,53000,,,0
+H2,2004,2004,2004,2,0,2,Export,422,Lebanon,LBN,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4000,,,0
+H2,2004,2004,2004,2,0,2,Export,422,Lebanon,LBN,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2000,,,0
+H2,2004,2004,2004,2,0,2,Export,422,Lebanon,LBN,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,216000,,,0
+H2,2004,2004,2004,2,0,2,Export,428,Latvia,LVA,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2114,,,0
+H2,2004,2004,2004,2,0,1,Import,428,Latvia,LVA,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18245400,,,0
+H2,2004,2004,2004,2,0,2,Export,428,Latvia,LVA,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13154699,,,0
+H2,2004,2004,2004,2,0,2,Export,440,Lithuania,LTU,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10448,,,0
+H2,2004,2004,2004,2,0,1,Import,440,Lithuania,LTU,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12544727,,,0
+H2,2004,2004,2004,2,0,2,Export,440,Lithuania,LTU,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23904099,,,0
+H2,2004,2004,2004,2,0,2,Export,442,Luxembourg,LUX,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,76158,,,0
+H2,2004,2004,2004,2,0,1,Import,442,Luxembourg,LUX,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,174,,,0
+H2,2004,2004,2004,2,0,2,Export,442,Luxembourg,LUX,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,167976,,,0
+H2,2004,2004,2004,2,0,1,Import,454,Malawi,MWI,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1112,,,0
+H2,2004,2004,2004,2,0,2,Export,458,Malaysia,MYS,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,86515,,,0
+H2,2004,2004,2004,2,0,2,Export,458,Malaysia,MYS,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,121749,,,0
+H2,2004,2004,2004,2,0,1,Import,470,Malta,MLT,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,367,,,0
+H2,2004,2004,2004,2,0,2,Export,470,Malta,MLT,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17957,,,0
+H2,2004,2004,2004,2,0,2,Export,490,"Other Asia, nes",,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1082248,,,0
+H2,2004,2004,2004,2,0,2,Export,490,"Other Asia, nes",,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21603,,,0
+H2,2004,2004,2004,2,0,1,Import,490,"Other Asia, nes",,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11001,,,0
+H2,2004,2004,2004,2,0,2,Export,490,"Other Asia, nes",,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1499087,,,0
+H2,2004,2004,2004,2,0,1,Import,498,Rep. of Moldova,MDA,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,216497,,,0
+H2,2004,2004,2004,2,0,1,Import,508,Mozambique,MOZ,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2180,,,0
+H2,2004,2004,2004,2,0,2,Export,512,Oman,OMN,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,519436,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,512,Oman,OMN,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,62614,,,0
+H2,2004,2004,2004,2,0,2,Export,512,Oman,OMN,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,334385,,,0
+H2,2004,2004,2004,2,0,1,Import,512,Oman,OMN,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,193724,,,0
+H2,2004,2004,2004,2,0,2,Export,528,Netherlands,NLD,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,354568,,,0
+H2,2004,2004,2004,2,0,2,Export,528,Netherlands,NLD,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1797724,,,0
+H2,2004,2004,2004,2,0,2,Export,528,Netherlands,NLD,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19906,,,0
+H2,2004,2004,2004,2,0,1,Import,528,Netherlands,NLD,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,796387,,,0
+H2,2004,2004,2004,2,0,2,Export,528,Netherlands,NLD,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10322292,,,0
+H2,2004,2004,2004,2,0,1,Import,540,New Caledonia,NCL,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,63,,,0
+H2,2004,2004,2004,2,0,2,Export,554,New Zealand,NZL,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5862,,,0
+H2,2004,2004,2004,2,0,2,Export,554,New Zealand,NZL,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2553,,,0
+H2,2004,2004,2004,2,0,2,Export,579,Norway,NOR,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11832,,,0
+H2,2004,2004,2004,2,0,2,Export,579,Norway,NOR,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,288,,,0
+H2,2004,2004,2004,2,0,2,Export,579,Norway,NOR,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12465,,,0
+H2,2004,2004,2004,2,0,1,Import,579,Norway,NOR,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8582335,,,0
+H2,2004,2004,2004,2,0,2,Export,579,Norway,NOR,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3304985,,,0
+H2,2004,2004,2004,2,0,1,Import,586,Pakistan,PAK,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,44118,,,0
+H2,2004,2004,2004,2,0,2,Export,586,Pakistan,PAK,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12212,,,0
+H2,2004,2004,2004,2,0,2,Export,616,Poland,POL,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10416,,,0
+H2,2004,2004,2004,2,0,1,Import,616,Poland,POL,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,47176,,,0
+H2,2004,2004,2004,2,0,1,Import,616,Poland,POL,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1452241,,,0
+H2,2004,2004,2004,2,0,2,Export,616,Poland,POL,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17297336,,,0
+H2,2004,2004,2004,2,0,1,Import,620,Portugal,PRT,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,129413,,,0
+H2,2004,2004,2004,2,0,2,Export,620,Portugal,PRT,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,114284,,,0
+H2,2004,2004,2004,2,0,1,Import,642,Romania,ROU,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1065748,,,0
+H2,2004,2004,2004,2,0,2,Export,642,Romania,ROU,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,83705,,,0
+H2,2004,2004,2004,2,0,2,Export,643,Russian Federation,RUS,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2414,,,0
+H2,2004,2004,2004,2,0,2,Export,643,Russian Federation,RUS,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,112514,,,0
+H2,2004,2004,2004,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2725537,,,0
+H2,2004,2004,2004,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5471363,,,0
+H2,2004,2004,2004,2,0,2,Export,682,Saudi Arabia,SAU,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5915474,,,0
+H2,2004,2004,2004,2,0,2,Export,682,Saudi Arabia,SAU,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1138401,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,682,Saudi Arabia,SAU,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,329600,,,0
+H2,2004,2004,2004,2,0,2,Export,682,Saudi Arabia,SAU,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29867,,,0
+H2,2004,2004,2004,2,0,2,Export,686,Senegal,SEN,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,167978,,,0
+H2,2004,2004,2004,2,0,2,Export,699,India,IND,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,174090,,,0
+H2,2004,2004,2004,2,0,2,Export,699,India,IND,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4497572,,,0
+H2,2004,2004,2004,2,0,2,Export,699,India,IND,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,215195,,,0
+H2,2004,2004,2004,2,0,2,Export,699,India,IND,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,628620,,,0
+H2,2004,2004,2004,2,0,2,Export,702,Singapore,SGP,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,114,,,0
+H2,2004,2004,2004,2,0,1,Import,703,Slovakia,SVK,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34,,,0
+H2,2004,2004,2004,2,0,2,Export,703,Slovakia,SVK,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2548,,,0
+H2,2004,2004,2004,2,0,1,Import,703,Slovakia,SVK,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,35735,,,0
+H2,2004,2004,2004,2,0,2,Export,703,Slovakia,SVK,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1272717,,,0
+H2,2004,2004,2004,2,0,1,Import,704,Viet Nam,VNM,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16613,,,0
+H2,2004,2004,2004,2,0,2,Export,704,Viet Nam,VNM,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,122123,,,0
+H2,2004,2004,2004,2,0,2,Export,705,Slovenia,SVN,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,126972,,,0
+H2,2004,2004,2004,2,0,1,Import,705,Slovenia,SVN,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,222838,,,0
+H2,2004,2004,2004,2,0,2,Export,705,Slovenia,SVN,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,323022,,,0
+H2,2004,2004,2004,2,0,2,Export,710,South Africa,ZAF,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22980,,,0
+H2,2004,2004,2004,2,0,1,Import,710,South Africa,ZAF,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,96,,,0
+H2,2004,2004,2004,2,0,2,Export,710,South Africa,ZAF,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,309025,,,0
+H2,2004,2004,2004,2,0,2,Export,710,South Africa,ZAF,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,226471,,,0
+H2,2004,2004,2004,2,0,1,Import,710,South Africa,ZAF,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,53810,,,0
+H2,2004,2004,2004,2,0,1,Import,716,Zimbabwe,ZWE,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2,,,0
+H2,2004,2004,2004,2,0,2,Export,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2134622,,,0
+H2,2004,2004,2004,2,0,2,Export,724,Spain,ESP,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,262775,,,0
+H2,2004,2004,2004,2,0,1,Import,724,Spain,ESP,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,123854,,,4
+H2,2004,2004,2004,2,0,2,Export,724,Spain,ESP,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3459507,,,4
+H2,2004,2004,2004,2,0,2,Export,752,Sweden,SWE,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,273,,,0
+H2,2004,2004,2004,2,0,2,Export,752,Sweden,SWE,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,237206,,,0
+H2,2004,2004,2004,2,0,2,Export,752,Sweden,SWE,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,409,,,0
+H2,2004,2004,2004,2,0,1,Import,752,Sweden,SWE,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21487125,,,0
+H2,2004,2004,2004,2,0,2,Export,752,Sweden,SWE,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,48653922,,,0
+H2,2004,2004,2004,2,0,1,Import,757,Switzerland,CHE,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,323,,,0
+H2,2004,2004,2004,2,0,2,Export,757,Switzerland,CHE,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19073,,,0
+H2,2004,2004,2004,2,0,1,Import,757,Switzerland,CHE,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,71626,,,0
+H2,2004,2004,2004,2,0,2,Export,757,Switzerland,CHE,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1548920,,,0
+H2,2004,2004,2004,2,0,2,Export,764,Thailand,THA,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2207610,,,0
+H2,2004,2004,2004,2,0,1,Import,764,Thailand,THA,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,325,,,0
+H2,2004,2004,2004,2,0,2,Export,764,Thailand,THA,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,347785,,,0
+H2,2004,2004,2004,2,0,1,Import,764,Thailand,THA,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7996,,,0
+H2,2004,2004,2004,2,0,2,Export,764,Thailand,THA,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34681,,,0
+H2,2004,2004,2004,2,0,2,Export,768,Togo,TGO,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,84676,,,0
+H2,2004,2004,2004,2,0,2,Export,784,United Arab Emirates,ARE,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,172249,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,784,United Arab Emirates,ARE,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,166950,,,0
+H2,2004,2004,2004,2,0,1,Import,784,United Arab Emirates,ARE,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22318,,,0
+H2,2004,2004,2004,2,0,2,Export,784,United Arab Emirates,ARE,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1406147,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,784,United Arab Emirates,ARE,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,554715,,,0
+H2,2004,2004,2004,2,0,2,Export,784,United Arab Emirates,ARE,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1380083,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,784,United Arab Emirates,ARE,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,957302,,,0
+H2,2004,2004,2004,2,0,1,Import,784,United Arab Emirates,ARE,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24657,,,0
+H2,2004,2004,2004,2,0,2,Export,784,United Arab Emirates,ARE,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,83915,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,784,United Arab Emirates,ARE,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,83915,,,0
+H2,2004,2004,2004,2,0,1,Import,788,Tunisia,TUN,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,999,,,0
+H2,2004,2004,2004,2,0,2,Export,792,Turkey,TUR,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25184,,,0
+H2,2004,2004,2004,2,0,2,Export,792,Turkey,TUR,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,544212,,,0
+H2,2004,2004,2004,2,0,2,Export,792,Turkey,TUR,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,820,,,0
+H2,2004,2004,2004,2,0,1,Import,792,Turkey,TUR,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3033667,,,0
+H2,2004,2004,2004,2,0,2,Export,792,Turkey,TUR,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,598464,,,0
+H2,2004,2004,2004,2,0,1,Import,800,Uganda,UGA,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,210,,,0
+H2,2004,2004,2004,2,0,1,Import,807,North Macedonia,MKD,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1092,,,0
+H2,2004,2004,2004,2,0,2,Export,826,United Kingdom,GBR,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,162598,,,0
+H2,2004,2004,2004,2,0,1,Import,826,United Kingdom,GBR,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34846,,,0
+H2,2004,2004,2004,2,0,2,Export,826,United Kingdom,GBR,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,875585,,,0
+H2,2004,2004,2004,2,0,2,Export,826,United Kingdom,GBR,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,183950,,,0
+H2,2004,2004,2004,2,0,1,Import,826,United Kingdom,GBR,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1357393,,,0
+H2,2004,2004,2004,2,0,2,Export,826,United Kingdom,GBR,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6561731,,,0
+H2,2004,2004,2004,2,0,2,Export,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1109425,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2779,,,0
+H2,2004,2004,2004,2,0,1,Import,842,USA,USA,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,791,,,0
+H2,2004,2004,2004,2,0,2,Export,842,USA,USA,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,811389,,,0
+H2,2004,2004,2004,2,0,1,Import,842,USA,USA,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,592,,,0
+H2,2004,2004,2004,2,0,2,Export,842,USA,USA,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,319237,,,0
+H2,2004,2004,2004,2,0,1,Import,842,USA,USA,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,323274,,,0
+H2,2004,2004,2004,2,0,2,Export,842,USA,USA,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3880331,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,842,USA,USA,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2580,,,0
+H2,2004,2004,2004,2,0,2,Export,32,Argentina,ARG,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9050,,,0
+H2,2004,2004,2004,2,0,1,Import,32,Argentina,ARG,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16728,,,0
+H2,2004,2004,2004,2,0,2,Export,40,Austria,AUT,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17186,,,0
+H2,2004,2004,2004,2,0,1,Import,40,Austria,AUT,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,122675,,,0
+H2,2004,2004,2004,2,0,2,Export,40,Austria,AUT,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,233301,,,0
+H2,2004,2004,2004,2,0,1,Import,51,Armenia,ARM,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32784,,,0
+H2,2004,2004,2004,2,0,2,Export,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,50645,,,0
+H2,2004,2004,2004,2,0,1,Import,56,Belgium,BEL,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,248933,,,0
+H2,2004,2004,2004,2,0,2,Export,56,Belgium,BEL,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,329215,,,0
+H2,2004,2004,2004,2,0,1,Import,56,Belgium,BEL,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6872,,,0
+H2,2004,2004,2004,2,0,2,Export,56,Belgium,BEL,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,65586,,,0
+H2,2004,2004,2004,2,0,1,Import,56,Belgium,BEL,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,138678,,,0
+H2,2004,2004,2004,2,0,2,Export,56,Belgium,BEL,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2214637,,,0
+H2,2004,2004,2004,2,0,2,Export,76,Brazil,BRA,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,34317,,,0
+H2,2004,2004,2004,2,0,2,Export,76,Brazil,BRA,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,284459,,,4
+H2,2004,2004,2004,2,0,1,Import,76,Brazil,BRA,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,48412,,,4
+H2,2004,2004,2004,2,0,2,Export,76,Brazil,BRA,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,26357,,,0
+H2,2004,2004,2004,2,0,2,Export,100,Bulgaria,BGR,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5407,,,0
+H2,2004,2004,2004,2,0,2,Export,112,Belarus,BLR,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,34500,,,0
+H2,2004,2004,2004,2,0,2,Export,112,Belarus,BLR,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,56000,,,0
+H2,2004,2004,2004,2,0,1,Import,112,Belarus,BLR,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,62200,,,0
+H2,2004,2004,2004,2,0,2,Export,112,Belarus,BLR,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,553000,,,0
+H2,2004,2004,2004,2,0,2,Export,124,Canada,CAN,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1966,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,124,Canada,CAN,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,251,,,0
+H2,2004,2004,2004,2,0,2,Export,124,Canada,CAN,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,191424,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,124,Canada,CAN,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38195,,,0
+H2,2004,2004,2004,2,0,1,Import,124,Canada,CAN,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6470,,,0
+H2,2004,2004,2004,2,0,2,Export,124,Canada,CAN,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,180887,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,124,Canada,CAN,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,154432,,,0
+H2,2004,2004,2004,2,0,2,Export,144,Sri Lanka,LKA,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,21230,,,0
+H2,2004,2004,2004,2,0,2,Export,144,Sri Lanka,LKA,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,238501,,,0
+H2,2004,2004,2004,2,0,2,Export,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,267135,,,0
+H2,2004,2004,2004,2,0,1,Import,156,China,CHN,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,40,,,0
+H2,2004,2004,2004,2,0,2,Export,156,China,CHN,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9931915,,,0
+H2,2004,2004,2004,2,0,2,Export,156,China,CHN,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1137210,,,0
+H2,2004,2004,2004,2,0,1,Import,156,China,CHN,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,821902,,,0
+H2,2004,2004,2004,2,0,2,Export,156,China,CHN,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,652508,,,0
+H2,2004,2004,2004,2,0,1,Import,188,Costa Rica,CRI,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,275,,,0
+H2,2004,2004,2004,2,0,1,Import,191,Croatia,HRV,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20109,,,0
+H2,2004,2004,2004,2,0,1,Import,192,Cuba,CUB,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5523,,,0
+H2,2004,2004,2004,2,0,2,Export,196,Cyprus,CYP,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2606,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,196,Cyprus,CYP,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2606,,,0
+H2,2004,2004,2004,2,0,1,Import,196,Cyprus,CYP,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,26,,,0
+H2,2004,2004,2004,2,0,2,Export,203,Czechia,CZE,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20556,,,0
+H2,2004,2004,2004,2,0,2,Export,203,Czechia,CZE,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,56548,,,0
+H2,2004,2004,2004,2,0,1,Import,203,Czechia,CZE,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,466210,,,0
+H2,2004,2004,2004,2,0,2,Export,203,Czechia,CZE,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7884667,,,0
+H2,2004,2004,2004,2,0,2,Export,208,Denmark,DNK,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,62873,,,0
+H2,2004,2004,2004,2,0,2,Export,208,Denmark,DNK,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,31285,,,0
+H2,2004,2004,2004,2,0,1,Import,208,Denmark,DNK,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28465,,,0
+H2,2004,2004,2004,2,0,2,Export,208,Denmark,DNK,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,197068,,,0
+H2,2004,2004,2004,2,0,1,Import,233,Estonia,EST,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,160575,,,0
+H2,2004,2004,2004,2,0,4,Re-Import,233,Estonia,EST,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,160575,,,0
+H2,2004,2004,2004,2,0,1,Import,234,Faeroe Isds,FRO,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,796,,,0
+H2,2004,2004,2004,2,0,2,Export,246,Finland,FIN,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,268598,,,0
+H2,2004,2004,2004,2,0,1,Import,246,Finland,FIN,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1401126,,,0
+H2,2004,2004,2004,2,0,2,Export,246,Finland,FIN,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11198275,,,0
+H2,2004,2004,2004,2,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,312159,,,0
+H2,2004,2004,2004,2,0,2,Export,251,France,FRA,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,262413,,,0
+H2,2004,2004,2004,2,0,1,Import,251,France,FRA,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47270,,,0
+H2,2004,2004,2004,2,0,2,Export,251,France,FRA,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1537167,,,0
+H2,2004,2004,2004,2,0,1,Import,266,Gabon,GAB,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,269178,,,0
+H2,2004,2004,2004,2,0,2,Export,266,Gabon,GAB,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,138484,,,0
+H2,2004,2004,2004,2,0,2,Export,276,Germany,DEU,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,45000,,,0
+H2,2004,2004,2004,2,0,2,Export,276,Germany,DEU,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,460000,,,0
+H2,2004,2004,2004,2,0,1,Import,276,Germany,DEU,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1000,,,0
+H2,2004,2004,2004,2,0,2,Export,276,Germany,DEU,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22000,,,0
+H2,2004,2004,2004,2,0,1,Import,276,Germany,DEU,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4345000,,,0
+H2,2004,2004,2004,2,0,2,Export,276,Germany,DEU,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6766000,,,0
+H2,2004,2004,2004,2,0,1,Import,288,Ghana,GHA,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1140,,,0
+H2,2004,2004,2004,2,0,1,Import,340,Honduras,HND,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5,,,0
+H2,2004,2004,2004,2,0,1,Import,340,Honduras,HND,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,252,,,0
+H2,2004,2004,2004,2,0,1,Import,344,"China, Hong Kong SAR",HKG,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,541659,,,0
+H2,2004,2004,2004,2,0,2,Export,344,"China, Hong Kong SAR",HKG,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11391,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11391,,,0
+H2,2004,2004,2004,2,0,2,Export,348,Hungary,HUN,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24000,,,0
+H2,2004,2004,2004,2,0,1,Import,348,Hungary,HUN,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43000,,,0
+H2,2004,2004,2004,2,0,2,Export,348,Hungary,HUN,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,444000,,,0
+H2,2004,2004,2004,2,0,2,Export,352,Iceland,ISL,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,824,,,0
+H2,2004,2004,2004,2,0,2,Export,372,Ireland,IRL,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,555,,,0
+H2,2004,2004,2004,2,0,2,Export,376,Israel,ISR,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19000,,,0
+H2,2004,2004,2004,2,0,1,Import,376,Israel,ISR,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,145000,,,0
+H2,2004,2004,2004,2,0,2,Export,376,Israel,ISR,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,307000,,,0
+H2,2004,2004,2004,2,0,1,Import,381,Italy,ITA,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3978,,,0
+H2,2004,2004,2004,2,0,2,Export,381,Italy,ITA,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,832261,,,0
+H2,2004,2004,2004,2,0,2,Export,381,Italy,ITA,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,705760,,,0
+H2,2004,2004,2004,2,0,2,Export,381,Italy,ITA,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,195138,,,0
+H2,2004,2004,2004,2,0,1,Import,381,Italy,ITA,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,97374,,,0
+H2,2004,2004,2004,2,0,2,Export,381,Italy,ITA,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2978055,,,0
+H2,2004,2004,2004,2,0,2,Export,384,Côte d'Ivoire,CIV,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8007,,,0
+H2,2004,2004,2004,2,0,2,Export,392,Japan,JPN,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,364327,,,0
+H2,2004,2004,2004,2,0,2,Export,392,Japan,JPN,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,258417,,,0
+H2,2004,2004,2004,2,0,2,Export,392,Japan,JPN,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,92166,,,0
+H2,2004,2004,2004,2,0,1,Import,392,Japan,JPN,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2239,,,0
+H2,2004,2004,2004,2,0,2,Export,392,Japan,JPN,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28186170,,,0
+H2,2004,2004,2004,2,0,2,Export,398,Kazakhstan,KAZ,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2708,,,0
+H2,2004,2004,2004,2,0,1,Import,398,Kazakhstan,KAZ,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20256,,,0
+H2,2004,2004,2004,2,0,2,Export,404,Kenya,KEN,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30741,,,0
+H2,2004,2004,2004,2,0,2,Export,404,Kenya,KEN,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2855,,,0
+H2,2004,2004,2004,2,0,2,Export,410,Rep. of Korea,KOR,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6265,,,0
+H2,2004,2004,2004,2,0,2,Export,410,Rep. of Korea,KOR,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3091066,,,0
+H2,2004,2004,2004,2,0,2,Export,410,Rep. of Korea,KOR,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,194226,,,0
+H2,2004,2004,2004,2,0,2,Export,410,Rep. of Korea,KOR,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1220352,,,0
+H2,2004,2004,2004,2,0,1,Import,417,Kyrgyzstan,KGZ,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3525,,,0
+H2,2004,2004,2004,2,0,2,Export,422,Lebanon,LBN,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,60000,,,0
+H2,2004,2004,2004,2,0,1,Import,428,Latvia,LVA,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5326297,,,0
+H2,2004,2004,2004,2,0,2,Export,428,Latvia,LVA,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1217123,,,0
+H2,2004,2004,2004,2,0,1,Import,440,Lithuania,LTU,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5757693,,,0
+H2,2004,2004,2004,2,0,2,Export,440,Lithuania,LTU,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1063324,,,0
+H2,2004,2004,2004,2,0,1,Import,442,Luxembourg,LUX,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,62,,,0
+H2,2004,2004,2004,2,0,2,Export,442,Luxembourg,LUX,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1017212,,,0
+H2,2004,2004,2004,2,0,1,Import,454,Malawi,MWI,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,115,,,0
+H2,2004,2004,2004,2,0,2,Export,458,Malaysia,MYS,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,217119,,,0
+H2,2004,2004,2004,2,0,2,Export,458,Malaysia,MYS,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,238453,,,0
+H2,2004,2004,2004,2,0,2,Export,458,Malaysia,MYS,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,141803,,,0
+H2,2004,2004,2004,2,0,1,Import,470,Malta,MLT,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,785,,,0
+H2,2004,2004,2004,2,0,2,Export,470,Malta,MLT,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1723,,,0
+H2,2004,2004,2004,2,0,1,Import,484,Mexico,MEX,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,31952,,,0
+H2,2004,2004,2004,2,0,2,Export,490,"Other Asia, nes",,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,929,,,0
+H2,2004,2004,2004,2,0,2,Export,490,"Other Asia, nes",,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16809,,,0
+H2,2004,2004,2004,2,0,1,Import,490,"Other Asia, nes",,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,103149,,,0
+H2,2004,2004,2004,2,0,2,Export,490,"Other Asia, nes",,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,392240,,,0
+H2,2004,2004,2004,2,0,1,Import,496,Mongolia,MNG,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1780,,,0
+H2,2004,2004,2004,2,0,1,Import,498,Rep. of Moldova,MDA,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,875,,,0
+H2,2004,2004,2004,2,0,2,Export,504,Morocco,MAR,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8152,,,0
+H2,2004,2004,2004,2,0,1,Import,504,Morocco,MAR,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,797,,,0
+H2,2004,2004,2004,2,0,1,Import,508,Mozambique,MOZ,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,328,,,0
+H2,2004,2004,2004,2,0,2,Export,528,Netherlands,NLD,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,103260,,,0
+H2,2004,2004,2004,2,0,1,Import,528,Netherlands,NLD,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1244,,,0
+H2,2004,2004,2004,2,0,2,Export,528,Netherlands,NLD,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,557357,,,0
+H2,2004,2004,2004,2,0,1,Import,528,Netherlands,NLD,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,321044,,,0
+H2,2004,2004,2004,2,0,2,Export,528,Netherlands,NLD,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1491675,,,0
+H2,2004,2004,2004,2,0,1,Import,554,New Zealand,NZL,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1174,,,0
+H2,2004,2004,2004,2,0,1,Import,579,Norway,NOR,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,814,,,0
+H2,2004,2004,2004,2,0,2,Export,579,Norway,NOR,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2939,,,0
+H2,2004,2004,2004,2,0,2,Export,579,Norway,NOR,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,446,,,0
+H2,2004,2004,2004,2,0,1,Import,579,Norway,NOR,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47875,,,0
+H2,2004,2004,2004,2,0,2,Export,579,Norway,NOR,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,141156,,,0
+H2,2004,2004,2004,2,0,1,Import,586,Pakistan,PAK,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27223,,,0
+H2,2004,2004,2004,2,0,2,Export,616,Poland,POL,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25095,,,0
+H2,2004,2004,2004,2,0,2,Export,616,Poland,POL,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9023,,,0
+H2,2004,2004,2004,2,0,2,Export,616,Poland,POL,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,33600,,,0
+H2,2004,2004,2004,2,0,1,Import,616,Poland,POL,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,348908,,,0
+H2,2004,2004,2004,2,0,2,Export,616,Poland,POL,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3678502,,,0
+H2,2004,2004,2004,2,0,1,Import,620,Portugal,PRT,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12219,,,0
+H2,2004,2004,2004,2,0,2,Export,620,Portugal,PRT,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,242570,,,0
+H2,2004,2004,2004,2,0,1,Import,642,Romania,ROU,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,78705,,,0
+H2,2004,2004,2004,2,0,2,Export,642,Romania,ROU,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,255294,,,0
+H2,2004,2004,2004,2,0,2,Export,643,Russian Federation,RUS,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14824,,,0
+H2,2004,2004,2004,2,0,2,Export,643,Russian Federation,RUS,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1391339,,,0
+H2,2004,2004,2004,2,0,2,Export,643,Russian Federation,RUS,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12376,,,0
+H2,2004,2004,2004,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,659454,,,0
+H2,2004,2004,2004,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32851776,,,0
+H2,2004,2004,2004,2,0,2,Export,682,Saudi Arabia,SAU,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,98667,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,682,Saudi Arabia,SAU,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,98667,,,0
+H2,2004,2004,2004,2,0,2,Export,686,Senegal,SEN,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5260,,,0
+H2,2004,2004,2004,2,0,2,Export,699,India,IND,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,64834,,,0
+H2,2004,2004,2004,2,0,1,Import,699,India,IND,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,214,,,0
+H2,2004,2004,2004,2,0,2,Export,699,India,IND,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3084262,,,0
+H2,2004,2004,2004,2,0,2,Export,699,India,IND,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,499879,,,0
+H2,2004,2004,2004,2,0,2,Export,699,India,IND,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15834,,,0
+H2,2004,2004,2004,2,0,2,Export,702,Singapore,SGP,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,459241,,,0
+H2,2004,2004,2004,2,0,2,Export,703,Slovakia,SVK,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5152,,,0
+H2,2004,2004,2004,2,0,2,Export,703,Slovakia,SVK,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,296314,,,0
+H2,2004,2004,2004,2,0,1,Import,703,Slovakia,SVK,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7,,,0
+H2,2004,2004,2004,2,0,2,Export,703,Slovakia,SVK,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1497633,,,0
+H2,2004,2004,2004,2,0,1,Import,704,Viet Nam,VNM,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,165753,,,0
+H2,2004,2004,2004,2,0,1,Import,705,Slovenia,SVN,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14892,,,0
+H2,2004,2004,2004,2,0,2,Export,705,Slovenia,SVN,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1213673,,,0
+H2,2004,2004,2004,2,0,2,Export,710,South Africa,ZAF,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2719,,,0
+H2,2004,2004,2004,2,0,1,Import,710,South Africa,ZAF,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,533645,,,0
+H2,2004,2004,2004,2,0,2,Export,710,South Africa,ZAF,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,55738,,,0
+H2,2004,2004,2004,2,0,1,Import,710,South Africa,ZAF,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1457,,,0
+H2,2004,2004,2004,2,0,2,Export,710,South Africa,ZAF,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,81140,,,0
+H2,2004,2004,2004,2,0,1,Import,710,South Africa,ZAF,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17558,,,0
+H2,2004,2004,2004,2,0,1,Import,716,Zimbabwe,ZWE,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,7,,,0
+H2,2004,2004,2004,2,0,1,Import,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,320916,,,0
+H2,2004,2004,2004,2,0,2,Export,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2853560,,,0
+H2,2004,2004,2004,2,0,2,Export,724,Spain,ESP,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,188976,,,0
+H2,2004,2004,2004,2,0,1,Import,724,Spain,ESP,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,36459,,,0
+H2,2004,2004,2004,2,0,2,Export,724,Spain,ESP,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,283892,,,0
+H2,2004,2004,2004,2,0,2,Export,752,Sweden,SWE,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,36263,,,0
+H2,2004,2004,2004,2,0,1,Import,752,Sweden,SWE,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2319,,,0
+H2,2004,2004,2004,2,0,2,Export,752,Sweden,SWE,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,113423,,,0
+H2,2004,2004,2004,2,0,2,Export,752,Sweden,SWE,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1772,,,0
+H2,2004,2004,2004,2,0,1,Import,752,Sweden,SWE,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3588894,,,0
+H2,2004,2004,2004,2,0,2,Export,752,Sweden,SWE,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11936635,,,0
+H2,2004,2004,2004,2,0,2,Export,757,Switzerland,CHE,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3707,,,0
+H2,2004,2004,2004,2,0,2,Export,757,Switzerland,CHE,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1792,,,0
+H2,2004,2004,2004,2,0,2,Export,757,Switzerland,CHE,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,84399,,,0
+H2,2004,2004,2004,2,0,2,Export,764,Thailand,THA,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1264634,,,0
+H2,2004,2004,2004,2,0,1,Import,764,Thailand,THA,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18548,,,0
+H2,2004,2004,2004,2,0,2,Export,764,Thailand,THA,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,587714,,,0
+H2,2004,2004,2004,2,0,2,Export,764,Thailand,THA,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,86337,,,0
+H2,2004,2004,2004,2,0,2,Export,784,United Arab Emirates,ARE,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,166925,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,784,United Arab Emirates,ARE,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,166925,,,0
+H2,2004,2004,2004,2,0,2,Export,784,United Arab Emirates,ARE,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,350482,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,784,United Arab Emirates,ARE,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,341175,,,0
+H2,2004,2004,2004,2,0,2,Export,784,United Arab Emirates,ARE,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1954407,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,784,United Arab Emirates,ARE,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1951732,,,0
+H2,2004,2004,2004,2,0,1,Import,784,United Arab Emirates,ARE,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,68765,,,0
+H2,2004,2004,2004,2,0,2,Export,788,Tunisia,TUN,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,41054,,,0
+H2,2004,2004,2004,2,0,2,Export,792,Turkey,TUR,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,326629,,,0
+H2,2004,2004,2004,2,0,2,Export,792,Turkey,TUR,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,373313,,,0
+H2,2004,2004,2004,2,0,2,Export,792,Turkey,TUR,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4805,,,0
+H2,2004,2004,2004,2,0,1,Import,792,Turkey,TUR,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7041,,,0
+H2,2004,2004,2004,2,0,2,Export,792,Turkey,TUR,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,194834,,,0
+H2,2004,2004,2004,2,0,2,Export,800,Uganda,UGA,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1137,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,800,Uganda,UGA,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1137,,,0
+H2,2004,2004,2004,2,0,1,Import,826,United Kingdom,GBR,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,193634,,,0
+H2,2004,2004,2004,2,0,2,Export,826,United Kingdom,GBR,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,111667,,,0
+H2,2004,2004,2004,2,0,1,Import,826,United Kingdom,GBR,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1099,,,0
+H2,2004,2004,2004,2,0,2,Export,826,United Kingdom,GBR,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,97161,,,0
+H2,2004,2004,2004,2,0,2,Export,826,United Kingdom,GBR,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19520,,,0
+H2,2004,2004,2004,2,0,1,Import,826,United Kingdom,GBR,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,170579,,,0
+H2,2004,2004,2004,2,0,2,Export,826,United Kingdom,GBR,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1049203,,,0
+H2,2004,2004,2004,2,0,2,Export,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,360699,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10492,,,0
+H2,2004,2004,2004,2,0,1,Import,842,USA,USA,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,844,,,0
+H2,2004,2004,2004,2,0,2,Export,842,USA,USA,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2353210,,,0
+H2,2004,2004,2004,2,0,1,Import,842,USA,USA,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14205,,,0
+H2,2004,2004,2004,2,0,2,Export,842,USA,USA,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,354068,,,0
+H2,2004,2004,2004,2,0,1,Import,842,USA,USA,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,152945,,,0
+H2,2004,2004,2004,2,0,2,Export,842,USA,USA,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,756890,,,0
+H2,2004,2004,2004,2,0,3,Re-Export,842,USA,USA,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5717,,,0
+H1,2004,2004,2004,2,0,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,31918380,,,0
+H1,2004,2004,2004,2,0,2,Export,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,15687852,,,0
+H1,2004,2004,2004,2,0,2,Export,360,Indonesia,IDN,232,Eritrea,ERI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2873478,,,0
+H1,2004,2004,2004,2,0,1,Import,646,Rwanda,RWA,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,431,,,0
+H1,2004,2004,2004,2,0,2,Export,646,Rwanda,RWA,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,25678,,,0
+H1,2004,2004,2004,2,0,3,Re-Export,646,Rwanda,RWA,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,25678,,,0
+H1,2004,2004,2004,2,0,2,Export,804,Ukraine,UKR,232,Eritrea,ERI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,13840,,,0
+H1,2004,2004,2004,2,0,1,Import,804,Ukraine,UKR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,13249320,,,0
+H1,2004,2004,2004,2,0,2,Export,804,Ukraine,UKR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,36541660,,,0
+H1,2004,2004,2004,2,0,2,Export,887,Yemen,YEM,232,Eritrea,ERI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,979398,,,0
+H1,2004,2004,2004,2,0,1,Import,891,Serbia and Montenegro,SCG,233,Estonia,EST,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2453,,,0
+H1,2004,2004,2004,2,0,1,Import,52,Barbados,BRB,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,134,,,0
+H1,2004,2004,2004,2,0,1,Import,84,Belize,BLZ,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19,,,0
+H1,2004,2004,2004,2,0,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13461,,,0
+H1,2004,2004,2004,2,0,2,Export,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,317382,,,0
+H1,2004,2004,2004,2,0,2,Export,204,Benin,BEN,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2691,,,0
+H1,2004,2004,2004,2,0,2,Export,360,Indonesia,IDN,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,44004,,,0
+H1,2004,2004,2004,2,0,2,Export,360,Indonesia,IDN,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2175,,,0
+H1,2004,2004,2004,2,0,1,Import,634,Qatar,QAT,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,56329,,,0
+H1,2004,2004,2004,2,0,2,Export,634,Qatar,QAT,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1826251,,,0
+H1,2004,2004,2004,2,0,2,Export,634,Qatar,QAT,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,30180,,,0
+H1,2004,2004,2004,2,0,1,Import,736,Fmr Sudan,SDN,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,152,,,0
+H1,2004,2004,2004,2,0,2,Export,760,Syria,SYR,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,285880,,,0
+H1,2004,2004,2004,2,0,2,Export,804,Ukraine,UKR,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2050,,,0
+H1,2004,2004,2004,2,0,1,Import,804,Ukraine,UKR,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1651930,,,0
+H1,2004,2004,2004,2,0,2,Export,804,Ukraine,UKR,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1534750,,,0
+H1,2004,2004,2004,2,0,1,Import,834,United Rep. of Tanzania,TZA,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1591,,,0
+H1,2004,2004,2004,2,0,2,Export,834,United Rep. of Tanzania,TZA,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,208305,,,0
+H1,2004,2004,2004,2,0,2,Export,887,Yemen,YEM,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9444,,,0
+H1,2004,2004,2004,2,0,2,Export,887,Yemen,YEM,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,126628,,,0
+H1,2004,2004,2004,2,0,1,Import,891,Serbia and Montenegro,SCG,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,42378,,,0
+H1,2004,2004,2004,2,0,2,Export,891,Serbia and Montenegro,SCG,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,327,,,0
+H1,2004,2004,2004,2,0,1,Import,52,Barbados,BRB,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,199,,,0
+H1,2004,2004,2004,2,0,2,Export,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,112521,,,0
+H1,2004,2004,2004,2,0,2,Export,360,Indonesia,IDN,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,567311,,,0
+H1,2004,2004,2004,2,0,2,Export,360,Indonesia,IDN,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,159214,,,0
+H1,2004,2004,2004,2,0,1,Import,360,Indonesia,IDN,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1,,,0
+H1,2004,2004,2004,2,0,2,Export,360,Indonesia,IDN,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,68780,,,0
+H1,2004,2004,2004,2,0,1,Import,634,Qatar,QAT,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,57,,,0
+H1,2004,2004,2004,2,0,1,Import,736,Fmr Sudan,SDN,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,655,,,0
+H1,2004,2004,2004,2,0,1,Import,736,Fmr Sudan,SDN,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,102,,,0
+H1,2004,2004,2004,2,0,2,Export,804,Ukraine,UKR,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32540,,,0
+H1,2004,2004,2004,2,0,2,Export,804,Ukraine,UKR,232,Eritrea,ERI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7060,,,0
+H1,2004,2004,2004,2,0,1,Import,804,Ukraine,UKR,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5390,,,0
+H1,2004,2004,2004,2,0,2,Export,804,Ukraine,UKR,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1120530,,,0
+H1,2004,2004,2004,2,0,2,Export,862,Venezuela,VEN,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27603,,,0
+H1,2004,2004,2004,2,0,2,Export,891,Serbia and Montenegro,SCG,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1110,,,0
+H1,2004,2004,2004,2,0,1,Import,891,Serbia and Montenegro,SCG,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23,,,0
+H1,2004,2004,2004,2,0,2,Export,891,Serbia and Montenegro,SCG,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,34470,,,0
+H0,2004,2004,2004,2,0,1,Import,818,Egypt,EGY,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2854318,,,0
+H0,2004,2004,2004,2,0,2,Export,818,Egypt,EGY,231,Ethiopia,ETH,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,579865,,,0
+H0,2004,2004,2004,2,0,2,Export,818,Egypt,EGY,232,Eritrea,ERI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,16109,,,0
+H0,2004,2004,2004,2,0,1,Import,818,Egypt,EGY,233,Estonia,EST,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,111586,,,0
+H0,2004,2004,2004,2,0,2,Export,414,Kuwait,KWT,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,899,,,0
+H0,2004,2004,2004,2,0,3,Re-Export,414,Kuwait,KWT,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,899,,,0
+H0,2004,2004,2004,2,0,1,Import,414,Kuwait,KWT,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10119,,,0
+H0,2004,2004,2004,2,0,2,Export,818,Egypt,EGY,231,Ethiopia,ETH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4373,,,0
+H0,2004,2004,2004,2,0,2,Export,818,Egypt,EGY,232,Eritrea,ERI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,583,,,0
+H0,2004,2004,2004,2,0,1,Import,414,Kuwait,KWT,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6776,,,0
+H0,2004,2004,2004,2,0,2,Export,818,Egypt,EGY,231,Ethiopia,ETH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,666764,,,0

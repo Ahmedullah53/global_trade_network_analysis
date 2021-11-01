@@ -1,0 +1,1141 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2008,2008,2008,2,0,2,Export,8,Albania,ALB,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1099762,,,0
+H2,2008,2008,2008,2,0,1,Import,8,Albania,ALB,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,11533477,,,0
+H2,2008,2008,2008,2,0,1,Import,8,Albania,ALB,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,278,,,0
+H2,2008,2008,2008,2,0,1,Import,8,Albania,ALB,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1365168,,,0
+H2,2008,2008,2008,2,0,1,Import,8,Albania,ALB,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,547208,,,0
+H3,2008,2008,2008,2,0,1,Import,12,Algeria,DZA,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,22934,,,0
+H3,2008,2008,2008,2,0,2,Export,12,Algeria,DZA,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10314269,,,0
+H3,2008,2008,2008,2,0,1,Import,12,Algeria,DZA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,89203,,,0
+H3,2008,2008,2008,2,0,1,Import,12,Algeria,DZA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,193,,,0
+H3,2008,2008,2008,2,0,2,Export,12,Algeria,DZA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,91668,,,0
+H3,2008,2008,2008,2,0,1,Import,12,Algeria,DZA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,53059,,,0
+H3,2008,2008,2008,2,0,1,Import,12,Algeria,DZA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1621724,,,0
+H3,2008,2008,2008,2,0,1,Import,12,Algeria,DZA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1050,,,0
+H3,2008,2008,2008,2,0,1,Import,12,Algeria,DZA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4872208,,,0
+H3,2008,2008,2008,2,0,1,Import,20,Andorra,AND,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26286,,,0
+H3,2008,2008,2008,2,0,2,Export,20,Andorra,AND,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1595,,,0
+H3,2008,2008,2008,2,0,2,Export,31,Azerbaijan,AZE,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,23413888,,,0
+H3,2008,2008,2008,2,0,1,Import,31,Azerbaijan,AZE,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,424,,,0
+H3,2008,2008,2008,2,0,1,Import,31,Azerbaijan,AZE,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,76,,,0
+H3,2008,2008,2008,2,0,1,Import,31,Azerbaijan,AZE,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,487510,,,0
+H3,2008,2008,2008,2,0,1,Import,31,Azerbaijan,AZE,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1416382,,,0
+H3,2008,2008,2008,2,0,1,Import,32,Argentina,ARG,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,115796,,,0
+H3,2008,2008,2008,2,0,1,Import,32,Argentina,ARG,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10,,,0
+H3,2008,2008,2008,2,0,2,Export,32,Argentina,ARG,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29560,,,0
+H3,2008,2008,2008,2,0,1,Import,32,Argentina,ARG,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1052729,,,0
+H3,2008,2008,2008,2,0,2,Export,32,Argentina,ARG,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20055434,,,0
+H3,2008,2008,2008,2,0,2,Export,32,Argentina,ARG,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,104,,,0
+H3,2008,2008,2008,2,0,1,Import,32,Argentina,ARG,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1008777,,,0
+H3,2008,2008,2008,2,0,2,Export,32,Argentina,ARG,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,207995,,,0
+H3,2008,2008,2008,2,0,2,Export,36,Australia,AUS,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,535791,,,0
+H3,2008,2008,2008,2,0,1,Import,36,Australia,AUS,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,70137,,,0
+H3,2008,2008,2008,2,0,2,Export,36,Australia,AUS,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3031,,,0
+H3,2008,2008,2008,2,0,1,Import,36,Australia,AUS,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18617,,,0
+H3,2008,2008,2008,2,0,2,Export,36,Australia,AUS,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,181240,,,0
+H3,2008,2008,2008,2,0,1,Import,36,Australia,AUS,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4626898,,,0
+H3,2008,2008,2008,2,0,2,Export,36,Australia,AUS,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23665,,,0
+H3,2008,2008,2008,2,0,1,Import,36,Australia,AUS,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1159,,,0
+H3,2008,2008,2008,2,0,2,Export,36,Australia,AUS,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,215,,,0
+H3,2008,2008,2008,2,0,1,Import,36,Australia,AUS,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6498914,,,0
+H3,2008,2008,2008,2,0,2,Export,36,Australia,AUS,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,67456,,,0
+H3,2008,2008,2008,2,0,2,Export,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,29607,,,0
+H3,2008,2008,2008,2,0,1,Import,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,196703,,,0
+H3,2008,2008,2008,2,0,2,Export,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,270910,,,0
+H3,2008,2008,2008,2,0,1,Import,40,Austria,AUT,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,708061284,,,0
+H3,2008,2008,2008,2,0,2,Export,40,Austria,AUT,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,624762120,,,0
+H3,2008,2008,2008,2,0,1,Import,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,36465,,,0
+H3,2008,2008,2008,2,0,2,Export,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11256,,,0
+H3,2008,2008,2008,2,0,1,Import,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,366,,,0
+H3,2008,2008,2008,2,0,2,Export,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,663372,,,0
+H3,2008,2008,2008,2,0,1,Import,40,Austria,AUT,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,109309513,,,0
+H3,2008,2008,2008,2,0,2,Export,40,Austria,AUT,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,50866383,,,0
+H3,2008,2008,2008,2,0,2,Export,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27307,,,0
+H3,2008,2008,2008,2,0,1,Import,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,45831,,,0
+H3,2008,2008,2008,2,0,2,Export,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6422359,,,0
+H3,2008,2008,2008,2,0,1,Import,40,Austria,AUT,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,174683979,,,0
+H3,2008,2008,2008,2,0,2,Export,40,Austria,AUT,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,308871693,,,0
+H3,2008,2008,2008,2,0,1,Import,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2675,,,0
+H2,2008,2008,2008,2,0,1,Import,48,Bahrain,BHR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,44540,,,0
+H2,2008,2008,2008,2,0,2,Export,48,Bahrain,BHR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1705,,,0
+H2,2008,2008,2008,2,0,3,Re-Export,48,Bahrain,BHR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1705,,,0
+H2,2008,2008,2008,2,0,1,Import,48,Bahrain,BHR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,516858,,,0
+H2,2008,2008,2008,2,0,2,Export,48,Bahrain,BHR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43231,,,0
+H2,2008,2008,2008,2,0,1,Import,48,Bahrain,BHR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,95665,,,0
+H3,2008,2008,2008,2,0,1,Import,50,Bangladesh,BGD,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1092,,,0
+H3,2008,2008,2008,2,0,2,Export,50,Bangladesh,BGD,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,133657,,,0
+H3,2008,2008,2008,2,0,1,Import,50,Bangladesh,BGD,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5352,,,0
+H3,2008,2008,2008,2,0,1,Import,51,Armenia,ARM,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,752,,,0
+H3,2008,2008,2008,2,0,1,Import,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,139340,,,0
+H3,2008,2008,2008,2,0,2,Export,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,281,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,160,,,0
+H3,2008,2008,2008,2,0,1,Import,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,148874,,,0
+H2,2008,2008,2008,2,0,1,Import,52,Barbados,BRB,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2485,,,0
+H2,2008,2008,2008,2,0,1,Import,52,Barbados,BRB,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31172,,,0
+H2,2008,2008,2008,2,0,1,Import,52,Barbados,BRB,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25500,,,0
+H3,2008,2008,2008,2,0,1,Import,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,19,,,0
+H3,2008,2008,2008,2,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,935353,,,0
+H3,2008,2008,2008,2,0,1,Import,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,19924,,,0
+H3,2008,2008,2008,2,0,2,Export,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4785921,,,0
+H3,2008,2008,2008,2,0,1,Import,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2507877,,,0
+H3,2008,2008,2008,2,0,2,Export,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,31696468,,,0
+H3,2008,2008,2008,2,0,1,Import,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,270,,,0
+H3,2008,2008,2008,2,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2132580,,,0
+H3,2008,2008,2008,2,0,1,Import,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,307207,,,0
+H3,2008,2008,2008,2,0,2,Export,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3257964,,,0
+H3,2008,2008,2008,2,0,1,Import,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,84556629,,,0
+H3,2008,2008,2008,2,0,2,Export,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,74280515,,,0
+H3,2008,2008,2008,2,0,1,Import,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29843,,,0
+H3,2008,2008,2008,2,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7493995,,,0
+H3,2008,2008,2008,2,0,1,Import,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1355486,,,0
+H3,2008,2008,2008,2,0,2,Export,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18767913,,,0
+H3,2008,2008,2008,2,0,1,Import,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,77772066,,,0
+H3,2008,2008,2008,2,0,2,Export,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,584061566,,,0
+H2,2008,2008,2008,2,0,1,Import,60,Bermuda,BMU,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,120,,,0
+H3,2008,2008,2008,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,672,,,0
+H3,2008,2008,2008,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,136987,,,0
+H3,2008,2008,2008,2,0,2,Export,68,Bolivia (Plurinational State of),BOL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12,,,0
+H3,2008,2008,2008,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15066,,,0
+H3,2008,2008,2008,2,0,1,Import,70,Bosnia Herzegovina,BIH,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,44546,,,0
+H3,2008,2008,2008,2,0,1,Import,70,Bosnia Herzegovina,BIH,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10036396,,,0
+H3,2008,2008,2008,2,0,2,Export,70,Bosnia Herzegovina,BIH,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,9561920,,,0
+H3,2008,2008,2008,2,0,1,Import,70,Bosnia Herzegovina,BIH,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,523336,,,0
+H3,2008,2008,2008,2,0,1,Import,70,Bosnia Herzegovina,BIH,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5207398,,,0
+H3,2008,2008,2008,2,0,2,Export,70,Bosnia Herzegovina,BIH,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1067425,,,0
+H3,2008,2008,2008,2,0,1,Import,70,Bosnia Herzegovina,BIH,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2461090,,,0
+H3,2008,2008,2008,2,0,2,Export,70,Bosnia Herzegovina,BIH,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,26358,,,0
+H1,2008,2008,2008,2,0,2,Export,72,Botswana,BWA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,81117,,,0
+H1,2008,2008,2008,2,0,2,Export,72,Botswana,BWA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,152117,,,0
+H1,2008,2008,2008,2,0,1,Import,72,Botswana,BWA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,51276,,,0
+H1,2008,2008,2008,2,0,2,Export,72,Botswana,BWA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,132252,,,0
+H3,2008,2008,2008,2,0,2,Export,76,Brazil,BRA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2,,,0
+H3,2008,2008,2008,2,0,2,Export,76,Brazil,BRA,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,97182115,,,0
+H3,2008,2008,2008,2,0,1,Import,76,Brazil,BRA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6699685,,,0
+H3,2008,2008,2008,2,0,2,Export,76,Brazil,BRA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1949709,,,0
+H3,2008,2008,2008,2,0,2,Export,76,Brazil,BRA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,89648,,,0
+H3,2008,2008,2008,2,0,1,Import,76,Brazil,BRA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8745232,,,4
+H3,2008,2008,2008,2,0,2,Export,76,Brazil,BRA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,742590,,,4
+H3,2008,2008,2008,2,0,2,Export,76,Brazil,BRA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5828,,,0
+H3,2008,2008,2008,2,0,1,Import,76,Brazil,BRA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1925,,,0
+H3,2008,2008,2008,2,0,2,Export,76,Brazil,BRA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,66502,,,4
+H3,2008,2008,2008,2,0,1,Import,76,Brazil,BRA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,17342592,,,4
+H3,2008,2008,2008,2,0,2,Export,76,Brazil,BRA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,104811,,,4
+H3,2008,2008,2008,2,0,1,Import,100,Bulgaria,BGR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2825387,,,0
+H3,2008,2008,2008,2,0,2,Export,100,Bulgaria,BGR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,73373235,,,0
+H3,2008,2008,2008,2,0,1,Import,100,Bulgaria,BGR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,7080586,,,0
+H3,2008,2008,2008,2,0,2,Export,100,Bulgaria,BGR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8631874,,,0
+H3,2008,2008,2008,2,0,1,Import,100,Bulgaria,BGR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,941625,,,0
+H3,2008,2008,2008,2,0,2,Export,100,Bulgaria,BGR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2943445,,,0
+H3,2008,2008,2008,2,0,2,Export,100,Bulgaria,BGR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2356983,,,0
+H3,2008,2008,2008,2,0,1,Import,100,Bulgaria,BGR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,49023962,,,0
+H3,2008,2008,2008,2,0,2,Export,100,Bulgaria,BGR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6824713,,,0
+H3,2008,2008,2008,2,0,1,Import,100,Bulgaria,BGR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,152862,,,0
+H3,2008,2008,2008,2,0,1,Import,100,Bulgaria,BGR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1143,,,0
+H3,2008,2008,2008,2,0,2,Export,100,Bulgaria,BGR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15148,,,0
+H3,2008,2008,2008,2,0,1,Import,100,Bulgaria,BGR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20061254,,,0
+H2,2008,2008,2008,2,0,2,Export,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1128091,,,0
+H2,2008,2008,2008,2,0,1,Import,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12710,,,0
+H2,2008,2008,2008,2,0,2,Export,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,185229,,,0
+H2,2008,2008,2008,2,0,2,Export,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10521,,,0
+H3,2008,2008,2008,2,0,2,Export,112,Belarus,BLR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,71695200,,,0
+H3,2008,2008,2008,2,0,1,Import,112,Belarus,BLR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,15564000,,,0
+H3,2008,2008,2008,2,0,2,Export,112,Belarus,BLR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1080100,,,0
+H3,2008,2008,2008,2,0,1,Import,112,Belarus,BLR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,533200,,,0
+H3,2008,2008,2008,2,0,2,Export,112,Belarus,BLR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,600,,,0
+H3,2008,2008,2008,2,0,1,Import,112,Belarus,BLR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29362800,,,0
+H3,2008,2008,2008,2,0,2,Export,112,Belarus,BLR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4003100,,,0
+H3,2008,2008,2008,2,0,1,Import,112,Belarus,BLR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29100,,,0
+H3,2008,2008,2008,2,0,2,Export,112,Belarus,BLR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,83100,,,0
+H3,2008,2008,2008,2,0,1,Import,112,Belarus,BLR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9215200,,,0
+H3,2008,2008,2008,2,0,2,Export,112,Belarus,BLR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,282700,,,0
+H2,2008,2008,2008,2,0,1,Import,120,Cameroon,CMR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2831682,,,0
+H2,2008,2008,2008,2,0,1,Import,120,Cameroon,CMR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1956,,,0
+H2,2008,2008,2008,2,0,1,Import,120,Cameroon,CMR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,480,,,0
+H2,2008,2008,2008,2,0,1,Import,120,Cameroon,CMR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,511424,,,0
+H3,2008,2008,2008,2,0,2,Export,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,116882,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,14,,,0
+H3,2008,2008,2008,2,0,2,Export,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4872,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1588,,,0
+H3,2008,2008,2008,2,0,1,Import,124,Canada,CAN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,21056,,,0
+H3,2008,2008,2008,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,104244,,,0
+H3,2008,2008,2008,2,0,2,Export,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,54740,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,40849,,,0
+H3,2008,2008,2008,2,0,1,Import,124,Canada,CAN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12142128,,,0
+H3,2008,2008,2008,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,760584,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,523944,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12900,,,0
+H3,2008,2008,2008,2,0,1,Import,124,Canada,CAN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8296140,,,0
+H3,2008,2008,2008,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1427721,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,122361,,,0
+H3,2008,2008,2008,2,0,2,Export,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,66690,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27232,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,13,,,0
+H3,2008,2008,2008,2,0,1,Import,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,377,,,0
+H3,2008,2008,2008,2,0,2,Export,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,66604,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6437,,,0
+H3,2008,2008,2008,2,0,1,Import,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3782,,,0
+H3,2008,2008,2008,2,0,2,Export,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,249325,,,0
+H2,2008,2008,2008,2,0,1,Import,140,Central African Rep.,CAF,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1370,,,0
+H3,2008,2008,2008,2,0,1,Import,144,Sri Lanka,LKA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32740,,,0
+H3,2008,2008,2008,2,0,2,Export,144,Sri Lanka,LKA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1045,,,0
+H3,2008,2008,2008,2,0,1,Import,144,Sri Lanka,LKA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1053,,,0
+H3,2008,2008,2008,2,0,2,Export,144,Sri Lanka,LKA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3336,,,0
+H3,2008,2008,2008,2,0,1,Import,144,Sri Lanka,LKA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,137,,,0
+H3,2008,2008,2008,2,0,2,Export,144,Sri Lanka,LKA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1066516,,,0
+H3,2008,2008,2008,2,0,1,Import,144,Sri Lanka,LKA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,356930,,,0
+H3,2008,2008,2008,2,0,2,Export,144,Sri Lanka,LKA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2316632,,,0
+H3,2008,2008,2008,2,0,1,Import,152,Chile,CHL,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4854,,,0
+H3,2008,2008,2008,2,0,1,Import,152,Chile,CHL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,93298,,,0
+H3,2008,2008,2008,2,0,2,Export,152,Chile,CHL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,366841,,,0
+H3,2008,2008,2008,2,0,1,Import,152,Chile,CHL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,440731,,,0
+H3,2008,2008,2008,2,0,2,Export,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,776346,,,0
+H3,2008,2008,2008,2,0,1,Import,156,China,CHN,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,255,,,0
+H3,2008,2008,2008,2,0,2,Export,156,China,CHN,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,48347166,,,0
+H3,2008,2008,2008,2,0,1,Import,156,China,CHN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2059843,,,0
+H3,2008,2008,2008,2,0,2,Export,156,China,CHN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,209,,,0
+H3,2008,2008,2008,2,0,2,Export,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4648262,,,0
+H3,2008,2008,2008,2,0,1,Import,156,China,CHN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12755378,,,0
+H3,2008,2008,2008,2,0,2,Export,156,China,CHN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8135094,,,0
+H3,2008,2008,2008,2,0,1,Import,156,China,CHN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,209,,,0
+H3,2008,2008,2008,2,0,2,Export,156,China,CHN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11018466,,,0
+H3,2008,2008,2008,2,0,1,Import,156,China,CHN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,46877899,,,0
+H3,2008,2008,2008,2,0,2,Export,156,China,CHN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30322798,,,0
+H3,2008,2008,2008,2,0,2,Export,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2501004,,,0
+H3,2008,2008,2008,2,0,2,Export,156,China,CHN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6815325,,,0
+H3,2008,2008,2008,2,0,2,Export,170,Colombia,COL,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,353883336,,,0
+H3,2008,2008,2008,2,0,1,Import,170,Colombia,COL,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2180,,,0
+H3,2008,2008,2008,2,0,2,Export,170,Colombia,COL,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4640529,,,0
+H3,2008,2008,2008,2,0,1,Import,170,Colombia,COL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,90672,,,0
+H3,2008,2008,2008,2,0,2,Export,170,Colombia,COL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,155870,,,0
+H3,2008,2008,2008,2,0,1,Import,170,Colombia,COL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,111044,,,0
+H3,2008,2008,2008,2,0,1,Import,175,Mayotte,MYT,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,15,,,0
+H3,2008,2008,2008,2,0,1,Import,175,Mayotte,MYT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,899,,,0
+H3,2008,2008,2008,2,0,1,Import,175,Mayotte,MYT,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7233,,,0
+H3,2008,2008,2008,2,0,1,Import,175,Mayotte,MYT,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,68796,,,0
+H2,2008,2008,2008,2,0,1,Import,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2910060,,,0
+H2,2008,2008,2008,2,0,1,Import,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,106503,,,0
+H2,2008,2008,2008,2,0,2,Export,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14885,,,0
+H2,2008,2008,2008,2,0,1,Import,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,87237,,,0
+H2,2008,2008,2008,2,0,2,Export,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,74391,,,0
+H3,2008,2008,2008,2,0,1,Import,188,Costa Rica,CRI,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1669,,,0
+H3,2008,2008,2008,2,0,1,Import,188,Costa Rica,CRI,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,278702,,,0
+H3,2008,2008,2008,2,0,2,Export,188,Costa Rica,CRI,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,63,,,0
+H3,2008,2008,2008,2,0,1,Import,188,Costa Rica,CRI,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,794,,,0
+H3,2008,2008,2008,2,0,1,Import,188,Costa Rica,CRI,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9595,,,0
+H3,2008,2008,2008,2,0,1,Import,191,Croatia,HRV,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8853,,,0
+H3,2008,2008,2008,2,0,2,Export,191,Croatia,HRV,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5081148,,,0
+H3,2008,2008,2008,2,0,1,Import,191,Croatia,HRV,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,53591004,,,0
+H3,2008,2008,2008,2,0,2,Export,191,Croatia,HRV,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,7440207,,,0
+H3,2008,2008,2008,2,0,1,Import,191,Croatia,HRV,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10547,,,0
+H3,2008,2008,2008,2,0,2,Export,191,Croatia,HRV,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11220,,,0
+H3,2008,2008,2008,2,0,1,Import,191,Croatia,HRV,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27184354,,,0
+H3,2008,2008,2008,2,0,2,Export,191,Croatia,HRV,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10660997,,,0
+H3,2008,2008,2008,2,0,1,Import,191,Croatia,HRV,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,411,,,0
+H3,2008,2008,2008,2,0,1,Import,191,Croatia,HRV,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10169065,,,0
+H3,2008,2008,2008,2,0,2,Export,191,Croatia,HRV,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,229231,,,0
+H3,2008,2008,2008,2,0,1,Import,196,Cyprus,CYP,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,480389,,,0
+H3,2008,2008,2008,2,0,1,Import,196,Cyprus,CYP,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,423341,,,0
+H3,2008,2008,2008,2,0,2,Export,203,Czechia,CZE,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,410,,,0
+H3,2008,2008,2008,2,0,1,Import,203,Czechia,CZE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,40,,,0
+H3,2008,2008,2008,2,0,2,Export,203,Czechia,CZE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,112,,,0
+H3,2008,2008,2008,2,0,1,Import,203,Czechia,CZE,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,216,,,0
+H3,2008,2008,2008,2,0,2,Export,203,Czechia,CZE,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1042000,,,0
+H3,2008,2008,2008,2,0,2,Export,203,Czechia,CZE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17000,,,0
+H3,2008,2008,2008,2,0,1,Import,203,Czechia,CZE,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2000,,,0
+H3,2008,2008,2008,2,0,2,Export,203,Czechia,CZE,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,402000,,,0
+H3,2008,2008,2008,2,0,1,Import,203,Czechia,CZE,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3000,,,0
+H3,2008,2008,2008,2,0,4,Re-Import,203,Czechia,CZE,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3000,,,0
+H2,2008,2008,2008,2,0,1,Import,204,Benin,BEN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1463,,,0
+H3,2008,2008,2008,2,0,1,Import,208,Denmark,DNK,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3436683,,,0
+H3,2008,2008,2008,2,0,1,Import,208,Denmark,DNK,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1070,,,0
+H3,2008,2008,2008,2,0,2,Export,208,Denmark,DNK,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,16842,,,0
+H3,2008,2008,2008,2,0,2,Export,208,Denmark,DNK,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22065,,,0
+H3,2008,2008,2008,2,0,1,Import,208,Denmark,DNK,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,44091,,,0
+H3,2008,2008,2008,2,0,2,Export,208,Denmark,DNK,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,778757,,,0
+H3,2008,2008,2008,2,0,1,Import,208,Denmark,DNK,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,46027965,,,0
+H3,2008,2008,2008,2,0,2,Export,208,Denmark,DNK,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,42447314,,,0
+H3,2008,2008,2008,2,0,2,Export,208,Denmark,DNK,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4810,,,0
+H3,2008,2008,2008,2,0,2,Export,208,Denmark,DNK,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,68025,,,0
+H3,2008,2008,2008,2,0,1,Import,208,Denmark,DNK,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2700054,,,0
+H3,2008,2008,2008,2,0,2,Export,208,Denmark,DNK,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2920795,,,0
+H3,2008,2008,2008,2,0,2,Export,214,Dominican Rep.,DOM,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1587744,,,0
+H3,2008,2008,2008,2,0,1,Import,214,Dominican Rep.,DOM,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2164,,,0
+H3,2008,2008,2008,2,0,1,Import,218,Ecuador,ECU,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1093,,,0
+H3,2008,2008,2008,2,0,1,Import,218,Ecuador,ECU,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,79738,,,0
+H3,2008,2008,2008,2,0,1,Import,218,Ecuador,ECU,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,164318,,,0
+H3,2008,2008,2008,2,0,1,Import,222,El Salvador,SLV,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5306,,,0
+H3,2008,2008,2008,2,0,1,Import,222,El Salvador,SLV,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,820365,,,0
+H3,2008,2008,2008,2,0,1,Import,222,El Salvador,SLV,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,49,,,0
+H3,2008,2008,2008,2,0,1,Import,222,El Salvador,SLV,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38166,,,0
+H3,2008,2008,2008,2,0,1,Import,231,Ethiopia,ETH,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3725,,,0
+H3,2008,2008,2008,2,0,2,Export,231,Ethiopia,ETH,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,184,,,0
+H3,2008,2008,2008,2,0,1,Import,231,Ethiopia,ETH,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10542,,,0
+H3,2008,2008,2008,2,0,1,Import,231,Ethiopia,ETH,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,11068,,,0
+H3,2008,2008,2008,2,0,2,Export,231,Ethiopia,ETH,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,16097,,,0
+H3,2008,2008,2008,2,0,1,Import,231,Ethiopia,ETH,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,121662,,,0
+H3,2008,2008,2008,2,0,2,Export,233,Estonia,EST,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,40436,,,0
+H3,2008,2008,2008,2,0,1,Import,233,Estonia,EST,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,89373,,,0
+H3,2008,2008,2008,2,0,2,Export,233,Estonia,EST,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,436883,,,0
+H3,2008,2008,2008,2,0,1,Import,233,Estonia,EST,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,71016,,,0
+H3,2008,2008,2008,2,0,2,Export,233,Estonia,EST,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1015795,,,0
+H3,2008,2008,2008,2,0,1,Import,233,Estonia,EST,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6897802,,,0
+H3,2008,2008,2008,2,0,2,Export,233,Estonia,EST,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1513404,,,0
+H3,2008,2008,2008,2,0,1,Import,233,Estonia,EST,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,59062,,,0
+H3,2008,2008,2008,2,0,2,Export,233,Estonia,EST,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4344,,,0
+H3,2008,2008,2008,2,0,1,Import,233,Estonia,EST,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3428855,,,0
+H3,2008,2008,2008,2,0,2,Export,233,Estonia,EST,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13,,,0
+H3,2008,2008,2008,2,0,2,Export,234,Faeroe Isds,FRO,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,48157,,,0
+H3,2008,2008,2008,2,0,1,Import,234,Faeroe Isds,FRO,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3583,,,0
+H3,2008,2008,2008,2,0,1,Import,234,Faeroe Isds,FRO,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8438,,,0
+H3,2008,2008,2008,2,0,2,Export,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,33051,,,0
+H3,2008,2008,2008,2,0,1,Import,246,Finland,FIN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,340725,,,0
+H3,2008,2008,2008,2,0,2,Export,246,Finland,FIN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,41953,,,0
+H3,2008,2008,2008,2,0,2,Export,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30,,,0
+H3,2008,2008,2008,2,0,1,Import,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5270,,,0
+H3,2008,2008,2008,2,0,2,Export,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,515347,,,0
+H3,2008,2008,2008,2,0,1,Import,246,Finland,FIN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14556898,,,0
+H3,2008,2008,2008,2,0,2,Export,246,Finland,FIN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24372159,,,0
+H3,2008,2008,2008,2,0,1,Import,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43877,,,0
+H3,2008,2008,2008,2,0,2,Export,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,138919,,,0
+H3,2008,2008,2008,2,0,1,Import,246,Finland,FIN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24191072,,,0
+H3,2008,2008,2008,2,0,2,Export,246,Finland,FIN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25478217,,,0
+H3,2008,2008,2008,2,0,1,Import,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3673411,,,0
+H3,2008,2008,2008,2,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2696512,,,0
+H3,2008,2008,2008,2,0,1,Import,251,France,FRA,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,33890,,,0
+H3,2008,2008,2008,2,0,2,Export,251,France,FRA,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,32192937,,,0
+H3,2008,2008,2008,2,0,1,Import,251,France,FRA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,24658857,,,0
+H3,2008,2008,2008,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,17689594,,,0
+H3,2008,2008,2008,2,0,1,Import,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1473,,,0
+H3,2008,2008,2008,2,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1062084,,,0
+H3,2008,2008,2008,2,0,1,Import,251,France,FRA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,187133,,,0
+H3,2008,2008,2008,2,0,2,Export,251,France,FRA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2844024,,,0
+H3,2008,2008,2008,2,0,1,Import,251,France,FRA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,172753453,,,0
+H3,2008,2008,2008,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,186261453,,,0
+H3,2008,2008,2008,2,0,1,Import,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7367,,,0
+H3,2008,2008,2008,2,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3643537,,,0
+H3,2008,2008,2008,2,0,1,Import,251,France,FRA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,204815,,,0
+H3,2008,2008,2008,2,0,2,Export,251,France,FRA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14724610,,,0
+H3,2008,2008,2008,2,0,1,Import,251,France,FRA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,181532507,,,0
+H3,2008,2008,2008,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,282975974,,,0
+H2,2008,2008,2008,2,0,2,Export,266,Gabon,GAB,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,25294879,,,0
+H2,2008,2008,2008,2,0,2,Export,266,Gabon,GAB,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2232,,,0
+H2,2008,2008,2008,2,0,1,Import,266,Gabon,GAB,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7059,,,0
+H2,2008,2008,2008,2,0,1,Import,266,Gabon,GAB,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2178,,,0
+H2,2008,2008,2008,2,0,1,Import,268,Georgia,GEO,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,45,,,0
+H2,2008,2008,2008,2,0,1,Import,268,Georgia,GEO,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,6796,,,0
+H2,2008,2008,2008,2,0,1,Import,268,Georgia,GEO,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7296,,,0
+H2,2008,2008,2008,2,0,1,Import,268,Georgia,GEO,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2812454,,,0
+H2,2008,2008,2008,2,0,2,Export,268,Georgia,GEO,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,45,,,0
+H2,2008,2008,2008,2,0,1,Import,268,Georgia,GEO,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,309,,,0
+H2,2008,2008,2008,2,0,1,Import,268,Georgia,GEO,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,262003,,,0
+H1,2008,2008,2008,2,0,1,Import,270,Gambia,GMB,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3977,,,0
+H3,2008,2008,2008,2,0,1,Import,275,State of Palestine,PSE,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,471,,,0
+H3,2008,2008,2008,2,0,1,Import,275,State of Palestine,PSE,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6137,,,0
+H3,2008,2008,2008,2,0,2,Export,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,19913,,,0
+H3,2008,2008,2008,2,0,1,Import,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,179565,,,0
+H3,2008,2008,2008,2,0,2,Export,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5509798,,,0
+H3,2008,2008,2008,2,0,1,Import,276,Germany,DEU,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,497275913,,,4
+H3,2008,2008,2008,2,0,2,Export,276,Germany,DEU,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,999253428,,,4
+H3,2008,2008,2008,2,0,2,Export,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3662748,,,0
+H3,2008,2008,2008,2,0,2,Export,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,10223700,,,0
+H3,2008,2008,2008,2,0,1,Import,276,Germany,DEU,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,993091170,,,4
+H3,2008,2008,2008,2,0,2,Export,276,Germany,DEU,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,546618613,,,4
+H3,2008,2008,2008,2,0,1,Import,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1077179,,,4
+H3,2008,2008,2008,2,0,2,Export,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,32684903,,,4
+H3,2008,2008,2008,2,0,1,Import,276,Germany,DEU,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1339600863,,,4
+H3,2008,2008,2008,2,0,2,Export,276,Germany,DEU,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2486725136,,,4
+H3,2008,2008,2008,2,0,2,Export,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,387839,,,4
+H3,2008,2008,2008,2,0,1,Import,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,368542,,,4
+H2,2008,2008,2008,2,0,1,Import,288,Ghana,GHA,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,39327,,,0
+H2,2008,2008,2008,2,0,1,Import,288,Ghana,GHA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,55,,,0
+H3,2008,2008,2008,2,0,1,Import,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,21298667,,,0
+H3,2008,2008,2008,2,0,2,Export,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,429759934,,,0
+H3,2008,2008,2008,2,0,1,Import,300,Greece,GRC,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,260544,,,0
+H3,2008,2008,2008,2,0,2,Export,300,Greece,GRC,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,14023848,,,0
+H3,2008,2008,2008,2,0,2,Export,300,Greece,GRC,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17409,,,0
+H3,2008,2008,2008,2,0,1,Import,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15456206,,,0
+H3,2008,2008,2008,2,0,2,Export,300,Greece,GRC,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,547850,,,0
+H3,2008,2008,2008,2,0,2,Export,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,59195451,,,0
+H3,2008,2008,2008,2,0,1,Import,300,Greece,GRC,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23268929,,,0
+H3,2008,2008,2008,2,0,2,Export,300,Greece,GRC,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4076591,,,0
+H3,2008,2008,2008,2,0,1,Import,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1096487,,,0
+H3,2008,2008,2008,2,0,2,Export,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7538215,,,0
+H3,2008,2008,2008,2,0,1,Import,300,Greece,GRC,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4490318,,,0
+H3,2008,2008,2008,2,0,1,Import,304,Greenland,GRL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8083,,,0
+H3,2008,2008,2008,2,0,1,Import,304,Greenland,GRL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,283,,,0
+H1,2008,2008,2008,2,0,1,Import,308,Grenada,GRD,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,510,,,0
+H1,2008,2008,2008,2,0,1,Import,308,Grenada,GRD,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6893,,,0
+H3,2008,2008,2008,2,0,2,Export,320,Guatemala,GTM,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2168,,,0
+H3,2008,2008,2008,2,0,1,Import,320,Guatemala,GTM,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23320,,,0
+H3,2008,2008,2008,2,0,2,Export,320,Guatemala,GTM,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,71,,,0
+H3,2008,2008,2008,2,0,1,Import,320,Guatemala,GTM,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,438,,,0
+H2,2008,2008,2008,2,0,2,Export,324,Guinea,GIN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26080,,,0
+H3,2008,2008,2008,2,0,1,Import,328,Guyana,GUY,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,46986,,,0
+H3,2008,2008,2008,2,0,2,Export,344,"China, Hong Kong SAR",HKG,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,20059,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,20059,,,0
+H3,2008,2008,2008,2,0,1,Import,344,"China, Hong Kong SAR",HKG,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1752,,,0
+H3,2008,2008,2008,2,0,2,Export,344,"China, Hong Kong SAR",HKG,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5193,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5193,,,0
+H3,2008,2008,2008,2,0,1,Import,344,"China, Hong Kong SAR",HKG,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,225685,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,72,,,0
+H3,2008,2008,2008,2,0,1,Import,344,"China, Hong Kong SAR",HKG,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,74452,,,0
+H3,2008,2008,2008,2,0,2,Export,344,"China, Hong Kong SAR",HKG,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,194735,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,194735,,,0
+H3,2008,2008,2008,2,0,2,Export,344,"China, Hong Kong SAR",HKG,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,959043,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,947861,,,0
+H3,2008,2008,2008,2,0,1,Import,344,"China, Hong Kong SAR",HKG,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2248763,,,0
+H3,2008,2008,2008,2,0,2,Export,344,"China, Hong Kong SAR",HKG,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6248446,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6114117,,,0
+H3,2008,2008,2008,2,0,2,Export,344,"China, Hong Kong SAR",HKG,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,72,,,0
+H3,2008,2008,2008,2,0,1,Import,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,159054000,,,0
+H3,2008,2008,2008,2,0,2,Export,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,40289000,,,0
+H3,2008,2008,2008,2,0,1,Import,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,219000,,,0
+H3,2008,2008,2008,2,0,2,Export,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,443000,,,0
+H3,2008,2008,2008,2,0,1,Import,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,163661000,,,0
+H3,2008,2008,2008,2,0,2,Export,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,202005000,,,0
+H3,2008,2008,2008,2,0,2,Export,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,491000,,,0
+H3,2008,2008,2008,2,0,1,Import,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,104213000,,,0
+H3,2008,2008,2008,2,0,2,Export,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,52986000,,,0
+H3,2008,2008,2008,2,0,2,Export,352,Iceland,ISL,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6894,,,0
+H3,2008,2008,2008,2,0,2,Export,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,20794,,,0
+H3,2008,2008,2008,2,0,1,Import,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,468081,,,0
+H3,2008,2008,2008,2,0,2,Export,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,26572,,,0
+H3,2008,2008,2008,2,0,1,Import,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,700,,,0
+H3,2008,2008,2008,2,0,1,Import,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1666563,,,0
+H3,2008,2008,2008,2,0,2,Export,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,345,,,0
+H3,2008,2008,2008,2,0,1,Import,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,576478,,,0
+H1,2008,2008,2008,2,0,1,Import,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,347,,,0
+H1,2008,2008,2008,2,0,1,Import,360,Indonesia,IDN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25705,,,0
+H1,2008,2008,2008,2,0,2,Export,360,Indonesia,IDN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,153695,,,0
+H1,2008,2008,2008,2,0,1,Import,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,758804,,,0
+H1,2008,2008,2008,2,0,2,Export,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,574101,,,0
+H1,2008,2008,2008,2,0,2,Export,360,Indonesia,IDN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,362588,,,0
+H1,2008,2008,2008,2,0,1,Import,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,356293,,,0
+H1,2008,2008,2008,2,0,2,Export,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1195801,,,0
+H3,2008,2008,2008,2,0,2,Export,372,Ireland,IRL,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,320835,,,0
+H3,2008,2008,2008,2,0,1,Import,372,Ireland,IRL,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1070,,,0
+H3,2008,2008,2008,2,0,2,Export,372,Ireland,IRL,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,12661525,,,0
+H3,2008,2008,2008,2,0,2,Export,372,Ireland,IRL,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,552462,,,0
+H3,2008,2008,2008,2,0,1,Import,372,Ireland,IRL,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,52869,,,0
+H3,2008,2008,2008,2,0,2,Export,372,Ireland,IRL,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,266817,,,0
+H3,2008,2008,2008,2,0,1,Import,372,Ireland,IRL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5287322,,,0
+H3,2008,2008,2008,2,0,2,Export,372,Ireland,IRL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10692854,,,0
+H3,2008,2008,2008,2,0,2,Export,372,Ireland,IRL,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2918,,,0
+H3,2008,2008,2008,2,0,1,Import,372,Ireland,IRL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,417738,,,0
+H3,2008,2008,2008,2,0,2,Export,372,Ireland,IRL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,179055,,,0
+H3,2008,2008,2008,2,0,1,Import,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,9729000,,,0
+H3,2008,2008,2008,2,0,2,Export,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,273000,,,0
+H3,2008,2008,2008,2,0,2,Export,376,Israel,ISR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,100000,,,0
+H3,2008,2008,2008,2,0,1,Import,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,819000,,,0
+H3,2008,2008,2008,2,0,2,Export,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15790000,,,0
+H3,2008,2008,2008,2,0,1,Import,376,Israel,ISR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1750000,,,0
+H3,2008,2008,2008,2,0,2,Export,376,Israel,ISR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8629000,,,0
+H3,2008,2008,2008,2,0,2,Export,376,Israel,ISR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3000,,,0
+H3,2008,2008,2008,2,0,1,Import,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,224000,,,0
+H3,2008,2008,2008,2,0,2,Export,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1175000,,,0
+H3,2008,2008,2008,2,0,1,Import,376,Israel,ISR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,172000,,,0
+H3,2008,2008,2008,2,0,2,Export,376,Israel,ISR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47000,,,0
+H3,2008,2008,2008,2,0,2,Export,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10590105,,,0
+H3,2008,2008,2008,2,0,1,Import,381,Italy,ITA,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,929310,,,0
+H3,2008,2008,2008,2,0,2,Export,381,Italy,ITA,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,245576556,,,0
+H3,2008,2008,2008,2,0,1,Import,381,Italy,ITA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,38394642,,,0
+H3,2008,2008,2008,2,0,2,Export,381,Italy,ITA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,43257920,,,0
+H3,2008,2008,2008,2,0,2,Export,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1288453,,,0
+H3,2008,2008,2008,2,0,2,Export,381,Italy,ITA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4604820,,,0
+H3,2008,2008,2008,2,0,1,Import,381,Italy,ITA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,163488786,,,0
+H3,2008,2008,2008,2,0,2,Export,381,Italy,ITA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,67432979,,,0
+H3,2008,2008,2008,2,0,1,Import,381,Italy,ITA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,146245,,,0
+H3,2008,2008,2008,2,0,2,Export,381,Italy,ITA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,40674312,,,0
+H3,2008,2008,2008,2,0,1,Import,381,Italy,ITA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,179433427,,,0
+H3,2008,2008,2008,2,0,2,Export,381,Italy,ITA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,382386843,,,0
+H3,2008,2008,2008,2,0,2,Export,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,230630,,,0
+H3,2008,2008,2008,2,0,1,Import,381,Italy,ITA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1101,,,0
+H3,2008,2008,2008,2,0,1,Import,384,Côte d'Ivoire,CIV,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,8049529,,,0
+H3,2008,2008,2008,2,0,2,Export,384,Côte d'Ivoire,CIV,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,133404760,,,0
+H3,2008,2008,2008,2,0,2,Export,384,Côte d'Ivoire,CIV,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3121485,,,0
+H3,2008,2008,2008,2,0,1,Import,384,Côte d'Ivoire,CIV,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,200,,,0
+H3,2008,2008,2008,2,0,2,Export,384,Côte d'Ivoire,CIV,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1591392,,,0
+H3,2008,2008,2008,2,0,1,Import,384,Côte d'Ivoire,CIV,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5833,,,0
+H3,2008,2008,2008,2,0,1,Import,384,Côte d'Ivoire,CIV,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9321,,,0
+H3,2008,2008,2008,2,0,2,Export,384,Côte d'Ivoire,CIV,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,23171,,,0
+H3,2008,2008,2008,2,0,2,Export,384,Côte d'Ivoire,CIV,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,512678,,,0
+H3,2008,2008,2008,2,0,1,Import,384,Côte d'Ivoire,CIV,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,150686,,,0
+H3,2008,2008,2008,2,0,2,Export,384,Côte d'Ivoire,CIV,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3209612,,,0
+H3,2008,2008,2008,2,0,1,Import,388,Jamaica,JAM,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9970,,,0
+H3,2008,2008,2008,2,0,1,Import,388,Jamaica,JAM,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,93,,,0
+H3,2008,2008,2008,2,0,1,Import,388,Jamaica,JAM,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1623,,,0
+H3,2008,2008,2008,2,0,2,Export,392,Japan,JPN,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,14882,,,0
+H3,2008,2008,2008,2,0,1,Import,392,Japan,JPN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,897949,,,0
+H3,2008,2008,2008,2,0,2,Export,392,Japan,JPN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,165555,,,0
+H3,2008,2008,2008,2,0,1,Import,392,Japan,JPN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43847,,,0
+H3,2008,2008,2008,2,0,2,Export,392,Japan,JPN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1362623,,,0
+H3,2008,2008,2008,2,0,1,Import,392,Japan,JPN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2425301,,,0
+H3,2008,2008,2008,2,0,2,Export,392,Japan,JPN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,49120794,,,0
+H3,2008,2008,2008,2,0,2,Export,392,Japan,JPN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,533016,,,0
+H3,2008,2008,2008,2,0,2,Export,392,Japan,JPN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7139500,,,0
+H3,2008,2008,2008,2,0,1,Import,392,Japan,JPN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6451489,,,0
+H3,2008,2008,2008,2,0,2,Export,392,Japan,JPN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,82374640,,,0
+H2,2008,2008,2008,2,0,1,Import,398,Kazakhstan,KAZ,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5605,,,0
+H2,2008,2008,2008,2,0,1,Import,398,Kazakhstan,KAZ,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18045,,,0
+H2,2008,2008,2008,2,0,1,Import,398,Kazakhstan,KAZ,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2913647,,,0
+H2,2008,2008,2008,2,0,1,Import,398,Kazakhstan,KAZ,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,300,,,0
+H2,2008,2008,2008,2,0,1,Import,398,Kazakhstan,KAZ,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1609135,,,0
+H3,2008,2008,2008,2,0,2,Export,400,Jordan,JOR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1354,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,400,Jordan,JOR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1354,,,0
+H3,2008,2008,2008,2,0,1,Import,400,Jordan,JOR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,61358,,,0
+H3,2008,2008,2008,2,0,2,Export,400,Jordan,JOR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,109399,,,0
+H3,2008,2008,2008,2,0,1,Import,400,Jordan,JOR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,810473,,,0
+H3,2008,2008,2008,2,0,1,Import,400,Jordan,JOR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1991,,,0
+H3,2008,2008,2008,2,0,2,Export,400,Jordan,JOR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,55687,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,400,Jordan,JOR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,55687,,,0
+H3,2008,2008,2008,2,0,1,Import,400,Jordan,JOR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,692594,,,0
+H3,2008,2008,2008,2,0,2,Export,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3177894,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,40617,,,0
+H3,2008,2008,2008,2,0,1,Import,404,Kenya,KEN,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,19356894,,,0
+H3,2008,2008,2008,2,0,1,Import,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3494,,,0
+H3,2008,2008,2008,2,0,2,Export,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30557103,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,717333,,,0
+H3,2008,2008,2008,2,0,1,Import,404,Kenya,KEN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,117586,,,0
+H3,2008,2008,2008,2,0,1,Import,404,Kenya,KEN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6891,,,0
+H3,2008,2008,2008,2,0,1,Import,404,Kenya,KEN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,115904,,,0
+H3,2008,2008,2008,2,0,2,Export,404,Kenya,KEN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1607,,,0
+H3,2008,2008,2008,2,0,2,Export,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,151267,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,120892,,,0
+H3,2008,2008,2008,2,0,1,Import,404,Kenya,KEN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1694,,,0
+H3,2008,2008,2008,2,0,1,Import,410,Rep. of Korea,KOR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,12275163,,,0
+H3,2008,2008,2008,2,0,2,Export,410,Rep. of Korea,KOR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8599,,,0
+H3,2008,2008,2008,2,0,1,Import,410,Rep. of Korea,KOR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3417,,,0
+H3,2008,2008,2008,2,0,2,Export,410,Rep. of Korea,KOR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,352590,,,0
+H3,2008,2008,2008,2,0,2,Export,410,Rep. of Korea,KOR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16568794,,,0
+H3,2008,2008,2008,2,0,1,Import,410,Rep. of Korea,KOR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1403,,,0
+H3,2008,2008,2008,2,0,2,Export,410,Rep. of Korea,KOR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5710599,,,0
+H3,2008,2008,2008,2,0,2,Export,410,Rep. of Korea,KOR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1084489,,,0
+H3,2008,2008,2008,2,0,1,Import,410,Rep. of Korea,KOR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2836432,,,0
+H3,2008,2008,2008,2,0,2,Export,410,Rep. of Korea,KOR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15889941,,,0
+H3,2008,2008,2008,2,0,2,Export,410,Rep. of Korea,KOR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7198,,,0
+H3,2008,2008,2008,2,0,2,Export,410,Rep. of Korea,KOR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1960378,,,0
+H3,2008,2008,2008,2,0,1,Import,410,Rep. of Korea,KOR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1013972,,,0
+H2,2008,2008,2008,2,0,1,Import,414,Kuwait,KWT,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5609,,,0
+H2,2008,2008,2008,2,0,1,Import,414,Kuwait,KWT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,70837,,,0
+H2,2008,2008,2008,2,0,2,Export,414,Kuwait,KWT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3643904,,,0
+H2,2008,2008,2008,2,0,3,Re-Export,414,Kuwait,KWT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,578,,,0
+H2,2008,2008,2008,2,0,1,Import,414,Kuwait,KWT,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,465363,,,0
+H2,2008,2008,2008,2,0,1,Import,414,Kuwait,KWT,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,257,,,0
+H2,2008,2008,2008,2,0,1,Import,414,Kuwait,KWT,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1451362,,,0
+H3,2008,2008,2008,2,0,1,Import,417,Kyrgyzstan,KGZ,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,306253,,,0
+H3,2008,2008,2008,2,0,1,Import,417,Kyrgyzstan,KGZ,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43407,,,0
+H3,2008,2008,2008,2,0,2,Export,422,Lebanon,LBN,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,12061,,,0
+H3,2008,2008,2008,2,0,1,Import,422,Lebanon,LBN,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4456645,,,0
+H3,2008,2008,2008,2,0,2,Export,422,Lebanon,LBN,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,26578,,,0
+H3,2008,2008,2008,2,0,2,Export,422,Lebanon,LBN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25408,,,0
+H3,2008,2008,2008,2,0,1,Import,422,Lebanon,LBN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1086230,,,0
+H3,2008,2008,2008,2,0,2,Export,422,Lebanon,LBN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4412620,,,0
+H3,2008,2008,2008,2,0,1,Import,422,Lebanon,LBN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,271286,,,0
+H3,2008,2008,2008,2,0,2,Export,422,Lebanon,LBN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3218,,,0
+H3,2008,2008,2008,2,0,1,Import,422,Lebanon,LBN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8127,,,0
+H3,2008,2008,2008,2,0,2,Export,422,Lebanon,LBN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,112877,,,0
+H3,2008,2008,2008,2,0,1,Import,422,Lebanon,LBN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,440989,,,0
+H3,2008,2008,2008,2,0,2,Export,428,Latvia,LVA,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,299608,,,0
+H3,2008,2008,2008,2,0,1,Import,428,Latvia,LVA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,213479,,,0
+H3,2008,2008,2008,2,0,2,Export,428,Latvia,LVA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1420137,,,0
+H3,2008,2008,2008,2,0,1,Import,428,Latvia,LVA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9145567,,,0
+H3,2008,2008,2008,2,0,2,Export,428,Latvia,LVA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,983706,,,0
+H3,2008,2008,2008,2,0,1,Import,428,Latvia,LVA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14497908,,,0
+H3,2008,2008,2008,2,0,2,Export,428,Latvia,LVA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,366708,,,0
+H3,2008,2008,2008,2,0,1,Import,428,Latvia,LVA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,226271,,,0
+H3,2008,2008,2008,2,0,2,Export,428,Latvia,LVA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2311,,,0
+H3,2008,2008,2008,2,0,1,Import,428,Latvia,LVA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7956395,,,0
+H3,2008,2008,2008,2,0,2,Export,428,Latvia,LVA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,267872,,,0
+H2,2008,2008,2008,2,0,2,Export,434,Libya,LBY,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,19294397,,,0
+H2,2008,2008,2008,2,0,1,Import,434,Libya,LBY,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,138145,,,0
+H2,2008,2008,2008,2,0,1,Import,434,Libya,LBY,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,447891,,,0
+H3,2008,2008,2008,2,0,2,Export,440,Lithuania,LTU,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,319474,,,0
+H3,2008,2008,2008,2,0,1,Import,440,Lithuania,LTU,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,426145,,,0
+H3,2008,2008,2008,2,0,2,Export,440,Lithuania,LTU,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6229680,,,0
+H3,2008,2008,2008,2,0,1,Import,440,Lithuania,LTU,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,56586550,,,0
+H3,2008,2008,2008,2,0,2,Export,440,Lithuania,LTU,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,48447513,,,0
+H3,2008,2008,2008,2,0,2,Export,440,Lithuania,LTU,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16183,,,0
+H3,2008,2008,2008,2,0,1,Import,440,Lithuania,LTU,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4940293,,,0
+H3,2008,2008,2008,2,0,2,Export,440,Lithuania,LTU,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,653688,,,0
+H3,2008,2008,2008,2,0,1,Import,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,14064,,,0
+H3,2008,2008,2008,2,0,2,Export,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,390,,,0
+H3,2008,2008,2008,2,0,2,Export,442,Luxembourg,LUX,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,496160,,,0
+H3,2008,2008,2008,2,0,1,Import,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,762464,,,0
+H3,2008,2008,2008,2,0,2,Export,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19038283,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5323,,,0
+H3,2008,2008,2008,2,0,4,Re-Import,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10454,,,0
+H3,2008,2008,2008,2,0,2,Export,442,Luxembourg,LUX,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8733,,,0
+H3,2008,2008,2008,2,0,1,Import,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7675139,,,0
+H3,2008,2008,2008,2,0,2,Export,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2126038,,,0
+H3,2008,2008,2008,2,0,4,Re-Import,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1340,,,0
+H3,2008,2008,2008,2,0,2,Export,446,"China, Macao SAR",MAC,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4644,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,446,"China, Macao SAR",MAC,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4644,,,0
+H3,2008,2008,2008,2,0,2,Export,450,Madagascar,MDG,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,54056,,,0
+H3,2008,2008,2008,2,0,1,Import,450,Madagascar,MDG,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,63,,,0
+H3,2008,2008,2008,2,0,1,Import,450,Madagascar,MDG,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,113,,,0
+H3,2008,2008,2008,2,0,1,Import,450,Madagascar,MDG,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39173,,,0
+H3,2008,2008,2008,2,0,1,Import,450,Madagascar,MDG,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,26,,,0
+H3,2008,2008,2008,2,0,1,Import,450,Madagascar,MDG,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,53173,,,0
+H3,2008,2008,2008,2,0,2,Export,454,Malawi,MWI,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,55779,,,0
+H2,2008,2008,2008,2,0,2,Export,458,Malaysia,MYS,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,8336,,,0
+H2,2008,2008,2008,2,0,1,Import,458,Malaysia,MYS,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,528,,,0
+H2,2008,2008,2008,2,0,2,Export,458,Malaysia,MYS,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,307948,,,0
+H2,2008,2008,2008,2,0,1,Import,458,Malaysia,MYS,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16695,,,0
+H2,2008,2008,2008,2,0,2,Export,458,Malaysia,MYS,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1039656,,,0
+H2,2008,2008,2008,2,0,1,Import,458,Malaysia,MYS,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2099095,,,0
+H2,2008,2008,2008,2,0,2,Export,458,Malaysia,MYS,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,902962,,,0
+H2,2008,2008,2008,2,0,1,Import,458,Malaysia,MYS,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,37080,,,0
+H2,2008,2008,2008,2,0,2,Export,458,Malaysia,MYS,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1969485,,,0
+H2,2008,2008,2008,2,0,1,Import,458,Malaysia,MYS,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6684620,,,0
+H2,2008,2008,2008,2,0,2,Export,458,Malaysia,MYS,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4970789,,,0
+H3,2008,2008,2008,2,0,1,Import,462,Maldives,MDV,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2596,,,0
+H3,2008,2008,2008,2,0,1,Import,462,Maldives,MDV,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14859,,,0
+H3,2008,2008,2008,2,0,1,Import,466,Mali,MLI,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,417353,,,0
+H3,2008,2008,2008,2,0,1,Import,470,Malta,MLT,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1832081,,,0
+H3,2008,2008,2008,2,0,1,Import,470,Malta,MLT,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,891,,,0
+H3,2008,2008,2008,2,0,2,Export,470,Malta,MLT,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4092,,,0
+H3,2008,2008,2008,2,0,1,Import,470,Malta,MLT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,694650,,,0
+H3,2008,2008,2008,2,0,2,Export,470,Malta,MLT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,167418,,,0
+H3,2008,2008,2008,2,0,1,Import,470,Malta,MLT,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,413955,,,0
+H3,2008,2008,2008,2,0,2,Export,470,Malta,MLT,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6482,,,0
+H3,2008,2008,2008,2,0,2,Export,470,Malta,MLT,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,152,,,0
+H3,2008,2008,2008,2,0,1,Import,470,Malta,MLT,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24552,,,0
+H3,2008,2008,2008,2,0,2,Export,470,Malta,MLT,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2847,,,0
+H3,2008,2008,2008,2,0,1,Import,480,Mauritius,MUS,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6890,,,0
+H3,2008,2008,2008,2,0,1,Import,480,Mauritius,MUS,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28793,,,0
+H3,2008,2008,2008,2,0,2,Export,480,Mauritius,MUS,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,201,,,0
+H3,2008,2008,2008,2,0,1,Import,480,Mauritius,MUS,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6477,,,0
+H3,2008,2008,2008,2,0,1,Import,480,Mauritius,MUS,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43905,,,0
+H3,2008,2008,2008,2,0,2,Export,484,Mexico,MEX,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3993019,,,0
+H3,2008,2008,2008,2,0,1,Import,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,7693,,,0
+H3,2008,2008,2008,2,0,1,Import,484,Mexico,MEX,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1816,,,0
+H3,2008,2008,2008,2,0,2,Export,484,Mexico,MEX,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19224,,,0
+H3,2008,2008,2008,2,0,1,Import,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10734609,,,0
+H3,2008,2008,2008,2,0,2,Export,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1200256,,,0
+H3,2008,2008,2008,2,0,1,Import,484,Mexico,MEX,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16,,,0
+H3,2008,2008,2008,2,0,2,Export,484,Mexico,MEX,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19110,,,0
+H3,2008,2008,2008,2,0,1,Import,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7664427,,,0
+H3,2008,2008,2008,2,0,2,Export,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,95991,,,0
+H2,2008,2008,2008,2,0,2,Export,490,"Other Asia, nes",,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,32478,,,0
+H2,2008,2008,2008,2,0,1,Import,490,"Other Asia, nes",,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,153733,,,0
+H2,2008,2008,2008,2,0,2,Export,490,"Other Asia, nes",,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1442652,,,0
+H2,2008,2008,2008,2,0,1,Import,490,"Other Asia, nes",,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11188,,,0
+H2,2008,2008,2008,2,0,2,Export,490,"Other Asia, nes",,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3179770,,,0
+H2,2008,2008,2008,2,0,3,Re-Export,490,"Other Asia, nes",,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2070,,,0
+H2,2008,2008,2008,2,0,2,Export,490,"Other Asia, nes",,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1306818,,,0
+H2,2008,2008,2008,2,0,3,Re-Export,490,"Other Asia, nes",,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2165,,,0
+H2,2008,2008,2008,2,0,1,Import,490,"Other Asia, nes",,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3863282,,,0
+H2,2008,2008,2008,2,0,2,Export,490,"Other Asia, nes",,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,893777,,,0
+H2,2008,2008,2008,2,0,4,Re-Import,490,"Other Asia, nes",,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11188,,,0
+H2,2008,2008,2008,2,0,1,Import,490,"Other Asia, nes",,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1227411,,,0
+H2,2008,2008,2008,2,0,2,Export,490,"Other Asia, nes",,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6525049,,,0
+H2,2008,2008,2008,2,0,3,Re-Export,490,"Other Asia, nes",,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9329,,,0
+H2,2008,2008,2008,2,0,4,Re-Import,490,"Other Asia, nes",,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2964,,,0
+H2,2008,2008,2008,2,0,2,Export,490,"Other Asia, nes",,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,35280,,,0
+H2,2008,2008,2008,2,0,1,Import,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,7248,,,0
+H2,2008,2008,2008,2,0,1,Import,498,Rep. of Moldova,MDA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,124407,,,0
+H2,2008,2008,2008,2,0,1,Import,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5083922,,,0
+H2,2008,2008,2008,2,0,2,Export,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,128740,,,0
+H2,2008,2008,2008,2,0,1,Import,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,784712,,,0
+H3,2008,2008,2008,2,0,1,Import,499,Montenegro,MNE,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,7742540,,,0
+H3,2008,2008,2008,2,0,1,Import,499,Montenegro,MNE,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1529,,,0
+H3,2008,2008,2008,2,0,1,Import,499,Montenegro,MNE,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1183770,,,0
+H3,2008,2008,2008,2,0,1,Import,499,Montenegro,MNE,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,571,,,0
+H3,2008,2008,2008,2,0,1,Import,499,Montenegro,MNE,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,371722,,,0
+H2,2008,2008,2008,2,0,1,Import,504,Morocco,MAR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3898007,,,0
+H2,2008,2008,2008,2,0,2,Export,504,Morocco,MAR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2662,,,0
+H2,2008,2008,2008,2,0,1,Import,504,Morocco,MAR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4003,,,0
+H2,2008,2008,2008,2,0,2,Export,504,Morocco,MAR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,97,,,0
+H2,2008,2008,2008,2,0,1,Import,504,Morocco,MAR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,883203,,,0
+H2,2008,2008,2008,2,0,2,Export,504,Morocco,MAR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1236,,,0
+H2,2008,2008,2008,2,0,1,Import,504,Morocco,MAR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11186619,,,0
+H2,2008,2008,2008,2,0,2,Export,504,Morocco,MAR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23937,,,0
+H2,2008,2008,2008,2,0,1,Import,508,Mozambique,MOZ,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1018,,,0
+H2,2008,2008,2008,2,0,1,Import,508,Mozambique,MOZ,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,59,,,0
+H2,2008,2008,2008,2,0,1,Import,508,Mozambique,MOZ,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,176789,,,0
+H2,2008,2008,2008,2,0,1,Import,512,Oman,OMN,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,37629881,,,0
+H2,2008,2008,2008,2,0,1,Import,512,Oman,OMN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,408,,,0
+H2,2008,2008,2008,2,0,1,Import,512,Oman,OMN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,92471,,,0
+H2,2008,2008,2008,2,0,2,Export,512,Oman,OMN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27436,,,0
+H2,2008,2008,2008,2,0,1,Import,512,Oman,OMN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,41209,,,0
+H2,2008,2008,2008,2,0,1,Import,512,Oman,OMN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5618,,,0
+H3,2008,2008,2008,2,0,2,Export,516,Namibia,NAM,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1810937,,,0
+H3,2008,2008,2008,2,0,2,Export,516,Namibia,NAM,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,104938,,,0
+H3,2008,2008,2008,2,0,1,Import,516,Namibia,NAM,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,120,,,0
+H3,2008,2008,2008,2,0,2,Export,516,Namibia,NAM,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,103774,,,0
+H3,2008,2008,2008,2,0,2,Export,516,Namibia,NAM,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,649833,,,0
+H3,2008,2008,2008,2,0,1,Import,516,Namibia,NAM,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,190,,,0
+H3,2008,2008,2008,2,0,1,Import,516,Namibia,NAM,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17394,,,0
+H3,2008,2008,2008,2,0,2,Export,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,30931917,,,0
+H3,2008,2008,2008,2,0,1,Import,528,Netherlands,NLD,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1473,,,0
+H3,2008,2008,2008,2,0,2,Export,528,Netherlands,NLD,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,29103204,,,0
+H3,2008,2008,2008,2,0,1,Import,528,Netherlands,NLD,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6004459,,,0
+H3,2008,2008,2008,2,0,2,Export,528,Netherlands,NLD,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,12649210,,,0
+H3,2008,2008,2008,2,0,1,Import,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10314,,,0
+H3,2008,2008,2008,2,0,1,Import,528,Netherlands,NLD,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,324167,,,0
+H3,2008,2008,2008,2,0,2,Export,528,Netherlands,NLD,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7846813,,,0
+H3,2008,2008,2008,2,0,1,Import,528,Netherlands,NLD,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15885661,,,0
+H3,2008,2008,2008,2,0,2,Export,528,Netherlands,NLD,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,71249065,,,0
+H3,2008,2008,2008,2,0,2,Export,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1329169,,,0
+H3,2008,2008,2008,2,0,1,Import,528,Netherlands,NLD,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,689592,,,0
+H3,2008,2008,2008,2,0,2,Export,528,Netherlands,NLD,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6995084,,,0
+H3,2008,2008,2008,2,0,1,Import,528,Netherlands,NLD,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,67157106,,,0
+H3,2008,2008,2008,2,0,2,Export,528,Netherlands,NLD,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,286740979,,,0
+H3,2008,2008,2008,2,0,2,Export,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1301171,,,0
+H2,2008,2008,2008,2,0,1,Import,530,Neth. Antilles,ANT,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,151,,,0
+H2,2008,2008,2008,2,0,1,Import,530,Neth. Antilles,ANT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,153,,,0
+H2,2008,2008,2008,2,0,1,Import,533,Aruba,ABW,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,122,,,0
+H3,2008,2008,2008,2,0,1,Import,540,New Caledonia,NCL,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,228,,,0
+H3,2008,2008,2008,2,0,1,Import,540,New Caledonia,NCL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30592,,,0
+H3,2008,2008,2008,2,0,1,Import,540,New Caledonia,NCL,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,299,,,0
+H3,2008,2008,2008,2,0,1,Import,540,New Caledonia,NCL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,21525,,,0
+H3,2008,2008,2008,2,0,1,Import,554,New Zealand,NZL,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,16206,,,0
+H3,2008,2008,2008,2,0,1,Import,554,New Zealand,NZL,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,25843,,,0
+H3,2008,2008,2008,2,0,1,Import,554,New Zealand,NZL,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1332,,,0
+H3,2008,2008,2008,2,0,1,Import,554,New Zealand,NZL,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,122149,,,0
+H3,2008,2008,2008,2,0,1,Import,554,New Zealand,NZL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1507882,,,0
+H3,2008,2008,2008,2,0,2,Export,554,New Zealand,NZL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,58420,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,554,New Zealand,NZL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2550,,,0
+H3,2008,2008,2008,2,0,1,Import,554,New Zealand,NZL,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5,,,0
+H3,2008,2008,2008,2,0,1,Import,554,New Zealand,NZL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1724215,,,0
+H3,2008,2008,2008,2,0,2,Export,554,New Zealand,NZL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2587,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,554,New Zealand,NZL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1903,,,0
+H3,2008,2008,2008,2,0,1,Import,558,Nicaragua,NIC,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,50752,,,0
+H3,2008,2008,2008,2,0,1,Import,558,Nicaragua,NIC,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,563,,,0
+H3,2008,2008,2008,2,0,1,Import,558,Nicaragua,NIC,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7544,,,0
+H2,2008,2008,2008,2,0,1,Import,562,Niger,NER,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,593,,,0
+H2,2008,2008,2008,2,0,1,Import,566,Nigeria,NGA,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,27228,,,0
+H2,2008,2008,2008,2,0,1,Import,566,Nigeria,NGA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,53022,,,0
+H3,2008,2008,2008,2,0,1,Import,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4630,,,0
+H3,2008,2008,2008,2,0,2,Export,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,9894513,,,0
+H3,2008,2008,2008,2,0,1,Import,579,Norway,NOR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8295570,,,0
+H3,2008,2008,2008,2,0,2,Export,579,Norway,NOR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1356696314,,,0
+H3,2008,2008,2008,2,0,2,Export,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1093,,,0
+H3,2008,2008,2008,2,0,1,Import,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,85739,,,0
+H3,2008,2008,2008,2,0,1,Import,579,Norway,NOR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11392760,,,0
+H3,2008,2008,2008,2,0,2,Export,579,Norway,NOR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,42534,,,0
+H3,2008,2008,2008,2,0,2,Export,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1565220,,,0
+H3,2008,2008,2008,2,0,1,Import,579,Norway,NOR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12516132,,,0
+H3,2008,2008,2008,2,0,2,Export,579,Norway,NOR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5187211,,,0
+H3,2008,2008,2008,2,0,2,Export,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,320,,,0
+H3,2008,2008,2008,2,0,1,Import,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,60130,,,0
+H3,2008,2008,2008,2,0,2,Export,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2561,,,0
+H2,2008,2008,2008,2,0,1,Import,583,FS Micronesia,FSM,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,585,,,0
+H2,2008,2008,2008,2,0,1,Import,583,FS Micronesia,FSM,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1547,,,0
+H3,2008,2008,2008,2,0,2,Export,586,Pakistan,PAK,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1794,,,0
+H3,2008,2008,2008,2,0,2,Export,586,Pakistan,PAK,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4083,,,0
+H3,2008,2008,2008,2,0,1,Import,586,Pakistan,PAK,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,101220,,,0
+H3,2008,2008,2008,2,0,2,Export,586,Pakistan,PAK,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37240,,,0
+H3,2008,2008,2008,2,0,1,Import,586,Pakistan,PAK,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,127,,,0
+H3,2008,2008,2008,2,0,1,Import,586,Pakistan,PAK,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,334181,,,0
+H3,2008,2008,2008,2,0,1,Import,591,Panama,PAN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2014,,,0
+H3,2008,2008,2008,2,0,1,Import,591,Panama,PAN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,70950,,,0
+H3,2008,2008,2008,2,0,1,Import,591,Panama,PAN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,84534,,,0
+H3,2008,2008,2008,2,0,1,Import,600,Paraguay,PRY,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,24447,,,0
+H3,2008,2008,2008,2,0,1,Import,600,Paraguay,PRY,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,202185,,,4
+H3,2008,2008,2008,2,0,2,Export,604,Peru,PER,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10452,,,0
+H3,2008,2008,2008,2,0,1,Import,604,Peru,PER,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,807,,,0
+H3,2008,2008,2008,2,0,1,Import,604,Peru,PER,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,470086,,,0
+H3,2008,2008,2008,2,0,2,Export,604,Peru,PER,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,60,,,0
+H3,2008,2008,2008,2,0,1,Import,604,Peru,PER,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,229228,,,0
+H2,2008,2008,2008,2,0,2,Export,608,Philippines,PHL,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27646,,,0
+H2,2008,2008,2008,2,0,1,Import,608,Philippines,PHL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13523,,,0
+H2,2008,2008,2008,2,0,2,Export,608,Philippines,PHL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17484,,,0
+H2,2008,2008,2008,2,0,2,Export,608,Philippines,PHL,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,541327,,,0
+H2,2008,2008,2008,2,0,1,Import,608,Philippines,PHL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6777,,,0
+H2,2008,2008,2008,2,0,2,Export,608,Philippines,PHL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9648,,,0
+H3,2008,2008,2008,2,0,1,Import,616,Poland,POL,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2588,,,0
+H3,2008,2008,2008,2,0,2,Export,616,Poland,POL,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3464333,,,0
+H3,2008,2008,2008,2,0,1,Import,616,Poland,POL,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,743235048,,,0
+H3,2008,2008,2008,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1169197526,,,0
+H3,2008,2008,2008,2,0,1,Import,616,Poland,POL,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,773,,,0
+H3,2008,2008,2008,2,0,1,Import,616,Poland,POL,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,49393,,,0
+H3,2008,2008,2008,2,0,2,Export,616,Poland,POL,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1122170,,,0
+H3,2008,2008,2008,2,0,1,Import,616,Poland,POL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,199719846,,,0
+H3,2008,2008,2008,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,157386132,,,0
+H3,2008,2008,2008,2,0,2,Export,616,Poland,POL,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5126572,,,0
+H3,2008,2008,2008,2,0,1,Import,616,Poland,POL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,413143775,,,0
+H3,2008,2008,2008,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,496181399,,,0
+H3,2008,2008,2008,2,0,1,Import,616,Poland,POL,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,167132,,,0
+H3,2008,2008,2008,2,0,2,Export,616,Poland,POL,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14987,,,0
+H3,2008,2008,2008,2,0,1,Import,616,Poland,POL,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30763,,,0
+H3,2008,2008,2008,2,0,2,Export,620,Portugal,PRT,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,80501,,,0
+H3,2008,2008,2008,2,0,2,Export,620,Portugal,PRT,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3235,,,0
+H3,2008,2008,2008,2,0,1,Import,620,Portugal,PRT,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2267,,,0
+H3,2008,2008,2008,2,0,2,Export,620,Portugal,PRT,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,15,,,0
+H3,2008,2008,2008,2,0,2,Export,620,Portugal,PRT,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,187438,,,0
+H3,2008,2008,2008,2,0,1,Import,620,Portugal,PRT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,187870,,,0
+H3,2008,2008,2008,2,0,1,Import,620,Portugal,PRT,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15936068,,,0
+H3,2008,2008,2008,2,0,2,Export,620,Portugal,PRT,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,26636052,,,0
+H3,2008,2008,2008,2,0,2,Export,620,Portugal,PRT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4055575,,,0
+H3,2008,2008,2008,2,0,1,Import,620,Portugal,PRT,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5391644,,,0
+H3,2008,2008,2008,2,0,2,Export,620,Portugal,PRT,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9685660,,,0
+H3,2008,2008,2008,2,0,2,Export,620,Portugal,PRT,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,84690,,,0
+H3,2008,2008,2008,2,0,1,Import,620,Portugal,PRT,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5544,,,0
+H3,2008,2008,2008,2,0,2,Export,620,Portugal,PRT,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,44334,,,0
+H2,2008,2008,2008,2,0,1,Import,634,Qatar,QAT,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,285,,,0
+H2,2008,2008,2008,2,0,1,Import,634,Qatar,QAT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3748,,,0
+H2,2008,2008,2008,2,0,2,Export,634,Qatar,QAT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27560,,,0
+H2,2008,2008,2008,2,0,1,Import,634,Qatar,QAT,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,339728,,,0
+H2,2008,2008,2008,2,0,2,Export,634,Qatar,QAT,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4998,,,0
+H2,2008,2008,2008,2,0,1,Import,634,Qatar,QAT,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,476679,,,0
+H3,2008,2008,2008,2,0,1,Import,642,Romania,ROU,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3183444,,,0
+H3,2008,2008,2008,2,0,2,Export,642,Romania,ROU,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,103363216,,,0
+H3,2008,2008,2008,2,0,1,Import,642,Romania,ROU,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4762188,,,0
+H3,2008,2008,2008,2,0,2,Export,642,Romania,ROU,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,20002949,,,0
+H3,2008,2008,2008,2,0,1,Import,642,Romania,ROU,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1338987,,,0
+H3,2008,2008,2008,2,0,2,Export,642,Romania,ROU,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,308590,,,0
+H3,2008,2008,2008,2,0,1,Import,642,Romania,ROU,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43499860,,,0
+H3,2008,2008,2008,2,0,2,Export,642,Romania,ROU,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27876953,,,0
+H3,2008,2008,2008,2,0,1,Import,642,Romania,ROU,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,79280691,,,0
+H3,2008,2008,2008,2,0,2,Export,642,Romania,ROU,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28295080,,,0
+H3,2008,2008,2008,2,0,1,Import,642,Romania,ROU,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,345874,,,0
+H3,2008,2008,2008,2,0,2,Export,642,Romania,ROU,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,73244,,,0
+H3,2008,2008,2008,2,0,1,Import,642,Romania,ROU,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,616,,,0
+H3,2008,2008,2008,2,0,2,Export,642,Romania,ROU,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,78455,,,0
+H3,2008,2008,2008,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,991437622,,,0
+H3,2008,2008,2008,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,7686772,,,0
+H3,2008,2008,2008,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3189516010,,,0
+H3,2008,2008,2008,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,144219,,,0
+H3,2008,2008,2008,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43343,,,0
+H3,2008,2008,2008,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,128504911,,,0
+H3,2008,2008,2008,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7319347,,,0
+H3,2008,2008,2008,2,0,1,Import,643,Russian Federation,RUS,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,278400,,,0
+H3,2008,2008,2008,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8829,,,0
+H3,2008,2008,2008,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,86273,,,0
+H3,2008,2008,2008,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47210568,,,0
+H3,2008,2008,2008,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,56374831,,,0
+H2,2008,2008,2008,2,0,1,Import,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2052,,,0
+H2,2008,2008,2008,2,0,2,Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1150639,,,0
+H2,2008,2008,2008,2,0,3,Re-Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,328131,,,0
+H2,2008,2008,2008,2,0,1,Import,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,921460,,,0
+H2,2008,2008,2008,2,0,2,Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,803361,,,0
+H2,2008,2008,2008,2,0,3,Re-Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2748,,,0
+H2,2008,2008,2008,2,0,1,Import,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12911,,,0
+H2,2008,2008,2008,2,0,2,Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,80836,,,0
+H2,2008,2008,2008,2,0,3,Re-Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,71656,,,0
+H0,2008,2008,2008,2,0,1,Import,660,Anguilla,AIA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,287,,,0
+H1,2008,2008,2008,2,0,1,Import,662,Saint Lucia,LCA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,928,,,0
+H1,2008,2008,2008,2,0,1,Import,662,Saint Lucia,LCA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,201,,,0
+H1,2008,2008,2008,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22,,,0
+H3,2008,2008,2008,2,0,2,Export,682,Saudi Arabia,SAU,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2713337,,,0
+H3,2008,2008,2008,2,0,1,Import,682,Saudi Arabia,SAU,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,297334,,,0
+H3,2008,2008,2008,2,0,2,Export,682,Saudi Arabia,SAU,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3787471,,,0
+H3,2008,2008,2008,2,0,1,Import,682,Saudi Arabia,SAU,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2660270,,,0
+H3,2008,2008,2008,2,0,1,Import,682,Saudi Arabia,SAU,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2940270,,,0
+H3,2008,2008,2008,2,0,2,Export,686,Senegal,SEN,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,7531,,,0
+H3,2008,2008,2008,2,0,2,Export,686,Senegal,SEN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27285,,,0
+H3,2008,2008,2008,2,0,1,Import,686,Senegal,SEN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4009,,,0
+H3,2008,2008,2008,2,0,1,Import,686,Senegal,SEN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,105707,,,0
+H3,2008,2008,2008,2,0,1,Import,686,Senegal,SEN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43767,,,0
+H3,2008,2008,2008,2,0,2,Export,688,Serbia,SRB,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,647,,,0
+H3,2008,2008,2008,2,0,1,Import,688,Serbia,SRB,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4787750,,,0
+H3,2008,2008,2008,2,0,2,Export,688,Serbia,SRB,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,273867,,,0
+H3,2008,2008,2008,2,0,1,Import,688,Serbia,SRB,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26591,,,0
+H3,2008,2008,2008,2,0,2,Export,688,Serbia,SRB,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,735,,,0
+H3,2008,2008,2008,2,0,1,Import,688,Serbia,SRB,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25297038,,,0
+H3,2008,2008,2008,2,0,2,Export,688,Serbia,SRB,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3927209,,,0
+H3,2008,2008,2008,2,0,1,Import,688,Serbia,SRB,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6471,,,0
+H3,2008,2008,2008,2,0,2,Export,688,Serbia,SRB,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15715,,,0
+H3,2008,2008,2008,2,0,1,Import,688,Serbia,SRB,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10106405,,,0
+H3,2008,2008,2008,2,0,2,Export,688,Serbia,SRB,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9035757,,,0
+H2,2008,2008,2008,2,0,1,Import,690,Seychelles,SYC,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34850,,,0
+H2,2008,2008,2008,2,0,1,Import,690,Seychelles,SYC,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5096,,,0
+H2,2008,2008,2008,2,0,1,Import,690,Seychelles,SYC,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,381,,,0
+H2,2008,2008,2008,2,0,1,Import,699,India,IND,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,95558684,,,0
+H2,2008,2008,2008,2,0,2,Export,699,India,IND,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,24535,,,0
+H2,2008,2008,2008,2,0,1,Import,699,India,IND,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,17724,,,0
+H2,2008,2008,2008,2,0,2,Export,699,India,IND,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,66822248,,,0
+H2,2008,2008,2008,2,0,1,Import,699,India,IND,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,6731348,,,0
+H2,2008,2008,2008,2,0,2,Export,699,India,IND,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,145480,,,0
+H2,2008,2008,2008,2,0,2,Export,699,India,IND,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,417296,,,0
+H2,2008,2008,2008,2,0,1,Import,699,India,IND,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8737299,,,0
+H2,2008,2008,2008,2,0,2,Export,699,India,IND,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1659105,,,0
+H2,2008,2008,2008,2,0,1,Import,699,India,IND,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,88585,,,0
+H2,2008,2008,2008,2,0,2,Export,699,India,IND,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,712146,,,0
+H2,2008,2008,2008,2,0,1,Import,699,India,IND,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2874781,,,0
+H2,2008,2008,2008,2,0,2,Export,699,India,IND,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1435755,,,0
+H2,2008,2008,2008,2,0,2,Export,699,India,IND,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,58041,,,0
+H2,2008,2008,2008,2,0,1,Import,699,India,IND,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,304,,,0
+H3,2008,2008,2008,2,0,1,Import,702,Singapore,SGP,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,172180817,,,0
+H3,2008,2008,2008,2,0,2,Export,702,Singapore,SGP,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,50218,,,0
+H3,2008,2008,2008,2,0,1,Import,702,Singapore,SGP,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,277,,,0
+H3,2008,2008,2008,2,0,2,Export,702,Singapore,SGP,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6395914,,,0
+H3,2008,2008,2008,2,0,1,Import,702,Singapore,SGP,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21476,,,0
+H3,2008,2008,2008,2,0,2,Export,702,Singapore,SGP,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,677041,,,0
+H3,2008,2008,2008,2,0,1,Import,702,Singapore,SGP,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1256570,,,0
+H3,2008,2008,2008,2,0,2,Export,702,Singapore,SGP,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,662450,,,0
+H3,2008,2008,2008,2,0,2,Export,702,Singapore,SGP,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,248497,,,0
+H3,2008,2008,2008,2,0,2,Export,702,Singapore,SGP,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,870369,,,0
+H3,2008,2008,2008,2,0,1,Import,702,Singapore,SGP,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2300906,,,0
+H3,2008,2008,2008,2,0,2,Export,702,Singapore,SGP,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,77436,,,0
+H3,2008,2008,2008,2,0,1,Import,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,958659558,,,0
+H3,2008,2008,2008,2,0,2,Export,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1203382072,,,0
+H3,2008,2008,2008,2,0,1,Import,703,Slovakia,SVK,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,215429,,,0
+H3,2008,2008,2008,2,0,2,Export,703,Slovakia,SVK,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,205544,,,0
+H3,2008,2008,2008,2,0,1,Import,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,368032369,,,0
+H3,2008,2008,2008,2,0,2,Export,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,410619163,,,0
+H3,2008,2008,2008,2,0,1,Import,703,Slovakia,SVK,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,278418,,,0
+H3,2008,2008,2008,2,0,2,Export,703,Slovakia,SVK,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1156663,,,0
+H3,2008,2008,2008,2,0,1,Import,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,114062860,,,0
+H3,2008,2008,2008,2,0,2,Export,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,191073128,,,0
+H3,2008,2008,2008,2,0,2,Export,704,Viet Nam,VNM,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,228228,,,0
+H3,2008,2008,2008,2,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2973,,,0
+H3,2008,2008,2008,2,0,2,Export,704,Viet Nam,VNM,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,381479,,,0
+H3,2008,2008,2008,2,0,1,Import,704,Viet Nam,VNM,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5265,,,0
+H3,2008,2008,2008,2,0,2,Export,704,Viet Nam,VNM,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,356141,,,0
+H3,2008,2008,2008,2,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,392748,,,0
+H3,2008,2008,2008,2,0,2,Export,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3432996,,,0
+H3,2008,2008,2008,2,0,2,Export,704,Viet Nam,VNM,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19558,,,0
+H3,2008,2008,2008,2,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,188942,,,0
+H3,2008,2008,2008,2,0,2,Export,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8460999,,,0
+H3,2008,2008,2008,2,0,2,Export,705,Slovenia,SVN,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,220,,,0
+H3,2008,2008,2008,2,0,1,Import,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,36193185,,,0
+H3,2008,2008,2008,2,0,2,Export,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,9094419,,,0
+H3,2008,2008,2008,2,0,1,Import,705,Slovenia,SVN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2724,,,0
+H3,2008,2008,2008,2,0,2,Export,705,Slovenia,SVN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2368,,,0
+H3,2008,2008,2008,2,0,1,Import,705,Slovenia,SVN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,624,,,0
+H3,2008,2008,2008,2,0,2,Export,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,26227082,,,0
+H3,2008,2008,2008,2,0,2,Export,705,Slovenia,SVN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,471516,,,0
+H3,2008,2008,2008,2,0,1,Import,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30536792,,,0
+H3,2008,2008,2008,2,0,2,Export,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34945128,,,0
+H3,2008,2008,2008,2,0,1,Import,705,Slovenia,SVN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9589,,,0
+H3,2008,2008,2008,2,0,2,Export,705,Slovenia,SVN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,270619,,,0
+H3,2008,2008,2008,2,0,1,Import,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24425747,,,0
+H3,2008,2008,2008,2,0,2,Export,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,155436262,,,0
+H3,2008,2008,2008,2,0,2,Export,710,South Africa,ZAF,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,111325,,,0
+H3,2008,2008,2008,2,0,2,Export,710,South Africa,ZAF,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,429,,,0
+H3,2008,2008,2008,2,0,1,Import,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,592,,,0
+H3,2008,2008,2008,2,0,2,Export,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,46427398,,,0
+H3,2008,2008,2008,2,0,1,Import,710,South Africa,ZAF,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,65336,,,0
+H3,2008,2008,2008,2,0,2,Export,710,South Africa,ZAF,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,289074,,,0
+H3,2008,2008,2008,2,0,1,Import,710,South Africa,ZAF,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7283079,,,0
+H3,2008,2008,2008,2,0,2,Export,710,South Africa,ZAF,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,217081,,,0
+H3,2008,2008,2008,2,0,2,Export,710,South Africa,ZAF,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,376534,,,0
+H3,2008,2008,2008,2,0,1,Import,710,South Africa,ZAF,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4678186,,,0
+H3,2008,2008,2008,2,0,2,Export,710,South Africa,ZAF,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,493767,,,0
+H3,2008,2008,2008,2,0,1,Import,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3800,,,0
+H3,2008,2008,2008,2,0,2,Export,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14080467,,,0
+H3,2008,2008,2008,2,0,1,Import,710,South Africa,ZAF,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47821,,,0
+H3,2008,2008,2008,2,0,1,Import,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,1402,,,4
+H3,2008,2008,2008,2,0,2,Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,8318941,,,4
+H3,2008,2008,2008,2,0,3,Re-Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2579887,,,0
+H3,2008,2008,2008,2,0,2,Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,47634,,,4
+H3,2008,2008,2008,2,0,2,Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,0,,,0
+H3,2008,2008,2008,2,0,2,Export,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,9698361,,,0
+H3,2008,2008,2008,2,0,2,Export,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,74968572,,,0
+H3,2008,2008,2008,2,0,1,Import,724,Spain,ESP,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,825,,,0
+H3,2008,2008,2008,2,0,2,Export,724,Spain,ESP,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1060374,,,0
+H3,2008,2008,2008,2,0,1,Import,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7712,,,0
+H3,2008,2008,2008,2,0,2,Export,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,65637,,,0
+H3,2008,2008,2008,2,0,1,Import,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,728,,,0
+H3,2008,2008,2008,2,0,2,Export,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2343429,,,0
+H3,2008,2008,2008,2,0,1,Import,724,Spain,ESP,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,88709654,,,0
+H3,2008,2008,2008,2,0,2,Export,724,Spain,ESP,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,135814328,,,0
+H3,2008,2008,2008,2,0,1,Import,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1823733,,,0
+H3,2008,2008,2008,2,0,2,Export,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,11509081,,,0
+H3,2008,2008,2008,2,0,1,Import,724,Spain,ESP,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,83297632,,,4
+H3,2008,2008,2008,2,0,2,Export,724,Spain,ESP,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,112797250,,,4
+H3,2008,2008,2008,2,0,1,Import,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,614128,,,0
+H3,2008,2008,2008,2,0,2,Export,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,754,,,0
+H3,2008,2008,2008,2,0,1,Import,736,Fmr Sudan,SDN,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,7379,,,0
+H3,2008,2008,2008,2,0,1,Import,736,Fmr Sudan,SDN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1727,,,0
+H3,2008,2008,2008,2,0,1,Import,736,Fmr Sudan,SDN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,50,,,0
+H3,2008,2008,2008,2,0,1,Import,736,Fmr Sudan,SDN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,34629,,,0
+H0,2008,2008,2008,2,0,1,Import,740,Suriname,SUR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19480,,,0
+H0,2008,2008,2008,2,0,1,Import,740,Suriname,SUR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,55623,,,0
+H3,2008,2008,2008,2,0,2,Export,752,Sweden,SWE,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,110362628,,,0
+H3,2008,2008,2008,2,0,1,Import,752,Sweden,SWE,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,59116,,,0
+H3,2008,2008,2008,2,0,2,Export,752,Sweden,SWE,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1375633,,,0
+H3,2008,2008,2008,2,0,2,Export,752,Sweden,SWE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8469,,,0
+H3,2008,2008,2008,2,0,1,Import,752,Sweden,SWE,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,138092,,,0
+H3,2008,2008,2008,2,0,2,Export,752,Sweden,SWE,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5489907,,,0
+H3,2008,2008,2008,2,0,2,Export,752,Sweden,SWE,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7538422,,,0
+H3,2008,2008,2008,2,0,1,Import,752,Sweden,SWE,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,36458046,,,0
+H3,2008,2008,2008,2,0,2,Export,752,Sweden,SWE,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,59584296,,,0
+H3,2008,2008,2008,2,0,2,Export,752,Sweden,SWE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5235,,,0
+H3,2008,2008,2008,2,0,1,Import,752,Sweden,SWE,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1539,,,0
+H3,2008,2008,2008,2,0,2,Export,752,Sweden,SWE,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,107014,,,0
+H3,2008,2008,2008,2,0,1,Import,752,Sweden,SWE,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30537809,,,0
+H3,2008,2008,2008,2,0,2,Export,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,31748,,,0
+H3,2008,2008,2008,2,0,2,Export,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1908616,,,0
+H3,2008,2008,2008,2,0,1,Import,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,7182539,,,0
+H3,2008,2008,2008,2,0,2,Export,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5826076,,,0
+H3,2008,2008,2008,2,0,1,Import,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,89889,,,0
+H3,2008,2008,2008,2,0,2,Export,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,634,,,0
+H3,2008,2008,2008,2,0,2,Export,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,50032,,,0
+H3,2008,2008,2008,2,0,1,Import,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43074606,,,0
+H3,2008,2008,2008,2,0,2,Export,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16005051,,,0
+H3,2008,2008,2008,2,0,1,Import,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1043,,,0
+H3,2008,2008,2008,2,0,2,Export,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1845880,,,0
+H3,2008,2008,2008,2,0,1,Import,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,61507270,,,0
+H3,2008,2008,2008,2,0,2,Export,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,72549418,,,0
+H3,2008,2008,2008,2,0,2,Export,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47237,,,0
+H3,2008,2008,2008,2,0,1,Import,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1481,,,0
+H3,2008,2008,2008,2,0,1,Import,760,Syria,SYR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,59726281,,,0
+H3,2008,2008,2008,2,0,2,Export,760,Syria,SYR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,158447,,,0
+H3,2008,2008,2008,2,0,2,Export,760,Syria,SYR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,11303830,,,0
+H3,2008,2008,2008,2,0,2,Export,760,Syria,SYR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,135406,,,0
+H3,2008,2008,2008,2,0,1,Import,760,Syria,SYR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,180952,,,0
+H3,2008,2008,2008,2,0,1,Import,764,Thailand,THA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5198,,,0
+H3,2008,2008,2008,2,0,1,Import,764,Thailand,THA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3183,,,0
+H3,2008,2008,2008,2,0,2,Export,764,Thailand,THA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2522528,,,0
+H3,2008,2008,2008,2,0,1,Import,764,Thailand,THA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3811270,,,0
+H3,2008,2008,2008,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2990992,,,0
+H3,2008,2008,2008,2,0,2,Export,764,Thailand,THA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1535529,,,0
+H3,2008,2008,2008,2,0,1,Import,764,Thailand,THA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,697109,,,0
+H3,2008,2008,2008,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,21261122,,,0
+H3,2008,2008,2008,2,0,1,Import,768,Togo,TGO,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,485724,,,0
+H3,2008,2008,2008,2,0,2,Export,768,Togo,TGO,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,70987,,,0
+H3,2008,2008,2008,2,0,2,Export,768,Togo,TGO,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,15203,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,768,Togo,TGO,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,15203,,,0
+H3,2008,2008,2008,2,0,1,Import,780,Trinidad and Tobago,TTO,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3523,,,0
+H3,2008,2008,2008,2,0,1,Import,780,Trinidad and Tobago,TTO,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23759,,,0
+H3,2008,2008,2008,2,0,1,Import,780,Trinidad and Tobago,TTO,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27,,,0
+H3,2008,2008,2008,2,0,1,Import,784,United Arab Emirates,ARE,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,189,,,0
+H3,2008,2008,2008,2,0,2,Export,784,United Arab Emirates,ARE,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,217801,,,0
+H3,2008,2008,2008,2,0,1,Import,784,United Arab Emirates,ARE,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,594055,,,0
+H3,2008,2008,2008,2,0,2,Export,784,United Arab Emirates,ARE,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,60180,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,784,United Arab Emirates,ARE,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,60180,,,0
+H3,2008,2008,2008,2,0,1,Import,784,United Arab Emirates,ARE,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,228784,,,0
+H3,2008,2008,2008,2,0,2,Export,784,United Arab Emirates,ARE,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,264042,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,784,United Arab Emirates,ARE,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,113860,,,0
+H3,2008,2008,2008,2,0,1,Import,784,United Arab Emirates,ARE,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6412830,,,0
+H3,2008,2008,2008,2,0,2,Export,784,United Arab Emirates,ARE,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1842,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,784,United Arab Emirates,ARE,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1842,,,0
+H3,2008,2008,2008,2,0,2,Export,784,United Arab Emirates,ARE,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,660954,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,784,United Arab Emirates,ARE,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,139668,,,0
+H3,2008,2008,2008,2,0,1,Import,784,United Arab Emirates,ARE,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3326888,,,0
+H3,2008,2008,2008,2,0,2,Export,784,United Arab Emirates,ARE,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1141738,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,784,United Arab Emirates,ARE,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,252087,,,0
+H3,2008,2008,2008,2,0,1,Import,784,United Arab Emirates,ARE,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,421,,,0
+H3,2008,2008,2008,2,0,2,Export,788,Tunisia,TUN,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,157580,,,0
+H3,2008,2008,2008,2,0,1,Import,788,Tunisia,TUN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4676,,,0
+H3,2008,2008,2008,2,0,2,Export,788,Tunisia,TUN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,78641,,,0
+H3,2008,2008,2008,2,0,2,Export,788,Tunisia,TUN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,57228,,,0
+H3,2008,2008,2008,2,0,1,Import,788,Tunisia,TUN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1076922,,,0
+H3,2008,2008,2008,2,0,2,Export,788,Tunisia,TUN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1540,,,0
+H3,2008,2008,2008,2,0,1,Import,788,Tunisia,TUN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1419,,,0
+H3,2008,2008,2008,2,0,1,Import,788,Tunisia,TUN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2704459,,,0
+H3,2008,2008,2008,2,0,2,Export,792,Turkey,TUR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,294425251,,,0
+H3,2008,2008,2008,2,0,1,Import,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,399031,,,0
+H3,2008,2008,2008,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,297529,,,0
+H3,2008,2008,2008,2,0,2,Export,792,Turkey,TUR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,67961,,,0
+H3,2008,2008,2008,2,0,1,Import,792,Turkey,TUR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,173675,,,0
+H3,2008,2008,2008,2,0,2,Export,792,Turkey,TUR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,40671652,,,0
+H3,2008,2008,2008,2,0,1,Import,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,36325130,,,0
+H3,2008,2008,2008,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25940375,,,0
+H3,2008,2008,2008,2,0,1,Import,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,45305493,,,0
+H3,2008,2008,2008,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21669575,,,0
+H3,2008,2008,2008,2,0,1,Import,792,Turkey,TUR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,497225,,,0
+H3,2008,2008,2008,2,0,2,Export,792,Turkey,TUR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1632,,,0
+H3,2008,2008,2008,2,0,1,Import,792,Turkey,TUR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3185,,,0
+H3,2008,2008,2008,2,0,2,Export,792,Turkey,TUR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7944668,,,0
+H3,2008,2008,2008,2,0,1,Import,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,600,,,0
+H3,2008,2008,2008,2,0,2,Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,684000,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,82859,,,0
+H3,2008,2008,2008,2,0,1,Import,800,Uganda,UGA,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8322909,,,0
+H3,2008,2008,2008,2,0,1,Import,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4200,,,0
+H3,2008,2008,2008,2,0,2,Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2659574,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,287399,,,0
+H3,2008,2008,2008,2,0,1,Import,800,Uganda,UGA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4765,,,0
+H3,2008,2008,2008,2,0,2,Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,118314,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47592,,,0
+H3,2008,2008,2008,2,0,1,Import,800,Uganda,UGA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25011,,,0
+H3,2008,2008,2008,2,0,1,Import,800,Uganda,UGA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16632,,,0
+H2,2008,2008,2008,2,0,2,Export,804,Ukraine,UKR,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,31130,,,0
+H2,2008,2008,2008,2,0,1,Import,804,Ukraine,UKR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,30118990,,,0
+H2,2008,2008,2008,2,0,2,Export,804,Ukraine,UKR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,276472060,,,0
+H2,2008,2008,2008,2,0,1,Import,804,Ukraine,UKR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,14661950,,,0
+H2,2008,2008,2008,2,0,2,Export,804,Ukraine,UKR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,33955010,,,0
+H2,2008,2008,2008,2,0,1,Import,804,Ukraine,UKR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,692133,,,0
+H2,2008,2008,2008,2,0,2,Export,804,Ukraine,UKR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8659,,,0
+H2,2008,2008,2008,2,0,1,Import,804,Ukraine,UKR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13897116,,,0
+H2,2008,2008,2008,2,0,2,Export,804,Ukraine,UKR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,300627,,,0
+H2,2008,2008,2008,2,0,2,Export,804,Ukraine,UKR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6703,,,0
+H2,2008,2008,2008,2,0,1,Import,804,Ukraine,UKR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,98212273,,,0
+H2,2008,2008,2008,2,0,2,Export,804,Ukraine,UKR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2628494,,,0
+H2,2008,2008,2008,2,0,1,Import,804,Ukraine,UKR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,741520,,,0
+H2,2008,2008,2008,2,0,2,Export,804,Ukraine,UKR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9670,,,0
+H2,2008,2008,2008,2,0,1,Import,804,Ukraine,UKR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,336700,,,0
+H3,2008,2008,2008,2,0,1,Import,807,North Macedonia,MKD,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5617635,,,4
+H3,2008,2008,2008,2,0,1,Import,807,North Macedonia,MKD,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,61168,,,0
+H3,2008,2008,2008,2,0,1,Import,807,North Macedonia,MKD,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3051516,,,0
+H3,2008,2008,2008,2,0,2,Export,807,North Macedonia,MKD,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,211008,,,0
+H3,2008,2008,2008,2,0,1,Import,807,North Macedonia,MKD,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,875873,,,0
+H3,2008,2008,2008,2,0,2,Export,818,Egypt,EGY,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,658983,,,0
+H3,2008,2008,2008,2,0,2,Export,818,Egypt,EGY,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,86184814,,,0
+H3,2008,2008,2008,2,0,2,Export,818,Egypt,EGY,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,386374,,,0
+H3,2008,2008,2008,2,0,1,Import,818,Egypt,EGY,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,75799,,,0
+H3,2008,2008,2008,2,0,2,Export,818,Egypt,EGY,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2858288,,,0
+H3,2008,2008,2008,2,0,1,Import,818,Egypt,EGY,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,807136,,,0
+H3,2008,2008,2008,2,0,2,Export,818,Egypt,EGY,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,279463,,,0
+H3,2008,2008,2008,2,0,2,Export,818,Egypt,EGY,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,50334,,,0
+H3,2008,2008,2008,2,0,1,Import,818,Egypt,EGY,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2615,,,0
+H3,2008,2008,2008,2,0,2,Export,818,Egypt,EGY,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,209194,,,0
+H3,2008,2008,2008,2,0,1,Import,818,Egypt,EGY,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3012099,,,0
+H3,2008,2008,2008,2,0,1,Import,826,United Kingdom,GBR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,48216,,,0
+H3,2008,2008,2008,2,0,2,Export,826,United Kingdom,GBR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,145482955,,,0
+H3,2008,2008,2008,2,0,1,Import,826,United Kingdom,GBR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2270346,,,0
+H3,2008,2008,2008,2,0,2,Export,826,United Kingdom,GBR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,21541787,,,0
+H3,2008,2008,2008,2,0,1,Import,826,United Kingdom,GBR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2198,,,0
+H3,2008,2008,2008,2,0,2,Export,826,United Kingdom,GBR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,351018,,,0
+H3,2008,2008,2008,2,0,1,Import,826,United Kingdom,GBR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,127981,,,0
+H3,2008,2008,2008,2,0,2,Export,826,United Kingdom,GBR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3179191,,,0
+H3,2008,2008,2008,2,0,1,Import,826,United Kingdom,GBR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,153797674,,,0
+H3,2008,2008,2008,2,0,2,Export,826,United Kingdom,GBR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20340846,,,0
+H3,2008,2008,2008,2,0,1,Import,826,United Kingdom,GBR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1065657,,,0
+H3,2008,2008,2008,2,0,2,Export,826,United Kingdom,GBR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14810613,,,0
+H3,2008,2008,2008,2,0,1,Import,826,United Kingdom,GBR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,105072350,,,0
+H3,2008,2008,2008,2,0,2,Export,826,United Kingdom,GBR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,132538642,,,0
+H3,2008,2008,2008,2,0,1,Import,826,United Kingdom,GBR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,146440,,,0
+H3,2008,2008,2008,2,0,2,Export,826,United Kingdom,GBR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,148564,,,0
+H3,2008,2008,2008,2,0,1,Import,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3052,,,0
+H3,2008,2008,2008,2,0,2,Export,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3223949,,,0
+H3,2008,2008,2008,2,0,1,Import,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7145,,,0
+H3,2008,2008,2008,2,0,2,Export,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11726053,,,0
+H3,2008,2008,2008,2,0,1,Import,834,United Rep. of Tanzania,TZA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,539,,,0
+H3,2008,2008,2008,2,0,1,Import,834,United Rep. of Tanzania,TZA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8464,,,0
+H3,2008,2008,2008,2,0,1,Import,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,392368,,,0
+H3,2008,2008,2008,2,0,2,Export,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1301126,,,0
+H3,2008,2008,2008,2,0,1,Import,834,United Rep. of Tanzania,TZA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1223,,,0
+H3,2008,2008,2008,2,0,1,Import,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,115502947,,,0
+H3,2008,2008,2008,2,0,2,Export,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,158578,,,0
+H3,2008,2008,2008,2,0,1,Import,842,USA,USA,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,37307,,,0
+H3,2008,2008,2008,2,0,2,Export,842,USA,USA,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,172456,,,0
+H3,2008,2008,2008,2,0,1,Import,842,USA,USA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,112338,,,0
+H3,2008,2008,2008,2,0,2,Export,842,USA,USA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,943837,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,842,USA,USA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,40634,,,0
+H3,2008,2008,2008,2,0,1,Import,842,USA,USA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,162056168,,,0
+H3,2008,2008,2008,2,0,2,Export,842,USA,USA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6354162,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,842,USA,USA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,129233,,,0
+H3,2008,2008,2008,2,0,2,Export,842,USA,USA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30729279,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,842,USA,USA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,697613,,,0
+H3,2008,2008,2008,2,0,2,Export,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,674476,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,296000,,,0
+H3,2008,2008,2008,2,0,1,Import,842,USA,USA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3655,,,0
+H3,2008,2008,2008,2,0,2,Export,842,USA,USA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1970886,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,842,USA,USA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6495,,,0
+H3,2008,2008,2008,2,0,1,Import,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5592,,,0
+H3,2008,2008,2008,2,0,2,Export,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2162233,,,0
+H3,2008,2008,2008,2,0,2,Export,842,USA,USA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1775348,,,0
+H3,2008,2008,2008,2,0,3,Re-Export,842,USA,USA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6864,,,0
+H3,2008,2008,2008,2,0,1,Import,842,USA,USA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37593828,,,0
+H2,2008,2008,2008,2,0,1,Import,854,Burkina Faso,BFA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2669015,,,0
+H2,2008,2008,2008,2,0,1,Import,854,Burkina Faso,BFA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3997,,,0
+H3,2008,2008,2008,2,0,1,Import,858,Uruguay,URY,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17101,,,0
+H3,2008,2008,2008,2,0,1,Import,858,Uruguay,URY,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,456587,,,0
+H2,2008,2008,2008,2,0,1,Import,862,Venezuela,VEN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2740117,,,0
+H2,2008,2008,2008,2,0,1,Import,862,Venezuela,VEN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,494810,,,0
+H2,2008,2008,2008,2,0,1,Import,862,Venezuela,VEN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,192663,,,0
+H2,2008,2008,2008,2,0,1,Import,887,Yemen,YEM,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,700,,,0
+H2,2008,2008,2008,2,0,1,Import,887,Yemen,YEM,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,121,,,0
+H2,2008,2008,2008,2,0,1,Import,887,Yemen,YEM,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,658,,,0
+H3,2008,2008,2008,2,0,1,Import,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,758134,,,0
+H3,2008,2008,2008,2,0,2,Export,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,26997335,,,4
+H3,2008,2008,2008,2,0,1,Import,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,101444,,,0
+H3,2008,2008,2008,2,0,2,Export,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9562171,,,4
+H3,2008,2008,2008,2,0,1,Import,894,Zambia,ZMB,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8088,,,0
+H3,2008,2008,2008,2,0,1,Import,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,10044,,,0
+H3,2008,2008,2008,2,0,2,Export,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4143802,,,4
+H3,2008,2008,2008,2,0,1,Import,894,Zambia,ZMB,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,17,,,0

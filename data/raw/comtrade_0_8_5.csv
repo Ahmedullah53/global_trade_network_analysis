@@ -1,0 +1,559 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2005,2005,2005,2,0,1,Import,8,Albania,ALB,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4232,,,0
+H2,2005,2005,2005,2,0,2,Export,36,Australia,AUS,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,7737952,,,0
+H2,2005,2005,2005,2,0,2,Export,40,Austria,AUT,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1412,,,0
+H2,2005,2005,2005,2,0,1,Import,40,Austria,AUT,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,128546,,,0
+H2,2005,2005,2005,2,0,1,Import,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,8635405,,,0
+H2,2005,2005,2005,2,0,2,Export,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1389772,,,0
+H2,2005,2005,2005,2,0,2,Export,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5553786,,,0
+H2,2005,2005,2005,2,0,2,Export,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,361482,,,0
+H2,2005,2005,2005,2,0,2,Export,76,Brazil,BRA,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,324,,,0
+H2,2005,2005,2005,2,0,1,Import,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,17,,,0
+H2,2005,2005,2005,2,0,2,Export,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,71374,,,0
+H2,2005,2005,2005,2,0,2,Export,124,Canada,CAN,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,501392,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,124,Canada,CAN,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,553,,,0
+H2,2005,2005,2005,2,0,2,Export,156,China,CHN,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,117690,,,0
+H2,2005,2005,2005,2,0,2,Export,156,China,CHN,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,79468,,,0
+H2,2005,2005,2005,2,0,2,Export,188,Costa Rica,CRI,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1151,,,0
+H2,2005,2005,2005,2,0,1,Import,251,France,FRA,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1244,,,0
+H2,2005,2005,2005,2,0,1,Import,251,France,FRA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,120302532,,,0
+H2,2005,2005,2005,2,0,2,Export,251,France,FRA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5045402,,,0
+H2,2005,2005,2005,2,0,2,Export,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1620003,,,0
+H2,2005,2005,2005,2,0,1,Import,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,17420,,,0
+H2,2005,2005,2005,2,0,2,Export,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1191984,,,0
+H2,2005,2005,2005,2,0,1,Import,266,Gabon,GAB,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5596919,,,0
+H2,2005,2005,2005,2,0,2,Export,266,Gabon,GAB,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,161269,,,0
+H2,2005,2005,2005,2,0,2,Export,266,Gabon,GAB,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3911344,,,0
+H2,2005,2005,2005,2,0,2,Export,276,Germany,DEU,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,24000,,,0
+H2,2005,2005,2005,2,0,1,Import,276,Germany,DEU,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,7010000,,,0
+H2,2005,2005,2005,2,0,2,Export,276,Germany,DEU,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,295000,,,0
+H2,2005,2005,2005,2,0,2,Export,276,Germany,DEU,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2000,,,0
+H2,2005,2005,2005,2,0,2,Export,276,Germany,DEU,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,18000,,,0
+H2,2005,2005,2005,2,0,2,Export,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10233,,,0
+H2,2005,2005,2005,2,0,1,Import,324,Guinea,GIN,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2199747,,,0
+H2,2005,2005,2005,2,0,1,Import,324,Guinea,GIN,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,892510,,,0
+H2,2005,2005,2005,2,0,2,Export,328,Guyana,GUY,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,113,,,0
+H2,2005,2005,2005,2,0,2,Export,364,Iran,IRN,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,111279,,,0
+H2,2005,2005,2005,2,0,2,Export,381,Italy,ITA,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1413,,,0
+H2,2005,2005,2005,2,0,1,Import,381,Italy,ITA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,360868132,,,0
+H2,2005,2005,2005,2,0,2,Export,381,Italy,ITA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,364656,,,0
+H2,2005,2005,2005,2,0,2,Export,381,Italy,ITA,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,14157545,,,0
+H2,2005,2005,2005,2,0,2,Export,381,Italy,ITA,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,178344,,,0
+H2,2005,2005,2005,2,0,1,Import,384,Côte d'Ivoire,CIV,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,24220366,,,0
+H2,2005,2005,2005,2,0,2,Export,384,Côte d'Ivoire,CIV,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,21647251,,,0
+H2,2005,2005,2005,2,0,2,Export,384,Côte d'Ivoire,CIV,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,9750111,,,0
+H2,2005,2005,2005,2,0,2,Export,384,Côte d'Ivoire,CIV,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,70786616,,,0
+H2,2005,2005,2005,2,0,2,Export,404,Kenya,KEN,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,23326778,,,0
+H2,2005,2005,2005,2,0,2,Export,404,Kenya,KEN,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,9264,,,0
+H2,2005,2005,2005,2,0,1,Import,410,Rep. of Korea,KOR,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,320735299,,,0
+H2,2005,2005,2005,2,0,2,Export,440,Lithuania,LTU,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,174225,,,0
+H2,2005,2005,2005,2,0,2,Export,440,Lithuania,LTU,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,50000,,,0
+H2,2005,2005,2005,2,0,1,Import,458,Malaysia,MYS,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,20394600,,,0
+H2,2005,2005,2005,2,0,1,Import,466,Mali,MLI,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,392848,,,0
+H2,2005,2005,2005,2,0,1,Import,490,"Other Asia, nes",,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,48241927,,,0
+H2,2005,2005,2005,2,0,2,Export,490,"Other Asia, nes",,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5282,,,0
+H2,2005,2005,2005,2,0,2,Export,504,Morocco,MAR,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,590187,,,0
+H2,2005,2005,2005,2,0,2,Export,516,Namibia,NAM,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4397,,,0
+H2,2005,2005,2005,2,0,1,Import,528,Netherlands,NLD,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,68216466,,,0
+H2,2005,2005,2005,2,0,2,Export,528,Netherlands,NLD,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1292171,,,0
+H2,2005,2005,2005,2,0,2,Export,528,Netherlands,NLD,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,9854822,,,0
+H2,2005,2005,2005,2,0,2,Export,528,Netherlands,NLD,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,281069,,,0
+H2,2005,2005,2005,2,0,1,Import,562,Niger,NER,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,15954732,,,0
+H2,2005,2005,2005,2,0,2,Export,562,Niger,NER,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3289065,,,0
+H2,2005,2005,2005,2,0,1,Import,562,Niger,NER,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,630,,,0
+H2,2005,2005,2005,2,0,2,Export,562,Niger,NER,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,665,,,0
+H2,2005,2005,2005,2,0,2,Export,616,Poland,POL,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1807923,,,0
+H2,2005,2005,2005,2,0,2,Export,616,Poland,POL,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,119356,,,0
+H2,2005,2005,2005,2,0,1,Import,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,142,,,0
+H2,2005,2005,2005,2,0,2,Export,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1559048,,,0
+H2,2005,2005,2005,2,0,2,Export,642,Romania,ROU,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,7307,,,0
+H2,2005,2005,2005,2,0,1,Import,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3965,,,0
+H2,2005,2005,2005,2,0,2,Export,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,191625,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,191625,,,0
+H2,2005,2005,2005,2,0,1,Import,686,Senegal,SEN,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,15254390,,,0
+H2,2005,2005,2005,2,0,2,Export,686,Senegal,SEN,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1083845,,,0
+H2,2005,2005,2005,2,0,2,Export,686,Senegal,SEN,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2069720,,,0
+H2,2005,2005,2005,2,0,2,Export,686,Senegal,SEN,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1281661,,,0
+H2,2005,2005,2005,2,0,2,Export,699,India,IND,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,78955,,,0
+H2,2005,2005,2005,2,0,2,Export,710,South Africa,ZAF,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,753497,,,0
+H2,2005,2005,2005,2,0,2,Export,710,South Africa,ZAF,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2825743,,,0
+H2,2005,2005,2005,2,0,2,Export,710,South Africa,ZAF,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,205612,,,0
+H2,2005,2005,2005,2,0,2,Export,710,South Africa,ZAF,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,419836,,,0
+H2,2005,2005,2005,2,0,1,Import,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,554849289,,,0
+H2,2005,2005,2005,2,0,2,Export,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,339104,,,0
+H2,2005,2005,2005,2,0,2,Export,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,1898207,,,0
+H2,2005,2005,2005,2,0,2,Export,757,Switzerland,CHE,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,18923,,,0
+H2,2005,2005,2005,2,0,2,Export,757,Switzerland,CHE,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,11925,,,0
+H2,2005,2005,2005,2,0,2,Export,764,Thailand,THA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,124,,,0
+H2,2005,2005,2005,2,0,1,Import,768,Togo,TGO,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10351398,,,0
+H2,2005,2005,2005,2,0,2,Export,768,Togo,TGO,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3619,,,0
+H2,2005,2005,2005,2,0,2,Export,784,United Arab Emirates,ARE,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,6007,,,0
+H2,2005,2005,2005,2,0,2,Export,784,United Arab Emirates,ARE,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5235969,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,784,United Arab Emirates,ARE,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,501140,,,0
+H2,2005,2005,2005,2,0,2,Export,784,United Arab Emirates,ARE,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,260701,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,784,United Arab Emirates,ARE,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,13088,,,0
+H2,2005,2005,2005,2,0,2,Export,788,Tunisia,TUN,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1620,,,0
+H2,2005,2005,2005,2,0,2,Export,788,Tunisia,TUN,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,20935,,,0
+H2,2005,2005,2005,2,0,2,Export,792,Turkey,TUR,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,263830,,,0
+H2,2005,2005,2005,2,0,2,Export,792,Turkey,TUR,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,23191,,,0
+H2,2005,2005,2005,2,0,2,Export,800,Uganda,UGA,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,594,,,0
+H2,2005,2005,2005,2,0,2,Export,826,United Kingdom,GBR,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5247407,,,0
+H2,2005,2005,2005,2,0,2,Export,826,United Kingdom,GBR,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3636683,,,0
+H2,2005,2005,2005,2,0,2,Export,834,United Rep. of Tanzania,TZA,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3362970,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,834,United Rep. of Tanzania,TZA,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3283319,,,0
+H2,2005,2005,2005,2,0,2,Export,834,United Rep. of Tanzania,TZA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,225836,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,834,United Rep. of Tanzania,TZA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,225836,,,0
+H2,2005,2005,2005,2,0,1,Import,842,USA,USA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,115397785,,,0
+H2,2005,2005,2005,2,0,2,Export,842,USA,USA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,6582438,,,0
+H2,2005,2005,2005,2,0,1,Import,854,Burkina Faso,BFA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5162,,,0
+H2,2005,2005,2005,2,0,1,Import,858,Uruguay,URY,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,14900048,,,0
+H2,2005,2005,2005,2,0,2,Export,12,Algeria,DZA,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,131735,,,0
+H2,2005,2005,2005,2,0,2,Export,32,Argentina,ARG,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3366,,,0
+H2,2005,2005,2005,2,0,1,Import,36,Australia,AUS,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,38281,,,0
+H2,2005,2005,2005,2,0,2,Export,36,Australia,AUS,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10709,,,0
+H2,2005,2005,2005,2,0,1,Import,40,Austria,AUT,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,196,,,0
+H2,2005,2005,2005,2,0,2,Export,40,Austria,AUT,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,54493,,,0
+H2,2005,2005,2005,2,0,1,Import,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,211,,,0
+H2,2005,2005,2005,2,0,2,Export,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1493,,,0
+H2,2005,2005,2005,2,0,1,Import,40,Austria,AUT,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,259,,,0
+H2,2005,2005,2005,2,0,2,Export,40,Austria,AUT,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2629,,,0
+H2,2005,2005,2005,2,0,2,Export,40,Austria,AUT,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7362,,,0
+H2,2005,2005,2005,2,0,2,Export,48,Bahrain,BHR,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31162,,,0
+H2,2005,2005,2005,2,0,1,Import,50,Bangladesh,BGD,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2098,,,0
+H2,2005,2005,2005,2,0,2,Export,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,738410,,,0
+H2,2005,2005,2005,2,0,2,Export,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5912023,,,0
+H2,2005,2005,2005,2,0,2,Export,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,427328,,,0
+H2,2005,2005,2005,2,0,2,Export,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,900277,,,0
+H2,2005,2005,2005,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6,,,0
+H2,2005,2005,2005,2,0,2,Export,76,Brazil,BRA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,891,,,0
+H2,2005,2005,2005,2,0,2,Export,76,Brazil,BRA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,396777,,,0
+H2,2005,2005,2005,2,0,1,Import,76,Brazil,BRA,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,229,,,0
+H2,2005,2005,2005,2,0,2,Export,76,Brazil,BRA,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,132560,,,0
+H2,2005,2005,2005,2,0,2,Export,76,Brazil,BRA,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5335,,,0
+H2,2005,2005,2005,2,0,2,Export,100,Bulgaria,BGR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,45520,,,0
+H2,2005,2005,2005,2,0,1,Import,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,827,,,0
+H2,2005,2005,2005,2,0,2,Export,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,35734,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,918,,,0
+H2,2005,2005,2005,2,0,1,Import,124,Canada,CAN,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2047,,,0
+H2,2005,2005,2005,2,0,2,Export,124,Canada,CAN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,64134,,,0
+H2,2005,2005,2005,2,0,1,Import,144,Sri Lanka,LKA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,36,,,0
+H2,2005,2005,2005,2,0,2,Export,152,Chile,CHL,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1053740,,,0
+H2,2005,2005,2005,2,0,2,Export,156,China,CHN,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,597183,,,0
+H2,2005,2005,2005,2,0,1,Import,156,China,CHN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,881,,,0
+H2,2005,2005,2005,2,0,2,Export,156,China,CHN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5360235,,,0
+H2,2005,2005,2005,2,0,2,Export,156,China,CHN,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,813200,,,0
+H2,2005,2005,2005,2,0,2,Export,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,300768,,,0
+H2,2005,2005,2005,2,0,2,Export,170,Colombia,COL,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,75,,,0
+H2,2005,2005,2005,2,0,2,Export,188,Costa Rica,CRI,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1030258,,,0
+H2,2005,2005,2005,2,0,2,Export,203,Czechia,CZE,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5244,,,0
+H2,2005,2005,2005,2,0,1,Import,203,Czechia,CZE,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,594,,,0
+H2,2005,2005,2005,2,0,2,Export,203,Czechia,CZE,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,128,,,0
+H2,2005,2005,2005,2,0,1,Import,208,Denmark,DNK,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2071,,,0
+H2,2005,2005,2005,2,0,2,Export,208,Denmark,DNK,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,389001,,,0
+H2,2005,2005,2005,2,0,1,Import,208,Denmark,DNK,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,92933,,,0
+H2,2005,2005,2005,2,0,2,Export,208,Denmark,DNK,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,48299,,,0
+H2,2005,2005,2005,2,0,2,Export,208,Denmark,DNK,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1975,,,0
+H2,2005,2005,2005,2,0,1,Import,218,Ecuador,ECU,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,58,,,0
+H2,2005,2005,2005,2,0,1,Import,231,Ethiopia,ETH,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,284,,,0
+H2,2005,2005,2005,2,0,1,Import,233,Estonia,EST,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,124,,,0
+H2,2005,2005,2005,2,0,2,Export,246,Finland,FIN,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9635,,,0
+H2,2005,2005,2005,2,0,1,Import,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32,,,0
+H2,2005,2005,2005,2,0,2,Export,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23382,,,0
+H2,2005,2005,2005,2,0,1,Import,251,France,FRA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11198,,,0
+H2,2005,2005,2005,2,0,2,Export,251,France,FRA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,82120,,,0
+H2,2005,2005,2005,2,0,1,Import,251,France,FRA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9954,,,0
+H2,2005,2005,2005,2,0,2,Export,251,France,FRA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14867451,,,0
+H2,2005,2005,2005,2,0,2,Export,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,373273,,,0
+H2,2005,2005,2005,2,0,1,Import,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,41061,,,0
+H2,2005,2005,2005,2,0,2,Export,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4130884,,,0
+H2,2005,2005,2005,2,0,1,Import,266,Gabon,GAB,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,695238,,,0
+H2,2005,2005,2005,2,0,2,Export,266,Gabon,GAB,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,46551,,,0
+H2,2005,2005,2005,2,0,1,Import,276,Germany,DEU,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1000,,,0
+H2,2005,2005,2005,2,0,2,Export,276,Germany,DEU,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,247000,,,0
+H2,2005,2005,2005,2,0,1,Import,276,Germany,DEU,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,359000,,,0
+H2,2005,2005,2005,2,0,2,Export,276,Germany,DEU,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1876000,,,0
+H2,2005,2005,2005,2,0,2,Export,276,Germany,DEU,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,90000,,,0
+H2,2005,2005,2005,2,0,1,Import,276,Germany,DEU,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2000,,,0
+H2,2005,2005,2005,2,0,2,Export,276,Germany,DEU,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1886000,,,0
+H2,2005,2005,2005,2,0,1,Import,288,Ghana,GHA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6301,,,0
+H2,2005,2005,2005,2,0,2,Export,288,Ghana,GHA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6584,,,0
+H2,2005,2005,2005,2,0,1,Import,288,Ghana,GHA,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,610,,,0
+H2,2005,2005,2005,2,0,1,Import,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,54968,,,0
+H2,2005,2005,2005,2,0,2,Export,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,245073,,,0
+H2,2005,2005,2005,2,0,2,Export,300,Greece,GRC,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5397,,,0
+H2,2005,2005,2005,2,0,2,Export,320,Guatemala,GTM,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25263,,,0
+H2,2005,2005,2005,2,0,1,Import,320,Guatemala,GTM,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1674,,,0
+H2,2005,2005,2005,2,0,2,Export,344,"China, Hong Kong SAR",HKG,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,154,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,154,,,0
+H2,2005,2005,2005,2,0,2,Export,344,"China, Hong Kong SAR",HKG,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,998028,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,998028,,,0
+H2,2005,2005,2005,2,0,2,Export,344,"China, Hong Kong SAR",HKG,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25832,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25832,,,0
+H2,2005,2005,2005,2,0,2,Export,344,"China, Hong Kong SAR",HKG,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37433,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37433,,,0
+H2,2005,2005,2005,2,0,2,Export,348,Hungary,HUN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,83000,,,0
+H2,2005,2005,2005,2,0,1,Import,352,Iceland,ISL,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,280,,,0
+H2,2005,2005,2005,2,0,2,Export,364,Iran,IRN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,144144,,,0
+H2,2005,2005,2005,2,0,1,Import,372,Ireland,IRL,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4547,,,0
+H2,2005,2005,2005,2,0,2,Export,372,Ireland,IRL,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7105,,,0
+H2,2005,2005,2005,2,0,1,Import,372,Ireland,IRL,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3098,,,0
+H2,2005,2005,2005,2,0,2,Export,372,Ireland,IRL,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6221,,,0
+H2,2005,2005,2005,2,0,2,Export,376,Israel,ISR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,68000,,,0
+H2,2005,2005,2005,2,0,2,Export,381,Italy,ITA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,569313,,,0
+H2,2005,2005,2005,2,0,2,Export,381,Italy,ITA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5786711,,,0
+H2,2005,2005,2005,2,0,2,Export,381,Italy,ITA,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1024308,,,0
+H2,2005,2005,2005,2,0,2,Export,381,Italy,ITA,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,623887,,,0
+H2,2005,2005,2005,2,0,1,Import,384,Côte d'Ivoire,CIV,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,111527,,,0
+H2,2005,2005,2005,2,0,2,Export,384,Côte d'Ivoire,CIV,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1489992,,,0
+H2,2005,2005,2005,2,0,2,Export,384,Côte d'Ivoire,CIV,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10550923,,,0
+H2,2005,2005,2005,2,0,2,Export,392,Japan,JPN,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5065,,,0
+H2,2005,2005,2005,2,0,1,Import,392,Japan,JPN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6785,,,0
+H2,2005,2005,2005,2,0,2,Export,392,Japan,JPN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5093,,,0
+H2,2005,2005,2005,2,0,2,Export,392,Japan,JPN,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39879,,,0
+H2,2005,2005,2005,2,0,2,Export,392,Japan,JPN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,268426,,,0
+H2,2005,2005,2005,2,0,2,Export,404,Kenya,KEN,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1905401,,,0
+H2,2005,2005,2005,2,0,2,Export,404,Kenya,KEN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,100,,,0
+H2,2005,2005,2005,2,0,1,Import,410,Rep. of Korea,KOR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,205818,,,0
+H2,2005,2005,2005,2,0,2,Export,410,Rep. of Korea,KOR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3168080,,,0
+H2,2005,2005,2005,2,0,2,Export,410,Rep. of Korea,KOR,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,93017,,,0
+H2,2005,2005,2005,2,0,2,Export,422,Lebanon,LBN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,331000,,,0
+H2,2005,2005,2005,2,0,2,Export,422,Lebanon,LBN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,528000,,,0
+H2,2005,2005,2005,2,0,2,Export,442,Luxembourg,LUX,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1919,,,0
+H2,2005,2005,2005,2,0,2,Export,442,Luxembourg,LUX,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3307,,,0
+H2,2005,2005,2005,2,0,2,Export,442,Luxembourg,LUX,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2971,,,0
+H2,2005,2005,2005,2,0,2,Export,442,Luxembourg,LUX,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26147,,,0
+H2,2005,2005,2005,2,0,1,Import,450,Madagascar,MDG,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,100,,,0
+H2,2005,2005,2005,2,0,2,Export,454,Malawi,MWI,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,151,,,0
+H2,2005,2005,2005,2,0,2,Export,458,Malaysia,MYS,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,134875,,,0
+H2,2005,2005,2005,2,0,1,Import,466,Mali,MLI,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12327,,,0
+H2,2005,2005,2005,2,0,1,Import,466,Mali,MLI,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,74507,,,0
+H2,2005,2005,2005,2,0,2,Export,466,Mali,MLI,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43309,,,0
+H2,2005,2005,2005,2,0,2,Export,470,Malta,MLT,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2524,,,0
+H2,2005,2005,2005,2,0,2,Export,470,Malta,MLT,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,625,,,0
+H2,2005,2005,2005,2,0,2,Export,470,Malta,MLT,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37,,,0
+H2,2005,2005,2005,2,0,1,Import,480,Mauritius,MUS,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,52,,,0
+H2,2005,2005,2005,2,0,1,Import,484,Mexico,MEX,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2210,,,0
+H2,2005,2005,2005,2,0,2,Export,484,Mexico,MEX,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,305703,,,0
+H2,2005,2005,2005,2,0,1,Import,484,Mexico,MEX,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3,,,0
+H2,2005,2005,2005,2,0,1,Import,490,"Other Asia, nes",,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1823,,,0
+H2,2005,2005,2005,2,0,2,Export,490,"Other Asia, nes",,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,469236,,,0
+H2,2005,2005,2005,2,0,2,Export,490,"Other Asia, nes",,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2097,,,0
+H2,2005,2005,2005,2,0,2,Export,504,Morocco,MAR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,340574,,,0
+H2,2005,2005,2005,2,0,2,Export,504,Morocco,MAR,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,152556,,,0
+H2,2005,2005,2005,2,0,1,Import,508,Mozambique,MOZ,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13753,,,0
+H2,2005,2005,2005,2,0,1,Import,508,Mozambique,MOZ,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,273,,,0
+H2,2005,2005,2005,2,0,2,Export,528,Netherlands,NLD,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,103224,,,0
+H2,2005,2005,2005,2,0,2,Export,528,Netherlands,NLD,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2590560,,,0
+H2,2005,2005,2005,2,0,2,Export,528,Netherlands,NLD,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,451451,,,0
+H2,2005,2005,2005,2,0,2,Export,528,Netherlands,NLD,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,548457,,,0
+H2,2005,2005,2005,2,0,1,Import,530,Neth. Antilles,ANT,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6282,,,0
+H2,2005,2005,2005,2,0,1,Import,554,New Zealand,NZL,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,536,,,0
+H2,2005,2005,2005,2,0,1,Import,562,Niger,NER,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,85548,,,0
+H2,2005,2005,2005,2,0,2,Export,562,Niger,NER,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,941,,,0
+H2,2005,2005,2005,2,0,2,Export,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5255,,,0
+H2,2005,2005,2005,2,0,1,Import,604,Peru,PER,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1,,,0
+H2,2005,2005,2005,2,0,1,Import,616,Poland,POL,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1914,,,0
+H2,2005,2005,2005,2,0,2,Export,616,Poland,POL,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,196994,,,0
+H2,2005,2005,2005,2,0,2,Export,616,Poland,POL,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4282,,,0
+H2,2005,2005,2005,2,0,2,Export,620,Portugal,PRT,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27034,,,0
+H2,2005,2005,2005,2,0,2,Export,620,Portugal,PRT,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,134208,,,0
+H2,2005,2005,2005,2,0,1,Import,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13085,,,0
+H2,2005,2005,2005,2,0,2,Export,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7984739,,,0
+H2,2005,2005,2005,2,0,2,Export,634,Qatar,QAT,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,35108,,,0
+H2,2005,2005,2005,2,0,2,Export,634,Qatar,QAT,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,625309,,,0
+H2,2005,2005,2005,2,0,2,Export,634,Qatar,QAT,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,169635,,,0
+H2,2005,2005,2005,2,0,1,Import,642,Romania,ROU,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5,,,0
+H2,2005,2005,2005,2,0,2,Export,642,Romania,ROU,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,458327,,,0
+H2,2005,2005,2005,2,0,1,Import,643,Russian Federation,RUS,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,173,,,0
+H2,2005,2005,2005,2,0,2,Export,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1925,,,0
+H2,2005,2005,2005,2,0,2,Export,646,Rwanda,RWA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24,,,0
+H2,2005,2005,2005,2,0,2,Export,682,Saudi Arabia,SAU,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2430758,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,682,Saudi Arabia,SAU,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,69397,,,0
+H2,2005,2005,2005,2,0,1,Import,686,Senegal,SEN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,178527,,,0
+H2,2005,2005,2005,2,0,2,Export,686,Senegal,SEN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,963485,,,0
+H2,2005,2005,2005,2,0,2,Export,686,Senegal,SEN,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,167426,,,0
+H2,2005,2005,2005,2,0,2,Export,686,Senegal,SEN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,888961,,,0
+H2,2005,2005,2005,2,0,2,Export,699,India,IND,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,67009,,,0
+H2,2005,2005,2005,2,0,1,Import,699,India,IND,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,390,,,0
+H2,2005,2005,2005,2,0,2,Export,699,India,IND,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1267585,,,0
+H2,2005,2005,2005,2,0,2,Export,699,India,IND,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,46103,,,0
+H2,2005,2005,2005,2,0,2,Export,702,Singapore,SGP,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,658997,,,0
+H2,2005,2005,2005,2,0,1,Import,703,Slovakia,SVK,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1749,,,0
+H2,2005,2005,2005,2,0,1,Import,704,Viet Nam,VNM,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27685,,,0
+H2,2005,2005,2005,2,0,2,Export,704,Viet Nam,VNM,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19924,,,0
+H2,2005,2005,2005,2,0,2,Export,710,South Africa,ZAF,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,97679,,,0
+H2,2005,2005,2005,2,0,1,Import,710,South Africa,ZAF,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1597,,,0
+H2,2005,2005,2005,2,0,2,Export,710,South Africa,ZAF,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4459366,,,0
+H2,2005,2005,2005,2,0,2,Export,710,South Africa,ZAF,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24230,,,0
+H2,2005,2005,2005,2,0,2,Export,710,South Africa,ZAF,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1213354,,,0
+H2,2005,2005,2005,2,0,2,Export,724,Spain,ESP,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3995,,,0
+H2,2005,2005,2005,2,0,1,Import,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1907,,,0
+H2,2005,2005,2005,2,0,2,Export,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,951671,,,0
+H2,2005,2005,2005,2,0,1,Import,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4718,,,0
+H2,2005,2005,2005,2,0,2,Export,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,964675,,,0
+H2,2005,2005,2005,2,0,2,Export,724,Spain,ESP,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,942517,,,0
+H2,2005,2005,2005,2,0,2,Export,752,Sweden,SWE,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13263,,,0
+H2,2005,2005,2005,2,0,2,Export,752,Sweden,SWE,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3751,,,0
+H2,2005,2005,2005,2,0,1,Import,752,Sweden,SWE,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,804,,,0
+H2,2005,2005,2005,2,0,2,Export,752,Sweden,SWE,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3215,,,0
+H2,2005,2005,2005,2,0,1,Import,757,Switzerland,CHE,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3157,,,0
+H2,2005,2005,2005,2,0,2,Export,757,Switzerland,CHE,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6465,,,0
+H2,2005,2005,2005,2,0,2,Export,757,Switzerland,CHE,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,49319,,,0
+H2,2005,2005,2005,2,0,2,Export,757,Switzerland,CHE,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8569,,,0
+H2,2005,2005,2005,2,0,2,Export,757,Switzerland,CHE,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17780,,,0
+H2,2005,2005,2005,2,0,1,Import,764,Thailand,THA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21122,,,0
+H2,2005,2005,2005,2,0,2,Export,764,Thailand,THA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2739979,,,0
+H2,2005,2005,2005,2,0,1,Import,768,Togo,TGO,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7281,,,0
+H2,2005,2005,2005,2,0,2,Export,768,Togo,TGO,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6752912,,,0
+H2,2005,2005,2005,2,0,1,Import,784,United Arab Emirates,ARE,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3415,,,0
+H2,2005,2005,2005,2,0,2,Export,784,United Arab Emirates,ARE,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,108557,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,784,United Arab Emirates,ARE,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,50165,,,0
+H2,2005,2005,2005,2,0,1,Import,784,United Arab Emirates,ARE,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1262,,,0
+H2,2005,2005,2005,2,0,2,Export,784,United Arab Emirates,ARE,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1470533,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,784,United Arab Emirates,ARE,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1287629,,,0
+H2,2005,2005,2005,2,0,2,Export,784,United Arab Emirates,ARE,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,121281,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,784,United Arab Emirates,ARE,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,121281,,,0
+H2,2005,2005,2005,2,0,2,Export,788,Tunisia,TUN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,499544,,,0
+H2,2005,2005,2005,2,0,2,Export,788,Tunisia,TUN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,365368,,,0
+H2,2005,2005,2005,2,0,2,Export,792,Turkey,TUR,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,71982,,,0
+H2,2005,2005,2005,2,0,2,Export,792,Turkey,TUR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,253939,,,0
+H2,2005,2005,2005,2,0,2,Export,792,Turkey,TUR,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25295,,,0
+H2,2005,2005,2005,2,0,2,Export,800,Uganda,UGA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,202106,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,800,Uganda,UGA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,92723,,,0
+H2,2005,2005,2005,2,0,2,Export,826,United Kingdom,GBR,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,204914,,,0
+H2,2005,2005,2005,2,0,1,Import,826,United Kingdom,GBR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4208,,,0
+H2,2005,2005,2005,2,0,2,Export,826,United Kingdom,GBR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,922469,,,0
+H2,2005,2005,2005,2,0,2,Export,826,United Kingdom,GBR,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,255106,,,0
+H2,2005,2005,2005,2,0,2,Export,826,United Kingdom,GBR,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,81001,,,0
+H2,2005,2005,2005,2,0,2,Export,834,United Rep. of Tanzania,TZA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,646273,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,834,United Rep. of Tanzania,TZA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,87771,,,0
+H2,2005,2005,2005,2,0,2,Export,834,United Rep. of Tanzania,TZA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1058,,,0
+H2,2005,2005,2005,2,0,2,Export,842,USA,USA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21952,,,0
+H2,2005,2005,2005,2,0,1,Import,842,USA,USA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,110076,,,0
+H2,2005,2005,2005,2,0,2,Export,842,USA,USA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1538579,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,842,USA,USA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2567,,,0
+H2,2005,2005,2005,2,0,1,Import,842,USA,USA,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4450,,,0
+H2,2005,2005,2005,2,0,2,Export,842,USA,USA,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3000,,,0
+H2,2005,2005,2005,2,0,2,Export,842,USA,USA,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,80602,,,0
+H2,2005,2005,2005,2,0,1,Import,854,Burkina Faso,BFA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,94,,,0
+H2,2005,2005,2005,2,0,2,Export,858,Uruguay,URY,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4950,,,0
+H2,2005,2005,2005,2,0,2,Export,12,Algeria,DZA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,44204,,,0
+H2,2005,2005,2005,2,0,2,Export,32,Argentina,ARG,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18577,,,0
+H2,2005,2005,2005,2,0,2,Export,32,Argentina,ARG,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28845,,,0
+H2,2005,2005,2005,2,0,2,Export,36,Australia,AUS,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19801,,,0
+H2,2005,2005,2005,2,0,2,Export,36,Australia,AUS,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19072,,,0
+H2,2005,2005,2005,2,0,1,Import,40,Austria,AUT,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1392,,,0
+H2,2005,2005,2005,2,0,2,Export,40,Austria,AUT,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,41533,,,0
+H2,2005,2005,2005,2,0,1,Import,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,588652,,,0
+H2,2005,2005,2005,2,0,2,Export,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,222272,,,0
+H2,2005,2005,2005,2,0,2,Export,40,Austria,AUT,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1001,,,0
+H2,2005,2005,2005,2,0,2,Export,40,Austria,AUT,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,158608,,,0
+H2,2005,2005,2005,2,0,1,Import,50,Bangladesh,BGD,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1179,,,0
+H2,2005,2005,2005,2,0,2,Export,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,137711,,,0
+H2,2005,2005,2005,2,0,1,Import,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2769800,,,0
+H2,2005,2005,2005,2,0,2,Export,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1015477,,,0
+H2,2005,2005,2005,2,0,2,Export,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,175122,,,0
+H2,2005,2005,2005,2,0,2,Export,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,410903,,,0
+H2,2005,2005,2005,2,0,2,Export,76,Brazil,BRA,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,104624,,,0
+H2,2005,2005,2005,2,0,1,Import,76,Brazil,BRA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,160314,,,0
+H2,2005,2005,2005,2,0,2,Export,76,Brazil,BRA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,697081,,,0
+H2,2005,2005,2005,2,0,2,Export,76,Brazil,BRA,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14833,,,4
+H2,2005,2005,2005,2,0,2,Export,76,Brazil,BRA,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,178692,,,0
+H2,2005,2005,2005,2,0,2,Export,120,Cameroon,CMR,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6100,,,0
+H2,2005,2005,2005,2,0,1,Import,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,651,,,0
+H2,2005,2005,2005,2,0,2,Export,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20763,,,0
+H2,2005,2005,2005,2,0,2,Export,124,Canada,CAN,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4214,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,124,Canada,CAN,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2717,,,0
+H2,2005,2005,2005,2,0,2,Export,124,Canada,CAN,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,175414,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,124,Canada,CAN,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,144,,,0
+H2,2005,2005,2005,2,0,1,Import,144,Sri Lanka,LKA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4,,,0
+H2,2005,2005,2005,2,0,2,Export,144,Sri Lanka,LKA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32407,,,0
+H2,2005,2005,2005,2,0,2,Export,152,Chile,CHL,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27399,,,0
+H2,2005,2005,2005,2,0,2,Export,156,China,CHN,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,524431,,,0
+H2,2005,2005,2005,2,0,1,Import,156,China,CHN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,282744,,,0
+H2,2005,2005,2005,2,0,2,Export,156,China,CHN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5792471,,,0
+H2,2005,2005,2005,2,0,2,Export,156,China,CHN,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,74268,,,0
+H2,2005,2005,2005,2,0,2,Export,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,880975,,,0
+H2,2005,2005,2005,2,0,1,Import,175,Mayotte,MYT,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,102,,,0
+H2,2005,2005,2005,2,0,2,Export,203,Czechia,CZE,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25342,,,0
+H2,2005,2005,2005,2,0,1,Import,203,Czechia,CZE,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,461616,,,0
+H2,2005,2005,2005,2,0,2,Export,203,Czechia,CZE,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,66688,,,0
+H2,2005,2005,2005,2,0,2,Export,203,Czechia,CZE,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8541,,,0
+H2,2005,2005,2005,2,0,2,Export,203,Czechia,CZE,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,223,,,0
+H2,2005,2005,2005,2,0,2,Export,208,Denmark,DNK,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7241,,,0
+H2,2005,2005,2005,2,0,2,Export,208,Denmark,DNK,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,165,,,0
+H2,2005,2005,2005,2,0,2,Export,208,Denmark,DNK,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2037,,,0
+H2,2005,2005,2005,2,0,2,Export,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19763,,,0
+H2,2005,2005,2005,2,0,2,Export,246,Finland,FIN,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,311,,,0
+H2,2005,2005,2005,2,0,2,Export,251,France,FRA,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6221,,,0
+H2,2005,2005,2005,2,0,1,Import,251,France,FRA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19843665,,,0
+H2,2005,2005,2005,2,0,2,Export,251,France,FRA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5337799,,,0
+H2,2005,2005,2005,2,0,1,Import,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2489,,,0
+H2,2005,2005,2005,2,0,2,Export,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,99539,,,0
+H2,2005,2005,2005,2,0,1,Import,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3733,,,0
+H2,2005,2005,2005,2,0,2,Export,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,862260,,,0
+H2,2005,2005,2005,2,0,1,Import,266,Gabon,GAB,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,35407,,,0
+H2,2005,2005,2005,2,0,2,Export,266,Gabon,GAB,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1633,,,0
+H2,2005,2005,2005,2,0,1,Import,266,Gabon,GAB,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,277,,,0
+H2,2005,2005,2005,2,0,2,Export,266,Gabon,GAB,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2846,,,0
+H2,2005,2005,2005,2,0,2,Export,276,Germany,DEU,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,48000,,,0
+H2,2005,2005,2005,2,0,1,Import,276,Germany,DEU,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5595000,,,0
+H2,2005,2005,2005,2,0,2,Export,276,Germany,DEU,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,584000,,,0
+H2,2005,2005,2005,2,0,1,Import,276,Germany,DEU,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,40000,,,0
+H2,2005,2005,2005,2,0,2,Export,276,Germany,DEU,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,52000,,,0
+H2,2005,2005,2005,2,0,1,Import,276,Germany,DEU,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,151000,,,0
+H2,2005,2005,2005,2,0,2,Export,276,Germany,DEU,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,111000,,,0
+H2,2005,2005,2005,2,0,2,Export,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,95097,,,0
+H2,2005,2005,2005,2,0,1,Import,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,288004,,,0
+H2,2005,2005,2005,2,0,2,Export,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,131765,,,0
+H2,2005,2005,2005,2,0,1,Import,340,Honduras,HND,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,190,,,0
+H2,2005,2005,2005,2,0,2,Export,344,"China, Hong Kong SAR",HKG,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,33534,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,33534,,,0
+H2,2005,2005,2005,2,0,2,Export,344,"China, Hong Kong SAR",HKG,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,68629,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,68629,,,0
+H2,2005,2005,2005,2,0,1,Import,348,Hungary,HUN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,253000,,,0
+H2,2005,2005,2005,2,0,2,Export,348,Hungary,HUN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,925000,,,0
+H2,2005,2005,2005,2,0,2,Export,381,Italy,ITA,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,78879,,,0
+H2,2005,2005,2005,2,0,1,Import,381,Italy,ITA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10323005,,,0
+H2,2005,2005,2005,2,0,2,Export,381,Italy,ITA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,780862,,,0
+H2,2005,2005,2005,2,0,2,Export,381,Italy,ITA,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,881820,,,0
+H2,2005,2005,2005,2,0,2,Export,381,Italy,ITA,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,153245,,,0
+H2,2005,2005,2005,2,0,2,Export,384,Côte d'Ivoire,CIV,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29148,,,0
+H2,2005,2005,2005,2,0,2,Export,384,Côte d'Ivoire,CIV,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,927629,,,0
+H2,2005,2005,2005,2,0,2,Export,392,Japan,JPN,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19953,,,0
+H2,2005,2005,2005,2,0,1,Import,392,Japan,JPN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4103,,,0
+H2,2005,2005,2005,2,0,2,Export,392,Japan,JPN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4031548,,,0
+H2,2005,2005,2005,2,0,2,Export,392,Japan,JPN,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,777070,,,0
+H2,2005,2005,2005,2,0,2,Export,404,Kenya,KEN,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,212792,,,0
+H2,2005,2005,2005,2,0,1,Import,404,Kenya,KEN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,113276,,,0
+H2,2005,2005,2005,2,0,2,Export,410,Rep. of Korea,KOR,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,207067,,,0
+H2,2005,2005,2005,2,0,1,Import,410,Rep. of Korea,KOR,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23404,,,0
+H2,2005,2005,2005,2,0,2,Export,410,Rep. of Korea,KOR,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,771963,,,0
+H2,2005,2005,2005,2,0,2,Export,410,Rep. of Korea,KOR,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,94039,,,0
+H2,2005,2005,2005,2,0,2,Export,422,Lebanon,LBN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,50000,,,0
+H2,2005,2005,2005,2,0,2,Export,422,Lebanon,LBN,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3000,,,0
+H2,2005,2005,2005,2,0,2,Export,442,Luxembourg,LUX,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38629,,,0
+H2,2005,2005,2005,2,0,2,Export,458,Malaysia,MYS,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14904,,,0
+H2,2005,2005,2005,2,0,2,Export,458,Malaysia,MYS,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14683,,,0
+H2,2005,2005,2005,2,0,1,Import,466,Mali,MLI,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,142,,,0
+H2,2005,2005,2005,2,0,1,Import,466,Mali,MLI,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,250580,,,0
+H2,2005,2005,2005,2,0,1,Import,484,Mexico,MEX,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,120,,,0
+H2,2005,2005,2005,2,0,2,Export,484,Mexico,MEX,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,371,,,0
+H2,2005,2005,2005,2,0,1,Import,484,Mexico,MEX,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17,,,0
+H2,2005,2005,2005,2,0,1,Import,490,"Other Asia, nes",,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,61,,,0
+H2,2005,2005,2005,2,0,2,Export,490,"Other Asia, nes",,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,302761,,,0
+H2,2005,2005,2005,2,0,1,Import,504,Morocco,MAR,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,49175,,,0
+H2,2005,2005,2005,2,0,2,Export,504,Morocco,MAR,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,44033,,,0
+H2,2005,2005,2005,2,0,2,Export,528,Netherlands,NLD,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22386,,,0
+H2,2005,2005,2005,2,0,1,Import,528,Netherlands,NLD,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,921189,,,0
+H2,2005,2005,2005,2,0,2,Export,528,Netherlands,NLD,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,184063,,,0
+H2,2005,2005,2005,2,0,2,Export,528,Netherlands,NLD,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,120636,,,0
+H2,2005,2005,2005,2,0,2,Export,528,Netherlands,NLD,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,266145,,,0
+H2,2005,2005,2005,2,0,2,Export,562,Niger,NER,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,63,,,0
+H2,2005,2005,2005,2,0,1,Import,562,Niger,NER,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3750,,,0
+H2,2005,2005,2005,2,0,2,Export,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4573,,,0
+H2,2005,2005,2005,2,0,2,Export,579,Norway,NOR,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5356,,,0
+H2,2005,2005,2005,2,0,2,Export,586,Pakistan,PAK,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7173,,,0
+H2,2005,2005,2005,2,0,2,Export,586,Pakistan,PAK,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6264,,,0
+H2,2005,2005,2005,2,0,1,Import,616,Poland,POL,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2109470,,,0
+H2,2005,2005,2005,2,0,2,Export,616,Poland,POL,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1041011,,,0
+H2,2005,2005,2005,2,0,2,Export,616,Poland,POL,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8337,,,0
+H2,2005,2005,2005,2,0,1,Import,620,Portugal,PRT,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,675003,,,0
+H2,2005,2005,2005,2,0,2,Export,620,Portugal,PRT,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2705,,,0
+H2,2005,2005,2005,2,0,1,Import,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2882,,,0
+H2,2005,2005,2005,2,0,2,Export,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2097671,,,0
+H2,2005,2005,2005,2,0,1,Import,642,Romania,ROU,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,325760,,,0
+H2,2005,2005,2005,2,0,2,Export,643,Russian Federation,RUS,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,50,,,0
+H2,2005,2005,2005,2,0,1,Import,643,Russian Federation,RUS,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1033150,,,0
+H2,2005,2005,2005,2,0,2,Export,643,Russian Federation,RUS,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32,,,0
+H2,2005,2005,2005,2,0,2,Export,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8446,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4466,,,0
+H2,2005,2005,2005,2,0,2,Export,686,Senegal,SEN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18553,,,0
+H2,2005,2005,2005,2,0,2,Export,686,Senegal,SEN,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2616,,,0
+H2,2005,2005,2005,2,0,2,Export,686,Senegal,SEN,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20747,,,0
+H2,2005,2005,2005,2,0,2,Export,699,India,IND,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,113617,,,0
+H2,2005,2005,2005,2,0,2,Export,699,India,IND,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,331527,,,0
+H2,2005,2005,2005,2,0,2,Export,699,India,IND,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,857177,,,0
+H2,2005,2005,2005,2,0,2,Export,702,Singapore,SGP,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,109456,,,0
+H2,2005,2005,2005,2,0,2,Export,703,Slovakia,SVK,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17487,,,0
+H2,2005,2005,2005,2,0,1,Import,703,Slovakia,SVK,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,488352,,,0
+H2,2005,2005,2005,2,0,2,Export,703,Slovakia,SVK,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,21914,,,0
+H2,2005,2005,2005,2,0,2,Export,703,Slovakia,SVK,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15901,,,0
+H2,2005,2005,2005,2,0,1,Import,704,Viet Nam,VNM,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,313,,,0
+H2,2005,2005,2005,2,0,2,Export,704,Viet Nam,VNM,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,35616,,,0
+H2,2005,2005,2005,2,0,2,Export,705,Slovenia,SVN,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19848,,,0
+H2,2005,2005,2005,2,0,1,Import,705,Slovenia,SVN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7037679,,,0
+H2,2005,2005,2005,2,0,2,Export,705,Slovenia,SVN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27517,,,0
+H2,2005,2005,2005,2,0,2,Export,710,South Africa,ZAF,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9968,,,0
+H2,2005,2005,2005,2,0,1,Import,710,South Africa,ZAF,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,235307,,,0
+H2,2005,2005,2005,2,0,2,Export,710,South Africa,ZAF,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,348852,,,0
+H2,2005,2005,2005,2,0,2,Export,710,South Africa,ZAF,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2361,,,0
+H2,2005,2005,2005,2,0,2,Export,710,South Africa,ZAF,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,126097,,,0
+H2,2005,2005,2005,2,0,1,Import,724,Spain,ESP,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2832,,,0
+H2,2005,2005,2005,2,0,2,Export,724,Spain,ESP,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,44708,,,0
+H2,2005,2005,2005,2,0,1,Import,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,9676142,,,0
+H2,2005,2005,2005,2,0,2,Export,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,360704,,,0
+H2,2005,2005,2005,2,0,2,Export,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14778,,,0
+H2,2005,2005,2005,2,0,2,Export,724,Spain,ESP,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,101729,,,0
+H2,2005,2005,2005,2,0,1,Import,752,Sweden,SWE,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11252,,,0
+H2,2005,2005,2005,2,0,2,Export,752,Sweden,SWE,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6163,,,0
+H2,2005,2005,2005,2,0,2,Export,757,Switzerland,CHE,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,120286,,,0
+H2,2005,2005,2005,2,0,2,Export,757,Switzerland,CHE,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4057,,,0
+H2,2005,2005,2005,2,0,2,Export,757,Switzerland,CHE,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6766,,,0
+H2,2005,2005,2005,2,0,2,Export,764,Thailand,THA,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,56723,,,0
+H2,2005,2005,2005,2,0,1,Import,764,Thailand,THA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11458,,,0
+H2,2005,2005,2005,2,0,2,Export,764,Thailand,THA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,477255,,,0
+H2,2005,2005,2005,2,0,2,Export,764,Thailand,THA,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,216016,,,0
+H2,2005,2005,2005,2,0,2,Export,768,Togo,TGO,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9147,,,0
+H2,2005,2005,2005,2,0,2,Export,784,United Arab Emirates,ARE,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1419,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,784,United Arab Emirates,ARE,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1419,,,0
+H2,2005,2005,2005,2,0,2,Export,784,United Arab Emirates,ARE,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3085392,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,784,United Arab Emirates,ARE,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3085392,,,0
+H2,2005,2005,2005,2,0,2,Export,784,United Arab Emirates,ARE,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,69924,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,784,United Arab Emirates,ARE,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,69924,,,0
+H2,2005,2005,2005,2,0,1,Import,788,Tunisia,TUN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6780,,,0
+H2,2005,2005,2005,2,0,2,Export,788,Tunisia,TUN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,55417,,,0
+H2,2005,2005,2005,2,0,2,Export,788,Tunisia,TUN,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,240598,,,0
+H2,2005,2005,2005,2,0,2,Export,792,Turkey,TUR,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,118070,,,0
+H2,2005,2005,2005,2,0,1,Import,792,Turkey,TUR,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,405387,,,0
+H2,2005,2005,2005,2,0,2,Export,792,Turkey,TUR,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1148187,,,0
+H2,2005,2005,2005,2,0,2,Export,792,Turkey,TUR,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,174508,,,0
+H2,2005,2005,2005,2,0,2,Export,800,Uganda,UGA,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,37098,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,800,Uganda,UGA,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,533,,,0
+H2,2005,2005,2005,2,0,1,Import,826,United Kingdom,GBR,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8589900,,,0
+H2,2005,2005,2005,2,0,2,Export,826,United Kingdom,GBR,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,505357,,,0
+H2,2005,2005,2005,2,0,2,Export,826,United Kingdom,GBR,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,191038,,,0
+H2,2005,2005,2005,2,0,2,Export,842,USA,USA,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,151960,,,0
+H2,2005,2005,2005,2,0,1,Import,842,USA,USA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7673151,,,0
+H2,2005,2005,2005,2,0,2,Export,842,USA,USA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,541112,,,0
+H2,2005,2005,2005,2,0,2,Export,842,USA,USA,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12899,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,842,USA,USA,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12899,,,0
+H2,2005,2005,2005,2,0,2,Export,842,USA,USA,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27872,,,0
+H1,2005,2005,2005,2,0,1,Import,204,Benin,BEN,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,9272253,,,0
+H1,2005,2005,2005,2,0,2,Export,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,790770,,,0
+H1,2005,2005,2005,2,0,1,Import,204,Benin,BEN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,190,,,0
+H1,2005,2005,2005,2,0,2,Export,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,466910,,,0
+H1,2005,2005,2005,2,0,2,Export,360,Indonesia,IDN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21060,,,0
+H1,2005,2005,2005,2,0,1,Import,662,Saint Lucia,LCA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,243,,,0
+H1,2005,2005,2005,2,0,1,Import,862,Venezuela,VEN,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2364,,,0
+H1,2005,2005,2005,2,0,1,Import,862,Venezuela,VEN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5220,,,0
+H1,2005,2005,2005,2,0,1,Import,887,Yemen,YEM,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,141,,,0
+H1,2005,2005,2005,2,0,1,Import,204,Benin,BEN,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1775,,,0
+H1,2005,2005,2005,2,0,1,Import,214,Dominican Rep.,DOM,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1240,,,0
+H1,2005,2005,2005,2,0,2,Export,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,96391,,,0
+H1,2005,2005,2005,2,0,1,Import,662,Saint Lucia,LCA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1403,,,0
+H1,2005,2005,2005,2,0,1,Import,804,Ukraine,UKR,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,697435,,,0
+H1,2005,2005,2005,2,0,2,Export,804,Ukraine,UKR,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,168421,,,0
+H1,2005,2005,2005,2,0,1,Import,862,Venezuela,VEN,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1058,,,0
+H0,2005,2005,2005,2,0,1,Import,140,Central African Rep.,CAF,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,357388,,,0
+H0,2005,2005,2005,2,0,2,Export,140,Central African Rep.,CAF,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,49310,,,0
+H0,2005,2005,2005,2,0,2,Export,818,Egypt,EGY,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,338437,,,0
+H0,2005,2005,2005,2,0,2,Export,818,Egypt,EGY,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,41126,,,0
+H0,2005,2005,2005,2,0,1,Import,140,Central African Rep.,CAF,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,741244,,,0
+H0,2005,2005,2005,2,0,2,Export,140,Central African Rep.,CAF,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11305,,,0
+H0,2005,2005,2005,2,0,2,Export,818,Egypt,EGY,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,129024,,,0
+H0,2005,2005,2005,2,0,2,Export,818,Egypt,EGY,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7452,,,0
+H0,2005,2005,2005,2,0,1,Import,140,Central African Rep.,CAF,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,303922,,,0
+H0,2005,2005,2005,2,0,2,Export,818,Egypt,EGY,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,118062,,,0
+H0,2005,2005,2005,2,0,2,Export,818,Egypt,EGY,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,478111,,,0
+H0,2005,2005,2005,2,0,2,Export,818,Egypt,EGY,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43752,,,0

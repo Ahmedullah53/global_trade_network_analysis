@@ -1,0 +1,202 @@
+index,weight,label
+0,1513.0,Albania
+1,1726.0,Algeria
+2,1238.0,Angola
+3,1101.0,Antigua and Barbuda
+4,1710.0,Azerbaijan
+5,3154.0,Argentina
+6,4411.0,Australia
+7,5449.0,Austria
+8,980.0,Bahamas
+9,1549.0,Bahrain
+10,1195.0,Bangladesh
+11,1839.0,Barbados
+12,6116.0,Belgium
+13,1807.0,Bolivia (Plurinational State of)
+14,1950.0,Bosnia Herzegovina
+15,5083.0,Brazil
+16,928.0,Belize
+17,3459.0,Bulgaria
+18,671.0,Burundi
+19,2638.0,Belarus
+20,1930.0,Cameroon
+21,6613.0,Canada
+22,763.0,Cabo Verde
+23,575.0,Central African Rep.
+24,2620.0,Sri Lanka
+25,2582.0,Chile
+26,6363.0,China
+27,3327.0,Colombia
+28,1319.0,Congo
+29,2709.0,Costa Rica
+30,2942.0,Croatia
+31,1667.0,Cyprus
+32,5051.0,Czechia
+33,1142.0,Benin
+34,4407.0,Denmark
+35,571.0,Dominica
+36,2346.0,Dominican Rep.
+37,2295.0,Ecuador
+38,1909.0,El Salvador
+39,2921.0,Estonia
+40,494.0,Faeroe Isds
+41,1135.0,Fiji
+42,4092.0,Finland
+43,7360.0,France
+44,842.0,French Polynesia
+45,858.0,Gabon
+46,1717.0,Georgia
+47,692.0,Gambia
+48,6586.0,Germany
+49,2433.0,Ghana
+50,3920.0,Greece
+51,1115.0,Grenada
+52,2390.0,Guatemala
+53,612.0,Guinea
+54,1389.0,Guyana
+55,1713.0,Honduras
+56,3183.0,"China, Hong Kong SAR"
+57,3696.0,Hungary
+58,1961.0,Iceland
+59,4311.0,Indonesia
+60,3571.0,Ireland
+61,3198.0,Israel
+62,6183.0,Italy
+63,2874.0,Côte d'Ivoire
+64,1905.0,Jamaica
+65,4507.0,Japan
+66,2265.0,Kazakhstan
+67,1588.0,Jordan
+68,2306.0,Kenya
+69,5486.0,Rep. of Korea
+70,2145.0,Kuwait
+71,3278.0,Lebanon
+72,2817.0,Latvia
+73,348.0,Libya
+74,3092.0,Lithuania
+75,3434.0,Luxembourg
+76,624.0,"China, Macao SAR"
+77,1669.0,Madagascar
+78,4543.0,Malaysia
+79,989.0,Mali
+80,2077.0,Malta
+81,726.0,Mauritania
+82,1622.0,Mauritius
+83,4119.0,Mexico
+84,4651.0,"Other Asia, nes"
+85,1782.0,Rep. of Moldova
+86,1425.0,Montenegro
+87,2744.0,Morocco
+88,2040.0,Namibia
+89,6832.0,Netherlands
+90,231.0,Neth. Antilles
+91,826.0,Aruba
+92,1080.0,New Caledonia
+93,3221.0,New Zealand
+94,1522.0,Nicaragua
+95,1518.0,Niger
+96,2461.0,Nigeria
+97,3908.0,Norway
+98,2342.0,Pakistan
+99,1700.0,Panama
+100,1503.0,Paraguay
+101,2868.0,Peru
+102,2334.0,Philippines
+103,5271.0,Poland
+104,4471.0,Portugal
+105,2050.0,Qatar
+106,3881.0,Romania
+107,4321.0,Russian Federation
+108,1110.0,Rwanda
+109,915.0,Saint Kitts and Nevis
+110,1422.0,Saint Lucia
+111,1252.0,Saint Vincent and the Grenadines
+112,2198.0,Saudi Arabia
+113,2412.0,Senegal
+114,2425.0,Serbia
+115,5780.0,India
+116,4743.0,Singapore
+117,3920.0,Slovakia
+118,2974.0,Viet Nam
+119,3873.0,Slovenia
+120,5765.0,South Africa
+121,1379.0,Zimbabwe
+122,6258.0,Spain
+123,684.0,Fmr Sudan
+124,1191.0,Suriname
+125,5020.0,Sweden
+126,5652.0,Switzerland
+127,696.0,Syria
+128,5606.0,Thailand
+129,1461.0,Togo
+130,2108.0,Trinidad and Tobago
+131,4766.0,United Arab Emirates
+132,2828.0,Tunisia
+133,5541.0,Turkey
+134,4022.0,Ukraine
+135,2135.0,North Macedonia
+136,3270.0,Egypt
+137,6315.0,United Kingdom
+138,1903.0,United Rep. of Tanzania
+139,7285.0,USA
+140,1305.0,Burkina Faso
+141,1855.0,Uruguay
+142,1679.0,Venezuela
+143,379.0,Samoa
+144,940.0,Yemen
+145,1499.0,Zambia
+146,760.0,Andorra
+147,1397.0,Armenia
+148,651.0,Bermuda
+149,1077.0,Brunei Darussalam
+150,522.0,Myanmar
+151,967.0,Cambodia
+152,262.0,Comoros
+153,1420.0,Ethiopia
+154,520.0,Greenland
+155,1834.0,Iran
+156,227.0,Lao People's Dem. Rep.
+157,847.0,Malawi
+158,707.0,Maldives
+159,721.0,Mongolia
+160,1615.0,Oman
+161,520.0,Nepal
+162,408.0,Sudan
+163,1526.0,Uganda
+164,830.0,Botswana
+165,128.0,Kiribati
+166,421.0,Eswatini
+167,190.0,Tonga
+168,240.0,Palau
+169,540.0,State of Palestine
+170,1186.0,Kyrgyzstan
+171,248.0,Montserrat
+172,1478.0,Mozambique
+173,951.0,Seychelles
+174,243.0,Sierra Leone
+175,468.0,Sao Tome and Principe
+176,37.0,Iraq
+177,287.0,Uzbekistan
+178,366.0,Papua New Guinea
+179,129.0,Vanuatu
+180,128.0,Afghanistan
+181,260.0,Solomon Isds
+182,91.0,Cook Isds
+183,582.0,Cuba
+184,56.0,Timor-Leste
+185,392.0,Mayotte
+186,127.0,FS Micronesia
+187,486.0,Serbia and Montenegro
+188,145.0,Lesotho
+189,210.0,Anguilla
+190,34.0,Tuvalu
+191,137.0,Wallis and Futuna Isds
+192,29.0,Djibouti
+193,105.0,Bhutan
+194,470.0,Dem. Rep. of the Congo
+195,26.0,Eritrea
+196,50.0,Turks and Caicos Isds
+197,19.0,Guinea-Bissau
+198,23.0,Cayman Isds
+199,58.0,Turkmenistan
+200,11.0,Tajikistan

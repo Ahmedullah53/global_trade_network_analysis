@@ -1,0 +1,505 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,2,0,1,Import,8,Albania,ALB,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,41427,,,0
+H5,2020,2020,2020,2,0,2,Export,8,Albania,ALB,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2586636,,,0
+H5,2020,2020,2020,2,0,1,Import,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,27865,,,0
+H5,2020,2020,2020,2,0,2,Export,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6008873,,,0
+H5,2020,2020,2020,2,0,2,Export,52,Barbados,BRB,92,Br. Virgin Isds,VGB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,81,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,52,Barbados,BRB,92,Br. Virgin Isds,VGB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,81,,,0
+H5,2020,2020,2020,2,0,1,Import,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5349,,,0
+H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1387600,,,0
+H5,2020,2020,2020,2,0,1,Import,76,Brazil,BRA,92,Br. Virgin Isds,VGB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,186062,,,0
+H5,2020,2020,2020,2,0,2,Export,76,Brazil,BRA,92,Br. Virgin Isds,VGB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,18375,,,0
+H5,2020,2020,2020,2,0,1,Import,100,Bulgaria,BGR,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,937241,,,0
+H5,2020,2020,2020,2,0,2,Export,100,Bulgaria,BGR,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,251369,,,0
+H5,2020,2020,2020,2,0,2,Export,112,Belarus,BLR,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,344400,,,0
+H5,2020,2020,2020,2,0,1,Import,124,Canada,CAN,92,Br. Virgin Isds,VGB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,17961,,,0
+H5,2020,2020,2020,2,0,2,Export,124,Canada,CAN,92,Br. Virgin Isds,VGB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,40417,,,0
+H5,2020,2020,2020,2,0,2,Export,156,China,CHN,72,Botswana,BWA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,759,,,0
+H5,2020,2020,2020,2,0,2,Export,156,China,CHN,92,Br. Virgin Isds,VGB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,269615,,,0
+H5,2020,2020,2020,2,0,1,Import,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,87720666,,,4
+H5,2020,2020,2020,2,0,2,Export,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,384464432,,,4
+H5,2020,2020,2020,2,0,1,Import,203,Czechia,CZE,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,54182711,,,4
+H5,2020,2020,2020,2,0,2,Export,203,Czechia,CZE,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,15769329,,,4
+H5,2020,2020,2020,2,0,2,Export,208,Denmark,DNK,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,14912,,,0
+H5,2020,2020,2020,2,0,2,Export,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,45180,,,4
+H5,2020,2020,2020,2,0,1,Import,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,272,,,0
+H5,2020,2020,2020,2,0,2,Export,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,513019,,,0
+H5,2020,2020,2020,2,0,2,Export,251,France,FRA,72,Botswana,BWA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,449,,,0
+H5,2020,2020,2020,2,0,1,Import,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,355610,,,0
+H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7107696,,,0
+H5,2020,2020,2020,2,0,1,Import,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6921054,,,0
+H5,2020,2020,2020,2,0,2,Export,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,599221,,,0
+H5,2020,2020,2020,2,0,2,Export,300,Greece,GRC,92,Br. Virgin Isds,VGB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,17981,,,0
+H5,2020,2020,2020,2,0,1,Import,328,Guyana,GUY,92,Br. Virgin Isds,VGB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,14,,,0
+H5,2020,2020,2020,2,0,1,Import,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,583716,,,0
+H5,2020,2020,2020,2,0,2,Export,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,8633597,,,0
+H5,2020,2020,2020,2,0,2,Export,372,Ireland,IRL,92,Br. Virgin Isds,VGB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,13238519,,,0
+H5,2020,2020,2020,2,0,1,Import,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,73026238,,,0
+H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,52578928,,,0
+H5,2020,2020,2020,2,0,1,Import,428,Latvia,LVA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5436,,,0
+H5,2020,2020,2020,2,0,2,Export,428,Latvia,LVA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,208591,,,0
+H5,2020,2020,2020,2,0,2,Export,440,Lithuania,LTU,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,884982,,,0
+H5,2020,2020,2020,2,0,1,Import,499,Montenegro,MNE,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,8241197,,,4
+H5,2020,2020,2020,2,0,2,Export,499,Montenegro,MNE,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,6619751,,,4
+H5,2020,2020,2020,2,0,1,Import,516,Namibia,NAM,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,815,,,0
+H5,2020,2020,2020,2,0,1,Import,516,Namibia,NAM,72,Botswana,BWA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3503935,,,0
+H5,2020,2020,2020,2,0,2,Export,516,Namibia,NAM,72,Botswana,BWA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,48717053,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,516,Namibia,NAM,72,Botswana,BWA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,39888516,,,0
+H5,2020,2020,2020,2,0,2,Export,528,Netherlands,NLD,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,524109,,,0
+H5,2020,2020,2020,2,0,2,Export,528,Netherlands,NLD,92,Br. Virgin Isds,VGB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,262,,,0
+H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,11552346,,,0
+H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,72,Botswana,BWA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2778,,,0
+H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,92,Br. Virgin Isds,VGB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2926,,,0
+H5,2020,2020,2020,2,0,1,Import,642,Romania,ROU,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,57939,,,0
+H5,2020,2020,2020,2,0,2,Export,642,Romania,ROU,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1573195,,,0
+H5,2020,2020,2020,2,0,1,Import,688,Serbia,SRB,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,96034920,,,4
+H5,2020,2020,2020,2,0,2,Export,688,Serbia,SRB,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,138312913,,,4
+H5,2020,2020,2020,2,0,2,Export,699,India,IND,72,Botswana,BWA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,601,,,4
+H5,2020,2020,2020,2,0,2,Export,702,Singapore,SGP,72,Botswana,BWA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,24197,,,4
+H5,2020,2020,2020,2,0,1,Import,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,149079,,,0
+H5,2020,2020,2020,2,0,2,Export,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1278764,,,0
+H5,2020,2020,2020,2,0,1,Import,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,300807,,,0
+H5,2020,2020,2020,2,0,2,Export,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,35025814,,,0
+H5,2020,2020,2020,2,0,1,Import,710,South Africa,ZAF,72,Botswana,BWA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,13684068,,,0
+H5,2020,2020,2020,2,0,2,Export,710,South Africa,ZAF,72,Botswana,BWA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,561202894,,,4
+H5,2020,2020,2020,2,0,2,Export,710,South Africa,ZAF,92,Br. Virgin Isds,VGB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1353,,,0
+H5,2020,2020,2020,2,0,1,Import,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,202103,,,0
+H5,2020,2020,2020,2,0,1,Import,716,Zimbabwe,ZWE,92,Br. Virgin Isds,VGB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,98259,,,0
+H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,400596,,,0
+H5,2020,2020,2020,2,0,2,Export,752,Sweden,SWE,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4904,,,4
+H5,2020,2020,2020,2,0,1,Import,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,157,,,0
+H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,30240,,,0
+H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,72,Botswana,BWA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1150,,,0
+H5,2020,2020,2020,2,0,1,Import,764,Thailand,THA,72,Botswana,BWA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,37,,,0
+H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,870352,,,0
+H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,92,Br. Virgin Isds,VGB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3623201,,,0
+H5,2020,2020,2020,2,0,1,Import,804,Ukraine,UKR,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,57247,,,0
+H5,2020,2020,2020,2,0,2,Export,804,Ukraine,UKR,92,Br. Virgin Isds,VGB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,42175,,,0
+H5,2020,2020,2020,2,0,1,Import,807,North Macedonia,MKD,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,601729,,,0
+H5,2020,2020,2020,2,0,2,Export,807,North Macedonia,MKD,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,329876,,,0
+H5,2020,2020,2020,2,0,2,Export,826,United Kingdom,GBR,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,87490,,,0
+H5,2020,2020,2020,2,0,2,Export,826,United Kingdom,GBR,72,Botswana,BWA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,18483,,,0
+H5,2020,2020,2020,2,0,2,Export,826,United Kingdom,GBR,92,Br. Virgin Isds,VGB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5954,,,0
+H5,2020,2020,2020,2,0,2,Export,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,17314,,,0
+H5,2020,2020,2020,2,0,2,Export,842,USA,USA,92,Br. Virgin Isds,VGB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,24197641,,,4
+H5,2020,2020,2020,2,0,3,Re-Export,842,USA,USA,92,Br. Virgin Isds,VGB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3132553,,,0
+H5,2020,2020,2020,2,0,1,Import,894,Zambia,ZMB,72,Botswana,BWA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,61285,,,0
+H5,2020,2020,2020,2,0,2,Export,894,Zambia,ZMB,72,Botswana,BWA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4866946,,,0
+H5,2020,2020,2020,2,0,1,Import,8,Albania,ALB,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,756643,,,0
+H5,2020,2020,2020,2,0,2,Export,8,Albania,ALB,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,26418,,,0
+H5,2020,2020,2020,2,0,1,Import,31,Azerbaijan,AZE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,62,,,0
+H5,2020,2020,2020,2,0,1,Import,32,Argentina,ARG,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,55,,,0
+H5,2020,2020,2020,2,0,1,Import,36,Australia,AUS,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3975,,,4
+H5,2020,2020,2020,2,0,2,Export,36,Australia,AUS,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,908,,,0
+H5,2020,2020,2020,2,0,2,Export,36,Australia,AUS,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,548343,,,4
+H5,2020,2020,2020,2,0,2,Export,36,Australia,AUS,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,21061,,,4
+H5,2020,2020,2020,2,0,1,Import,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,41221284,,,4
+H5,2020,2020,2020,2,0,2,Export,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,43523270,,,0
+H5,2020,2020,2020,2,0,1,Import,40,Austria,AUT,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1200,,,4
+H5,2020,2020,2020,2,0,2,Export,40,Austria,AUT,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5641,,,0
+H5,2020,2020,2020,2,0,2,Export,40,Austria,AUT,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8878,,,0
+H5,2020,2020,2020,2,0,1,Import,52,Barbados,BRB,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10175,,,0
+H5,2020,2020,2020,2,0,1,Import,52,Barbados,BRB,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,64,,,4
+H5,2020,2020,2020,2,0,2,Export,52,Barbados,BRB,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,20202,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,52,Barbados,BRB,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9332,,,0
+H5,2020,2020,2020,2,0,1,Import,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,581240,,,4
+H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12380198,,,4
+H5,2020,2020,2020,2,0,1,Import,56,Belgium,BEL,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1020,,,0
+H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,116230,,,4
+H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1971,,,0
+H5,2020,2020,2020,2,0,1,Import,76,Brazil,BRA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,39441,,,4
+H5,2020,2020,2020,2,0,2,Export,76,Brazil,BRA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,545,,,0
+H5,2020,2020,2020,2,0,1,Import,76,Brazil,BRA,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9,,,4
+H5,2020,2020,2020,2,0,2,Export,76,Brazil,BRA,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,617,,,4
+H5,2020,2020,2020,2,0,1,Import,76,Brazil,BRA,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9345,,,0
+H5,2020,2020,2020,2,0,2,Export,76,Brazil,BRA,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,107,,,4
+H5,2020,2020,2020,2,0,1,Import,84,Belize,BLZ,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,228,,,0
+H5,2020,2020,2020,2,0,1,Import,100,Bulgaria,BGR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,407108,,,0
+H5,2020,2020,2020,2,0,2,Export,100,Bulgaria,BGR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2688153,,,0
+H5,2020,2020,2020,2,0,1,Import,112,Belarus,BLR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8500,,,4
+H5,2020,2020,2020,2,0,2,Export,112,Belarus,BLR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8200,,,0
+H5,2020,2020,2020,2,0,1,Import,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,67934,,,0
+H5,2020,2020,2020,2,0,2,Export,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3813,,,4
+H5,2020,2020,2020,2,0,3,Re-Export,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,341,,,0
+H5,2020,2020,2020,2,0,1,Import,124,Canada,CAN,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,3095,,,0
+H5,2020,2020,2020,2,0,2,Export,124,Canada,CAN,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,71,,,4
+H5,2020,2020,2020,2,0,2,Export,124,Canada,CAN,74,Bouvet Island,BVT,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1372,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,124,Canada,CAN,74,Bouvet Island,BVT,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1372,,,0
+H5,2020,2020,2020,2,0,1,Import,124,Canada,CAN,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,14848,,,0
+H5,2020,2020,2020,2,0,2,Export,124,Canada,CAN,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,22476,,,4
+H5,2020,2020,2020,2,0,3,Re-Export,124,Canada,CAN,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9129,,,0
+H5,2020,2020,2020,2,0,2,Export,144,Sri Lanka,LKA,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,51,,,0
+H5,2020,2020,2020,2,0,1,Import,144,Sri Lanka,LKA,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,29066,,,0
+H5,2020,2020,2020,2,0,1,Import,156,China,CHN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,245932,,,4
+H5,2020,2020,2020,2,0,2,Export,156,China,CHN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4003065,,,0
+H5,2020,2020,2020,2,0,2,Export,156,China,CHN,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10447648,,,0
+H5,2020,2020,2020,2,0,1,Import,156,China,CHN,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,474,,,0
+H5,2020,2020,2020,2,0,2,Export,156,China,CHN,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,251228,,,0
+H5,2020,2020,2020,2,0,1,Import,170,Colombia,COL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,78,,,0
+H5,2020,2020,2020,2,0,1,Import,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,61704965,,,0
+H5,2020,2020,2020,2,0,2,Export,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,42065355,,,0
+H5,2020,2020,2020,2,0,1,Import,196,Cyprus,CYP,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,104932,,,0
+H5,2020,2020,2020,2,0,1,Import,203,Czechia,CZE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1457628,,,4
+H5,2020,2020,2020,2,0,2,Export,203,Czechia,CZE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7711704,,,4
+H5,2020,2020,2020,2,0,2,Export,203,Czechia,CZE,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13163,,,0
+H5,2020,2020,2020,2,0,1,Import,203,Czechia,CZE,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,145,,,4
+H5,2020,2020,2020,2,0,2,Export,203,Czechia,CZE,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,33079,,,4
+H5,2020,2020,2020,2,0,1,Import,208,Denmark,DNK,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,957537,,,0
+H5,2020,2020,2020,2,0,2,Export,208,Denmark,DNK,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,533248,,,0
+H5,2020,2020,2020,2,0,2,Export,208,Denmark,DNK,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2203,,,0
+H5,2020,2020,2020,2,0,2,Export,208,Denmark,DNK,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,51985,,,0
+H5,2020,2020,2020,2,0,1,Import,218,Ecuador,ECU,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,86,,,0
+H5,2020,2020,2020,2,0,1,Import,233,Estonia,EST,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,89830,,,0
+H5,2020,2020,2020,2,0,2,Export,233,Estonia,EST,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,119408,,,0
+H5,2020,2020,2020,2,0,1,Import,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,28155,,,4
+H5,2020,2020,2020,2,0,2,Export,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1399301,,,4
+H5,2020,2020,2020,2,0,2,Export,246,Finland,FIN,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,101,,,0
+H5,2020,2020,2020,2,0,1,Import,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6730473,,,4
+H5,2020,2020,2020,2,0,2,Export,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2539624,,,4
+H5,2020,2020,2020,2,0,1,Import,251,France,FRA,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,41,,,4
+H5,2020,2020,2020,2,0,2,Export,251,France,FRA,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,18606,,,4
+H5,2020,2020,2020,2,0,1,Import,251,France,FRA,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,457,,,0
+H5,2020,2020,2020,2,0,2,Export,251,France,FRA,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8393,,,0
+H5,2020,2020,2020,2,0,1,Import,268,Georgia,GEO,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2820,,,0
+H5,2020,2020,2020,2,0,1,Import,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,79953199,,,4
+H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,104502727,,,4
+H5,2020,2020,2020,2,0,1,Import,276,Germany,DEU,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,25774,,,0
+H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1947960,,,4
+H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,19574,,,0
+H5,2020,2020,2020,2,0,1,Import,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,406232,,,0
+H5,2020,2020,2020,2,0,2,Export,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6105633,,,0
+H5,2020,2020,2020,2,0,2,Export,300,Greece,GRC,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1479,,,0
+H5,2020,2020,2020,2,0,1,Import,328,Guyana,GUY,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,643,,,0
+H5,2020,2020,2020,2,0,2,Export,328,Guyana,GUY,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,99,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,328,Guyana,GUY,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,99,,,0
+H5,2020,2020,2020,2,0,2,Export,344,"China, Hong Kong SAR",HKG,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,29594,,,4
+H5,2020,2020,2020,2,0,2,Export,344,"China, Hong Kong SAR",HKG,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,903452,,,4
+H5,2020,2020,2020,2,0,1,Import,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2834925,,,4
+H5,2020,2020,2020,2,0,2,Export,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,25019312,,,4
+H5,2020,2020,2020,2,0,2,Export,348,Hungary,HUN,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,118,,,0
+H5,2020,2020,2020,2,0,2,Export,348,Hungary,HUN,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,472,,,4
+H5,2020,2020,2020,2,0,1,Import,352,Iceland,ISL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,97,,,0
+H5,2020,2020,2020,2,0,1,Import,360,Indonesia,IDN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,613,,,0
+H5,2020,2020,2020,2,0,2,Export,360,Indonesia,IDN,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12706,,,0
+H5,2020,2020,2020,2,0,1,Import,360,Indonesia,IDN,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2053,,,0
+H5,2020,2020,2020,2,0,2,Export,360,Indonesia,IDN,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,39076,,,0
+H5,2020,2020,2020,2,0,1,Import,372,Ireland,IRL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,28363,,,0
+H5,2020,2020,2020,2,0,2,Export,372,Ireland,IRL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,471488,,,0
+H5,2020,2020,2020,2,0,1,Import,372,Ireland,IRL,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,471,,,4
+H5,2020,2020,2020,2,0,2,Export,372,Ireland,IRL,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5371,,,0
+H5,2020,2020,2020,2,0,1,Import,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,19000,,,4
+H5,2020,2020,2020,2,0,2,Export,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6000,,,4
+H5,2020,2020,2020,2,0,1,Import,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9367723,,,0
+H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,57052417,,,0
+H5,2020,2020,2020,2,0,4,Re-Import,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3337,,,0
+H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4648,,,0
+H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4573,,,0
+H5,2020,2020,2020,2,0,1,Import,392,Japan,JPN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2201,,,0
+H5,2020,2020,2020,2,0,2,Export,392,Japan,JPN,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,24985,,,0
+H5,2020,2020,2020,2,0,1,Import,404,Kenya,KEN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6384,,,0
+H5,2020,2020,2020,2,0,1,Import,404,Kenya,KEN,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,411,,,0
+H5,2020,2020,2020,2,0,2,Export,404,Kenya,KEN,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10,,,4
+H5,2020,2020,2020,2,0,1,Import,410,Rep. of Korea,KOR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,359,,,0
+H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9077,,,4
+H5,2020,2020,2020,2,0,1,Import,410,Rep. of Korea,KOR,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1865,,,0
+H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3791,,,4
+H5,2020,2020,2020,2,0,1,Import,410,Rep. of Korea,KOR,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,148,,,4
+H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,861,,,0
+H5,2020,2020,2020,2,0,1,Import,414,Kuwait,KWT,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,48389,,,0
+H5,2020,2020,2020,2,0,1,Import,422,Lebanon,LBN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,284,,,0
+H5,2020,2020,2020,2,0,2,Export,428,Latvia,LVA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,27092,,,0
+H5,2020,2020,2020,2,0,2,Export,440,Lithuania,LTU,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,880074,,,0
+H5,2020,2020,2020,2,0,1,Import,442,Luxembourg,LUX,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,475752,,,0
+H5,2020,2020,2020,2,0,2,Export,442,Luxembourg,LUX,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,97637,,,0
+H5,2020,2020,2020,2,0,1,Import,442,Luxembourg,LUX,74,Bouvet Island,BVT,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4,,,0
+H5,2020,2020,2020,2,0,2,Export,458,Malaysia,MYS,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1894,,,0
+H5,2020,2020,2020,2,0,2,Export,480,Mauritius,MUS,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,187719,,,0
+H5,2020,2020,2020,2,0,1,Import,490,"Other Asia, nes",,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6462,,,0
+H5,2020,2020,2020,2,0,2,Export,490,"Other Asia, nes",,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2518,,,0
+H5,2020,2020,2020,2,0,2,Export,490,"Other Asia, nes",,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,68,,,0
+H5,2020,2020,2020,2,0,1,Import,498,Rep. of Moldova,MDA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2864,,,0
+H5,2020,2020,2020,2,0,2,Export,498,Rep. of Moldova,MDA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6580,,,0
+H5,2020,2020,2020,2,0,1,Import,498,Rep. of Moldova,MDA,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16,,,4
+H5,2020,2020,2020,2,0,1,Import,499,Montenegro,MNE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3840784,,,0
+H5,2020,2020,2020,2,0,2,Export,499,Montenegro,MNE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,430027,,,0
+H5,2020,2020,2020,2,0,1,Import,516,Namibia,NAM,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1961053,,,4
+H5,2020,2020,2020,2,0,2,Export,516,Namibia,NAM,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,69365,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,516,Namibia,NAM,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,43092,,,0
+H5,2020,2020,2020,2,0,2,Export,516,Namibia,NAM,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2773,,,0
+H5,2020,2020,2020,2,0,1,Import,528,Netherlands,NLD,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,15521235,,,0
+H5,2020,2020,2020,2,0,2,Export,528,Netherlands,NLD,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10793769,,,0
+H5,2020,2020,2020,2,0,1,Import,528,Netherlands,NLD,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,154,,,0
+H5,2020,2020,2020,2,0,2,Export,528,Netherlands,NLD,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,33811,,,0
+H5,2020,2020,2020,2,0,2,Export,528,Netherlands,NLD,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,52294,,,0
+H5,2020,2020,2020,2,0,1,Import,554,New Zealand,NZL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2095,,,0
+H5,2020,2020,2020,2,0,2,Export,554,New Zealand,NZL,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7223,,,4
+H5,2020,2020,2020,2,0,2,Export,554,New Zealand,NZL,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3954,,,0
+H5,2020,2020,2020,2,0,1,Import,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1258253,,,0
+H5,2020,2020,2020,2,0,2,Export,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4570,,,0
+H5,2020,2020,2020,2,0,2,Export,579,Norway,NOR,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,22195,,,0
+H5,2020,2020,2020,2,0,1,Import,586,Pakistan,PAK,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1441,,,0
+H5,2020,2020,2020,2,0,1,Import,600,Paraguay,PRY,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,767,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2595,,,0
+H5,2020,2020,2020,2,0,2,Export,608,Philippines,PHL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1445,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,74,Bouvet Island,BVT,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,225,,,0
+H5,2020,2020,2020,2,0,1,Import,616,Poland,POL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2299164,,,4
+H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,18991687,,,4
+H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,387,,,4
+H5,2020,2020,2020,2,0,1,Import,616,Poland,POL,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,69,,,0
+H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1228,,,4
+H5,2020,2020,2020,2,0,1,Import,620,Portugal,PRT,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1029337,,,4
+H5,2020,2020,2020,2,0,2,Export,620,Portugal,PRT,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,89502,,,4
+H5,2020,2020,2020,2,0,2,Export,620,Portugal,PRT,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,103336,,,0
+H5,2020,2020,2020,2,0,1,Import,634,Qatar,QAT,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,68811,,,0
+H5,2020,2020,2020,2,0,1,Import,642,Romania,ROU,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2295586,,,0
+H5,2020,2020,2020,2,0,2,Export,642,Romania,ROU,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4741771,,,0
+H5,2020,2020,2020,2,0,1,Import,688,Serbia,SRB,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,22534275,,,4
+H5,2020,2020,2020,2,0,2,Export,688,Serbia,SRB,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,72410010,,,4
+H5,2020,2020,2020,2,0,1,Import,690,Seychelles,SYC,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1,,,0
+H5,2020,2020,2020,2,0,2,Export,699,India,IND,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,56444,,,0
+H5,2020,2020,2020,2,0,2,Export,699,India,IND,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1151649,,,4
+H5,2020,2020,2020,2,0,1,Import,699,India,IND,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,737,,,0
+H5,2020,2020,2020,2,0,2,Export,699,India,IND,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1709,,,0
+H5,2020,2020,2020,2,0,1,Import,702,Singapore,SGP,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7880,,,4
+H5,2020,2020,2020,2,0,2,Export,702,Singapore,SGP,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,25210,,,4
+H5,2020,2020,2020,2,0,1,Import,702,Singapore,SGP,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,347,,,4
+H5,2020,2020,2020,2,0,1,Import,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,565699,,,0
+H5,2020,2020,2020,2,0,2,Export,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4522571,,,4
+H5,2020,2020,2020,2,0,1,Import,703,Slovakia,SVK,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,17095,,,0
+H5,2020,2020,2020,2,0,2,Export,703,Slovakia,SVK,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,157233,,,0
+H5,2020,2020,2020,2,0,1,Import,703,Slovakia,SVK,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8356,,,0
+H5,2020,2020,2020,2,0,1,Import,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,17905956,,,0
+H5,2020,2020,2020,2,0,2,Export,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,39001661,,,0
+H5,2020,2020,2020,2,0,1,Import,705,Slovenia,SVN,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3,,,0
+H5,2020,2020,2020,2,0,1,Import,710,South Africa,ZAF,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2033,,,0
+H5,2020,2020,2020,2,0,1,Import,710,South Africa,ZAF,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,21560411,,,0
+H5,2020,2020,2020,2,0,2,Export,710,South Africa,ZAF,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,94884097,,,4
+H5,2020,2020,2020,2,0,2,Export,710,South Africa,ZAF,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,39511,,,0
+H5,2020,2020,2020,2,0,1,Import,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1309088,,,0
+H5,2020,2020,2020,2,0,2,Export,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,85679,,,0
+H5,2020,2020,2020,2,0,1,Import,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,538463,,,0
+H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1589747,,,0
+H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,587,,,0
+H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,56002,,,0
+H5,2020,2020,2020,2,0,1,Import,752,Sweden,SWE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1095446,,,4
+H5,2020,2020,2020,2,0,2,Export,752,Sweden,SWE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1096175,,,4
+H5,2020,2020,2020,2,0,2,Export,752,Sweden,SWE,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10790,,,4
+H5,2020,2020,2020,2,0,1,Import,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10170681,,,4
+H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3098885,,,4
+H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1856,,,4
+H5,2020,2020,2020,2,0,1,Import,757,Switzerland,CHE,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,29,,,4
+H5,2020,2020,2020,2,0,1,Import,764,Thailand,THA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,81934,,,4
+H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9178,,,0
+H5,2020,2020,2020,2,0,1,Import,764,Thailand,THA,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,18,,,0
+H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,961,,,4
+H5,2020,2020,2020,2,0,1,Import,764,Thailand,THA,74,Bouvet Island,BVT,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,301,,,0
+H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1951,,,4
+H5,2020,2020,2020,2,0,1,Import,768,Togo,TGO,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3819,,,0
+H5,2020,2020,2020,2,0,1,Import,792,Turkey,TUR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8159627,,,0
+H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,34172771,,,0
+H5,2020,2020,2020,2,0,1,Import,792,Turkey,TUR,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,515,,,0
+H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7403,,,0
+H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,244,,,0
+H5,2020,2020,2020,2,0,1,Import,804,Ukraine,UKR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,498507,,,0
+H5,2020,2020,2020,2,0,2,Export,804,Ukraine,UKR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,741768,,,0
+H5,2020,2020,2020,2,0,1,Import,804,Ukraine,UKR,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1,,,0
+H5,2020,2020,2020,2,0,2,Export,804,Ukraine,UKR,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10820,,,0
+H5,2020,2020,2020,2,0,1,Import,807,North Macedonia,MKD,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1390752,,,4
+H5,2020,2020,2020,2,0,2,Export,807,North Macedonia,MKD,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4692844,,,4
+H5,2020,2020,2020,2,0,1,Import,826,United Kingdom,GBR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,19945,,,0
+H5,2020,2020,2020,2,0,2,Export,826,United Kingdom,GBR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4119692,,,0
+H5,2020,2020,2020,2,0,2,Export,826,United Kingdom,GBR,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,73142,,,0
+H5,2020,2020,2020,2,0,2,Export,826,United Kingdom,GBR,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,369375,,,4
+H5,2020,2020,2020,2,0,1,Import,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,869287,,,4
+H5,2020,2020,2020,2,0,2,Export,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,242965,,,4
+H5,2020,2020,2020,2,0,3,Re-Export,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6056,,,0
+H5,2020,2020,2020,2,0,1,Import,842,USA,USA,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,801,,,0
+H5,2020,2020,2020,2,0,2,Export,842,USA,USA,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,102210,,,4
+H5,2020,2020,2020,2,0,1,Import,842,USA,USA,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,41365,,,4
+H5,2020,2020,2020,2,0,2,Export,842,USA,USA,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5530567,,,4
+H5,2020,2020,2020,2,0,3,Re-Export,842,USA,USA,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,250977,,,0
+H5,2020,2020,2020,2,0,1,Import,894,Zambia,ZMB,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1584811,,,0
+H5,2020,2020,2020,2,0,2,Export,894,Zambia,ZMB,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,121959,,,0
+H5,2020,2020,2020,2,0,1,Import,8,Albania,ALB,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1086133,,,0
+H5,2020,2020,2020,2,0,1,Import,31,Azerbaijan,AZE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,340,,,0
+H5,2020,2020,2020,2,0,1,Import,32,Argentina,ARG,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2753,,,0
+H5,2020,2020,2020,2,0,2,Export,36,Australia,AUS,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,209751,,,4
+H5,2020,2020,2020,2,0,1,Import,36,Australia,AUS,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,780,,,4
+H5,2020,2020,2020,2,0,1,Import,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2758679,,,4
+H5,2020,2020,2020,2,0,2,Export,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,7159869,,,4
+H5,2020,2020,2020,2,0,1,Import,40,Austria,AUT,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,471,,,0
+H5,2020,2020,2020,2,0,2,Export,40,Austria,AUT,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1013,,,4
+H5,2020,2020,2020,2,0,2,Export,40,Austria,AUT,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,9709,,,0
+H5,2020,2020,2020,2,0,1,Import,52,Barbados,BRB,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,57,,,4
+H5,2020,2020,2020,2,0,2,Export,52,Barbados,BRB,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1105,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,52,Barbados,BRB,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1105,,,0
+H5,2020,2020,2020,2,0,1,Import,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8071,,,0
+H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,602125,,,0
+H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3894,,,0
+H5,2020,2020,2020,2,0,1,Import,76,Brazil,BRA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6015,,,4
+H5,2020,2020,2020,2,0,2,Export,76,Brazil,BRA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,64,,,0
+H5,2020,2020,2020,2,0,2,Export,76,Brazil,BRA,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2556,,,4
+H5,2020,2020,2020,2,0,2,Export,76,Brazil,BRA,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14099,,,4
+H5,2020,2020,2020,2,0,1,Import,100,Bulgaria,BGR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,41024,,,0
+H5,2020,2020,2020,2,0,2,Export,100,Bulgaria,BGR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,554608,,,0
+H5,2020,2020,2020,2,0,1,Import,112,Belarus,BLR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,300,,,0
+H5,2020,2020,2020,2,0,2,Export,112,Belarus,BLR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1378100,,,0
+H5,2020,2020,2020,2,0,1,Import,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,1434,,,0
+H5,2020,2020,2020,2,0,2,Export,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,29,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,29,,,0
+H5,2020,2020,2020,2,0,1,Import,124,Canada,CAN,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,4,,,0
+H5,2020,2020,2020,2,0,2,Export,124,Canada,CAN,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,124,Canada,CAN,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14,,,0
+H5,2020,2020,2020,2,0,1,Import,124,Canada,CAN,74,Bouvet Island,BVT,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,17,,,0
+H5,2020,2020,2020,2,0,1,Import,124,Canada,CAN,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,25,,,0
+H5,2020,2020,2020,2,0,2,Export,124,Canada,CAN,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5371,,,4
+H5,2020,2020,2020,2,0,2,Export,144,Sri Lanka,LKA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8,,,4
+H5,2020,2020,2020,2,0,3,Re-Export,144,Sri Lanka,LKA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4,,,0
+H5,2020,2020,2020,2,0,1,Import,156,China,CHN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14855,,,4
+H5,2020,2020,2020,2,0,2,Export,156,China,CHN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5038807,,,0
+H5,2020,2020,2020,2,0,2,Export,156,China,CHN,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,9350670,,,0
+H5,2020,2020,2020,2,0,1,Import,156,China,CHN,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,38,,,4
+H5,2020,2020,2020,2,0,2,Export,156,China,CHN,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1089662,,,0
+H5,2020,2020,2020,2,0,1,Import,170,Colombia,COL,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,390,,,0
+H5,2020,2020,2020,2,0,1,Import,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,725546,,,0
+H5,2020,2020,2020,2,0,2,Export,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6970250,,,0
+H5,2020,2020,2020,2,0,1,Import,203,Czechia,CZE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1967,,,4
+H5,2020,2020,2020,2,0,2,Export,203,Czechia,CZE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1228767,,,4
+H5,2020,2020,2020,2,0,1,Import,208,Denmark,DNK,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,35722,,,0
+H5,2020,2020,2020,2,0,2,Export,208,Denmark,DNK,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,124671,,,0
+H5,2020,2020,2020,2,0,2,Export,233,Estonia,EST,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1461,,,0
+H5,2020,2020,2020,2,0,2,Export,233,Estonia,EST,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2089,,,0
+H5,2020,2020,2020,2,0,1,Import,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,265,,,4
+H5,2020,2020,2020,2,0,2,Export,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8205,,,0
+H5,2020,2020,2020,2,0,2,Export,246,Finland,FIN,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3047,,,4
+H5,2020,2020,2020,2,0,1,Import,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,10221,,,0
+H5,2020,2020,2020,2,0,2,Export,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,849963,,,4
+H5,2020,2020,2020,2,0,2,Export,251,France,FRA,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6252,,,4
+H5,2020,2020,2020,2,0,2,Export,251,France,FRA,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2902,,,4
+H5,2020,2020,2020,2,0,1,Import,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1499985,,,0
+H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,15848312,,,4
+H5,2020,2020,2020,2,0,1,Import,276,Germany,DEU,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,481,,,0
+H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1078338,,,4
+H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1585,,,0
+H5,2020,2020,2020,2,0,1,Import,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,30786,,,0
+H5,2020,2020,2020,2,0,2,Export,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,82912,,,0
+H5,2020,2020,2020,2,0,2,Export,300,Greece,GRC,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,925,,,0
+H5,2020,2020,2020,2,0,2,Export,300,Greece,GRC,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3102,,,0
+H5,2020,2020,2020,2,0,1,Import,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4366826,,,4
+H5,2020,2020,2020,2,0,2,Export,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8069641,,,4
+H5,2020,2020,2020,2,0,2,Export,348,Hungary,HUN,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,251,,,4
+H5,2020,2020,2020,2,0,1,Import,352,Iceland,ISL,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,18,,,0
+H5,2020,2020,2020,2,0,1,Import,360,Indonesia,IDN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,122,,,0
+H5,2020,2020,2020,2,0,2,Export,360,Indonesia,IDN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,53263,,,0
+H5,2020,2020,2020,2,0,1,Import,360,Indonesia,IDN,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,17651,,,0
+H5,2020,2020,2020,2,0,2,Export,360,Indonesia,IDN,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,182,,,0
+H5,2020,2020,2020,2,0,1,Import,372,Ireland,IRL,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1958,,,0
+H5,2020,2020,2020,2,0,1,Import,372,Ireland,IRL,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,132,,,0
+H5,2020,2020,2020,2,0,1,Import,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1000,,,4
+H5,2020,2020,2020,2,0,1,Import,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5329,,,0
+H5,2020,2020,2020,2,0,2,Export,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5094156,,,0
+H5,2020,2020,2020,2,0,2,Export,392,Japan,JPN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,67268,,,0
+H5,2020,2020,2020,2,0,2,Export,392,Japan,JPN,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,58080,,,0
+H5,2020,2020,2020,2,0,1,Import,410,Rep. of Korea,KOR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1400,,,4
+H5,2020,2020,2020,2,0,2,Export,410,Rep. of Korea,KOR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,602390,,,0
+H5,2020,2020,2020,2,0,1,Import,414,Kuwait,KWT,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,17336,,,0
+H5,2020,2020,2020,2,0,2,Export,440,Lithuania,LTU,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,25847,,,0
+H5,2020,2020,2020,2,0,1,Import,442,Luxembourg,LUX,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,21649,,,0
+H5,2020,2020,2020,2,0,2,Export,442,Luxembourg,LUX,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,42688,,,0
+H5,2020,2020,2020,2,0,2,Export,458,Malaysia,MYS,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,466786,,,0
+H5,2020,2020,2020,2,0,2,Export,458,Malaysia,MYS,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,432451,,,0
+H5,2020,2020,2020,2,0,1,Import,490,"Other Asia, nes",,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5986,,,4
+H5,2020,2020,2020,2,0,2,Export,490,"Other Asia, nes",,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,29746,,,0
+H5,2020,2020,2020,2,0,1,Import,490,"Other Asia, nes",,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,68,,,0
+H5,2020,2020,2020,2,0,2,Export,490,"Other Asia, nes",,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,68,,,0
+H5,2020,2020,2020,2,0,1,Import,498,Rep. of Moldova,MDA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,278,,,4
+H5,2020,2020,2020,2,0,1,Import,499,Montenegro,MNE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,245243,,,0
+H5,2020,2020,2020,2,0,2,Export,499,Montenegro,MNE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3849,,,0
+H5,2020,2020,2020,2,0,1,Import,516,Namibia,NAM,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1107251,,,4
+H5,2020,2020,2020,2,0,2,Export,516,Namibia,NAM,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6641,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,516,Namibia,NAM,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6015,,,0
+H5,2020,2020,2020,2,0,1,Import,528,Netherlands,NLD,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,236080,,,0
+H5,2020,2020,2020,2,0,2,Export,528,Netherlands,NLD,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1437511,,,0
+H5,2020,2020,2020,2,0,2,Export,528,Netherlands,NLD,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,27712,,,0
+H5,2020,2020,2020,2,0,1,Import,528,Netherlands,NLD,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,56980,,,0
+H5,2020,2020,2020,2,0,2,Export,528,Netherlands,NLD,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,114106,,,0
+H5,2020,2020,2020,2,0,1,Import,554,New Zealand,NZL,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3028,,,4
+H5,2020,2020,2020,2,0,1,Import,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,34032,,,0
+H5,2020,2020,2020,2,0,2,Export,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3499,,,0
+H5,2020,2020,2020,2,0,1,Import,586,Pakistan,PAK,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,454,,,4
+H5,2020,2020,2020,2,0,1,Import,616,Poland,POL,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,286550,,,4
+H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,7264729,,,4
+H5,2020,2020,2020,2,0,1,Import,616,Poland,POL,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2073,,,0
+H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,270,,,0
+H5,2020,2020,2020,2,0,1,Import,616,Poland,POL,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1235,,,0
+H5,2020,2020,2020,2,0,2,Export,616,Poland,POL,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,16196,,,4
+H5,2020,2020,2020,2,0,2,Export,620,Portugal,PRT,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,405072,,,0
+H5,2020,2020,2020,2,0,2,Export,620,Portugal,PRT,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,10,,,4
+H5,2020,2020,2020,2,0,2,Export,620,Portugal,PRT,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4,,,4
+H5,2020,2020,2020,2,0,1,Import,642,Romania,ROU,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,26983,,,0
+H5,2020,2020,2020,2,0,2,Export,642,Romania,ROU,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1329628,,,0
+H5,2020,2020,2020,2,0,1,Import,688,Serbia,SRB,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,531375,,,4
+H5,2020,2020,2020,2,0,2,Export,688,Serbia,SRB,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,13833217,,,4
+H5,2020,2020,2020,2,0,2,Export,699,India,IND,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,848410,,,4
+H5,2020,2020,2020,2,0,2,Export,699,India,IND,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1160606,,,4
+H5,2020,2020,2020,2,0,1,Import,702,Singapore,SGP,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,587,,,4
+H5,2020,2020,2020,2,0,2,Export,702,Singapore,SGP,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,70,,,4
+H5,2020,2020,2020,2,0,1,Import,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1207,,,0
+H5,2020,2020,2020,2,0,2,Export,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2452870,,,4
+H5,2020,2020,2020,2,0,2,Export,703,Slovakia,SVK,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1860,,,4
+H5,2020,2020,2020,2,0,1,Import,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1611487,,,0
+H5,2020,2020,2020,2,0,2,Export,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,18135306,,,0
+H5,2020,2020,2020,2,0,2,Export,705,Slovenia,SVN,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5040,,,0
+H5,2020,2020,2020,2,0,1,Import,710,South Africa,ZAF,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,505,,,0
+H5,2020,2020,2020,2,0,2,Export,710,South Africa,ZAF,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,32065,,,0
+H5,2020,2020,2020,2,0,1,Import,710,South Africa,ZAF,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,99056,,,0
+H5,2020,2020,2020,2,0,2,Export,710,South Africa,ZAF,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,31073558,,,4
+H5,2020,2020,2020,2,0,2,Export,710,South Africa,ZAF,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,710,,,0
+H5,2020,2020,2020,2,0,1,Import,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,18857,,,0
+H5,2020,2020,2020,2,0,2,Export,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2573,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2083,,,0
+H5,2020,2020,2020,2,0,1,Import,716,Zimbabwe,ZWE,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,44211,,,0
+H5,2020,2020,2020,2,0,1,Import,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,610777,,,0
+H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,238631,,,0
+H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3321,,,0
+H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,768,,,0
+H5,2020,2020,2020,2,0,1,Import,752,Sweden,SWE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8828,,,4
+H5,2020,2020,2020,2,0,2,Export,752,Sweden,SWE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,166219,,,4
+H5,2020,2020,2020,2,0,2,Export,752,Sweden,SWE,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2506,,,4
+H5,2020,2020,2020,2,0,1,Import,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,20100,,,4
+H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,81243,,,4
+H5,2020,2020,2020,2,0,2,Export,757,Switzerland,CHE,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,22912,,,4
+H5,2020,2020,2020,2,0,1,Import,757,Switzerland,CHE,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,58,,,4
+H5,2020,2020,2020,2,0,1,Import,764,Thailand,THA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,23841,,,4
+H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,100,,,0
+H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,480174,,,0
+H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3512,,,4
+H5,2020,2020,2020,2,0,1,Import,792,Turkey,TUR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,115932,,,0
+H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6846286,,,0
+H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,20294,,,0
+H5,2020,2020,2020,2,0,1,Import,804,Ukraine,UKR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2840,,,0
+H5,2020,2020,2020,2,0,2,Export,804,Ukraine,UKR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,44633,,,0
+H5,2020,2020,2020,2,0,1,Import,804,Ukraine,UKR,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,248,,,0
+H5,2020,2020,2020,2,0,1,Import,807,North Macedonia,MKD,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,164760,,,4
+H5,2020,2020,2020,2,0,2,Export,807,North Macedonia,MKD,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,98783,,,4
+H5,2020,2020,2020,2,0,1,Import,826,United Kingdom,GBR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2971,,,0
+H5,2020,2020,2020,2,0,2,Export,826,United Kingdom,GBR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,44573,,,0
+H5,2020,2020,2020,2,0,2,Export,826,United Kingdom,GBR,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,21135,,,4
+H5,2020,2020,2020,2,0,2,Export,826,United Kingdom,GBR,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,35316,,,0
+H5,2020,2020,2020,2,0,1,Import,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,24947,,,0
+H5,2020,2020,2020,2,0,2,Export,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,600572,,,4
+H5,2020,2020,2020,2,0,2,Export,842,USA,USA,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,30313,,,0
+H5,2020,2020,2020,2,0,3,Re-Export,842,USA,USA,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5858,,,0
+H5,2020,2020,2020,2,0,1,Import,842,USA,USA,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,276864,,,0
+H5,2020,2020,2020,2,0,2,Export,842,USA,USA,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,814352,,,4
+H5,2020,2020,2020,2,0,3,Re-Export,842,USA,USA,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,48742,,,0
+H5,2020,2020,2020,2,0,1,Import,894,Zambia,ZMB,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,7972,,,0
+H4,2020,2020,2020,2,0,1,Import,180,Dem. Rep. of the Congo,COD,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,738,,,0
+H4,2020,2020,2020,2,0,1,Import,308,Grenada,GRD,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14,,,0
+H4,2020,2020,2020,2,0,1,Import,308,Grenada,GRD,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,527,,,0
+H4,2020,2020,2020,2,0,1,Import,484,Mexico,MEX,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,531908,,,0
+H4,2020,2020,2020,2,0,2,Export,818,Egypt,EGY,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1,,,4
+H4,2020,2020,2020,2,0,2,Export,818,Egypt,EGY,72,Botswana,BWA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10587,,,4
+H4,2020,2020,2020,2,0,2,Export,180,Dem. Rep. of the Congo,COD,72,Botswana,BWA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,55521,,,0
+H4,2020,2020,2020,2,0,1,Import,308,Grenada,GRD,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,401,,,0
+H4,2020,2020,2020,2,0,1,Import,484,Mexico,MEX,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,73,,,0

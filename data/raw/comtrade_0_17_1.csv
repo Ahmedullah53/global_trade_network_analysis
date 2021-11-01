@@ -1,0 +1,194 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,2,0,1,Import,36,Australia,AUS,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1790,,,0
+H1,2001,2001,2001,2,0,2,Export,36,Australia,AUS,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,125426888,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,234,Faeroe Isds,FRO,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,266610,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1776,,,0
+H1,2001,2001,2001,2,0,1,Import,184,Cook Isds,COK,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,401165,,,0
+H1,2001,2001,2001,2,0,1,Import,208,Denmark,DNK,234,Faeroe Isds,FRO,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,122848,,,0
+H1,2001,2001,2001,2,0,2,Export,208,Denmark,DNK,234,Faeroe Isds,FRO,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1579227,,,0
+H1,2001,2001,2001,2,0,2,Export,233,Estonia,EST,234,Faeroe Isds,FRO,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4142,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5000,,,0
+H1,2001,2001,2001,2,0,2,Export,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,161128,,,0
+H1,2001,2001,2001,2,0,2,Export,381,Italy,ITA,238,Falkland Isds (Malvinas),FLK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4792807,,,0
+H1,2001,2001,2001,2,0,1,Import,392,Japan,JPN,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,8787,,,0
+H1,2001,2001,2001,2,0,2,Export,392,Japan,JPN,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,11381,,,0
+H1,2001,2001,2001,2,0,2,Export,442,Luxembourg,LUX,234,Faeroe Isds,FRO,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,635471,,,0
+H1,2001,2001,2001,2,0,2,Export,458,Malaysia,MYS,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,22694,,,0
+H1,2001,2001,2001,2,0,2,Export,490,"Other Asia, nes",,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,10000,,,0
+H1,2001,2001,2001,2,0,1,Import,516,Namibia,NAM,234,Faeroe Isds,FRO,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,33142,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,234,Faeroe Isds,FRO,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,7166,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3583,,,0
+H1,2001,2001,2001,2,0,2,Export,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3550180,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,6503,,,0
+H1,2001,2001,2001,2,0,1,Import,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,6309,,,0
+H1,2001,2001,2001,2,0,2,Export,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,34748756,,,0
+H1,2001,2001,2001,2,0,2,Export,643,Russian Federation,RUS,234,Faeroe Isds,FRO,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1460,,,0
+H1,2001,2001,2001,2,0,2,Export,702,Singapore,SGP,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,21983198,,,0
+H1,2001,2001,2001,2,0,2,Export,724,Spain,ESP,234,Faeroe Isds,FRO,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,,,923627,,,4
+H1,2001,2001,2001,2,0,2,Export,724,Spain,ESP,238,Falkland Isds (Malvinas),FLK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,12759108,,,0
+H1,2001,2001,2001,2,0,1,Import,752,Sweden,SWE,234,Faeroe Isds,FRO,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,485,,,0
+H1,2001,2001,2001,2,0,2,Export,752,Sweden,SWE,234,Faeroe Isds,FRO,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4438262,,,0
+H1,2001,2001,2001,2,0,2,Export,757,Switzerland,CHE,238,Falkland Isds (Malvinas),FLK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,628,,,0
+H1,2001,2001,2001,2,0,2,Export,764,Thailand,THA,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,8290,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,234,Faeroe Isds,FRO,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2006,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,238,Falkland Isds (Malvinas),FLK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,258773,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,315305,,,0
+H1,2001,2001,2001,2,0,1,Import,882,Samoa,WSM,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2629074,,,0
+H1,2001,2001,2001,2,0,2,Export,882,Samoa,WSM,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4100,,,0
+H1,2001,2001,2001,2,0,2,Export,36,Australia,AUS,238,Falkland Isds (Malvinas),FLK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1038,,,0
+H1,2001,2001,2001,2,0,1,Import,36,Australia,AUS,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,764602,,,0
+H1,2001,2001,2001,2,0,2,Export,36,Australia,AUS,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4981721,,,0
+H1,2001,2001,2001,2,0,1,Import,40,Austria,AUT,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,528,,,0
+H1,2001,2001,2001,2,0,2,Export,40,Austria,AUT,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,626,,,0
+H1,2001,2001,2001,2,0,2,Export,40,Austria,AUT,238,Falkland Isds (Malvinas),FLK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4,,,0
+H1,2001,2001,2001,2,0,2,Export,40,Austria,AUT,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9,,,0
+H1,2001,2001,2001,2,0,1,Import,56,Belgium,BEL,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5737,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19417,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1196,,,0
+H1,2001,2001,2001,2,0,1,Import,124,Canada,CAN,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18326,,,0
+H1,2001,2001,2001,2,0,1,Import,124,Canada,CAN,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,776,,,0
+H1,2001,2001,2001,2,0,1,Import,156,China,CHN,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1674,,,0
+H1,2001,2001,2001,2,0,2,Export,156,China,CHN,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,529760,,,0
+H1,2001,2001,2001,2,0,2,Export,170,Colombia,COL,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3511,,,0
+H1,2001,2001,2001,2,0,1,Import,184,Cook Isds,COK,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12884,,,0
+H1,2001,2001,2001,2,0,1,Import,191,Croatia,HRV,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,86,,,0
+H1,2001,2001,2001,2,0,1,Import,203,Czechia,CZE,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6153,,,0
+H1,2001,2001,2001,2,0,1,Import,208,Denmark,DNK,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43281,,,0
+H1,2001,2001,2001,2,0,2,Export,208,Denmark,DNK,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6212460,,,0
+H1,2001,2001,2001,2,0,2,Export,246,Finland,FIN,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,68975,,,0
+H1,2001,2001,2001,2,0,2,Export,251,France,FRA,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,327722,,,0
+H1,2001,2001,2001,2,0,1,Import,251,France,FRA,238,Falkland Isds (Malvinas),FLK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12539,,,0
+H1,2001,2001,2001,2,0,2,Export,251,France,FRA,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,108345,,,0
+H1,2001,2001,2001,2,0,1,Import,258,French Polynesia,PYF,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11558,,,0
+H1,2001,2001,2001,2,0,2,Export,258,French Polynesia,PYF,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,375,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,682000,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,238,Falkland Isds (Malvinas),FLK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21000,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,53000,,,0
+H1,2001,2001,2001,2,0,1,Import,320,Guatemala,GTM,238,Falkland Isds (Malvinas),FLK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,616,,,0
+H1,2001,2001,2001,2,0,1,Import,344,"China, Hong Kong SAR",HKG,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,394,,,0
+H1,2001,2001,2001,2,0,2,Export,344,"China, Hong Kong SAR",HKG,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,848135,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,797535,,,0
+H1,2001,2001,2001,2,0,2,Export,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,923529,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,64148,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,516384,,,0
+H1,2001,2001,2001,2,0,1,Import,372,Ireland,IRL,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,239,,,0
+H1,2001,2001,2001,2,0,1,Import,372,Ireland,IRL,238,Falkland Isds (Malvinas),FLK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,125737,,,0
+H1,2001,2001,2001,2,0,2,Export,376,Israel,ISR,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2000,,,0
+H1,2001,2001,2001,2,0,2,Export,381,Italy,ITA,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37578,,,0
+H1,2001,2001,2001,2,0,1,Import,381,Italy,ITA,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9273,,,0
+H1,2001,2001,2001,2,0,2,Export,392,Japan,JPN,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,137014,,,0
+H1,2001,2001,2001,2,0,1,Import,410,Rep. of Korea,KOR,238,Falkland Isds (Malvinas),FLK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7256,,,0
+H1,2001,2001,2001,2,0,2,Export,410,Rep. of Korea,KOR,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,993893,,,0
+H1,2001,2001,2001,2,0,2,Export,458,Malaysia,MYS,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,744027,,,0
+H1,2001,2001,2001,2,0,2,Export,484,Mexico,MEX,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,391,,,0
+H1,2001,2001,2001,2,0,2,Export,490,"Other Asia, nes",,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,968733,,,0
+H1,2001,2001,2001,2,0,1,Import,516,Namibia,NAM,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,46579,,,0
+H1,2001,2001,2001,2,0,1,Import,528,Netherlands,NLD,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3583,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1792,,,0
+H1,2001,2001,2001,2,0,1,Import,540,New Caledonia,NCL,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6529,,,0
+H1,2001,2001,2001,2,0,2,Export,540,New Caledonia,NCL,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2649,,,0
+H1,2001,2001,2001,2,0,2,Export,554,New Zealand,NZL,238,Falkland Isds (Malvinas),FLK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2871,,,0
+H1,2001,2001,2001,2,0,1,Import,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31220,,,0
+H1,2001,2001,2001,2,0,2,Export,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4485351,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,600966,,,0
+H1,2001,2001,2001,2,0,1,Import,566,Nigeria,NGA,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,557543,,,0
+H1,2001,2001,2001,2,0,1,Import,566,Nigeria,NGA,238,Falkland Isds (Malvinas),FLK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,64907,,,0
+H1,2001,2001,2001,2,0,1,Import,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9232,,,0
+H1,2001,2001,2001,2,0,2,Export,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1222662,,,0
+H1,2001,2001,2001,2,0,1,Import,608,Philippines,PHL,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34719,,,0
+H1,2001,2001,2001,2,0,2,Export,608,Philippines,PHL,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12967,,,0
+H1,2001,2001,2001,2,0,2,Export,682,Saudi Arabia,SAU,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,94667,,,0
+H1,2001,2001,2001,2,0,1,Import,699,India,IND,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9138,,,0
+H1,2001,2001,2001,2,0,2,Export,699,India,IND,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,74025,,,0
+H1,2001,2001,2001,2,0,1,Import,702,Singapore,SGP,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7130,,,0
+H1,2001,2001,2001,2,0,2,Export,702,Singapore,SGP,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1746940,,,0
+H1,2001,2001,2001,2,0,2,Export,704,Viet Nam,VNM,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18749,,,0
+H1,2001,2001,2001,2,0,1,Import,705,Slovenia,SVN,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,56,,,0
+H1,2001,2001,2001,2,0,1,Import,705,Slovenia,SVN,238,Falkland Isds (Malvinas),FLK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,141,,,0
+H1,2001,2001,2001,2,0,2,Export,705,Slovenia,SVN,238,Falkland Isds (Malvinas),FLK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,83,,,0
+H1,2001,2001,2001,2,0,2,Export,710,South Africa,ZAF,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,119,,,0
+H1,2001,2001,2001,2,0,2,Export,752,Sweden,SWE,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,332950,,,0
+H1,2001,2001,2001,2,0,2,Export,752,Sweden,SWE,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1551,,,0
+H1,2001,2001,2001,2,0,1,Import,757,Switzerland,CHE,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2265,,,0
+H1,2001,2001,2001,2,0,2,Export,764,Thailand,THA,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1736115,,,0
+H1,2001,2001,2001,2,0,1,Import,792,Turkey,TUR,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5082,,,0
+H1,2001,2001,2001,2,0,2,Export,792,Turkey,TUR,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,61064,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1027436,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,238,Falkland Isds (Malvinas),FLK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,390461,,,0
+H1,2001,2001,2001,2,0,1,Import,826,United Kingdom,GBR,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,880,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,209269,,,0
+H1,2001,2001,2001,2,0,1,Import,842,USA,USA,234,Faeroe Isds,FRO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,381,,,0
+H1,2001,2001,2001,2,0,1,Import,842,USA,USA,238,Falkland Isds (Malvinas),FLK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,55027,,,0
+H1,2001,2001,2001,2,0,1,Import,842,USA,USA,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,76964,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,631746,,,0
+H1,2001,2001,2001,2,0,1,Import,882,Samoa,WSM,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,94365,,,0
+H1,2001,2001,2001,2,0,2,Export,882,Samoa,WSM,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1096,,,0
+H1,2001,2001,2001,2,0,1,Import,36,Australia,AUS,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1048,,,0
+H1,2001,2001,2001,2,0,2,Export,36,Australia,AUS,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1754788,,,0
+H1,2001,2001,2001,2,0,2,Export,40,Austria,AUT,234,Faeroe Isds,FRO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,879,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,234,Faeroe Isds,FRO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7256,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5078,,,0
+H1,2001,2001,2001,2,0,1,Import,124,Canada,CAN,234,Faeroe Isds,FRO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7956,,,0
+H1,2001,2001,2001,2,0,2,Export,144,Sri Lanka,LKA,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,197040,,,0
+H1,2001,2001,2001,2,0,2,Export,156,China,CHN,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,678927,,,0
+H1,2001,2001,2001,2,0,1,Import,188,Costa Rica,CRI,238,Falkland Isds (Malvinas),FLK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15,,,0
+H1,2001,2001,2001,2,0,2,Export,203,Czechia,CZE,238,Falkland Isds (Malvinas),FLK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,51,,,0
+H1,2001,2001,2001,2,0,1,Import,208,Denmark,DNK,234,Faeroe Isds,FRO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17198,,,0
+H1,2001,2001,2001,2,0,2,Export,208,Denmark,DNK,234,Faeroe Isds,FRO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2357590,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,234,Faeroe Isds,FRO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,63000,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,238,Falkland Isds (Malvinas),FLK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1000,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8000,,,0
+H1,2001,2001,2001,2,0,1,Import,320,Guatemala,GTM,238,Falkland Isds (Malvinas),FLK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2190,,,0
+H1,2001,2001,2001,2,0,2,Export,344,"China, Hong Kong SAR",HKG,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4841,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4372,,,0
+H1,2001,2001,2001,2,0,2,Export,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24589,,,0
+H1,2001,2001,2001,2,0,1,Import,352,Iceland,ISL,238,Falkland Isds (Malvinas),FLK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,301,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,234,Faeroe Isds,FRO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,122799,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,238,Falkland Isds (Malvinas),FLK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,182193,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,449970,,,0
+H1,2001,2001,2001,2,0,2,Export,381,Italy,ITA,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25077,,,0
+H1,2001,2001,2001,2,0,2,Export,392,Japan,JPN,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1047385,,,0
+H1,2001,2001,2001,2,0,2,Export,410,Rep. of Korea,KOR,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,469283,,,0
+H1,2001,2001,2001,2,0,1,Import,450,Madagascar,MDG,238,Falkland Isds (Malvinas),FLK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1690,,,0
+H1,2001,2001,2001,2,0,2,Export,458,Malaysia,MYS,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,225797,,,0
+H1,2001,2001,2001,2,0,2,Export,490,"Other Asia, nes",,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,110799,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,234,Faeroe Isds,FRO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,151382,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,238,Falkland Isds (Malvinas),FLK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5375,,,0
+H1,2001,2001,2001,2,0,2,Export,554,New Zealand,NZL,238,Falkland Isds (Malvinas),FLK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,344,,,0
+H1,2001,2001,2001,2,0,1,Import,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5586,,,0
+H1,2001,2001,2001,2,0,2,Export,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,809557,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,100579,,,0
+H1,2001,2001,2001,2,0,1,Import,566,Nigeria,NGA,234,Faeroe Isds,FRO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,65644,,,0
+H1,2001,2001,2001,2,0,1,Import,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1809,,,0
+H1,2001,2001,2001,2,0,2,Export,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,151554,,,0
+H1,2001,2001,2001,2,0,2,Export,699,India,IND,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,139026,,,0
+H1,2001,2001,2001,2,0,2,Export,702,Singapore,SGP,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,238216,,,0
+H1,2001,2001,2001,2,0,2,Export,703,Slovakia,SVK,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47954,,,0
+H1,2001,2001,2001,2,0,2,Export,710,South Africa,ZAF,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4496,,,0
+H1,2001,2001,2001,2,0,2,Export,724,Spain,ESP,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,52522,,,0
+H1,2001,2001,2001,2,0,1,Import,752,Sweden,SWE,234,Faeroe Isds,FRO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6794,,,0
+H1,2001,2001,2001,2,0,2,Export,752,Sweden,SWE,234,Faeroe Isds,FRO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,168171,,,0
+H1,2001,2001,2001,2,0,2,Export,764,Thailand,THA,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,649457,,,0
+H1,2001,2001,2001,2,0,1,Import,826,United Kingdom,GBR,234,Faeroe Isds,FRO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10117,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,234,Faeroe Isds,FRO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,451804,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,238,Falkland Isds (Malvinas),FLK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29674,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9546,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,234,Faeroe Isds,FRO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25118,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,52550,,,0
+H1,2001,2001,2001,2,0,1,Import,882,Samoa,WSM,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6918,,,0
+H1,2001,2001,2001,2,0,2,Export,882,Samoa,WSM,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2302,,,0
+H0,2001,2001,2001,2,0,1,Import,598,Papua New Guinea,PNG,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,129951,,,0
+H0,2001,2001,2001,2,0,1,Import,776,Tonga,TON,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2263494,,,0
+H0,2001,2001,2001,2,0,2,Export,776,Tonga,TON,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,37,,,0
+H0,2001,2001,2001,2,0,3,Re-Export,776,Tonga,TON,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,37,,,0
+H0,2001,2001,2001,2,0,1,Import,798,Tuvalu,TUV,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,42157,,,0
+H0,2001,2001,2001,2,0,1,Import,876,Wallis and Futuna Isds,WLF,242,Fiji,FJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4640,,,0
+H0,2001,2001,2001,2,0,1,Import,776,Tonga,TON,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,69566,,,0
+H0,2001,2001,2001,2,0,1,Import,798,Tuvalu,TUV,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,40340,,,0
+H0,2001,2001,2001,2,0,1,Import,876,Wallis and Futuna Isds,WLF,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6309,,,0
+H0,2001,2001,2001,2,0,1,Import,894,Zambia,ZMB,242,Fiji,FJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,61,,,0
+H0,2001,2001,2001,2,0,1,Import,598,Papua New Guinea,PNG,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,482,,,0
+H0,2001,2001,2001,2,0,1,Import,776,Tonga,TON,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5417,,,0
+H0,2001,2001,2001,2,0,1,Import,798,Tuvalu,TUV,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7988,,,0
+H0,2001,2001,2001,2,0,1,Import,876,Wallis and Futuna Isds,WLF,242,Fiji,FJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1316,,,0

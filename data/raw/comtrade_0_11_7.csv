@@ -1,0 +1,628 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2007,2007,2007,2,0,1,Import,32,Argentina,ARG,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,35365611,,,0
+H3,2007,2007,2007,2,0,2,Export,32,Argentina,ARG,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1223958,,,0
+H3,2007,2007,2007,2,0,2,Export,36,Australia,AUS,162,Christmas Isds,CXR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2552301,,,0
+H3,2007,2007,2007,2,0,2,Export,36,Australia,AUS,166,Cocos Isds,CCK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,268041,,,0
+H3,2007,2007,2007,2,0,1,Import,36,Australia,AUS,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,407594,,,0
+H3,2007,2007,2007,2,0,2,Export,36,Australia,AUS,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2150628,,,0
+H3,2007,2007,2007,2,0,2,Export,40,Austria,AUT,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,912,,,0
+H3,2007,2007,2007,2,0,1,Import,56,Belgium,BEL,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,40308458,,,0
+H3,2007,2007,2007,2,0,2,Export,56,Belgium,BEL,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,293956,,,0
+H3,2007,2007,2007,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,276202,,,0
+H3,2007,2007,2007,2,0,1,Import,76,Brazil,BRA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,184608102,,,0
+H3,2007,2007,2007,2,0,2,Export,76,Brazil,BRA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,8846201,,,0
+H3,2007,2007,2007,2,0,1,Import,100,Bulgaria,BGR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5761,,,0
+H3,2007,2007,2007,2,0,2,Export,100,Bulgaria,BGR,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,671657,,,0
+H3,2007,2007,2007,2,0,2,Export,124,Canada,CAN,166,Cocos Isds,CCK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3333,,,0
+H3,2007,2007,2007,2,0,1,Import,124,Canada,CAN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,131743294,,,0
+H3,2007,2007,2007,2,0,2,Export,124,Canada,CAN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1850727,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,124,Canada,CAN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,341,,,0
+H3,2007,2007,2007,2,0,1,Import,152,Chile,CHL,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,583499680,,,0
+H3,2007,2007,2007,2,0,2,Export,152,Chile,CHL,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5255,,,0
+H3,2007,2007,2007,2,0,1,Import,156,China,CHN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,409407411,,,0
+H3,2007,2007,2007,2,0,2,Export,156,China,CHN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2243361,,,0
+H3,2007,2007,2007,2,0,2,Export,156,China,CHN,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,68067,,,0
+H3,2007,2007,2007,2,0,2,Export,175,Mayotte,MYT,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10243,,,0
+H3,2007,2007,2007,2,0,1,Import,188,Costa Rica,CRI,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,26689717,,,0
+H3,2007,2007,2007,2,0,2,Export,188,Costa Rica,CRI,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,7874120,,,0
+H3,2007,2007,2007,2,0,1,Import,191,Croatia,HRV,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,9542315,,,0
+H3,2007,2007,2007,2,0,1,Import,214,Dominican Rep.,DOM,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,31795579,,,0
+H3,2007,2007,2007,2,0,2,Export,214,Dominican Rep.,DOM,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,367,,,0
+H3,2007,2007,2007,2,0,1,Import,222,El Salvador,SLV,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5683122,,,0
+H3,2007,2007,2007,2,0,2,Export,233,Estonia,EST,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,65177,,,0
+H3,2007,2007,2007,2,0,1,Import,246,Finland,FIN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,7150768,,,0
+H3,2007,2007,2007,2,0,1,Import,251,France,FRA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,162312086,,,0
+H3,2007,2007,2007,2,0,2,Export,251,France,FRA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2933761,,,0
+H3,2007,2007,2007,2,0,2,Export,251,France,FRA,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,41166,,,0
+H3,2007,2007,2007,2,0,2,Export,276,Germany,DEU,162,Christmas Isds,CXR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,36000,,,0
+H3,2007,2007,2007,2,0,1,Import,276,Germany,DEU,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,527841000,,,0
+H3,2007,2007,2007,2,0,2,Export,276,Germany,DEU,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2806000,,,0
+H3,2007,2007,2007,2,0,1,Import,300,Greece,GRC,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2023447,,,0
+H3,2007,2007,2007,2,0,2,Export,300,Greece,GRC,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,172280,,,0
+H3,2007,2007,2007,2,0,2,Export,300,Greece,GRC,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,689714,,,0
+H3,2007,2007,2007,2,0,2,Export,300,Greece,GRC,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,30228,,,0
+H3,2007,2007,2007,2,0,1,Import,320,Guatemala,GTM,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,39291537,,,0
+H3,2007,2007,2007,2,0,2,Export,320,Guatemala,GTM,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1035092,,,0
+H3,2007,2007,2007,2,0,1,Import,328,Guyana,GUY,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,104286,,,0
+H3,2007,2007,2007,2,0,1,Import,340,Honduras,HND,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,7202374,,,0
+H3,2007,2007,2007,2,0,2,Export,344,"China, Hong Kong SAR",HKG,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,80111,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,80111,,,0
+H3,2007,2007,2007,2,0,2,Export,352,Iceland,ISL,166,Cocos Isds,CCK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,900,,,0
+H3,2007,2007,2007,2,0,1,Import,372,Ireland,IRL,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2505431,,,0
+H3,2007,2007,2007,2,0,2,Export,372,Ireland,IRL,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4528,,,0
+H3,2007,2007,2007,2,0,1,Import,376,Israel,ISR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,570264000,,,0
+H3,2007,2007,2007,2,0,1,Import,381,Italy,ITA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,163783011,,,0
+H3,2007,2007,2007,2,0,2,Export,381,Italy,ITA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2134342,,,0
+H3,2007,2007,2007,2,0,2,Export,381,Italy,ITA,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,15851,,,0
+H3,2007,2007,2007,2,0,1,Import,392,Japan,JPN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2968676,,,0
+H3,2007,2007,2007,2,0,2,Export,392,Japan,JPN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,421874,,,0
+H3,2007,2007,2007,2,0,2,Export,410,Rep. of Korea,KOR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,450857,,,0
+H3,2007,2007,2007,2,0,2,Export,422,Lebanon,LBN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,859,,,0
+H3,2007,2007,2007,2,0,2,Export,422,Lebanon,LBN,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4413,,,0
+H3,2007,2007,2007,2,0,2,Export,428,Latvia,LVA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,47965,,,0
+H3,2007,2007,2007,2,0,1,Import,440,Lithuania,LTU,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,31952876,,,0
+H3,2007,2007,2007,2,0,2,Export,440,Lithuania,LTU,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,44880,,,0
+H3,2007,2007,2007,2,0,2,Export,440,Lithuania,LTU,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,986,,,0
+H3,2007,2007,2007,2,0,1,Import,450,Madagascar,MDG,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2298,,,0
+H3,2007,2007,2007,2,0,2,Export,450,Madagascar,MDG,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1020734,,,0
+H3,2007,2007,2007,2,0,1,Import,528,Netherlands,NLD,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,757381397,,,0
+H3,2007,2007,2007,2,0,2,Export,528,Netherlands,NLD,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,31329240,,,0
+H3,2007,2007,2007,2,0,2,Export,528,Netherlands,NLD,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10983,,,0
+H3,2007,2007,2007,2,0,2,Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3822273,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,19758,,,0
+H3,2007,2007,2007,2,0,1,Import,558,Nicaragua,NIC,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,162908,,,0
+H3,2007,2007,2007,2,0,1,Import,579,Norway,NOR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1850922,,,0
+H3,2007,2007,2007,2,0,1,Import,616,Poland,POL,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,24257169,,,0
+H3,2007,2007,2007,2,0,1,Import,620,Portugal,PRT,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,182523045,,,0
+H3,2007,2007,2007,2,0,2,Export,642,Romania,ROU,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2817,,,0
+H3,2007,2007,2007,2,0,2,Export,642,Romania,ROU,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,31799,,,0
+H3,2007,2007,2007,2,0,1,Import,643,Russian Federation,RUS,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4607413,,,0
+H3,2007,2007,2007,2,0,1,Import,702,Singapore,SGP,162,Christmas Isds,CXR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,20407,,,0
+H3,2007,2007,2007,2,0,2,Export,702,Singapore,SGP,162,Christmas Isds,CXR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,113,,,0
+H3,2007,2007,2007,2,0,1,Import,702,Singapore,SGP,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,24229817,,,0
+H3,2007,2007,2007,2,0,2,Export,702,Singapore,SGP,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2395,,,0
+H3,2007,2007,2007,2,0,1,Import,705,Slovenia,SVN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,130798,,,0
+H3,2007,2007,2007,2,0,1,Import,710,South Africa,ZAF,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,118248439,,,0
+H3,2007,2007,2007,2,0,2,Export,710,South Africa,ZAF,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,944043,,,0
+H3,2007,2007,2007,2,0,2,Export,710,South Africa,ZAF,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,479971,,,0
+H3,2007,2007,2007,2,0,1,Import,724,Spain,ESP,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,172344040,,,0
+H3,2007,2007,2007,2,0,2,Export,724,Spain,ESP,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3156953,,,0
+H3,2007,2007,2007,2,0,1,Import,752,Sweden,SWE,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4313326,,,0
+H3,2007,2007,2007,2,0,2,Export,752,Sweden,SWE,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,13794,,,0
+H3,2007,2007,2007,2,0,2,Export,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,18024,,,0
+H3,2007,2007,2007,2,0,1,Import,780,Trinidad and Tobago,TTO,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,631423704,,,0
+H3,2007,2007,2007,2,0,2,Export,780,Trinidad and Tobago,TTO,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,206399289,,,0
+H3,2007,2007,2007,2,0,1,Import,792,Turkey,TUR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,174832308,,,0
+H3,2007,2007,2007,2,0,2,Export,792,Turkey,TUR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,163147,,,0
+H3,2007,2007,2007,2,0,2,Export,792,Turkey,TUR,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,872719,,,0
+H3,2007,2007,2007,2,0,2,Export,792,Turkey,TUR,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10164,,,0
+H3,2007,2007,2007,2,0,1,Import,807,North Macedonia,MKD,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1175673,,,0
+H3,2007,2007,2007,2,0,1,Import,826,United Kingdom,GBR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,313856550,,,0
+H3,2007,2007,2007,2,0,2,Export,826,United Kingdom,GBR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,405301,,,0
+H3,2007,2007,2007,2,0,1,Import,842,USA,USA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5547656291,,,0
+H3,2007,2007,2007,2,0,2,Export,842,USA,USA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,243451768,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,842,USA,USA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,26154,,,0
+H3,2007,2007,2007,2,0,1,Import,12,Algeria,DZA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1375139,,,0
+H3,2007,2007,2007,2,0,2,Export,12,Algeria,DZA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,661454,,,0
+H3,2007,2007,2007,2,0,1,Import,32,Argentina,ARG,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10493764,,,0
+H3,2007,2007,2007,2,0,2,Export,32,Argentina,ARG,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16606747,,,0
+H3,2007,2007,2007,2,0,1,Import,36,Australia,AUS,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1248,,,0
+H3,2007,2007,2007,2,0,2,Export,36,Australia,AUS,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,243479,,,0
+H3,2007,2007,2007,2,0,2,Export,36,Australia,AUS,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,95871,,,0
+H3,2007,2007,2007,2,0,1,Import,36,Australia,AUS,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,572343,,,0
+H3,2007,2007,2007,2,0,2,Export,36,Australia,AUS,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,91180,,,0
+H3,2007,2007,2007,2,0,2,Export,36,Australia,AUS,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,49960,,,0
+H3,2007,2007,2007,2,0,1,Import,40,Austria,AUT,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4173,,,0
+H3,2007,2007,2007,2,0,2,Export,40,Austria,AUT,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2127425,,,0
+H3,2007,2007,2007,2,0,1,Import,51,Armenia,ARM,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1519,,,0
+H3,2007,2007,2007,2,0,2,Export,56,Belgium,BEL,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,36271,,,0
+H3,2007,2007,2007,2,0,1,Import,56,Belgium,BEL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2862735,,,0
+H3,2007,2007,2007,2,0,2,Export,56,Belgium,BEL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31074008,,,0
+H3,2007,2007,2007,2,0,2,Export,56,Belgium,BEL,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,98235,,,0
+H3,2007,2007,2007,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16239304,,,0
+H3,2007,2007,2007,2,0,1,Import,76,Brazil,BRA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,44341486,,,4
+H3,2007,2007,2007,2,0,2,Export,76,Brazil,BRA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,83656260,,,4
+H3,2007,2007,2007,2,0,2,Export,76,Brazil,BRA,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,239,,,0
+H3,2007,2007,2007,2,0,1,Import,100,Bulgaria,BGR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1757,,,0
+H3,2007,2007,2007,2,0,2,Export,100,Bulgaria,BGR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,187969,,,0
+H3,2007,2007,2007,2,0,2,Export,100,Bulgaria,BGR,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17589,,,0
+H3,2007,2007,2007,2,0,1,Import,116,Cambodia,KHM,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5403,,,0
+H3,2007,2007,2007,2,0,1,Import,124,Canada,CAN,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,110,,,0
+H3,2007,2007,2007,2,0,1,Import,124,Canada,CAN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8299753,,,0
+H3,2007,2007,2007,2,0,2,Export,124,Canada,CAN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8173749,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,124,Canada,CAN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,195529,,,0
+H3,2007,2007,2007,2,0,1,Import,124,Canada,CAN,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,697,,,0
+H3,2007,2007,2007,2,0,1,Import,124,Canada,CAN,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,76,,,0
+H3,2007,2007,2007,2,0,2,Export,124,Canada,CAN,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,215025,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,124,Canada,CAN,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21,,,0
+H3,2007,2007,2007,2,0,1,Import,152,Chile,CHL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,67632430,,,0
+H3,2007,2007,2007,2,0,2,Export,152,Chile,CHL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,41003509,,,0
+H3,2007,2007,2007,2,0,1,Import,156,China,CHN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4123425,,,0
+H3,2007,2007,2007,2,0,2,Export,156,China,CHN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,54460134,,,0
+H3,2007,2007,2007,2,0,2,Export,156,China,CHN,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,41680,,,0
+H3,2007,2007,2007,2,0,2,Export,156,China,CHN,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,47487,,,0
+H3,2007,2007,2007,2,0,1,Import,175,Mayotte,MYT,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1715,,,0
+H3,2007,2007,2007,2,0,2,Export,175,Mayotte,MYT,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,60938,,,0
+H3,2007,2007,2007,2,0,1,Import,188,Costa Rica,CRI,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2322,,,0
+H3,2007,2007,2007,2,0,1,Import,188,Costa Rica,CRI,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,48340254,,,0
+H3,2007,2007,2007,2,0,2,Export,188,Costa Rica,CRI,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3919596,,,0
+H3,2007,2007,2007,2,0,1,Import,188,Costa Rica,CRI,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1710,,,0
+H3,2007,2007,2007,2,0,1,Import,191,Croatia,HRV,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,224,,,0
+H3,2007,2007,2007,2,0,1,Import,203,Czechia,CZE,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,172308,,,0
+H3,2007,2007,2007,2,0,2,Export,203,Czechia,CZE,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1041636,,,0
+H3,2007,2007,2007,2,0,1,Import,208,Denmark,DNK,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,810,,,0
+H3,2007,2007,2007,2,0,2,Export,208,Denmark,DNK,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,201670,,,0
+H3,2007,2007,2007,2,0,1,Import,214,Dominican Rep.,DOM,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19939,,,0
+H3,2007,2007,2007,2,0,1,Import,214,Dominican Rep.,DOM,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,36489556,,,0
+H3,2007,2007,2007,2,0,2,Export,214,Dominican Rep.,DOM,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34160,,,0
+H3,2007,2007,2007,2,0,1,Import,222,El Salvador,SLV,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12097565,,,0
+H3,2007,2007,2007,2,0,2,Export,222,El Salvador,SLV,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,130823,,,0
+H3,2007,2007,2007,2,0,1,Import,233,Estonia,EST,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,140552,,,0
+H3,2007,2007,2007,2,0,2,Export,246,Finland,FIN,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26443,,,0
+H3,2007,2007,2007,2,0,1,Import,246,Finland,FIN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33652,,,0
+H3,2007,2007,2007,2,0,2,Export,246,Finland,FIN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,279304,,,0
+H3,2007,2007,2007,2,0,1,Import,251,France,FRA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,172938,,,0
+H3,2007,2007,2007,2,0,2,Export,251,France,FRA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14981669,,,0
+H3,2007,2007,2007,2,0,2,Export,251,France,FRA,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,570835,,,0
+H3,2007,2007,2007,2,0,2,Export,251,France,FRA,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2744,,,0
+H3,2007,2007,2007,2,0,1,Import,276,Germany,DEU,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31000,,,0
+H3,2007,2007,2007,2,0,2,Export,276,Germany,DEU,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7000,,,0
+H3,2007,2007,2007,2,0,1,Import,276,Germany,DEU,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,824000,,,0
+H3,2007,2007,2007,2,0,2,Export,276,Germany,DEU,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,42921000,,,0
+H3,2007,2007,2007,2,0,2,Export,276,Germany,DEU,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3000,,,0
+H3,2007,2007,2007,2,0,2,Export,276,Germany,DEU,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2000,,,0
+H3,2007,2007,2007,2,0,1,Import,300,Greece,GRC,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,121122,,,0
+H3,2007,2007,2007,2,0,2,Export,300,Greece,GRC,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,188160,,,0
+H3,2007,2007,2007,2,0,1,Import,320,Guatemala,GTM,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,35804968,,,0
+H3,2007,2007,2007,2,0,2,Export,320,Guatemala,GTM,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,651953,,,0
+H3,2007,2007,2007,2,0,1,Import,328,Guyana,GUY,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1682710,,,0
+H3,2007,2007,2007,2,0,1,Import,340,Honduras,HND,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6928577,,,0
+H3,2007,2007,2007,2,0,2,Export,340,Honduras,HND,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,185069,,,0
+H3,2007,2007,2007,2,0,1,Import,344,"China, Hong Kong SAR",HKG,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,970185,,,0
+H3,2007,2007,2007,2,0,2,Export,344,"China, Hong Kong SAR",HKG,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4081684,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3348128,,,0
+H3,2007,2007,2007,2,0,2,Export,348,Hungary,HUN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,866000,,,0
+H3,2007,2007,2007,2,0,1,Import,352,Iceland,ISL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,104,,,0
+H3,2007,2007,2007,2,0,1,Import,372,Ireland,IRL,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,856,,,0
+H3,2007,2007,2007,2,0,1,Import,372,Ireland,IRL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,89,,,0
+H3,2007,2007,2007,2,0,2,Export,372,Ireland,IRL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,147701,,,0
+H3,2007,2007,2007,2,0,1,Import,376,Israel,ISR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1893000,,,0
+H3,2007,2007,2007,2,0,2,Export,376,Israel,ISR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5694000,,,0
+H3,2007,2007,2007,2,0,1,Import,381,Italy,ITA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6348980,,,0
+H3,2007,2007,2007,2,0,2,Export,381,Italy,ITA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17788439,,,0
+H3,2007,2007,2007,2,0,2,Export,381,Italy,ITA,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,120829,,,0
+H3,2007,2007,2007,2,0,2,Export,392,Japan,JPN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21105292,,,0
+H3,2007,2007,2007,2,0,1,Import,400,Jordan,JOR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,176,,,0
+H3,2007,2007,2007,2,0,1,Import,410,Rep. of Korea,KOR,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3811,,,0
+H3,2007,2007,2007,2,0,1,Import,410,Rep. of Korea,KOR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,855,,,0
+H3,2007,2007,2007,2,0,2,Export,410,Rep. of Korea,KOR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,72388632,,,0
+H3,2007,2007,2007,2,0,2,Export,410,Rep. of Korea,KOR,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39335,,,0
+H3,2007,2007,2007,2,0,1,Import,422,Lebanon,LBN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,202,,,0
+H3,2007,2007,2007,2,0,1,Import,428,Latvia,LVA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,309904,,,0
+H3,2007,2007,2007,2,0,2,Export,440,Lithuania,LTU,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37344,,,0
+H3,2007,2007,2007,2,0,1,Import,442,Luxembourg,LUX,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,129682,,,0
+H3,2007,2007,2007,2,0,2,Export,442,Luxembourg,LUX,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,114187,,,0
+H3,2007,2007,2007,2,0,2,Export,446,"China, Macao SAR",MAC,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4591,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,446,"China, Macao SAR",MAC,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4591,,,0
+H3,2007,2007,2007,2,0,1,Import,450,Madagascar,MDG,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,148,,,0
+H3,2007,2007,2007,2,0,1,Import,450,Madagascar,MDG,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,56,,,0
+H3,2007,2007,2007,2,0,2,Export,450,Madagascar,MDG,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18369,,,0
+H3,2007,2007,2007,2,0,2,Export,470,Malta,MLT,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13638,,,0
+H3,2007,2007,2007,2,0,2,Export,528,Netherlands,NLD,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,46676,,,0
+H3,2007,2007,2007,2,0,1,Import,528,Netherlands,NLD,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1221545,,,0
+H3,2007,2007,2007,2,0,2,Export,528,Netherlands,NLD,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10255003,,,0
+H3,2007,2007,2007,2,0,2,Export,528,Netherlands,NLD,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,82370,,,0
+H3,2007,2007,2007,2,0,1,Import,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,73456,,,0
+H3,2007,2007,2007,2,0,2,Export,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,76309,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2408,,,0
+H3,2007,2007,2007,2,0,1,Import,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,44,,,0
+H3,2007,2007,2007,2,0,2,Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2224505,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,94149,,,0
+H3,2007,2007,2007,2,0,1,Import,558,Nicaragua,NIC,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,399036,,,0
+H3,2007,2007,2007,2,0,2,Export,558,Nicaragua,NIC,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3290,,,0
+H3,2007,2007,2007,2,0,1,Import,579,Norway,NOR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,638,,,0
+H3,2007,2007,2007,2,0,2,Export,579,Norway,NOR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32686,,,0
+H3,2007,2007,2007,2,0,1,Import,600,Paraguay,PRY,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,252092,,,0
+H3,2007,2007,2007,2,0,1,Import,616,Poland,POL,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31,,,0
+H3,2007,2007,2007,2,0,1,Import,616,Poland,POL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,348096,,,0
+H3,2007,2007,2007,2,0,2,Export,616,Poland,POL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,419829,,,0
+H3,2007,2007,2007,2,0,1,Import,620,Portugal,PRT,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5481803,,,0
+H3,2007,2007,2007,2,0,2,Export,620,Portugal,PRT,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,294861,,,0
+H3,2007,2007,2007,2,0,1,Import,642,Romania,ROU,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2253,,,0
+H3,2007,2007,2007,2,0,2,Export,642,Romania,ROU,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,75476,,,0
+H3,2007,2007,2007,2,0,2,Export,642,Romania,ROU,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8615,,,0
+H3,2007,2007,2007,2,0,1,Import,643,Russian Federation,RUS,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12696168,,,0
+H3,2007,2007,2007,2,0,2,Export,643,Russian Federation,RUS,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,595344,,,0
+H3,2007,2007,2007,2,0,2,Export,682,Saudi Arabia,SAU,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3501107,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,682,Saudi Arabia,SAU,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27215,,,0
+H3,2007,2007,2007,2,0,1,Import,688,Serbia,SRB,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4244,,,0
+H3,2007,2007,2007,2,0,1,Import,688,Serbia,SRB,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2125,,,0
+H3,2007,2007,2007,2,0,2,Export,702,Singapore,SGP,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6652,,,0
+H3,2007,2007,2007,2,0,1,Import,702,Singapore,SGP,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,472861,,,0
+H3,2007,2007,2007,2,0,2,Export,702,Singapore,SGP,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,938253,,,0
+H3,2007,2007,2007,2,0,2,Export,702,Singapore,SGP,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3108,,,0
+H3,2007,2007,2007,2,0,1,Import,703,Slovakia,SVK,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,49976,,,0
+H3,2007,2007,2007,2,0,1,Import,703,Slovakia,SVK,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3088,,,0
+H3,2007,2007,2007,2,0,2,Export,703,Slovakia,SVK,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5394,,,0
+H3,2007,2007,2007,2,0,1,Import,705,Slovenia,SVN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4285,,,0
+H3,2007,2007,2007,2,0,2,Export,705,Slovenia,SVN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,104443,,,0
+H3,2007,2007,2007,2,0,1,Import,710,South Africa,ZAF,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,187897,,,0
+H3,2007,2007,2007,2,0,2,Export,710,South Africa,ZAF,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,293774,,,0
+H3,2007,2007,2007,2,0,2,Export,710,South Africa,ZAF,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,197489,,,0
+H3,2007,2007,2007,2,0,2,Export,710,South Africa,ZAF,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,181554,,,0
+H3,2007,2007,2007,2,0,1,Import,724,Spain,ESP,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,29089975,,,0
+H3,2007,2007,2007,2,0,2,Export,724,Spain,ESP,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,25171947,,,4
+H3,2007,2007,2007,2,0,1,Import,752,Sweden,SWE,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26265,,,0
+H3,2007,2007,2007,2,0,2,Export,752,Sweden,SWE,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2494766,,,0
+H3,2007,2007,2007,2,0,2,Export,757,Switzerland,CHE,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12094,,,0
+H3,2007,2007,2007,2,0,1,Import,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6485,,,0
+H3,2007,2007,2007,2,0,2,Export,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2919004,,,0
+H3,2007,2007,2007,2,0,1,Import,764,Thailand,THA,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2952,,,0
+H3,2007,2007,2007,2,0,1,Import,764,Thailand,THA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,840521,,,0
+H3,2007,2007,2007,2,0,2,Export,764,Thailand,THA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16137659,,,0
+H3,2007,2007,2007,2,0,2,Export,764,Thailand,THA,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3057,,,0
+H3,2007,2007,2007,2,0,1,Import,764,Thailand,THA,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9238,,,0
+H3,2007,2007,2007,2,0,2,Export,764,Thailand,THA,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4280,,,0
+H3,2007,2007,2007,2,0,1,Import,780,Trinidad and Tobago,TTO,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11611408,,,0
+H3,2007,2007,2007,2,0,2,Export,780,Trinidad and Tobago,TTO,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,501,,,0
+H3,2007,2007,2007,2,0,1,Import,792,Turkey,TUR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27033206,,,0
+H3,2007,2007,2007,2,0,2,Export,792,Turkey,TUR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,391510,,,0
+H3,2007,2007,2007,2,0,2,Export,826,United Kingdom,GBR,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,306968,,,0
+H3,2007,2007,2007,2,0,1,Import,826,United Kingdom,GBR,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37060,,,0
+H3,2007,2007,2007,2,0,1,Import,826,United Kingdom,GBR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5306309,,,0
+H3,2007,2007,2007,2,0,2,Export,826,United Kingdom,GBR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10476955,,,0
+H3,2007,2007,2007,2,0,1,Import,826,United Kingdom,GBR,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2754,,,0
+H3,2007,2007,2007,2,0,2,Export,826,United Kingdom,GBR,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2043,,,0
+H3,2007,2007,2007,2,0,1,Import,842,USA,USA,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,56127,,,0
+H3,2007,2007,2007,2,0,2,Export,842,USA,USA,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,336347,,,0
+H3,2007,2007,2007,2,0,1,Import,842,USA,USA,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,134938,,,0
+H3,2007,2007,2007,2,0,2,Export,842,USA,USA,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,478752,,,0
+H3,2007,2007,2007,2,0,1,Import,842,USA,USA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,169874489,,,0
+H3,2007,2007,2007,2,0,2,Export,842,USA,USA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,551938541,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,842,USA,USA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31394128,,,0
+H3,2007,2007,2007,2,0,2,Export,842,USA,USA,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3630,,,0
+H3,2007,2007,2007,2,0,2,Export,842,USA,USA,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,59681,,,0
+H3,2007,2007,2007,2,0,1,Import,858,Uruguay,URY,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,286214,,,0
+H3,2007,2007,2007,2,0,2,Export,858,Uruguay,URY,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,522860,,,0
+H3,2007,2007,2007,2,0,1,Import,12,Algeria,DZA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,417,,,0
+H3,2007,2007,2007,2,0,1,Import,32,Argentina,ARG,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4434704,,,0
+H3,2007,2007,2007,2,0,2,Export,32,Argentina,ARG,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6127074,,,0
+H3,2007,2007,2007,2,0,2,Export,36,Australia,AUS,162,Christmas Isds,CXR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,438458,,,0
+H3,2007,2007,2007,2,0,2,Export,36,Australia,AUS,166,Cocos Isds,CCK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24244,,,0
+H3,2007,2007,2007,2,0,1,Import,36,Australia,AUS,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2411,,,0
+H3,2007,2007,2007,2,0,2,Export,36,Australia,AUS,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,126299,,,0
+H3,2007,2007,2007,2,0,2,Export,36,Australia,AUS,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,34971,,,0
+H3,2007,2007,2007,2,0,1,Import,40,Austria,AUT,166,Cocos Isds,CCK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10999,,,0
+H3,2007,2007,2007,2,0,1,Import,40,Austria,AUT,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,118,,,0
+H3,2007,2007,2007,2,0,2,Export,40,Austria,AUT,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,271503,,,0
+H3,2007,2007,2007,2,0,2,Export,51,Armenia,ARM,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,148500,,,0
+H3,2007,2007,2007,2,0,1,Import,56,Belgium,BEL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,71969,,,0
+H3,2007,2007,2007,2,0,2,Export,56,Belgium,BEL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1247041,,,0
+H3,2007,2007,2007,2,0,2,Export,56,Belgium,BEL,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1378,,,0
+H3,2007,2007,2007,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1878288,,,0
+H3,2007,2007,2007,2,0,1,Import,76,Brazil,BRA,166,Cocos Isds,CCK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,482,,,0
+H3,2007,2007,2007,2,0,1,Import,76,Brazil,BRA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,31018842,,,4
+H3,2007,2007,2007,2,0,2,Export,76,Brazil,BRA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,79684834,,,4
+H3,2007,2007,2007,2,0,1,Import,76,Brazil,BRA,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5,,,4
+H3,2007,2007,2007,2,0,1,Import,100,Bulgaria,BGR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2894,,,0
+H3,2007,2007,2007,2,0,2,Export,100,Bulgaria,BGR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,147,,,0
+H3,2007,2007,2007,2,0,1,Import,100,Bulgaria,BGR,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,450,,,0
+H3,2007,2007,2007,2,0,2,Export,100,Bulgaria,BGR,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4961,,,0
+H3,2007,2007,2007,2,0,1,Import,124,Canada,CAN,166,Cocos Isds,CCK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,111,,,0
+H3,2007,2007,2007,2,0,1,Import,124,Canada,CAN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4442,,,0
+H3,2007,2007,2007,2,0,2,Export,124,Canada,CAN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6467286,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,124,Canada,CAN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,58760,,,0
+H3,2007,2007,2007,2,0,1,Import,124,Canada,CAN,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,159,,,0
+H3,2007,2007,2007,2,0,2,Export,124,Canada,CAN,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,127,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,124,Canada,CAN,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3,,,0
+H3,2007,2007,2007,2,0,1,Import,152,Chile,CHL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10195425,,,0
+H3,2007,2007,2007,2,0,2,Export,152,Chile,CHL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9326779,,,0
+H3,2007,2007,2007,2,0,1,Import,156,China,CHN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1249,,,0
+H3,2007,2007,2007,2,0,2,Export,156,China,CHN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,61391299,,,0
+H3,2007,2007,2007,2,0,2,Export,156,China,CHN,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,58130,,,0
+H3,2007,2007,2007,2,0,2,Export,156,China,CHN,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6715,,,0
+H3,2007,2007,2007,2,0,1,Import,175,Mayotte,MYT,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,66,,,0
+H3,2007,2007,2007,2,0,2,Export,175,Mayotte,MYT,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3976,,,0
+H3,2007,2007,2007,2,0,1,Import,188,Costa Rica,CRI,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1608614,,,0
+H3,2007,2007,2007,2,0,2,Export,188,Costa Rica,CRI,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1049620,,,0
+H3,2007,2007,2007,2,0,1,Import,191,Croatia,HRV,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,238,,,0
+H3,2007,2007,2007,2,0,2,Export,203,Czechia,CZE,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,101753,,,0
+H3,2007,2007,2007,2,0,2,Export,203,Czechia,CZE,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16432,,,0
+H3,2007,2007,2007,2,0,1,Import,203,Czechia,CZE,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14,,,0
+H3,2007,2007,2007,2,0,2,Export,208,Denmark,DNK,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20352,,,0
+H3,2007,2007,2007,2,0,1,Import,214,Dominican Rep.,DOM,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,393398,,,0
+H3,2007,2007,2007,2,0,2,Export,214,Dominican Rep.,DOM,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,34301,,,0
+H3,2007,2007,2007,2,0,1,Import,222,El Salvador,SLV,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,80831,,,0
+H3,2007,2007,2007,2,0,2,Export,246,Finland,FIN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22646,,,0
+H3,2007,2007,2007,2,0,1,Import,251,France,FRA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,108429,,,0
+H3,2007,2007,2007,2,0,2,Export,251,France,FRA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11424929,,,0
+H3,2007,2007,2007,2,0,2,Export,251,France,FRA,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,267579,,,0
+H3,2007,2007,2007,2,0,2,Export,276,Germany,DEU,166,Cocos Isds,CCK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1000,,,0
+H3,2007,2007,2007,2,0,1,Import,276,Germany,DEU,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12000,,,0
+H3,2007,2007,2007,2,0,2,Export,276,Germany,DEU,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16178000,,,0
+H3,2007,2007,2007,2,0,2,Export,276,Germany,DEU,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1000,,,0
+H3,2007,2007,2007,2,0,2,Export,300,Greece,GRC,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20736,,,0
+H3,2007,2007,2007,2,0,1,Import,320,Guatemala,GTM,166,Cocos Isds,CCK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3460,,,0
+H3,2007,2007,2007,2,0,1,Import,320,Guatemala,GTM,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2252032,,,0
+H3,2007,2007,2007,2,0,2,Export,320,Guatemala,GTM,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18936598,,,0
+H3,2007,2007,2007,2,0,1,Import,328,Guyana,GUY,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,46841,,,0
+H3,2007,2007,2007,2,0,1,Import,340,Honduras,HND,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,335979,,,0
+H3,2007,2007,2007,2,0,1,Import,344,"China, Hong Kong SAR",HKG,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5424,,,0
+H3,2007,2007,2007,2,0,2,Export,344,"China, Hong Kong SAR",HKG,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,102015,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,102015,,,0
+H3,2007,2007,2007,2,0,2,Export,348,Hungary,HUN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,59000,,,0
+H3,2007,2007,2007,2,0,1,Import,372,Ireland,IRL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12392,,,0
+H3,2007,2007,2007,2,0,2,Export,372,Ireland,IRL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9295,,,0
+H3,2007,2007,2007,2,0,1,Import,376,Israel,ISR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5000,,,0
+H3,2007,2007,2007,2,0,2,Export,376,Israel,ISR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,397000,,,0
+H3,2007,2007,2007,2,0,1,Import,381,Italy,ITA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,186865,,,0
+H3,2007,2007,2007,2,0,2,Export,381,Italy,ITA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5139975,,,0
+H3,2007,2007,2007,2,0,1,Import,392,Japan,JPN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4050,,,0
+H3,2007,2007,2007,2,0,2,Export,392,Japan,JPN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,65730358,,,0
+H3,2007,2007,2007,2,0,1,Import,410,Rep. of Korea,KOR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2072,,,0
+H3,2007,2007,2007,2,0,2,Export,410,Rep. of Korea,KOR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20845809,,,0
+H3,2007,2007,2007,2,0,2,Export,410,Rep. of Korea,KOR,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13539,,,0
+H3,2007,2007,2007,2,0,2,Export,440,Lithuania,LTU,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,198,,,0
+H3,2007,2007,2007,2,0,2,Export,440,Lithuania,LTU,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,45076,,,0
+H3,2007,2007,2007,2,0,1,Import,442,Luxembourg,LUX,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29893,,,0
+H3,2007,2007,2007,2,0,2,Export,442,Luxembourg,LUX,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4640,,,0
+H3,2007,2007,2007,2,0,1,Import,450,Madagascar,MDG,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,332,,,0
+H3,2007,2007,2007,2,0,2,Export,450,Madagascar,MDG,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1733,,,0
+H3,2007,2007,2007,2,0,1,Import,528,Netherlands,NLD,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,91959,,,0
+H3,2007,2007,2007,2,0,2,Export,528,Netherlands,NLD,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,341833,,,0
+H3,2007,2007,2007,2,0,1,Import,554,New Zealand,NZL,166,Cocos Isds,CCK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16022,,,0
+H3,2007,2007,2007,2,0,1,Import,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4652,,,0
+H3,2007,2007,2007,2,0,2,Export,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,134,,,0
+H3,2007,2007,2007,2,0,1,Import,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25,,,0
+H3,2007,2007,2007,2,0,2,Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,542770,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,277518,,,0
+H3,2007,2007,2007,2,0,1,Import,558,Nicaragua,NIC,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,55207,,,0
+H3,2007,2007,2007,2,0,1,Import,579,Norway,NOR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1489,,,0
+H3,2007,2007,2007,2,0,2,Export,579,Norway,NOR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12242,,,0
+H3,2007,2007,2007,2,0,1,Import,600,Paraguay,PRY,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,86111,,,0
+H3,2007,2007,2007,2,0,2,Export,600,Paraguay,PRY,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5326,,,0
+H3,2007,2007,2007,2,0,1,Import,616,Poland,POL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6616,,,0
+H3,2007,2007,2007,2,0,2,Export,616,Poland,POL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1319094,,,0
+H3,2007,2007,2007,2,0,2,Export,620,Portugal,PRT,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,109480,,,0
+H3,2007,2007,2007,2,0,2,Export,642,Romania,ROU,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1307494,,,0
+H3,2007,2007,2007,2,0,2,Export,642,Romania,ROU,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2891,,,0
+H3,2007,2007,2007,2,0,2,Export,643,Russian Federation,RUS,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,162871,,,0
+H3,2007,2007,2007,2,0,2,Export,702,Singapore,SGP,162,Christmas Isds,CXR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,42156,,,0
+H3,2007,2007,2007,2,0,2,Export,702,Singapore,SGP,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1848195,,,0
+H3,2007,2007,2007,2,0,2,Export,702,Singapore,SGP,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3010,,,0
+H3,2007,2007,2007,2,0,2,Export,703,Slovakia,SVK,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3269,,,0
+H3,2007,2007,2007,2,0,2,Export,705,Slovenia,SVN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,116541,,,0
+H3,2007,2007,2007,2,0,1,Import,710,South Africa,ZAF,162,Christmas Isds,CXR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,108,,,0
+H3,2007,2007,2007,2,0,1,Import,710,South Africa,ZAF,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13545,,,0
+H3,2007,2007,2007,2,0,2,Export,710,South Africa,ZAF,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,612928,,,0
+H3,2007,2007,2007,2,0,2,Export,710,South Africa,ZAF,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,122117,,,0
+H3,2007,2007,2007,2,0,1,Import,724,Spain,ESP,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,90599,,,0
+H3,2007,2007,2007,2,0,2,Export,724,Spain,ESP,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8942022,,,0
+H3,2007,2007,2007,2,0,1,Import,752,Sweden,SWE,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9497,,,0
+H3,2007,2007,2007,2,0,2,Export,752,Sweden,SWE,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,320819,,,0
+H3,2007,2007,2007,2,0,1,Import,757,Switzerland,CHE,162,Christmas Isds,CXR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5762,,,0
+H3,2007,2007,2007,2,0,1,Import,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,975,,,0
+H3,2007,2007,2007,2,0,2,Export,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,110714,,,0
+H3,2007,2007,2007,2,0,1,Import,764,Thailand,THA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,190533,,,0
+H3,2007,2007,2007,2,0,2,Export,764,Thailand,THA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15970172,,,0
+H3,2007,2007,2007,2,0,2,Export,764,Thailand,THA,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3963,,,0
+H3,2007,2007,2007,2,0,1,Import,780,Trinidad and Tobago,TTO,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,329183,,,0
+H3,2007,2007,2007,2,0,2,Export,792,Turkey,TUR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,712327,,,0
+H3,2007,2007,2007,2,0,1,Import,826,United Kingdom,GBR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1070248,,,0
+H3,2007,2007,2007,2,0,2,Export,826,United Kingdom,GBR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7025174,,,0
+H3,2007,2007,2007,2,0,2,Export,826,United Kingdom,GBR,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6202,,,0
+H3,2007,2007,2007,2,0,1,Import,842,USA,USA,162,Christmas Isds,CXR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1006,,,0
+H3,2007,2007,2007,2,0,1,Import,842,USA,USA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2542402,,,0
+H3,2007,2007,2007,2,0,2,Export,842,USA,USA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,72987468,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,842,USA,USA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3926557,,,0
+H3,2007,2007,2007,2,0,1,Import,858,Uruguay,URY,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,74040,,,0
+H2,2007,2007,2007,2,0,1,Import,24,Angola,AGO,166,Cocos Isds,CCK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,818271,,,0
+H2,2007,2007,2007,2,0,1,Import,24,Angola,AGO,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,43788,,,0
+H2,2007,2007,2007,2,0,2,Export,24,Angola,AGO,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,73172515,,,0
+H2,2007,2007,2007,2,0,1,Import,70,Bosnia Herzegovina,BIH,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3118928,,,0
+H2,2007,2007,2007,2,0,1,Import,84,Belize,BLZ,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,93253,,,0
+H2,2007,2007,2007,2,0,1,Import,218,Ecuador,ECU,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,146621730,,,0
+H2,2007,2007,2007,2,0,2,Export,218,Ecuador,ECU,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3250565,,,0
+H2,2007,2007,2007,2,0,1,Import,242,Fiji,FJI,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,637,,,0
+H2,2007,2007,2007,2,0,2,Export,242,Fiji,FJI,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,856844,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,242,Fiji,FJI,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,853144,,,0
+H2,2007,2007,2007,2,0,2,Export,258,French Polynesia,PYF,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,191,,,0
+H2,2007,2007,2007,2,0,1,Import,266,Gabon,GAB,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,671997,,,0
+H2,2007,2007,2007,2,0,1,Import,288,Ghana,GHA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,466604,,,0
+H2,2007,2007,2007,2,0,1,Import,324,Guinea,GIN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1544153,,,0
+H2,2007,2007,2007,2,0,1,Import,384,Côte d'Ivoire,CIV,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,108582,,,0
+H2,2007,2007,2007,2,0,2,Export,384,Côte d'Ivoire,CIV,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,18494,,,0
+H2,2007,2007,2007,2,0,1,Import,388,Jamaica,JAM,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3715791,,,0
+H2,2007,2007,2007,2,0,2,Export,404,Kenya,KEN,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,71,,,0
+H2,2007,2007,2007,2,0,2,Export,458,Malaysia,MYS,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,907455,,,0
+H2,2007,2007,2007,2,0,1,Import,466,Mali,MLI,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,197006,,,0
+H2,2007,2007,2007,2,0,1,Import,484,Mexico,MEX,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,199870763,,,0
+H2,2007,2007,2007,2,0,2,Export,484,Mexico,MEX,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3942117,,,0
+H2,2007,2007,2007,2,0,2,Export,490,"Other Asia, nes",,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,476710,,,0
+H2,2007,2007,2007,2,0,1,Import,504,Morocco,MAR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,54238737,,,0
+H2,2007,2007,2007,2,0,2,Export,562,Niger,NER,162,Christmas Isds,CXR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,28631,,,0
+H2,2007,2007,2007,2,0,1,Import,566,Nigeria,NGA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,83879,,,0
+H2,2007,2007,2007,2,0,1,Import,591,Panama,PAN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1796271,,,0
+H2,2007,2007,2007,2,0,2,Export,591,Panama,PAN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,29907,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,591,Panama,PAN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,29907,,,0
+H2,2007,2007,2007,2,0,1,Import,604,Peru,PER,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,224209974,,,0
+H2,2007,2007,2007,2,0,2,Export,604,Peru,PER,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,17551276,,,0
+H2,2007,2007,2007,2,0,1,Import,686,Senegal,SEN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,179587,,,0
+H2,2007,2007,2007,2,0,2,Export,699,India,IND,166,Cocos Isds,CCK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2348,,,0
+H2,2007,2007,2007,2,0,1,Import,699,India,IND,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,40669,,,0
+H2,2007,2007,2007,2,0,2,Export,699,India,IND,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,279948751,,,0
+H2,2007,2007,2007,2,0,2,Export,704,Viet Nam,VNM,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,63841,,,0
+H2,2007,2007,2007,2,0,2,Export,784,United Arab Emirates,ARE,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,128483,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,784,United Arab Emirates,ARE,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,65752,,,0
+H2,2007,2007,2007,2,0,2,Export,834,United Rep. of Tanzania,TZA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,38454,,,0
+H2,2007,2007,2007,2,0,2,Export,834,United Rep. of Tanzania,TZA,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,118900,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,834,United Rep. of Tanzania,TZA,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,56884,,,0
+H2,2007,2007,2007,2,0,1,Import,854,Burkina Faso,BFA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,19531,,,0
+H2,2007,2007,2007,2,0,1,Import,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,7240762,,,0
+H2,2007,2007,2007,2,0,1,Import,8,Albania,ALB,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2891,,,0
+H2,2007,2007,2007,2,0,1,Import,24,Angola,AGO,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,60,,,0
+H2,2007,2007,2007,2,0,1,Import,24,Angola,AGO,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,867,,,0
+H2,2007,2007,2007,2,0,1,Import,44,Bahamas,BHS,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24868,,,0
+H2,2007,2007,2007,2,0,1,Import,50,Bangladesh,BGD,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,114932,,,0
+H2,2007,2007,2007,2,0,1,Import,52,Barbados,BRB,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,711973,,,0
+H2,2007,2007,2007,2,0,2,Export,52,Barbados,BRB,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6389,,,0
+H2,2007,2007,2007,2,0,1,Import,60,Bermuda,BMU,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1673,,,0
+H2,2007,2007,2007,2,0,1,Import,84,Belize,BLZ,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1,,,0
+H2,2007,2007,2007,2,0,2,Export,144,Sri Lanka,LKA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34,,,0
+H2,2007,2007,2007,2,0,1,Import,212,Dominica,DMA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,105896,,,0
+H2,2007,2007,2007,2,0,1,Import,218,Ecuador,ECU,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,140640815,,,0
+H2,2007,2007,2007,2,0,2,Export,218,Ecuador,ECU,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21281824,,,0
+H2,2007,2007,2007,2,0,1,Import,242,Fiji,FJI,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,59,,,0
+H2,2007,2007,2007,2,0,2,Export,242,Fiji,FJI,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18976,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,242,Fiji,FJI,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14068,,,0
+H2,2007,2007,2007,2,0,2,Export,258,French Polynesia,PYF,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3936,,,0
+H2,2007,2007,2007,2,0,1,Import,388,Jamaica,JAM,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5817595,,,0
+H2,2007,2007,2007,2,0,1,Import,398,Kazakhstan,KAZ,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22,,,0
+H2,2007,2007,2007,2,0,1,Import,404,Kenya,KEN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11,,,0
+H2,2007,2007,2007,2,0,2,Export,404,Kenya,KEN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,546743,,,0
+H2,2007,2007,2007,2,0,2,Export,404,Kenya,KEN,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,168683,,,0
+H2,2007,2007,2007,2,0,1,Import,414,Kuwait,KWT,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,324,,,0
+H2,2007,2007,2007,2,0,2,Export,458,Malaysia,MYS,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3363,,,0
+H2,2007,2007,2007,2,0,2,Export,458,Malaysia,MYS,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,195144,,,0
+H2,2007,2007,2007,2,0,2,Export,458,Malaysia,MYS,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21985,,,0
+H2,2007,2007,2007,2,0,2,Export,458,Malaysia,MYS,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11526,,,0
+H2,2007,2007,2007,2,0,2,Export,480,Mauritius,MUS,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43618,,,0
+H2,2007,2007,2007,2,0,1,Import,484,Mexico,MEX,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,65369117,,,0
+H2,2007,2007,2007,2,0,2,Export,484,Mexico,MEX,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,137256484,,,0
+H2,2007,2007,2007,2,0,1,Import,484,Mexico,MEX,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,361,,,0
+H2,2007,2007,2007,2,0,2,Export,484,Mexico,MEX,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,60,,,0
+H2,2007,2007,2007,2,0,1,Import,490,"Other Asia, nes",,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10231,,,0
+H2,2007,2007,2007,2,0,2,Export,490,"Other Asia, nes",,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29755433,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,490,"Other Asia, nes",,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,183,,,0
+H2,2007,2007,2007,2,0,4,Re-Import,490,"Other Asia, nes",,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3532,,,0
+H2,2007,2007,2007,2,0,2,Export,490,"Other Asia, nes",,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4506,,,0
+H2,2007,2007,2007,2,0,1,Import,504,Morocco,MAR,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1878,,,0
+H2,2007,2007,2007,2,0,1,Import,504,Morocco,MAR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,727217,,,0
+H2,2007,2007,2007,2,0,2,Export,504,Morocco,MAR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,86,,,0
+H2,2007,2007,2007,2,0,1,Import,508,Mozambique,MOZ,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,426,,,0
+H2,2007,2007,2007,2,0,2,Export,508,Mozambique,MOZ,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33676,,,0
+H2,2007,2007,2007,2,0,1,Import,530,Neth. Antilles,ANT,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,41,,,0
+H2,2007,2007,2007,2,0,1,Import,530,Neth. Antilles,ANT,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2141343,,,0
+H2,2007,2007,2007,2,0,1,Import,533,Aruba,ABW,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,654150,,,0
+H2,2007,2007,2007,2,0,2,Export,533,Aruba,ABW,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,254,,,0
+H2,2007,2007,2007,2,0,1,Import,540,New Caledonia,NCL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13111,,,0
+H2,2007,2007,2007,2,0,1,Import,566,Nigeria,NGA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,184662,,,0
+H2,2007,2007,2007,2,0,2,Export,566,Nigeria,NGA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20733,,,0
+H2,2007,2007,2007,2,0,1,Import,585,Palau,PLW,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,153,,,0
+H2,2007,2007,2007,2,0,2,Export,586,Pakistan,PAK,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6284,,,0
+H2,2007,2007,2007,2,0,1,Import,591,Panama,PAN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20264834,,,0
+H2,2007,2007,2007,2,0,2,Export,591,Panama,PAN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20717389,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,591,Panama,PAN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20710839,,,0
+H2,2007,2007,2007,2,0,1,Import,604,Peru,PER,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,156847658,,,0
+H2,2007,2007,2007,2,0,2,Export,604,Peru,PER,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,49921352,,,0
+H2,2007,2007,2007,2,0,1,Import,608,Philippines,PHL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,59179,,,0
+H2,2007,2007,2007,2,0,2,Export,608,Philippines,PHL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1249,,,0
+H2,2007,2007,2007,2,0,2,Export,608,Philippines,PHL,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,88,,,0
+H2,2007,2007,2007,2,0,1,Import,634,Qatar,QAT,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6593,,,0
+H2,2007,2007,2007,2,0,2,Export,646,Rwanda,RWA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3871,,,0
+H2,2007,2007,2007,2,0,1,Import,699,India,IND,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,107091,,,0
+H2,2007,2007,2007,2,0,2,Export,699,India,IND,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3482292,,,0
+H2,2007,2007,2007,2,0,2,Export,699,India,IND,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,165199,,,0
+H2,2007,2007,2007,2,0,1,Import,699,India,IND,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2802,,,0
+H2,2007,2007,2007,2,0,1,Import,704,Viet Nam,VNM,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7699,,,0
+H2,2007,2007,2007,2,0,2,Export,704,Viet Nam,VNM,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,308549,,,0
+H2,2007,2007,2007,2,0,1,Import,716,Zimbabwe,ZWE,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,17,,,0
+H2,2007,2007,2007,2,0,1,Import,760,Syria,SYR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,125710,,,0
+H2,2007,2007,2007,2,0,1,Import,784,United Arab Emirates,ARE,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,54760,,,0
+H2,2007,2007,2007,2,0,2,Export,784,United Arab Emirates,ARE,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31214,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,784,United Arab Emirates,ARE,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12450,,,0
+H2,2007,2007,2007,2,0,2,Export,784,United Arab Emirates,ARE,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3304394,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,784,United Arab Emirates,ARE,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3126372,,,0
+H2,2007,2007,2007,2,0,1,Import,788,Tunisia,TUN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8985,,,0
+H2,2007,2007,2007,2,0,1,Import,800,Uganda,UGA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,44463,,,0
+H2,2007,2007,2007,2,0,2,Export,834,United Rep. of Tanzania,TZA,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,51069,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,834,United Rep. of Tanzania,TZA,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1785,,,0
+H2,2007,2007,2007,2,0,1,Import,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,208416726,,,0
+H2,2007,2007,2007,2,0,1,Import,24,Angola,AGO,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1824,,,0
+H2,2007,2007,2007,2,0,1,Import,44,Bahamas,BHS,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30,,,0
+H2,2007,2007,2007,2,0,1,Import,52,Barbados,BRB,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,100269,,,0
+H2,2007,2007,2007,2,0,1,Import,60,Bermuda,BMU,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38955,,,0
+H2,2007,2007,2007,2,0,1,Import,70,Bosnia Herzegovina,BIH,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6,,,0
+H2,2007,2007,2007,2,0,1,Import,84,Belize,BLZ,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,33519,,,0
+H2,2007,2007,2007,2,0,2,Export,144,Sri Lanka,LKA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,393170,,,0
+H2,2007,2007,2007,2,0,1,Import,218,Ecuador,ECU,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22555293,,,0
+H2,2007,2007,2007,2,0,2,Export,218,Ecuador,ECU,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14943200,,,0
+H2,2007,2007,2007,2,0,2,Export,242,Fiji,FJI,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1186,,,0
+H2,2007,2007,2007,2,0,2,Export,258,French Polynesia,PYF,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,373,,,0
+H2,2007,2007,2007,2,0,1,Import,266,Gabon,GAB,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3677,,,0
+H2,2007,2007,2007,2,0,1,Import,388,Jamaica,JAM,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,536146,,,0
+H2,2007,2007,2007,2,0,1,Import,398,Kazakhstan,KAZ,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,197,,,0
+H2,2007,2007,2007,2,0,2,Export,404,Kenya,KEN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1665,,,0
+H2,2007,2007,2007,2,0,1,Import,414,Kuwait,KWT,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,539,,,0
+H2,2007,2007,2007,2,0,1,Import,458,Malaysia,MYS,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2376,,,0
+H2,2007,2007,2007,2,0,2,Export,458,Malaysia,MYS,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14070694,,,0
+H2,2007,2007,2007,2,0,2,Export,480,Mauritius,MUS,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2931,,,0
+H2,2007,2007,2007,2,0,1,Import,484,Mexico,MEX,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19931412,,,0
+H2,2007,2007,2007,2,0,2,Export,484,Mexico,MEX,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17895432,,,0
+H2,2007,2007,2007,2,0,1,Import,484,Mexico,MEX,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,166,,,0
+H2,2007,2007,2007,2,0,2,Export,490,"Other Asia, nes",,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8506019,,,0
+H2,2007,2007,2007,2,0,1,Import,508,Mozambique,MOZ,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3874,,,0
+H2,2007,2007,2007,2,0,1,Import,530,Neth. Antilles,ANT,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10216,,,0
+H2,2007,2007,2007,2,0,1,Import,533,Aruba,ABW,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,187348,,,0
+H2,2007,2007,2007,2,0,2,Export,533,Aruba,ABW,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,947,,,0
+H2,2007,2007,2007,2,0,1,Import,585,Palau,PLW,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7,,,0
+H2,2007,2007,2007,2,0,2,Export,586,Pakistan,PAK,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38795,,,0
+H2,2007,2007,2007,2,0,1,Import,591,Panama,PAN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,284418,,,0
+H2,2007,2007,2007,2,0,2,Export,591,Panama,PAN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12230894,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,591,Panama,PAN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12230894,,,0
+H2,2007,2007,2007,2,0,1,Import,604,Peru,PER,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4276331,,,0
+H2,2007,2007,2007,2,0,2,Export,604,Peru,PER,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13041517,,,0
+H2,2007,2007,2007,2,0,1,Import,604,Peru,PER,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,31,,,0
+H2,2007,2007,2007,2,0,1,Import,608,Philippines,PHL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2742,,,0
+H2,2007,2007,2007,2,0,2,Export,608,Philippines,PHL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,158449,,,0
+H2,2007,2007,2007,2,0,1,Import,634,Qatar,QAT,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4710,,,0
+H2,2007,2007,2007,2,0,2,Export,686,Senegal,SEN,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5259,,,0
+H2,2007,2007,2007,2,0,1,Import,699,India,IND,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13808,,,0
+H2,2007,2007,2007,2,0,2,Export,699,India,IND,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2637297,,,0
+H2,2007,2007,2007,2,0,2,Export,699,India,IND,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,26629,,,0
+H2,2007,2007,2007,2,0,1,Import,704,Viet Nam,VNM,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6212,,,0
+H2,2007,2007,2007,2,0,2,Export,704,Viet Nam,VNM,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,855376,,,0
+H2,2007,2007,2007,2,0,1,Import,704,Viet Nam,VNM,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,259,,,0
+H2,2007,2007,2007,2,0,2,Export,784,United Arab Emirates,ARE,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,72005,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,784,United Arab Emirates,ARE,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,72005,,,0
+H2,2007,2007,2007,2,0,2,Export,784,United Arab Emirates,ARE,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,216848,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,784,United Arab Emirates,ARE,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,216848,,,0
+H2,2007,2007,2007,2,0,2,Export,834,United Rep. of Tanzania,TZA,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4736,,,0
+H2,2007,2007,2007,2,0,1,Import,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,51346896,,,0
+H1,2007,2007,2007,2,0,1,Import,678,Sao Tome and Principe,STP,174,Comoros,COM,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,288,,,0
+H1,2007,2007,2007,2,0,2,Export,882,Samoa,WSM,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,333,,,0
+H1,2007,2007,2007,2,0,1,Import,28,Antigua and Barbuda,ATG,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,41,,,0
+H1,2007,2007,2007,2,0,1,Import,28,Antigua and Barbuda,ATG,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23989,,,0
+H1,2007,2007,2007,2,0,1,Import,308,Grenada,GRD,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,102395,,,0
+H1,2007,2007,2007,2,0,2,Export,360,Indonesia,IDN,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1834,,,0
+H1,2007,2007,2007,2,0,1,Import,360,Indonesia,IDN,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,980,,,0
+H1,2007,2007,2007,2,0,1,Import,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,850688,,,0
+H1,2007,2007,2007,2,0,2,Export,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1248010,,,0
+H1,2007,2007,2007,2,0,1,Import,360,Indonesia,IDN,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,136,,,0
+H1,2007,2007,2007,2,0,2,Export,360,Indonesia,IDN,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13511,,,0
+H1,2007,2007,2007,2,0,1,Import,659,Saint Kitts and Nevis,KNA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33442,,,0
+H1,2007,2007,2007,2,0,1,Import,662,Saint Lucia,LCA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,68050,,,0
+H1,2007,2007,2007,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19426,,,0
+H1,2007,2007,2007,2,0,1,Import,804,Ukraine,UKR,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,60,,,0
+H1,2007,2007,2007,2,0,1,Import,804,Ukraine,UKR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,77557,,,0
+H1,2007,2007,2007,2,0,2,Export,804,Ukraine,UKR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1340203,,,0
+H1,2007,2007,2007,2,0,1,Import,308,Grenada,GRD,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2679,,,0
+H1,2007,2007,2007,2,0,1,Import,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27,,,0
+H1,2007,2007,2007,2,0,2,Export,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,35545633,,,0
+H1,2007,2007,2007,2,0,2,Export,360,Indonesia,IDN,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1253,,,0
+H1,2007,2007,2007,2,0,2,Export,360,Indonesia,IDN,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,564,,,0
+H1,2007,2007,2007,2,0,1,Import,659,Saint Kitts and Nevis,KNA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7684,,,0
+H1,2007,2007,2007,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,36,,,0
+H1,2007,2007,2007,2,0,1,Import,804,Ukraine,UKR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6865,,,0
+H1,2007,2007,2007,2,0,2,Export,804,Ukraine,UKR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2181,,,0
+H0,2007,2007,2007,2,0,1,Import,740,Suriname,SUR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,183972,,,0
+H0,2007,2007,2007,2,0,2,Export,818,Egypt,EGY,174,Comoros,COM,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,106300,,,0
+H0,2007,2007,2007,2,0,1,Import,174,Comoros,COM,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,112,,,0
+H0,2007,2007,2007,2,0,4,Re-Import,174,Comoros,COM,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,112,,,0
+H0,2007,2007,2007,2,0,1,Import,690,Seychelles,SYC,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30222,,,0
+H0,2007,2007,2007,2,0,1,Import,740,Suriname,SUR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,651069,,,0
+H0,2007,2007,2007,2,0,1,Import,818,Egypt,EGY,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3366,,,0
+H0,2007,2007,2007,2,0,1,Import,174,Comoros,COM,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11173,,,0
+H0,2007,2007,2007,2,0,4,Re-Import,174,Comoros,COM,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11173,,,0
+H0,2007,2007,2007,2,0,1,Import,690,Seychelles,SYC,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,58,,,0
+H0,2007,2007,2007,2,0,1,Import,740,Suriname,SUR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8070,,,0

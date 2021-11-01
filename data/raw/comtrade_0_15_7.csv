@@ -1,0 +1,1037 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2007,2007,2007,2,0,1,Import,8,Albania,ALB,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4385381,,,0
+H2,2007,2007,2007,2,0,1,Import,8,Albania,ALB,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,315585,,,0
+H2,2007,2007,2007,2,0,1,Import,8,Albania,ALB,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19081,,,0
+H3,2007,2007,2007,2,0,1,Import,12,Algeria,DZA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,14289165,,,0
+H3,2007,2007,2007,2,0,2,Export,12,Algeria,DZA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,421583141,,,0
+H3,2007,2007,2007,2,0,1,Import,12,Algeria,DZA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6499129,,,0
+H3,2007,2007,2007,2,0,2,Export,12,Algeria,DZA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,58555,,,0
+H3,2007,2007,2007,2,0,1,Import,12,Algeria,DZA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,407735,,,0
+H3,2007,2007,2007,2,0,2,Export,12,Algeria,DZA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,831351,,,0
+H2,2007,2007,2007,2,0,2,Export,24,Angola,AGO,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,84708483,,,0
+H2,2007,2007,2007,2,0,1,Import,24,Angola,AGO,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,8983,,,0
+H2,2007,2007,2007,2,0,1,Import,24,Angola,AGO,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,984924,,,0
+H2,2007,2007,2007,2,0,1,Import,24,Angola,AGO,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,63134,,,0
+H2,2007,2007,2007,2,0,1,Import,24,Angola,AGO,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25565,,,0
+H2,2007,2007,2007,2,0,1,Import,24,Angola,AGO,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,182487,,,0
+H2,2007,2007,2007,2,0,1,Import,24,Angola,AGO,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18530,,,0
+H2,2007,2007,2007,2,0,1,Import,24,Angola,AGO,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,250133,,,0
+H2,2007,2007,2007,2,0,1,Import,24,Angola,AGO,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,56235,,,0
+H1,2007,2007,2007,2,0,1,Import,28,Antigua and Barbuda,ATG,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3231,,,0
+H3,2007,2007,2007,2,0,1,Import,31,Azerbaijan,AZE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,70,,,0
+H3,2007,2007,2007,2,0,2,Export,31,Azerbaijan,AZE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30,,,0
+H3,2007,2007,2007,2,0,1,Import,31,Azerbaijan,AZE,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,68849,,,0
+H3,2007,2007,2007,2,0,1,Import,32,Argentina,ARG,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,98,,,0
+H3,2007,2007,2007,2,0,2,Export,32,Argentina,ARG,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,18772436,,,0
+H3,2007,2007,2007,2,0,1,Import,32,Argentina,ARG,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4030581,,,0
+H3,2007,2007,2007,2,0,2,Export,32,Argentina,ARG,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5448675,,,0
+H3,2007,2007,2007,2,0,1,Import,32,Argentina,ARG,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,577847,,,0
+H3,2007,2007,2007,2,0,2,Export,32,Argentina,ARG,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6222213,,,0
+H3,2007,2007,2007,2,0,1,Import,32,Argentina,ARG,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,48855,,,0
+H3,2007,2007,2007,2,0,2,Export,32,Argentina,ARG,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,681294,,,0
+H3,2007,2007,2007,2,0,1,Import,32,Argentina,ARG,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,45917,,,0
+H3,2007,2007,2007,2,0,2,Export,32,Argentina,ARG,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1540941,,,0
+H3,2007,2007,2007,2,0,2,Export,32,Argentina,ARG,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,748709,,,0
+H3,2007,2007,2007,2,0,1,Import,36,Australia,AUS,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,321386,,,0
+H3,2007,2007,2007,2,0,2,Export,36,Australia,AUS,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,63568611,,,0
+H3,2007,2007,2007,2,0,1,Import,36,Australia,AUS,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,47102,,,0
+H3,2007,2007,2007,2,0,2,Export,36,Australia,AUS,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8094,,,0
+H3,2007,2007,2007,2,0,1,Import,36,Australia,AUS,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,370425,,,0
+H3,2007,2007,2007,2,0,2,Export,36,Australia,AUS,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1772869,,,0
+H3,2007,2007,2007,2,0,1,Import,36,Australia,AUS,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10350,,,0
+H3,2007,2007,2007,2,0,2,Export,36,Australia,AUS,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,39558,,,0
+H3,2007,2007,2007,2,0,1,Import,36,Australia,AUS,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,241780,,,0
+H3,2007,2007,2007,2,0,2,Export,36,Australia,AUS,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,415907,,,0
+H3,2007,2007,2007,2,0,1,Import,40,Austria,AUT,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3729,,,0
+H3,2007,2007,2007,2,0,2,Export,40,Austria,AUT,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,362970,,,0
+H3,2007,2007,2007,2,0,1,Import,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18992,,,0
+H3,2007,2007,2007,2,0,2,Export,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,425413,,,0
+H3,2007,2007,2007,2,0,2,Export,40,Austria,AUT,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,315,,,0
+H3,2007,2007,2007,2,0,1,Import,40,Austria,AUT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4076421,,,0
+H3,2007,2007,2007,2,0,2,Export,40,Austria,AUT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20706149,,,0
+H3,2007,2007,2007,2,0,1,Import,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4261,,,0
+H3,2007,2007,2007,2,0,2,Export,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,85817,,,0
+H3,2007,2007,2007,2,0,2,Export,40,Austria,AUT,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,99,,,0
+H3,2007,2007,2007,2,0,1,Import,40,Austria,AUT,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,40624,,,0
+H3,2007,2007,2007,2,0,2,Export,40,Austria,AUT,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,775756,,,0
+H2,2007,2007,2007,2,0,1,Import,48,Bahrain,BHR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,219231,,,0
+H2,2007,2007,2007,2,0,1,Import,48,Bahrain,BHR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,131739,,,0
+H2,2007,2007,2007,2,0,2,Export,48,Bahrain,BHR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,188476,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,48,Bahrain,BHR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,49505,,,0
+H2,2007,2007,2007,2,0,1,Import,48,Bahrain,BHR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,405223,,,0
+H2,2007,2007,2007,2,0,1,Import,50,Bangladesh,BGD,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,79172,,,0
+H2,2007,2007,2007,2,0,1,Import,50,Bangladesh,BGD,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,98348,,,0
+H2,2007,2007,2007,2,0,1,Import,50,Bangladesh,BGD,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11288,,,0
+H2,2007,2007,2007,2,0,1,Import,50,Bangladesh,BGD,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1634909,,,0
+H2,2007,2007,2007,2,0,2,Export,50,Bangladesh,BGD,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14654,,,0
+H2,2007,2007,2007,2,0,1,Import,50,Bangladesh,BGD,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2804,,,0
+H3,2007,2007,2007,2,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,106,,,0
+H3,2007,2007,2007,2,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,31,,,0
+H2,2007,2007,2007,2,0,1,Import,52,Barbados,BRB,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,369,,,0
+H2,2007,2007,2007,2,0,1,Import,52,Barbados,BRB,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,53530,,,0
+H3,2007,2007,2007,2,0,2,Export,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,203601,,,0
+H3,2007,2007,2007,2,0,2,Export,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3147318,,,0
+H3,2007,2007,2007,2,0,1,Import,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,113571395,,,0
+H3,2007,2007,2007,2,0,2,Export,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10575586,,,0
+H3,2007,2007,2007,2,0,1,Import,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1335,,,0
+H3,2007,2007,2007,2,0,2,Export,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1187160,,,0
+H3,2007,2007,2007,2,0,1,Import,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,479518,,,0
+H3,2007,2007,2007,2,0,2,Export,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23943608,,,0
+H3,2007,2007,2007,2,0,2,Export,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,439534,,,0
+H3,2007,2007,2007,2,0,1,Import,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,73778414,,,0
+H3,2007,2007,2007,2,0,2,Export,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,88587774,,,0
+H3,2007,2007,2007,2,0,1,Import,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,565,,,0
+H3,2007,2007,2007,2,0,2,Export,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,370663,,,0
+H3,2007,2007,2007,2,0,2,Export,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,179981,,,0
+H3,2007,2007,2007,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,125493,,,0
+H3,2007,2007,2007,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3318,,,0
+H3,2007,2007,2007,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1446807,,,0
+H3,2007,2007,2007,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,110531,,,0
+H2,2007,2007,2007,2,0,1,Import,70,Bosnia Herzegovina,BIH,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,203,,,0
+H2,2007,2007,2007,2,0,1,Import,70,Bosnia Herzegovina,BIH,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5052,,,0
+H2,2007,2007,2007,2,0,1,Import,70,Bosnia Herzegovina,BIH,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,120148,,,0
+H2,2007,2007,2007,2,0,2,Export,70,Bosnia Herzegovina,BIH,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16714,,,0
+H2,2007,2007,2007,2,0,1,Import,70,Bosnia Herzegovina,BIH,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30,,,0
+H3,2007,2007,2007,2,0,2,Export,76,Brazil,BRA,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,518576,,,0
+H3,2007,2007,2007,2,0,1,Import,76,Brazil,BRA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,216506509,,,0
+H3,2007,2007,2007,2,0,2,Export,76,Brazil,BRA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,61610,,,0
+H3,2007,2007,2007,2,0,1,Import,76,Brazil,BRA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8388614,,,0
+H3,2007,2007,2007,2,0,2,Export,76,Brazil,BRA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,45708688,,,4
+H3,2007,2007,2007,2,0,2,Export,76,Brazil,BRA,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,77892,,,4
+H3,2007,2007,2007,2,0,2,Export,76,Brazil,BRA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6162934,,,4
+H3,2007,2007,2007,2,0,1,Import,76,Brazil,BRA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2623,,,0
+H3,2007,2007,2007,2,0,2,Export,76,Brazil,BRA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7814524,,,4
+H3,2007,2007,2007,2,0,1,Import,76,Brazil,BRA,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,435,,,4
+H3,2007,2007,2007,2,0,2,Export,76,Brazil,BRA,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,13123170,,,4
+H3,2007,2007,2007,2,0,2,Export,76,Brazil,BRA,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,149003,,,4
+H3,2007,2007,2007,2,0,1,Import,76,Brazil,BRA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,241115,,,0
+H2,2007,2007,2007,2,0,1,Import,84,Belize,BLZ,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1971,,,0
+H2,2007,2007,2007,2,0,1,Import,84,Belize,BLZ,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3195,,,0
+H2,2007,2007,2007,2,0,1,Import,96,Brunei Darussalam,BRN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13,,,0
+H2,2007,2007,2007,2,0,1,Import,96,Brunei Darussalam,BRN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6,,,0
+H2,2007,2007,2007,2,0,1,Import,96,Brunei Darussalam,BRN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,98,,,0
+H3,2007,2007,2007,2,0,1,Import,100,Bulgaria,BGR,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5842,,,0
+H3,2007,2007,2007,2,0,1,Import,100,Bulgaria,BGR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2888541,,,0
+H3,2007,2007,2007,2,0,2,Export,100,Bulgaria,BGR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,11238457,,,0
+H3,2007,2007,2007,2,0,1,Import,100,Bulgaria,BGR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21331,,,0
+H3,2007,2007,2007,2,0,2,Export,100,Bulgaria,BGR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,88397,,,0
+H3,2007,2007,2007,2,0,1,Import,100,Bulgaria,BGR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5267208,,,0
+H3,2007,2007,2007,2,0,2,Export,100,Bulgaria,BGR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,269053,,,0
+H3,2007,2007,2007,2,0,1,Import,100,Bulgaria,BGR,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6696,,,0
+H3,2007,2007,2007,2,0,2,Export,100,Bulgaria,BGR,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,680,,,0
+H3,2007,2007,2007,2,0,1,Import,100,Bulgaria,BGR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,203396,,,0
+H3,2007,2007,2007,2,0,2,Export,100,Bulgaria,BGR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,853802,,,0
+H2,2007,2007,2007,2,0,1,Import,108,Burundi,BDI,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1526,,,0
+H2,2007,2007,2007,2,0,1,Import,108,Burundi,BDI,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,276847,,,0
+H2,2007,2007,2007,2,0,1,Import,112,Belarus,BLR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14300,,,0
+H2,2007,2007,2007,2,0,2,Export,112,Belarus,BLR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1100,,,0
+H2,2007,2007,2007,2,0,1,Import,112,Belarus,BLR,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,600,,,0
+H2,2007,2007,2007,2,0,2,Export,112,Belarus,BLR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,549600,,,0
+H3,2007,2007,2007,2,0,1,Import,116,Cambodia,KHM,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,100,,,0
+H2,2007,2007,2007,2,0,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,8396800,,,0
+H2,2007,2007,2007,2,0,2,Export,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,16431131,,,0
+H2,2007,2007,2007,2,0,1,Import,120,Cameroon,CMR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,53391,,,0
+H2,2007,2007,2007,2,0,1,Import,120,Cameroon,CMR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31003,,,0
+H2,2007,2007,2007,2,0,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15725,,,0
+H2,2007,2007,2007,2,0,2,Export,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,319245,,,0
+H2,2007,2007,2007,2,0,1,Import,120,Cameroon,CMR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,926872,,,0
+H2,2007,2007,2007,2,0,2,Export,120,Cameroon,CMR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,226899,,,0
+H2,2007,2007,2007,2,0,2,Export,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,622751,,,0
+H2,2007,2007,2007,2,0,1,Import,120,Cameroon,CMR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2111738,,,0
+H3,2007,2007,2007,2,0,1,Import,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,69037055,,,0
+H3,2007,2007,2007,2,0,2,Export,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,21988257,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,61207,,,0
+H3,2007,2007,2007,2,0,1,Import,124,Canada,CAN,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,217603242,,,0
+H3,2007,2007,2007,2,0,1,Import,124,Canada,CAN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,987468,,,0
+H3,2007,2007,2007,2,0,2,Export,124,Canada,CAN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,9811084,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,85349,,,0
+H3,2007,2007,2007,2,0,2,Export,124,Canada,CAN,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3604,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,124,Canada,CAN,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3417,,,0
+H3,2007,2007,2007,2,0,1,Import,124,Canada,CAN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3444,,,0
+H3,2007,2007,2007,2,0,2,Export,124,Canada,CAN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2284315,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,124,Canada,CAN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43926,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,124,Canada,CAN,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,592,,,0
+H3,2007,2007,2007,2,0,1,Import,124,Canada,CAN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,222975,,,0
+H3,2007,2007,2007,2,0,2,Export,124,Canada,CAN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1544724,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,124,Canada,CAN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22799,,,0
+H3,2007,2007,2007,2,0,1,Import,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10698,,,0
+H3,2007,2007,2007,2,0,2,Export,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1566661,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,124,Canada,CAN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3610,,,0
+H3,2007,2007,2007,2,0,1,Import,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,130457,,,0
+H3,2007,2007,2007,2,0,2,Export,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1865954,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37311,,,0
+H3,2007,2007,2007,2,0,1,Import,124,Canada,CAN,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12,,,0
+H3,2007,2007,2007,2,0,2,Export,124,Canada,CAN,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,594,,,0
+H2,2007,2007,2007,2,0,1,Import,132,Cabo Verde,CPV,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5288838,,,0
+H2,2007,2007,2007,2,0,1,Import,140,Central African Rep.,CAF,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,42693,,,0
+H2,2007,2007,2007,2,0,1,Import,144,Sri Lanka,LKA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,39253,,,0
+H2,2007,2007,2007,2,0,1,Import,144,Sri Lanka,LKA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,626968,,,0
+H2,2007,2007,2007,2,0,2,Export,144,Sri Lanka,LKA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,238287,,,0
+H2,2007,2007,2007,2,0,1,Import,144,Sri Lanka,LKA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,67700,,,0
+H2,2007,2007,2007,2,0,2,Export,144,Sri Lanka,LKA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2651731,,,0
+H3,2007,2007,2007,2,0,1,Import,152,Chile,CHL,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,622253547,,,0
+H3,2007,2007,2007,2,0,2,Export,152,Chile,CHL,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,51537375,,,0
+H3,2007,2007,2007,2,0,1,Import,152,Chile,CHL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,560325,,,0
+H3,2007,2007,2007,2,0,2,Export,152,Chile,CHL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32095790,,,0
+H3,2007,2007,2007,2,0,1,Import,152,Chile,CHL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,274,,,0
+H3,2007,2007,2007,2,0,2,Export,152,Chile,CHL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,135604,,,0
+H3,2007,2007,2007,2,0,1,Import,152,Chile,CHL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1801785,,,0
+H3,2007,2007,2007,2,0,2,Export,152,Chile,CHL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1330652,,,0
+H3,2007,2007,2007,2,0,1,Import,152,Chile,CHL,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,249527,,,0
+H3,2007,2007,2007,2,0,2,Export,152,Chile,CHL,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,469,,,0
+H3,2007,2007,2007,2,0,1,Import,156,China,CHN,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,115082092,,,0
+H3,2007,2007,2007,2,0,2,Export,156,China,CHN,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3343659,,,0
+H3,2007,2007,2007,2,0,1,Import,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1566216748,,,0
+H3,2007,2007,2007,2,0,2,Export,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,343828,,,0
+H3,2007,2007,2007,2,0,1,Import,156,China,CHN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,35044559,,,0
+H3,2007,2007,2007,2,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8690593,,,0
+H3,2007,2007,2007,2,0,2,Export,156,China,CHN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28724237,,,0
+H3,2007,2007,2007,2,0,2,Export,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1528654,,,0
+H3,2007,2007,2007,2,0,1,Import,156,China,CHN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18390,,,0
+H3,2007,2007,2007,2,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,76080490,,,0
+H3,2007,2007,2007,2,0,1,Import,156,China,CHN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2448844,,,0
+H3,2007,2007,2007,2,0,2,Export,156,China,CHN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28257160,,,0
+H3,2007,2007,2007,2,0,2,Export,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2687410,,,0
+H3,2007,2007,2007,2,0,1,Import,156,China,CHN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16373266,,,0
+H3,2007,2007,2007,2,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,193333118,,,0
+H3,2007,2007,2007,2,0,1,Import,156,China,CHN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32540,,,0
+H3,2007,2007,2007,2,0,1,Import,170,Colombia,COL,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5377876,,,0
+H3,2007,2007,2007,2,0,2,Export,170,Colombia,COL,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,67240601,,,0
+H3,2007,2007,2007,2,0,1,Import,170,Colombia,COL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26287360,,,0
+H3,2007,2007,2007,2,0,2,Export,170,Colombia,COL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,139988834,,,0
+H3,2007,2007,2007,2,0,1,Import,170,Colombia,COL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,169041,,,0
+H3,2007,2007,2007,2,0,2,Export,170,Colombia,COL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1500,,,0
+H3,2007,2007,2007,2,0,1,Import,170,Colombia,COL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15951558,,,0
+H3,2007,2007,2007,2,0,2,Export,170,Colombia,COL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20738196,,,0
+H3,2007,2007,2007,2,0,1,Import,170,Colombia,COL,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,131607,,,0
+H0,2007,2007,2007,2,0,1,Import,174,Comoros,COM,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1689,,,0
+H3,2007,2007,2007,2,0,1,Import,175,Mayotte,MYT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,35786,,,0
+H3,2007,2007,2007,2,0,1,Import,175,Mayotte,MYT,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4623,,,0
+H2,2007,2007,2007,2,0,2,Export,178,Congo,COG,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5894838,,,0
+H2,2007,2007,2007,2,0,1,Import,178,Congo,COG,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,21440,,,0
+H2,2007,2007,2007,2,0,1,Import,178,Congo,COG,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,38691,,,0
+H2,2007,2007,2007,2,0,1,Import,178,Congo,COG,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,344313,,,0
+H2,2007,2007,2007,2,0,1,Import,178,Congo,COG,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31189,,,0
+H2,2007,2007,2007,2,0,1,Import,178,Congo,COG,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,78901,,,0
+H2,2007,2007,2007,2,0,1,Import,178,Congo,COG,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,55069,,,0
+H3,2007,2007,2007,2,0,1,Import,188,Costa Rica,CRI,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,317,,,0
+H3,2007,2007,2007,2,0,1,Import,188,Costa Rica,CRI,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,216473,,,0
+H3,2007,2007,2007,2,0,2,Export,188,Costa Rica,CRI,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1035421,,,0
+H3,2007,2007,2007,2,0,1,Import,188,Costa Rica,CRI,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39230,,,0
+H3,2007,2007,2007,2,0,1,Import,188,Costa Rica,CRI,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,625953,,,0
+H3,2007,2007,2007,2,0,2,Export,188,Costa Rica,CRI,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,214124,,,0
+H3,2007,2007,2007,2,0,1,Import,191,Croatia,HRV,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2695,,,0
+H3,2007,2007,2007,2,0,2,Export,191,Croatia,HRV,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,26947,,,0
+H3,2007,2007,2007,2,0,1,Import,191,Croatia,HRV,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,249,,,0
+H3,2007,2007,2007,2,0,1,Import,191,Croatia,HRV,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1489281,,,0
+H3,2007,2007,2007,2,0,2,Export,191,Croatia,HRV,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23864,,,0
+H3,2007,2007,2007,2,0,1,Import,191,Croatia,HRV,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,73541,,,0
+H3,2007,2007,2007,2,0,2,Export,191,Croatia,HRV,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10494,,,0
+H3,2007,2007,2007,2,0,1,Import,196,Cyprus,CYP,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,36788586,,,0
+H3,2007,2007,2007,2,0,2,Export,196,Cyprus,CYP,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,51110,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,196,Cyprus,CYP,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,51110,,,0
+H3,2007,2007,2007,2,0,1,Import,196,Cyprus,CYP,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2663261,,,0
+H3,2007,2007,2007,2,0,2,Export,196,Cyprus,CYP,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23420,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,196,Cyprus,CYP,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21220,,,0
+H3,2007,2007,2007,2,0,1,Import,196,Cyprus,CYP,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29034,,,0
+H3,2007,2007,2007,2,0,2,Export,203,Czechia,CZE,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,748,,,0
+H3,2007,2007,2007,2,0,2,Export,203,Czechia,CZE,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,219439,,,0
+H3,2007,2007,2007,2,0,1,Import,203,Czechia,CZE,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5585,,,0
+H3,2007,2007,2007,2,0,2,Export,203,Czechia,CZE,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,221552,,,0
+H3,2007,2007,2007,2,0,1,Import,203,Czechia,CZE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,653424,,,0
+H3,2007,2007,2007,2,0,2,Export,203,Czechia,CZE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2620206,,,0
+H3,2007,2007,2007,2,0,1,Import,203,Czechia,CZE,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5882,,,0
+H3,2007,2007,2007,2,0,2,Export,203,Czechia,CZE,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,115375,,,0
+H3,2007,2007,2007,2,0,1,Import,203,Czechia,CZE,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2763,,,0
+H3,2007,2007,2007,2,0,2,Export,203,Czechia,CZE,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1917234,,,0
+H2,2007,2007,2007,2,0,1,Import,204,Benin,BEN,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3937737,,,0
+H2,2007,2007,2007,2,0,1,Import,204,Benin,BEN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,113302,,,0
+H2,2007,2007,2007,2,0,1,Import,204,Benin,BEN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,168422,,,0
+H2,2007,2007,2007,2,0,2,Export,204,Benin,BEN,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1303,,,0
+H3,2007,2007,2007,2,0,1,Import,208,Denmark,DNK,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,26,,,0
+H3,2007,2007,2007,2,0,1,Import,208,Denmark,DNK,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,41831736,,,0
+H3,2007,2007,2007,2,0,1,Import,208,Denmark,DNK,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,454,,,0
+H3,2007,2007,2007,2,0,2,Export,208,Denmark,DNK,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5634,,,0
+H3,2007,2007,2007,2,0,1,Import,208,Denmark,DNK,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,889797,,,0
+H3,2007,2007,2007,2,0,2,Export,208,Denmark,DNK,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2011069,,,0
+H3,2007,2007,2007,2,0,2,Export,208,Denmark,DNK,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4357,,,0
+H3,2007,2007,2007,2,0,1,Import,208,Denmark,DNK,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,113,,,0
+H3,2007,2007,2007,2,0,2,Export,208,Denmark,DNK,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15035,,,0
+H3,2007,2007,2007,2,0,1,Import,214,Dominican Rep.,DOM,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,321023,,,0
+H3,2007,2007,2007,2,0,1,Import,214,Dominican Rep.,DOM,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,161051,,,0
+H3,2007,2007,2007,2,0,2,Export,214,Dominican Rep.,DOM,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,566243,,,0
+H3,2007,2007,2007,2,0,1,Import,214,Dominican Rep.,DOM,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,126918,,,0
+H2,2007,2007,2007,2,0,1,Import,218,Ecuador,ECU,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,25237377,,,0
+H2,2007,2007,2007,2,0,1,Import,218,Ecuador,ECU,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,17156225,,,0
+H2,2007,2007,2007,2,0,1,Import,218,Ecuador,ECU,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,136,,,0
+H2,2007,2007,2007,2,0,2,Export,218,Ecuador,ECU,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1603,,,0
+H2,2007,2007,2007,2,0,2,Export,218,Ecuador,ECU,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5874,,,0
+H3,2007,2007,2007,2,0,1,Import,222,El Salvador,SLV,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,264446017,,,0
+H3,2007,2007,2007,2,0,1,Import,222,El Salvador,SLV,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3068935,,,0
+H3,2007,2007,2007,2,0,1,Import,222,El Salvador,SLV,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,221383,,,0
+H3,2007,2007,2007,2,0,2,Export,222,El Salvador,SLV,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,36690,,,0
+H3,2007,2007,2007,2,0,1,Import,222,El Salvador,SLV,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1331,,,0
+H3,2007,2007,2007,2,0,1,Import,222,El Salvador,SLV,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,89059,,,0
+H2,2007,2007,2007,2,0,1,Import,231,Ethiopia,ETH,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,3906,,,0
+H2,2007,2007,2007,2,0,1,Import,231,Ethiopia,ETH,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,18058400,,,0
+H2,2007,2007,2007,2,0,1,Import,231,Ethiopia,ETH,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,264544,,,0
+H2,2007,2007,2007,2,0,1,Import,231,Ethiopia,ETH,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2915024,,,0
+H2,2007,2007,2007,2,0,1,Import,231,Ethiopia,ETH,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,17348,,,0
+H2,2007,2007,2007,2,0,2,Export,231,Ethiopia,ETH,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,31,,,0
+H2,2007,2007,2007,2,0,1,Import,231,Ethiopia,ETH,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1764457,,,0
+H2,2007,2007,2007,2,0,2,Export,231,Ethiopia,ETH,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,109218,,,0
+H3,2007,2007,2007,2,0,1,Import,233,Estonia,EST,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,340,,,0
+H3,2007,2007,2007,2,0,2,Export,233,Estonia,EST,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,67691,,,0
+H3,2007,2007,2007,2,0,2,Export,233,Estonia,EST,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1215897,,,0
+H3,2007,2007,2007,2,0,1,Import,233,Estonia,EST,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10799,,,0
+H3,2007,2007,2007,2,0,1,Import,233,Estonia,EST,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,406034,,,0
+H3,2007,2007,2007,2,0,2,Export,233,Estonia,EST,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1252,,,0
+H3,2007,2007,2007,2,0,1,Import,233,Estonia,EST,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9027,,,0
+H3,2007,2007,2007,2,0,2,Export,233,Estonia,EST,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,131650,,,0
+H3,2007,2007,2007,2,0,1,Import,234,Faeroe Isds,FRO,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2188,,,0
+H3,2007,2007,2007,2,0,1,Import,246,Finland,FIN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,110823,,,0
+H3,2007,2007,2007,2,0,2,Export,246,Finland,FIN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,89171,,,0
+H3,2007,2007,2007,2,0,1,Import,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12474,,,0
+H3,2007,2007,2007,2,0,2,Export,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,138933,,,0
+H3,2007,2007,2007,2,0,1,Import,246,Finland,FIN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,382529,,,0
+H3,2007,2007,2007,2,0,2,Export,246,Finland,FIN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2215905,,,0
+H3,2007,2007,2007,2,0,2,Export,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,48318,,,0
+H3,2007,2007,2007,2,0,2,Export,246,Finland,FIN,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,507,,,0
+H3,2007,2007,2007,2,0,2,Export,246,Finland,FIN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,84274,,,0
+H3,2007,2007,2007,2,0,2,Export,251,France,FRA,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,42538,,,0
+H3,2007,2007,2007,2,0,1,Import,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,650051272,,,0
+H3,2007,2007,2007,2,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6111774,,,0
+H3,2007,2007,2007,2,0,1,Import,251,France,FRA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,585780034,,,0
+H3,2007,2007,2007,2,0,2,Export,251,France,FRA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,24481402,,,0
+H3,2007,2007,2007,2,0,1,Import,251,France,FRA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,181173,,,0
+H3,2007,2007,2007,2,0,1,Import,251,France,FRA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,934690,,,0
+H3,2007,2007,2007,2,0,2,Export,251,France,FRA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15471544,,,0
+H3,2007,2007,2007,2,0,2,Export,251,France,FRA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1613706,,,0
+H3,2007,2007,2007,2,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1215768,,,0
+H3,2007,2007,2007,2,0,1,Import,251,France,FRA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22048245,,,0
+H3,2007,2007,2007,2,0,2,Export,251,France,FRA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,47641377,,,0
+H3,2007,2007,2007,2,0,2,Export,251,France,FRA,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2600317,,,0
+H3,2007,2007,2007,2,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1263795,,,0
+H2,2007,2007,2007,2,0,2,Export,258,French Polynesia,PYF,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,235,,,0
+H2,2007,2007,2007,2,0,1,Import,258,French Polynesia,PYF,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,50491,,,0
+H2,2007,2007,2007,2,0,1,Import,258,French Polynesia,PYF,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,85,,,0
+H2,2007,2007,2007,2,0,1,Import,266,Gabon,GAB,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3466897,,,0
+H2,2007,2007,2007,2,0,2,Export,266,Gabon,GAB,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,46454751,,,0
+H2,2007,2007,2007,2,0,1,Import,266,Gabon,GAB,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1129861,,,0
+H2,2007,2007,2007,2,0,1,Import,266,Gabon,GAB,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2216,,,0
+H2,2007,2007,2007,2,0,1,Import,266,Gabon,GAB,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,89201,,,0
+H2,2007,2007,2007,2,0,2,Export,266,Gabon,GAB,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9474,,,0
+H2,2007,2007,2007,2,0,1,Import,266,Gabon,GAB,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1140732,,,0
+H2,2007,2007,2007,2,0,1,Import,266,Gabon,GAB,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3999,,,0
+H2,2007,2007,2007,2,0,1,Import,266,Gabon,GAB,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6938,,,0
+H2,2007,2007,2007,2,0,2,Export,266,Gabon,GAB,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7956,,,0
+H2,2007,2007,2007,2,0,1,Import,266,Gabon,GAB,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,775908,,,0
+H2,2007,2007,2007,2,0,1,Import,268,Georgia,GEO,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,737839,,,0
+H2,2007,2007,2007,2,0,1,Import,268,Georgia,GEO,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,63433,,,0
+H2,2007,2007,2007,2,0,2,Export,268,Georgia,GEO,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,190,,,0
+H2,2007,2007,2007,2,0,1,Import,268,Georgia,GEO,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,696,,,0
+H1,2007,2007,2007,2,0,1,Import,270,Gambia,GMB,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,18671,,,0
+H3,2007,2007,2007,2,0,1,Import,275,State of Palestine,PSE,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,168380,,,0
+H3,2007,2007,2007,2,0,1,Import,275,State of Palestine,PSE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,826630,,,0
+H3,2007,2007,2007,2,0,1,Import,275,State of Palestine,PSE,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,37240,,,0
+H3,2007,2007,2007,2,0,2,Export,276,Germany,DEU,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1395000,,,0
+H3,2007,2007,2007,2,0,1,Import,276,Germany,DEU,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,103076000,,,0
+H3,2007,2007,2007,2,0,1,Import,276,Germany,DEU,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,517316000,,,0
+H3,2007,2007,2007,2,0,2,Export,276,Germany,DEU,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4777000,,,0
+H3,2007,2007,2007,2,0,1,Import,276,Germany,DEU,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,58000,,,0
+H3,2007,2007,2007,2,0,2,Export,276,Germany,DEU,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8990000,,,0
+H3,2007,2007,2007,2,0,1,Import,276,Germany,DEU,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1060000,,,0
+H3,2007,2007,2007,2,0,2,Export,276,Germany,DEU,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17500000,,,0
+H3,2007,2007,2007,2,0,2,Export,276,Germany,DEU,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,371000,,,0
+H3,2007,2007,2007,2,0,1,Import,276,Germany,DEU,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,40000000,,,0
+H3,2007,2007,2007,2,0,2,Export,276,Germany,DEU,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,126994000,,,0
+H3,2007,2007,2007,2,0,1,Import,276,Germany,DEU,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27000,,,0
+H3,2007,2007,2007,2,0,2,Export,276,Germany,DEU,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5303000,,,0
+H3,2007,2007,2007,2,0,2,Export,276,Germany,DEU,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,26000,,,0
+H2,2007,2007,2007,2,0,1,Import,288,Ghana,GHA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,144880,,,0
+H2,2007,2007,2007,2,0,1,Import,288,Ghana,GHA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2875841,,,0
+H2,2007,2007,2007,2,0,1,Import,288,Ghana,GHA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1011013,,,0
+H3,2007,2007,2007,2,0,1,Import,300,Greece,GRC,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,177874400,,,0
+H3,2007,2007,2007,2,0,2,Export,300,Greece,GRC,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4601277,,,0
+H3,2007,2007,2007,2,0,1,Import,300,Greece,GRC,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15800944,,,0
+H3,2007,2007,2007,2,0,2,Export,300,Greece,GRC,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6972037,,,0
+H3,2007,2007,2007,2,0,1,Import,300,Greece,GRC,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3584901,,,0
+H3,2007,2007,2007,2,0,2,Export,300,Greece,GRC,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,555725,,,0
+H3,2007,2007,2007,2,0,1,Import,320,Guatemala,GTM,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,175243536,,,0
+H3,2007,2007,2007,2,0,1,Import,320,Guatemala,GTM,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8569437,,,0
+H3,2007,2007,2007,2,0,1,Import,320,Guatemala,GTM,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,216349,,,0
+H3,2007,2007,2007,2,0,2,Export,320,Guatemala,GTM,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,933204,,,0
+H3,2007,2007,2007,2,0,1,Import,320,Guatemala,GTM,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,782654,,,0
+H3,2007,2007,2007,2,0,1,Import,320,Guatemala,GTM,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,252112,,,0
+H3,2007,2007,2007,2,0,2,Export,320,Guatemala,GTM,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,138290,,,0
+H3,2007,2007,2007,2,0,1,Import,320,Guatemala,GTM,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,74628,,,0
+H2,2007,2007,2007,2,0,1,Import,324,Guinea,GIN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,410997,,,0
+H2,2007,2007,2007,2,0,1,Import,324,Guinea,GIN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33733,,,0
+H2,2007,2007,2007,2,0,1,Import,324,Guinea,GIN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,67831,,,0
+H3,2007,2007,2007,2,0,1,Import,328,Guyana,GUY,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14,,,0
+H3,2007,2007,2007,2,0,1,Import,340,Honduras,HND,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,59948283,,,0
+H3,2007,2007,2007,2,0,1,Import,340,Honduras,HND,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1232970,,,0
+H3,2007,2007,2007,2,0,2,Export,340,Honduras,HND,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,124747,,,0
+H3,2007,2007,2007,2,0,1,Import,340,Honduras,HND,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,150596,,,0
+H3,2007,2007,2007,2,0,2,Export,344,"China, Hong Kong SAR",HKG,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,75307,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,75307,,,0
+H3,2007,2007,2007,2,0,2,Export,344,"China, Hong Kong SAR",HKG,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,603790,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,603790,,,0
+H3,2007,2007,2007,2,0,2,Export,344,"China, Hong Kong SAR",HKG,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,33024,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,33024,,,0
+H3,2007,2007,2007,2,0,2,Export,344,"China, Hong Kong SAR",HKG,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38837,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38837,,,0
+H3,2007,2007,2007,2,0,1,Import,344,"China, Hong Kong SAR",HKG,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,45592,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3506997,,,0
+H3,2007,2007,2007,2,0,2,Export,344,"China, Hong Kong SAR",HKG,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1160663,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1160495,,,0
+H3,2007,2007,2007,2,0,2,Export,344,"China, Hong Kong SAR",HKG,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,447,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,447,,,0
+H3,2007,2007,2007,2,0,1,Import,344,"China, Hong Kong SAR",HKG,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2645374,,,0
+H3,2007,2007,2007,2,0,2,Export,344,"China, Hong Kong SAR",HKG,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3638947,,,0
+H3,2007,2007,2007,2,0,2,Export,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2650000,,,0
+H3,2007,2007,2007,2,0,2,Export,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3000,,,0
+H3,2007,2007,2007,2,0,1,Import,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,244000,,,0
+H3,2007,2007,2007,2,0,2,Export,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9745000,,,0
+H3,2007,2007,2007,2,0,2,Export,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1000,,,0
+H3,2007,2007,2007,2,0,2,Export,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1870000,,,0
+H3,2007,2007,2007,2,0,2,Export,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,63049,,,0
+H3,2007,2007,2007,2,0,1,Import,352,Iceland,ISL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9055,,,0
+H3,2007,2007,2007,2,0,2,Export,352,Iceland,ISL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1001,,,0
+H3,2007,2007,2007,2,0,1,Import,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5897,,,0
+H3,2007,2007,2007,2,0,1,Import,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,826,,,0
+H1,2007,2007,2007,2,0,2,Export,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,77320,,,0
+H1,2007,2007,2007,2,0,1,Import,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,95450,,,0
+H1,2007,2007,2007,2,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9914787,,,0
+H1,2007,2007,2007,2,0,1,Import,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7902,,,0
+H1,2007,2007,2007,2,0,2,Export,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10729990,,,0
+H1,2007,2007,2007,2,0,1,Import,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1044180,,,0
+H1,2007,2007,2007,2,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,34775193,,,0
+H3,2007,2007,2007,2,0,2,Export,372,Ireland,IRL,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,485509,,,0
+H3,2007,2007,2007,2,0,2,Export,372,Ireland,IRL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,232936,,,0
+H3,2007,2007,2007,2,0,1,Import,372,Ireland,IRL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2297336,,,0
+H3,2007,2007,2007,2,0,2,Export,372,Ireland,IRL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1673635,,,0
+H3,2007,2007,2007,2,0,2,Export,372,Ireland,IRL,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,81,,,0
+H3,2007,2007,2007,2,0,1,Import,376,Israel,ISR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,13766000,,,0
+H3,2007,2007,2007,2,0,2,Export,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4185000,,,0
+H3,2007,2007,2007,2,0,2,Export,376,Israel,ISR,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,109000,,,0
+H3,2007,2007,2007,2,0,1,Import,376,Israel,ISR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6659000,,,0
+H3,2007,2007,2007,2,0,2,Export,376,Israel,ISR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14312000,,,0
+H3,2007,2007,2007,2,0,2,Export,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,464000,,,0
+H3,2007,2007,2007,2,0,2,Export,376,Israel,ISR,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16000,,,0
+H3,2007,2007,2007,2,0,1,Import,376,Israel,ISR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,437000,,,0
+H3,2007,2007,2007,2,0,2,Export,376,Israel,ISR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1385000,,,0
+H3,2007,2007,2007,2,0,2,Export,381,Italy,ITA,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,57938,,,0
+H3,2007,2007,2007,2,0,1,Import,381,Italy,ITA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,165296377,,,0
+H3,2007,2007,2007,2,0,2,Export,381,Italy,ITA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3543625,,,0
+H3,2007,2007,2007,2,0,1,Import,381,Italy,ITA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1097721611,,,0
+H3,2007,2007,2007,2,0,2,Export,381,Italy,ITA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,232096847,,,0
+H3,2007,2007,2007,2,0,1,Import,381,Italy,ITA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,93787,,,0
+H3,2007,2007,2007,2,0,1,Import,381,Italy,ITA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16210807,,,0
+H3,2007,2007,2007,2,0,2,Export,381,Italy,ITA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17402114,,,0
+H3,2007,2007,2007,2,0,2,Export,381,Italy,ITA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6109741,,,0
+H3,2007,2007,2007,2,0,2,Export,381,Italy,ITA,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1309228,,,0
+H3,2007,2007,2007,2,0,1,Import,381,Italy,ITA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,49774143,,,0
+H3,2007,2007,2007,2,0,2,Export,381,Italy,ITA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,111912490,,,0
+H3,2007,2007,2007,2,0,2,Export,381,Italy,ITA,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1338009,,,0
+H3,2007,2007,2007,2,0,2,Export,381,Italy,ITA,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2347125,,,0
+H2,2007,2007,2007,2,0,1,Import,384,Côte d'Ivoire,CIV,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,110183138,,,0
+H2,2007,2007,2007,2,0,2,Export,384,Côte d'Ivoire,CIV,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,100228829,,,0
+H2,2007,2007,2007,2,0,1,Import,384,Côte d'Ivoire,CIV,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,235846,,,0
+H2,2007,2007,2007,2,0,1,Import,384,Côte d'Ivoire,CIV,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,310,,,0
+H2,2007,2007,2007,2,0,2,Export,384,Côte d'Ivoire,CIV,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,610435,,,0
+H2,2007,2007,2007,2,0,1,Import,384,Côte d'Ivoire,CIV,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3118914,,,0
+H2,2007,2007,2007,2,0,1,Import,384,Côte d'Ivoire,CIV,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,583504,,,0
+H2,2007,2007,2007,2,0,1,Import,388,Jamaica,JAM,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,227972,,,0
+H2,2007,2007,2007,2,0,2,Export,388,Jamaica,JAM,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19945,,,0
+H2,2007,2007,2007,2,0,1,Import,388,Jamaica,JAM,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,66695,,,0
+H2,2007,2007,2007,2,0,1,Import,388,Jamaica,JAM,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4041,,,0
+H3,2007,2007,2007,2,0,1,Import,392,Japan,JPN,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,64962408,,,0
+H3,2007,2007,2007,2,0,2,Export,392,Japan,JPN,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,58648,,,0
+H3,2007,2007,2007,2,0,1,Import,392,Japan,JPN,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,585019552,,,0
+H3,2007,2007,2007,2,0,1,Import,392,Japan,JPN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,790058100,,,0
+H3,2007,2007,2007,2,0,2,Export,392,Japan,JPN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,180966,,,0
+H3,2007,2007,2007,2,0,1,Import,392,Japan,JPN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,38609,,,0
+H3,2007,2007,2007,2,0,2,Export,392,Japan,JPN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,39861557,,,0
+H3,2007,2007,2007,2,0,2,Export,392,Japan,JPN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5379898,,,0
+H3,2007,2007,2007,2,0,1,Import,392,Japan,JPN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15400,,,0
+H3,2007,2007,2007,2,0,2,Export,392,Japan,JPN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,50320563,,,0
+H3,2007,2007,2007,2,0,2,Export,392,Japan,JPN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14235274,,,0
+H3,2007,2007,2007,2,0,2,Export,392,Japan,JPN,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,785210,,,0
+H3,2007,2007,2007,2,0,1,Import,392,Japan,JPN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,669812,,,0
+H2,2007,2007,2007,2,0,1,Import,398,Kazakhstan,KAZ,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,9614,,,0
+H2,2007,2007,2007,2,0,1,Import,398,Kazakhstan,KAZ,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34101,,,0
+H2,2007,2007,2007,2,0,2,Export,398,Kazakhstan,KAZ,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,66,,,0
+H2,2007,2007,2007,2,0,1,Import,398,Kazakhstan,KAZ,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14342,,,0
+H2,2007,2007,2007,2,0,2,Export,398,Kazakhstan,KAZ,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2649,,,0
+H3,2007,2007,2007,2,0,1,Import,400,Jordan,JOR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,264845140,,,0
+H3,2007,2007,2007,2,0,1,Import,400,Jordan,JOR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,44045,,,0
+H3,2007,2007,2007,2,0,1,Import,400,Jordan,JOR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9947344,,,0
+H3,2007,2007,2007,2,0,2,Export,400,Jordan,JOR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3054778,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,400,Jordan,JOR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,249268,,,0
+H3,2007,2007,2007,2,0,1,Import,400,Jordan,JOR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1980320,,,0
+H2,2007,2007,2007,2,0,1,Import,404,Kenya,KEN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,7472868,,,0
+H2,2007,2007,2007,2,0,2,Export,404,Kenya,KEN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,68483,,,0
+H2,2007,2007,2007,2,0,1,Import,404,Kenya,KEN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,585,,,0
+H2,2007,2007,2007,2,0,1,Import,404,Kenya,KEN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3491689,,,0
+H2,2007,2007,2007,2,0,2,Export,404,Kenya,KEN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2398215,,,0
+H2,2007,2007,2007,2,0,1,Import,404,Kenya,KEN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2809723,,,0
+H3,2007,2007,2007,2,0,1,Import,410,Rep. of Korea,KOR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,577949941,,,0
+H3,2007,2007,2007,2,0,2,Export,410,Rep. of Korea,KOR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,39443,,,0
+H3,2007,2007,2007,2,0,2,Export,410,Rep. of Korea,KOR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,38419179,,,0
+H3,2007,2007,2007,2,0,1,Import,410,Rep. of Korea,KOR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12450,,,0
+H3,2007,2007,2007,2,0,2,Export,410,Rep. of Korea,KOR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,132456443,,,0
+H3,2007,2007,2007,2,0,1,Import,410,Rep. of Korea,KOR,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6169,,,0
+H3,2007,2007,2007,2,0,2,Export,410,Rep. of Korea,KOR,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12993756,,,0
+H3,2007,2007,2007,2,0,1,Import,410,Rep. of Korea,KOR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,623261,,,0
+H3,2007,2007,2007,2,0,2,Export,410,Rep. of Korea,KOR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28429971,,,0
+H2,2007,2007,2007,2,0,1,Import,414,Kuwait,KWT,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,219069,,,0
+H2,2007,2007,2007,2,0,2,Export,414,Kuwait,KWT,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,565408,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,414,Kuwait,KWT,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,565405,,,0
+H2,2007,2007,2007,2,0,1,Import,414,Kuwait,KWT,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1202,,,0
+H2,2007,2007,2007,2,0,1,Import,414,Kuwait,KWT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2575769,,,0
+H2,2007,2007,2007,2,0,2,Export,414,Kuwait,KWT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30984901,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,414,Kuwait,KWT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13878,,,0
+H2,2007,2007,2007,2,0,1,Import,414,Kuwait,KWT,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1002762,,,0
+H2,2007,2007,2007,2,0,2,Export,414,Kuwait,KWT,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,34181,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,414,Kuwait,KWT,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25148,,,0
+H2,2007,2007,2007,2,0,2,Export,417,Kyrgyzstan,KGZ,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3055,,,0
+H3,2007,2007,2007,2,0,2,Export,422,Lebanon,LBN,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6495,,,0
+H3,2007,2007,2007,2,0,1,Import,422,Lebanon,LBN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,57103347,,,0
+H3,2007,2007,2007,2,0,2,Export,422,Lebanon,LBN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,40014,,,0
+H3,2007,2007,2007,2,0,2,Export,422,Lebanon,LBN,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,582458,,,0
+H3,2007,2007,2007,2,0,1,Import,422,Lebanon,LBN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11436235,,,0
+H3,2007,2007,2007,2,0,2,Export,422,Lebanon,LBN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6994742,,,0
+H3,2007,2007,2007,2,0,2,Export,422,Lebanon,LBN,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,609478,,,0
+H3,2007,2007,2007,2,0,1,Import,422,Lebanon,LBN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1168631,,,0
+H3,2007,2007,2007,2,0,2,Export,422,Lebanon,LBN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,338927,,,0
+H3,2007,2007,2007,2,0,2,Export,428,Latvia,LVA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,110497,,,0
+H3,2007,2007,2007,2,0,1,Import,428,Latvia,LVA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,152062,,,0
+H3,2007,2007,2007,2,0,2,Export,428,Latvia,LVA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,590,,,0
+H2,2007,2007,2007,2,0,1,Import,434,Libya,LBY,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,114240,,,0
+H2,2007,2007,2007,2,0,2,Export,434,Libya,LBY,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,40671645,,,0
+H2,2007,2007,2007,2,0,1,Import,434,Libya,LBY,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9827745,,,0
+H2,2007,2007,2007,2,0,2,Export,434,Libya,LBY,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7242673,,,0
+H2,2007,2007,2007,2,0,1,Import,434,Libya,LBY,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1874747,,,0
+H3,2007,2007,2007,2,0,2,Export,440,Lithuania,LTU,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,71522,,,0
+H3,2007,2007,2007,2,0,2,Export,440,Lithuania,LTU,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2383,,,0
+H3,2007,2007,2007,2,0,1,Import,440,Lithuania,LTU,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1047,,,0
+H3,2007,2007,2007,2,0,2,Export,440,Lithuania,LTU,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1043,,,0
+H3,2007,2007,2007,2,0,1,Import,440,Lithuania,LTU,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,131,,,0
+H3,2007,2007,2007,2,0,2,Export,440,Lithuania,LTU,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,85,,,0
+H3,2007,2007,2007,2,0,2,Export,442,Luxembourg,LUX,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,128402,,,0
+H3,2007,2007,2007,2,0,2,Export,442,Luxembourg,LUX,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,118349,,,0
+H3,2007,2007,2007,2,0,1,Import,450,Madagascar,MDG,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,283334,,,0
+H3,2007,2007,2007,2,0,2,Export,450,Madagascar,MDG,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2135,,,0
+H3,2007,2007,2007,2,0,1,Import,450,Madagascar,MDG,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,501568,,,0
+H3,2007,2007,2007,2,0,1,Import,450,Madagascar,MDG,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,171,,,0
+H3,2007,2007,2007,2,0,1,Import,450,Madagascar,MDG,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1476099,,,0
+H2,2007,2007,2007,2,0,1,Import,454,Malawi,MWI,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,256349,,,0
+H2,2007,2007,2007,2,0,1,Import,454,Malawi,MWI,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,174780,,,0
+H2,2007,2007,2007,2,0,1,Import,454,Malawi,MWI,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,587115,,,0
+H2,2007,2007,2007,2,0,2,Export,458,Malaysia,MYS,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,15056,,,0
+H2,2007,2007,2007,2,0,2,Export,458,Malaysia,MYS,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,65947,,,0
+H2,2007,2007,2007,2,0,1,Import,458,Malaysia,MYS,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,34975488,,,0
+H2,2007,2007,2007,2,0,2,Export,458,Malaysia,MYS,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,145401,,,0
+H2,2007,2007,2007,2,0,1,Import,458,Malaysia,MYS,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12795,,,0
+H2,2007,2007,2007,2,0,2,Export,458,Malaysia,MYS,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,173035,,,0
+H2,2007,2007,2007,2,0,1,Import,458,Malaysia,MYS,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11239,,,0
+H2,2007,2007,2007,2,0,2,Export,458,Malaysia,MYS,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7615563,,,0
+H2,2007,2007,2007,2,0,1,Import,458,Malaysia,MYS,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20953,,,0
+H2,2007,2007,2007,2,0,2,Export,458,Malaysia,MYS,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2973474,,,0
+H2,2007,2007,2007,2,0,2,Export,458,Malaysia,MYS,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,46457,,,0
+H2,2007,2007,2007,2,0,2,Export,458,Malaysia,MYS,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20765828,,,0
+H2,2007,2007,2007,2,0,1,Import,466,Mali,MLI,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,31748,,,0
+H2,2007,2007,2007,2,0,1,Import,466,Mali,MLI,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,222732,,,0
+H2,2007,2007,2007,2,0,1,Import,466,Mali,MLI,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,115520,,,0
+H3,2007,2007,2007,2,0,1,Import,470,Malta,MLT,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,733468,,,0
+H3,2007,2007,2007,2,0,2,Export,470,Malta,MLT,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,51911,,,0
+H3,2007,2007,2007,2,0,1,Import,470,Malta,MLT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,206569,,,0
+H3,2007,2007,2007,2,0,2,Export,470,Malta,MLT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,643,,,0
+H1,2007,2007,2007,2,0,1,Import,478,Mauritania,MRT,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,112512,,,0
+H1,2007,2007,2007,2,0,1,Import,478,Mauritania,MRT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18371,,,0
+H2,2007,2007,2007,2,0,1,Import,480,Mauritius,MUS,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,360178,,,0
+H2,2007,2007,2007,2,0,1,Import,480,Mauritius,MUS,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,47712,,,0
+H2,2007,2007,2007,2,0,1,Import,480,Mauritius,MUS,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,313500,,,0
+H2,2007,2007,2007,2,0,1,Import,480,Mauritius,MUS,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,385493,,,0
+H2,2007,2007,2007,2,0,1,Import,484,Mexico,MEX,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,36212225,,,0
+H2,2007,2007,2007,2,0,2,Export,484,Mexico,MEX,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,550677,,,0
+H2,2007,2007,2007,2,0,1,Import,484,Mexico,MEX,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,320886107,,,0
+H2,2007,2007,2007,2,0,2,Export,484,Mexico,MEX,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,16925,,,0
+H2,2007,2007,2007,2,0,1,Import,484,Mexico,MEX,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,210481,,,0
+H2,2007,2007,2007,2,0,2,Export,484,Mexico,MEX,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14957715,,,0
+H2,2007,2007,2007,2,0,1,Import,484,Mexico,MEX,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39928,,,0
+H2,2007,2007,2007,2,0,2,Export,484,Mexico,MEX,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,285965,,,0
+H2,2007,2007,2007,2,0,1,Import,484,Mexico,MEX,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,65820,,,0
+H2,2007,2007,2007,2,0,2,Export,484,Mexico,MEX,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2128382,,,0
+H2,2007,2007,2007,2,0,1,Import,484,Mexico,MEX,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7839,,,0
+H2,2007,2007,2007,2,0,2,Export,484,Mexico,MEX,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,789,,,0
+H2,2007,2007,2007,2,0,1,Import,490,"Other Asia, nes",,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1213949227,,,0
+H2,2007,2007,2007,2,0,1,Import,490,"Other Asia, nes",,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,435776101,,,0
+H2,2007,2007,2007,2,0,2,Export,490,"Other Asia, nes",,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,52449407,,,0
+H2,2007,2007,2007,2,0,1,Import,490,"Other Asia, nes",,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,360486,,,0
+H2,2007,2007,2007,2,0,2,Export,490,"Other Asia, nes",,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39235333,,,0
+H2,2007,2007,2007,2,0,1,Import,490,"Other Asia, nes",,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,64643,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,490,"Other Asia, nes",,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4354,,,0
+H2,2007,2007,2007,2,0,2,Export,490,"Other Asia, nes",,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,98661641,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,490,"Other Asia, nes",,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12332,,,0
+H2,2007,2007,2007,2,0,1,Import,490,"Other Asia, nes",,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1462,,,0
+H2,2007,2007,2007,2,0,2,Export,490,"Other Asia, nes",,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8706374,,,0
+H2,2007,2007,2007,2,0,1,Import,490,"Other Asia, nes",,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,91,,,0
+H2,2007,2007,2007,2,0,2,Export,490,"Other Asia, nes",,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10607640,,,0
+H3,2007,2007,2007,2,0,1,Import,496,Mongolia,MNG,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1,,,0
+H2,2007,2007,2007,2,0,1,Import,498,Rep. of Moldova,MDA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2305,,,0
+H2,2007,2007,2007,2,0,2,Export,498,Rep. of Moldova,MDA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3617,,,0
+H2,2007,2007,2007,2,0,1,Import,498,Rep. of Moldova,MDA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,55050,,,0
+H2,2007,2007,2007,2,0,1,Import,498,Rep. of Moldova,MDA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2955,,,0
+H2,2007,2007,2007,2,0,1,Import,499,Montenegro,MNE,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,43845,,,0
+H2,2007,2007,2007,2,0,1,Import,499,Montenegro,MNE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13508,,,0
+H2,2007,2007,2007,2,0,1,Import,499,Montenegro,MNE,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5,,,0
+H2,2007,2007,2007,2,0,2,Export,504,Morocco,MAR,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,606,,,0
+H2,2007,2007,2007,2,0,1,Import,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,43309419,,,0
+H2,2007,2007,2007,2,0,2,Export,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,206484,,,0
+H2,2007,2007,2007,2,0,2,Export,504,Morocco,MAR,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,146470,,,0
+H2,2007,2007,2007,2,0,1,Import,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29774558,,,0
+H2,2007,2007,2007,2,0,2,Export,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,207762,,,0
+H2,2007,2007,2007,2,0,1,Import,504,Morocco,MAR,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5230,,,0
+H2,2007,2007,2007,2,0,2,Export,504,Morocco,MAR,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,403211,,,0
+H2,2007,2007,2007,2,0,1,Import,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1615664,,,0
+H2,2007,2007,2007,2,0,2,Export,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13650,,,0
+H2,2007,2007,2007,2,0,1,Import,508,Mozambique,MOZ,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,70219,,,0
+H2,2007,2007,2007,2,0,1,Import,508,Mozambique,MOZ,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,117158,,,0
+H2,2007,2007,2007,2,0,1,Import,512,Oman,OMN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,270413,,,0
+H2,2007,2007,2007,2,0,2,Export,512,Oman,OMN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1056055,,,0
+H2,2007,2007,2007,2,0,1,Import,512,Oman,OMN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2000798,,,0
+H2,2007,2007,2007,2,0,2,Export,512,Oman,OMN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1658208,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,512,Oman,OMN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,580,,,0
+H2,2007,2007,2007,2,0,1,Import,512,Oman,OMN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,605893,,,0
+H3,2007,2007,2007,2,0,2,Export,528,Netherlands,NLD,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1127089,,,0
+H3,2007,2007,2007,2,0,1,Import,528,Netherlands,NLD,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,189343634,,,0
+H3,2007,2007,2007,2,0,2,Export,528,Netherlands,NLD,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,680921,,,0
+H3,2007,2007,2007,2,0,1,Import,528,Netherlands,NLD,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,179740092,,,0
+H3,2007,2007,2007,2,0,2,Export,528,Netherlands,NLD,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,85853732,,,0
+H3,2007,2007,2007,2,0,2,Export,528,Netherlands,NLD,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1192985,,,0
+H3,2007,2007,2007,2,0,2,Export,528,Netherlands,NLD,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18612762,,,0
+H3,2007,2007,2007,2,0,2,Export,528,Netherlands,NLD,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,366544,,,0
+H3,2007,2007,2007,2,0,1,Import,528,Netherlands,NLD,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4924612,,,0
+H3,2007,2007,2007,2,0,2,Export,528,Netherlands,NLD,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,52835917,,,0
+H3,2007,2007,2007,2,0,2,Export,528,Netherlands,NLD,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,41185,,,0
+H3,2007,2007,2007,2,0,2,Export,528,Netherlands,NLD,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,155129,,,0
+H3,2007,2007,2007,2,0,1,Import,528,Netherlands,NLD,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,380189,,,0
+H2,2007,2007,2007,2,0,1,Import,530,Neth. Antilles,ANT,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,993,,,0
+H2,2007,2007,2007,2,0,1,Import,530,Neth. Antilles,ANT,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,174,,,0
+H2,2007,2007,2007,2,0,1,Import,533,Aruba,ABW,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,77,,,0
+H2,2007,2007,2007,2,0,1,Import,540,New Caledonia,NCL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3745,,,0
+H2,2007,2007,2007,2,0,1,Import,540,New Caledonia,NCL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17679,,,0
+H2,2007,2007,2007,2,0,1,Import,540,New Caledonia,NCL,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,868,,,0
+H2,2007,2007,2007,2,0,1,Import,540,New Caledonia,NCL,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,33630,,,0
+H3,2007,2007,2007,2,0,2,Export,554,New Zealand,NZL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,51804,,,0
+H3,2007,2007,2007,2,0,1,Import,554,New Zealand,NZL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,113722,,,0
+H3,2007,2007,2007,2,0,2,Export,554,New Zealand,NZL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,81316,,,0
+H3,2007,2007,2007,2,0,1,Import,554,New Zealand,NZL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1399,,,0
+H3,2007,2007,2007,2,0,2,Export,554,New Zealand,NZL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5722,,,0
+H3,2007,2007,2007,2,0,1,Import,554,New Zealand,NZL,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,76,,,0
+H3,2007,2007,2007,2,0,1,Import,558,Nicaragua,NIC,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,138588538,,,0
+H3,2007,2007,2007,2,0,1,Import,558,Nicaragua,NIC,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1124137,,,0
+H3,2007,2007,2007,2,0,1,Import,558,Nicaragua,NIC,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,614940,,,0
+H3,2007,2007,2007,2,0,1,Import,558,Nicaragua,NIC,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1405,,,0
+H3,2007,2007,2007,2,0,2,Export,558,Nicaragua,NIC,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2900,,,0
+H3,2007,2007,2007,2,0,1,Import,558,Nicaragua,NIC,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,457,,,0
+H2,2007,2007,2007,2,0,1,Import,562,Niger,NER,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,174265,,,0
+H2,2007,2007,2007,2,0,2,Export,562,Niger,NER,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,12933,,,0
+H2,2007,2007,2007,2,0,1,Import,562,Niger,NER,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3658,,,0
+H2,2007,2007,2007,2,0,1,Import,566,Nigeria,NGA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,395448,,,0
+H2,2007,2007,2007,2,0,1,Import,566,Nigeria,NGA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1221328,,,0
+H2,2007,2007,2007,2,0,1,Import,566,Nigeria,NGA,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,44500,,,0
+H2,2007,2007,2007,2,0,1,Import,566,Nigeria,NGA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3399748,,,0
+H2,2007,2007,2007,2,0,2,Export,566,Nigeria,NGA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37485,,,0
+H2,2007,2007,2007,2,0,1,Import,566,Nigeria,NGA,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6688,,,0
+H2,2007,2007,2007,2,0,1,Import,566,Nigeria,NGA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3127569,,,0
+H2,2007,2007,2007,2,0,2,Export,566,Nigeria,NGA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,216957,,,0
+H3,2007,2007,2007,2,0,1,Import,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,242,,,0
+H3,2007,2007,2007,2,0,1,Import,579,Norway,NOR,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,97909201,,,0
+H3,2007,2007,2007,2,0,1,Import,579,Norway,NOR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,16903600,,,0
+H3,2007,2007,2007,2,0,2,Export,579,Norway,NOR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5143,,,0
+H3,2007,2007,2007,2,0,1,Import,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,83110,,,0
+H3,2007,2007,2007,2,0,2,Export,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,96430,,,0
+H3,2007,2007,2007,2,0,1,Import,579,Norway,NOR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,55184,,,0
+H3,2007,2007,2007,2,0,2,Export,579,Norway,NOR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,41032,,,0
+H3,2007,2007,2007,2,0,2,Export,579,Norway,NOR,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,704,,,0
+H3,2007,2007,2007,2,0,1,Import,579,Norway,NOR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,227113,,,0
+H3,2007,2007,2007,2,0,2,Export,579,Norway,NOR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,355640,,,0
+H3,2007,2007,2007,2,0,1,Import,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4108,,,0
+H3,2007,2007,2007,2,0,2,Export,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4266,,,0
+H3,2007,2007,2007,2,0,2,Export,579,Norway,NOR,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12617,,,0
+H2,2007,2007,2007,2,0,1,Import,586,Pakistan,PAK,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,684823,,,0
+H2,2007,2007,2007,2,0,1,Import,586,Pakistan,PAK,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2999848,,,0
+H2,2007,2007,2007,2,0,2,Export,586,Pakistan,PAK,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2572516,,,0
+H2,2007,2007,2007,2,0,2,Export,586,Pakistan,PAK,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18359,,,0
+H2,2007,2007,2007,2,0,1,Import,586,Pakistan,PAK,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,85915,,,0
+H2,2007,2007,2007,2,0,2,Export,586,Pakistan,PAK,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,345392,,,0
+H2,2007,2007,2007,2,0,1,Import,591,Panama,PAN,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,95568,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,591,Panama,PAN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1029498,,,0
+H2,2007,2007,2007,2,0,1,Import,591,Panama,PAN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,523123,,,0
+H2,2007,2007,2007,2,0,2,Export,591,Panama,PAN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4182465,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,591,Panama,PAN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4182160,,,0
+H2,2007,2007,2007,2,0,1,Import,591,Panama,PAN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,269800,,,0
+H2,2007,2007,2007,2,0,2,Export,591,Panama,PAN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1029498,,,0
+H3,2007,2007,2007,2,0,2,Export,600,Paraguay,PRY,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29600,,,0
+H3,2007,2007,2007,2,0,2,Export,600,Paraguay,PRY,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5308,,,0
+H3,2007,2007,2007,2,0,1,Import,600,Paraguay,PRY,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,82233,,,0
+H3,2007,2007,2007,2,0,1,Import,600,Paraguay,PRY,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2189,,,0
+H2,2007,2007,2007,2,0,1,Import,604,Peru,PER,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1343414344,,,0
+H2,2007,2007,2007,2,0,2,Export,604,Peru,PER,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,45236593,,,0
+H2,2007,2007,2007,2,0,1,Import,604,Peru,PER,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,8339408,,,0
+H2,2007,2007,2007,2,0,1,Import,604,Peru,PER,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7360774,,,0
+H2,2007,2007,2007,2,0,2,Export,604,Peru,PER,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26880117,,,0
+H2,2007,2007,2007,2,0,1,Import,604,Peru,PER,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,216325,,,0
+H2,2007,2007,2007,2,0,2,Export,604,Peru,PER,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28375,,,0
+H2,2007,2007,2007,2,0,1,Import,604,Peru,PER,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6824517,,,0
+H2,2007,2007,2007,2,0,2,Export,604,Peru,PER,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6341264,,,0
+H2,2007,2007,2007,2,0,1,Import,608,Philippines,PHL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25159,,,0
+H2,2007,2007,2007,2,0,2,Export,608,Philippines,PHL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3371,,,0
+H2,2007,2007,2007,2,0,2,Export,608,Philippines,PHL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,58332,,,0
+H2,2007,2007,2007,2,0,2,Export,608,Philippines,PHL,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,508594,,,0
+H3,2007,2007,2007,2,0,1,Import,616,Poland,POL,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,48214,,,0
+H3,2007,2007,2007,2,0,2,Export,616,Poland,POL,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,99844,,,0
+H3,2007,2007,2007,2,0,1,Import,616,Poland,POL,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1758691,,,0
+H3,2007,2007,2007,2,0,2,Export,616,Poland,POL,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,17101557,,,0
+H3,2007,2007,2007,2,0,1,Import,616,Poland,POL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,629514,,,0
+H3,2007,2007,2007,2,0,2,Export,616,Poland,POL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,128668,,,0
+H3,2007,2007,2007,2,0,1,Import,616,Poland,POL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9258378,,,0
+H3,2007,2007,2007,2,0,2,Export,616,Poland,POL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2533377,,,0
+H3,2007,2007,2007,2,0,1,Import,616,Poland,POL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,114397,,,0
+H3,2007,2007,2007,2,0,2,Export,616,Poland,POL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7389,,,0
+H3,2007,2007,2007,2,0,1,Import,616,Poland,POL,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,337899,,,0
+H3,2007,2007,2007,2,0,2,Export,616,Poland,POL,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,737583,,,0
+H3,2007,2007,2007,2,0,1,Import,620,Portugal,PRT,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,583825560,,,0
+H3,2007,2007,2007,2,0,2,Export,620,Portugal,PRT,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,44925,,,0
+H3,2007,2007,2007,2,0,1,Import,620,Portugal,PRT,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5054249,,,0
+H3,2007,2007,2007,2,0,1,Import,620,Portugal,PRT,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,835,,,0
+H3,2007,2007,2007,2,0,2,Export,620,Portugal,PRT,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,155152,,,0
+H3,2007,2007,2007,2,0,1,Import,620,Portugal,PRT,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,338,,,0
+H3,2007,2007,2007,2,0,2,Export,620,Portugal,PRT,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,41752,,,0
+H3,2007,2007,2007,2,0,2,Export,620,Portugal,PRT,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31897,,,0
+H3,2007,2007,2007,2,0,1,Import,620,Portugal,PRT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2185779,,,0
+H3,2007,2007,2007,2,0,2,Export,620,Portugal,PRT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3822005,,,0
+H3,2007,2007,2007,2,0,2,Export,620,Portugal,PRT,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15048,,,0
+H3,2007,2007,2007,2,0,1,Import,620,Portugal,PRT,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,170,,,0
+H3,2007,2007,2007,2,0,2,Export,620,Portugal,PRT,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,272755,,,0
+H2,2007,2007,2007,2,0,1,Import,634,Qatar,QAT,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1008149,,,0
+H2,2007,2007,2007,2,0,2,Export,634,Qatar,QAT,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24338,,,0
+H2,2007,2007,2007,2,0,1,Import,634,Qatar,QAT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,654393,,,0
+H2,2007,2007,2007,2,0,2,Export,634,Qatar,QAT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18044558,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,634,Qatar,QAT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,96,,,0
+H2,2007,2007,2007,2,0,1,Import,634,Qatar,QAT,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1177873,,,0
+H3,2007,2007,2007,2,0,1,Import,642,Romania,ROU,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,46017731,,,0
+H3,2007,2007,2007,2,0,2,Export,642,Romania,ROU,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,27618000,,,0
+H3,2007,2007,2007,2,0,1,Import,642,Romania,ROU,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,787,,,0
+H3,2007,2007,2007,2,0,2,Export,642,Romania,ROU,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1432,,,0
+H3,2007,2007,2007,2,0,1,Import,642,Romania,ROU,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1967041,,,0
+H3,2007,2007,2007,2,0,2,Export,642,Romania,ROU,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1811043,,,0
+H3,2007,2007,2007,2,0,2,Export,642,Romania,ROU,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,71525,,,0
+H3,2007,2007,2007,2,0,2,Export,642,Romania,ROU,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,95499,,,0
+H3,2007,2007,2007,2,0,1,Import,642,Romania,ROU,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,86290,,,0
+H3,2007,2007,2007,2,0,2,Export,642,Romania,ROU,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,34577,,,0
+H3,2007,2007,2007,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1426,,,0
+H3,2007,2007,2007,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,190,,,0
+H3,2007,2007,2007,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,158219,,,0
+H3,2007,2007,2007,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2269444,,,0
+H3,2007,2007,2007,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11239,,,0
+H3,2007,2007,2007,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,750070,,,0
+H3,2007,2007,2007,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,434252,,,0
+H3,2007,2007,2007,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4306670,,,0
+H3,2007,2007,2007,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,135138,,,0
+H3,2007,2007,2007,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,143423,,,0
+H3,2007,2007,2007,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,167090,,,0
+H3,2007,2007,2007,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3575614,,,0
+H2,2007,2007,2007,2,0,1,Import,646,Rwanda,RWA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,264948,,,0
+H2,2007,2007,2007,2,0,1,Import,646,Rwanda,RWA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,466250,,,0
+H2,2007,2007,2007,2,0,1,Import,646,Rwanda,RWA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25129,,,0
+H1,2007,2007,2007,2,0,1,Import,662,Saint Lucia,LCA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,613,,,0
+H1,2007,2007,2007,2,0,1,Import,678,Sao Tome and Principe,STP,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,22091,,,0
+H3,2007,2007,2007,2,0,1,Import,682,Saudi Arabia,SAU,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,11683681,,,0
+H3,2007,2007,2007,2,0,1,Import,682,Saudi Arabia,SAU,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24386675,,,0
+H3,2007,2007,2007,2,0,2,Export,682,Saudi Arabia,SAU,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,308147861,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,682,Saudi Arabia,SAU,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1441318,,,0
+H3,2007,2007,2007,2,0,1,Import,682,Saudi Arabia,SAU,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6716796,,,0
+H3,2007,2007,2007,2,0,2,Export,682,Saudi Arabia,SAU,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4192417,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,682,Saudi Arabia,SAU,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2951208,,,0
+H2,2007,2007,2007,2,0,2,Export,686,Senegal,SEN,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7837,,,0
+H2,2007,2007,2007,2,0,1,Import,686,Senegal,SEN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,327746,,,0
+H2,2007,2007,2007,2,0,1,Import,686,Senegal,SEN,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,13912397,,,0
+H2,2007,2007,2007,2,0,2,Export,686,Senegal,SEN,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4088329,,,0
+H2,2007,2007,2007,2,0,1,Import,686,Senegal,SEN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,620706,,,0
+H2,2007,2007,2007,2,0,2,Export,686,Senegal,SEN,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,97455,,,0
+H2,2007,2007,2007,2,0,1,Import,686,Senegal,SEN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1047597,,,0
+H2,2007,2007,2007,2,0,2,Export,686,Senegal,SEN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2508,,,0
+H3,2007,2007,2007,2,0,2,Export,688,Serbia,SRB,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,117378,,,0
+H3,2007,2007,2007,2,0,1,Import,688,Serbia,SRB,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,197301,,,0
+H3,2007,2007,2007,2,0,2,Export,688,Serbia,SRB,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1332,,,0
+H3,2007,2007,2007,2,0,1,Import,688,Serbia,SRB,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1234,,,0
+H3,2007,2007,2007,2,0,2,Export,688,Serbia,SRB,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,138314,,,0
+H3,2007,2007,2007,2,0,1,Import,688,Serbia,SRB,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1019903,,,0
+H3,2007,2007,2007,2,0,2,Export,688,Serbia,SRB,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3392,,,0
+H3,2007,2007,2007,2,0,1,Import,688,Serbia,SRB,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,988,,,0
+H3,2007,2007,2007,2,0,2,Export,688,Serbia,SRB,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1946007,,,0
+H3,2007,2007,2007,2,0,2,Export,688,Serbia,SRB,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,750683,,,0
+H0,2007,2007,2007,2,0,1,Import,690,Seychelles,SYC,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,97,,,0
+H0,2007,2007,2007,2,0,1,Import,690,Seychelles,SYC,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12053,,,0
+H2,2007,2007,2007,2,0,1,Import,699,India,IND,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,103462044,,,0
+H2,2007,2007,2007,2,0,2,Export,699,India,IND,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,143889,,,0
+H2,2007,2007,2007,2,0,1,Import,699,India,IND,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,72729573,,,0
+H2,2007,2007,2007,2,0,1,Import,699,India,IND,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1687458318,,,0
+H2,2007,2007,2007,2,0,2,Export,699,India,IND,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,87062602,,,0
+H2,2007,2007,2007,2,0,1,Import,699,India,IND,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17046,,,0
+H2,2007,2007,2007,2,0,2,Export,699,India,IND,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,94151,,,0
+H2,2007,2007,2007,2,0,1,Import,699,India,IND,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,239487,,,0
+H2,2007,2007,2007,2,0,2,Export,699,India,IND,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20923501,,,0
+H2,2007,2007,2007,2,0,2,Export,699,India,IND,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2046537,,,0
+H2,2007,2007,2007,2,0,2,Export,699,India,IND,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39216,,,0
+H2,2007,2007,2007,2,0,1,Import,699,India,IND,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,406100,,,0
+H2,2007,2007,2007,2,0,2,Export,699,India,IND,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43473223,,,0
+H2,2007,2007,2007,2,0,1,Import,699,India,IND,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,953595,,,0
+H2,2007,2007,2007,2,0,2,Export,699,India,IND,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7309242,,,0
+H3,2007,2007,2007,2,0,1,Import,702,Singapore,SGP,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,714,,,0
+H3,2007,2007,2007,2,0,1,Import,702,Singapore,SGP,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,45500120,,,0
+H3,2007,2007,2007,2,0,2,Export,702,Singapore,SGP,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,76659006,,,0
+H3,2007,2007,2007,2,0,1,Import,702,Singapore,SGP,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,74941,,,0
+H3,2007,2007,2007,2,0,2,Export,702,Singapore,SGP,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,370123,,,0
+H3,2007,2007,2007,2,0,1,Import,702,Singapore,SGP,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,55513,,,0
+H3,2007,2007,2007,2,0,2,Export,702,Singapore,SGP,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14708160,,,0
+H3,2007,2007,2007,2,0,2,Export,702,Singapore,SGP,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,116187,,,0
+H3,2007,2007,2007,2,0,1,Import,702,Singapore,SGP,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43950,,,0
+H3,2007,2007,2007,2,0,2,Export,702,Singapore,SGP,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1915239,,,0
+H3,2007,2007,2007,2,0,1,Import,703,Slovakia,SVK,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,57097,,,0
+H3,2007,2007,2007,2,0,1,Import,703,Slovakia,SVK,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,246074,,,0
+H3,2007,2007,2007,2,0,1,Import,703,Slovakia,SVK,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,277523,,,0
+H3,2007,2007,2007,2,0,2,Export,703,Slovakia,SVK,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,107343,,,0
+H3,2007,2007,2007,2,0,1,Import,703,Slovakia,SVK,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,35,,,0
+H3,2007,2007,2007,2,0,1,Import,703,Slovakia,SVK,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,185,,,0
+H3,2007,2007,2007,2,0,2,Export,703,Slovakia,SVK,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29629,,,0
+H2,2007,2007,2007,2,0,1,Import,704,Viet Nam,VNM,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4477,,,0
+H2,2007,2007,2007,2,0,2,Export,704,Viet Nam,VNM,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,9333620,,,0
+H2,2007,2007,2007,2,0,2,Export,704,Viet Nam,VNM,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1358875,,,0
+H2,2007,2007,2007,2,0,1,Import,704,Viet Nam,VNM,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,207708,,,0
+H2,2007,2007,2007,2,0,2,Export,704,Viet Nam,VNM,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,259935,,,0
+H2,2007,2007,2007,2,0,2,Export,704,Viet Nam,VNM,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1470944,,,0
+H2,2007,2007,2007,2,0,1,Import,704,Viet Nam,VNM,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28682,,,0
+H2,2007,2007,2007,2,0,2,Export,704,Viet Nam,VNM,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2475468,,,0
+H3,2007,2007,2007,2,0,2,Export,705,Slovenia,SVN,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2309,,,0
+H3,2007,2007,2007,2,0,2,Export,705,Slovenia,SVN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,129,,,0
+H3,2007,2007,2007,2,0,1,Import,705,Slovenia,SVN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13419,,,0
+H3,2007,2007,2007,2,0,2,Export,705,Slovenia,SVN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1649,,,0
+H3,2007,2007,2007,2,0,1,Import,705,Slovenia,SVN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1469258,,,0
+H3,2007,2007,2007,2,0,2,Export,705,Slovenia,SVN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37479,,,0
+H3,2007,2007,2007,2,0,1,Import,705,Slovenia,SVN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1141,,,0
+H3,2007,2007,2007,2,0,2,Export,705,Slovenia,SVN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1227,,,0
+H3,2007,2007,2007,2,0,2,Export,705,Slovenia,SVN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,402861,,,0
+H3,2007,2007,2007,2,0,1,Import,710,South Africa,ZAF,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,64086217,,,0
+H3,2007,2007,2007,2,0,1,Import,710,South Africa,ZAF,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2071395,,,0
+H3,2007,2007,2007,2,0,2,Export,710,South Africa,ZAF,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,659403,,,0
+H3,2007,2007,2007,2,0,1,Import,710,South Africa,ZAF,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4472196,,,0
+H3,2007,2007,2007,2,0,2,Export,710,South Africa,ZAF,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,372991,,,0
+H3,2007,2007,2007,2,0,1,Import,710,South Africa,ZAF,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,179240,,,0
+H3,2007,2007,2007,2,0,1,Import,710,South Africa,ZAF,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,89,,,0
+H3,2007,2007,2007,2,0,2,Export,710,South Africa,ZAF,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43092,,,0
+H3,2007,2007,2007,2,0,1,Import,710,South Africa,ZAF,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11960,,,0
+H3,2007,2007,2007,2,0,2,Export,710,South Africa,ZAF,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,500532,,,0
+H3,2007,2007,2007,2,0,1,Import,710,South Africa,ZAF,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,135,,,0
+H3,2007,2007,2007,2,0,2,Export,710,South Africa,ZAF,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22460,,,0
+H3,2007,2007,2007,2,0,1,Import,710,South Africa,ZAF,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,718396,,,0
+H3,2007,2007,2007,2,0,2,Export,710,South Africa,ZAF,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,451592,,,0
+H3,2007,2007,2007,2,0,1,Import,710,South Africa,ZAF,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1271,,,0
+H3,2007,2007,2007,2,0,2,Export,710,South Africa,ZAF,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1289,,,0
+H2,2007,2007,2007,2,0,1,Import,716,Zimbabwe,ZWE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,144092,,,0
+H2,2007,2007,2007,2,0,1,Import,716,Zimbabwe,ZWE,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,299874,,,0
+H3,2007,2007,2007,2,0,1,Import,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,377,,,0
+H3,2007,2007,2007,2,0,2,Export,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,528670,,,0
+H3,2007,2007,2007,2,0,1,Import,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1218981832,,,0
+H3,2007,2007,2007,2,0,2,Export,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,434135,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,724,Spain,ESP,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,132565,,,0
+H3,2007,2007,2007,2,0,2,Export,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1001284,,,0
+H3,2007,2007,2007,2,0,2,Export,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1006039,,,0
+H3,2007,2007,2007,2,0,1,Import,724,Spain,ESP,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5782360,,,0
+H3,2007,2007,2007,2,0,2,Export,724,Spain,ESP,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1630213,,,0
+H3,2007,2007,2007,2,0,2,Export,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5998148,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,284526,,,0
+H3,2007,2007,2007,2,0,2,Export,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3352023,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,307581,,,0
+H3,2007,2007,2007,2,0,1,Import,724,Spain,ESP,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,20226014,,,0
+H3,2007,2007,2007,2,0,2,Export,724,Spain,ESP,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,44402849,,,4
+H3,2007,2007,2007,2,0,1,Import,724,Spain,ESP,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1365519832,,,0
+H3,2007,2007,2007,2,0,2,Export,724,Spain,ESP,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5992790,,,0
+H3,2007,2007,2007,2,0,1,Import,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6464,,,4
+H3,2007,2007,2007,2,0,1,Import,736,Fmr Sudan,SDN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4551814,,,0
+H3,2007,2007,2007,2,0,1,Import,736,Fmr Sudan,SDN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,328626,,,4
+H3,2007,2007,2007,2,0,1,Import,736,Fmr Sudan,SDN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8531349,,,4
+H3,2007,2007,2007,2,0,2,Export,736,Fmr Sudan,SDN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,130190,,,0
+H3,2007,2007,2007,2,0,1,Import,736,Fmr Sudan,SDN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,338377,,,4
+H3,2007,2007,2007,2,0,1,Import,736,Fmr Sudan,SDN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,16123345,,,4
+H0,2007,2007,2007,2,0,1,Import,740,Suriname,SUR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,79,,,0
+H3,2007,2007,2007,2,0,2,Export,752,Sweden,SWE,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,14091,,,0
+H3,2007,2007,2007,2,0,2,Export,752,Sweden,SWE,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4153,,,0
+H3,2007,2007,2007,2,0,2,Export,752,Sweden,SWE,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,45831,,,0
+H3,2007,2007,2007,2,0,1,Import,752,Sweden,SWE,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,143644,,,0
+H3,2007,2007,2007,2,0,2,Export,752,Sweden,SWE,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,852848,,,0
+H3,2007,2007,2007,2,0,1,Import,752,Sweden,SWE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,171839,,,0
+H3,2007,2007,2007,2,0,2,Export,752,Sweden,SWE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7438022,,,0
+H3,2007,2007,2007,2,0,2,Export,752,Sweden,SWE,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43013,,,0
+H3,2007,2007,2007,2,0,1,Import,752,Sweden,SWE,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,890,,,0
+H3,2007,2007,2007,2,0,2,Export,752,Sweden,SWE,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1149639,,,0
+H3,2007,2007,2007,2,0,2,Export,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1231,,,0
+H3,2007,2007,2007,2,0,2,Export,757,Switzerland,CHE,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1681,,,0
+H3,2007,2007,2007,2,0,1,Import,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1780,,,0
+H3,2007,2007,2007,2,0,2,Export,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1358235,,,0
+H3,2007,2007,2007,2,0,1,Import,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43223,,,0
+H3,2007,2007,2007,2,0,2,Export,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1550735,,,0
+H3,2007,2007,2007,2,0,2,Export,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,142485,,,0
+H3,2007,2007,2007,2,0,2,Export,757,Switzerland,CHE,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1533,,,0
+H3,2007,2007,2007,2,0,1,Import,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,279737,,,0
+H3,2007,2007,2007,2,0,2,Export,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5866299,,,0
+H3,2007,2007,2007,2,0,1,Import,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4482,,,0
+H3,2007,2007,2007,2,0,2,Export,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,62498,,,0
+H3,2007,2007,2007,2,0,1,Import,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,209,,,0
+H2,2007,2007,2007,2,0,1,Import,760,Syria,SYR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3060809,,,0
+H2,2007,2007,2007,2,0,1,Import,760,Syria,SYR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11088415,,,0
+H2,2007,2007,2007,2,0,2,Export,760,Syria,SYR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23885449,,,0
+H2,2007,2007,2007,2,0,1,Import,760,Syria,SYR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1219005,,,0
+H3,2007,2007,2007,2,0,1,Import,764,Thailand,THA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,123363,,,0
+H3,2007,2007,2007,2,0,1,Import,764,Thailand,THA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,110287,,,0
+H3,2007,2007,2007,2,0,2,Export,764,Thailand,THA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4336608,,,0
+H3,2007,2007,2007,2,0,2,Export,764,Thailand,THA,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19436,,,0
+H3,2007,2007,2007,2,0,1,Import,764,Thailand,THA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,61983,,,0
+H3,2007,2007,2007,2,0,2,Export,764,Thailand,THA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25832359,,,0
+H3,2007,2007,2007,2,0,1,Import,764,Thailand,THA,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,49510,,,0
+H3,2007,2007,2007,2,0,2,Export,764,Thailand,THA,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9928975,,,0
+H3,2007,2007,2007,2,0,1,Import,764,Thailand,THA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,346,,,0
+H3,2007,2007,2007,2,0,2,Export,764,Thailand,THA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,65859325,,,0
+H2,2007,2007,2007,2,0,1,Import,768,Togo,TGO,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,19277,,,0
+H2,2007,2007,2007,2,0,1,Import,768,Togo,TGO,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9790,,,0
+H2,2007,2007,2007,2,0,1,Import,768,Togo,TGO,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15758,,,0
+H3,2007,2007,2007,2,0,2,Export,780,Trinidad and Tobago,TTO,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,152,,,0
+H3,2007,2007,2007,2,0,1,Import,780,Trinidad and Tobago,TTO,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,147,,,0
+H3,2007,2007,2007,2,0,1,Import,780,Trinidad and Tobago,TTO,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,44666,,,0
+H3,2007,2007,2007,2,0,2,Export,780,Trinidad and Tobago,TTO,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,251168,,,0
+H3,2007,2007,2007,2,0,1,Import,780,Trinidad and Tobago,TTO,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1900,,,0
+H3,2007,2007,2007,2,0,1,Import,780,Trinidad and Tobago,TTO,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,148794,,,0
+H3,2007,2007,2007,2,0,1,Import,780,Trinidad and Tobago,TTO,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,122747,,,0
+H2,2007,2007,2007,2,0,2,Export,784,United Arab Emirates,ARE,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,424495,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,784,United Arab Emirates,ARE,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,48957,,,0
+H2,2007,2007,2007,2,0,1,Import,784,United Arab Emirates,ARE,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5560654,,,0
+H2,2007,2007,2007,2,0,2,Export,784,United Arab Emirates,ARE,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3258663,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,784,United Arab Emirates,ARE,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,302700,,,0
+H2,2007,2007,2007,2,0,1,Import,784,United Arab Emirates,ARE,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,76239,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,784,United Arab Emirates,ARE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2926732,,,0
+H2,2007,2007,2007,2,0,2,Export,784,United Arab Emirates,ARE,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1319576,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,784,United Arab Emirates,ARE,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1319576,,,0
+H2,2007,2007,2007,2,0,1,Import,784,United Arab Emirates,ARE,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2556556,,,0
+H2,2007,2007,2007,2,0,2,Export,784,United Arab Emirates,ARE,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5608205,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,784,United Arab Emirates,ARE,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5047832,,,0
+H2,2007,2007,2007,2,0,2,Export,784,United Arab Emirates,ARE,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,132762,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,784,United Arab Emirates,ARE,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,50,,,0
+H2,2007,2007,2007,2,0,2,Export,784,United Arab Emirates,ARE,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,203897,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,784,United Arab Emirates,ARE,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,198503,,,0
+H2,2007,2007,2007,2,0,1,Import,784,United Arab Emirates,ARE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6665796,,,0
+H2,2007,2007,2007,2,0,2,Export,784,United Arab Emirates,ARE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,46545887,,,0
+H2,2007,2007,2007,2,0,1,Import,788,Tunisia,TUN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,90229442,,,0
+H2,2007,2007,2007,2,0,2,Export,788,Tunisia,TUN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,33501710,,,0
+H2,2007,2007,2007,2,0,2,Export,788,Tunisia,TUN,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,86383,,,0
+H2,2007,2007,2007,2,0,1,Import,788,Tunisia,TUN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6393583,,,0
+H2,2007,2007,2007,2,0,2,Export,788,Tunisia,TUN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,127320,,,0
+H2,2007,2007,2007,2,0,1,Import,788,Tunisia,TUN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,238168,,,0
+H2,2007,2007,2007,2,0,2,Export,788,Tunisia,TUN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,204484,,,0
+H3,2007,2007,2007,2,0,2,Export,792,Turkey,TUR,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,454073,,,0
+H3,2007,2007,2007,2,0,1,Import,792,Turkey,TUR,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,44646233,,,0
+H3,2007,2007,2007,2,0,2,Export,792,Turkey,TUR,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3120,,,0
+H3,2007,2007,2007,2,0,1,Import,792,Turkey,TUR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,127117934,,,0
+H3,2007,2007,2007,2,0,2,Export,792,Turkey,TUR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,57794810,,,0
+H3,2007,2007,2007,2,0,1,Import,792,Turkey,TUR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20806,,,0
+H3,2007,2007,2007,2,0,1,Import,792,Turkey,TUR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2780259,,,0
+H3,2007,2007,2007,2,0,2,Export,792,Turkey,TUR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20180950,,,0
+H3,2007,2007,2007,2,0,2,Export,792,Turkey,TUR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,222012,,,0
+H3,2007,2007,2007,2,0,2,Export,792,Turkey,TUR,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7497,,,0
+H3,2007,2007,2007,2,0,1,Import,792,Turkey,TUR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,59830633,,,0
+H3,2007,2007,2007,2,0,2,Export,792,Turkey,TUR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,47403915,,,0
+H3,2007,2007,2007,2,0,2,Export,792,Turkey,TUR,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,698993,,,0
+H3,2007,2007,2007,2,0,2,Export,792,Turkey,TUR,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28471,,,0
+H2,2007,2007,2007,2,0,1,Import,800,Uganda,UGA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3580832,,,0
+H2,2007,2007,2007,2,0,1,Import,800,Uganda,UGA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2029668,,,0
+H2,2007,2007,2007,2,0,1,Import,800,Uganda,UGA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,767060,,,0
+H1,2007,2007,2007,2,0,2,Export,804,Ukraine,UKR,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5532,,,0
+H1,2007,2007,2007,2,0,2,Export,804,Ukraine,UKR,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,17552,,,0
+H1,2007,2007,2007,2,0,1,Import,804,Ukraine,UKR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,10831700,,,0
+H1,2007,2007,2007,2,0,2,Export,804,Ukraine,UKR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,26730904,,,0
+H1,2007,2007,2007,2,0,2,Export,804,Ukraine,UKR,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,361019,,,0
+H1,2007,2007,2007,2,0,2,Export,804,Ukraine,UKR,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14728,,,0
+H1,2007,2007,2007,2,0,1,Import,804,Ukraine,UKR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,326,,,0
+H1,2007,2007,2007,2,0,2,Export,804,Ukraine,UKR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1950185,,,0
+H1,2007,2007,2007,2,0,2,Export,804,Ukraine,UKR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,791094,,,0
+H1,2007,2007,2007,2,0,2,Export,804,Ukraine,UKR,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,96486,,,0
+H1,2007,2007,2007,2,0,1,Import,804,Ukraine,UKR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,777365,,,0
+H1,2007,2007,2007,2,0,2,Export,804,Ukraine,UKR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,351044,,,0
+H1,2007,2007,2007,2,0,1,Import,804,Ukraine,UKR,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,938,,,0
+H3,2007,2007,2007,2,0,1,Import,807,North Macedonia,MKD,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,873,,,0
+H3,2007,2007,2007,2,0,1,Import,807,North Macedonia,MKD,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1038856,,,0
+H3,2007,2007,2007,2,0,2,Export,807,North Macedonia,MKD,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12338,,,0
+H3,2007,2007,2007,2,0,1,Import,807,North Macedonia,MKD,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,527,,,0
+H0,2007,2007,2007,2,0,1,Import,818,Egypt,EGY,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11346,,,0
+H3,2007,2007,2007,2,0,2,Export,826,United Kingdom,GBR,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,922344,,,0
+H3,2007,2007,2007,2,0,2,Export,826,United Kingdom,GBR,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,35342,,,0
+H3,2007,2007,2007,2,0,1,Import,826,United Kingdom,GBR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,75417341,,,0
+H3,2007,2007,2007,2,0,2,Export,826,United Kingdom,GBR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5562448,,,0
+H3,2007,2007,2007,2,0,1,Import,826,United Kingdom,GBR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1278,,,0
+H3,2007,2007,2007,2,0,2,Export,826,United Kingdom,GBR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1693737,,,0
+H3,2007,2007,2007,2,0,1,Import,826,United Kingdom,GBR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,35970,,,0
+H3,2007,2007,2007,2,0,2,Export,826,United Kingdom,GBR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16645689,,,0
+H3,2007,2007,2007,2,0,1,Import,826,United Kingdom,GBR,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3150,,,0
+H3,2007,2007,2007,2,0,2,Export,826,United Kingdom,GBR,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,379680,,,0
+H3,2007,2007,2007,2,0,1,Import,826,United Kingdom,GBR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16630625,,,0
+H3,2007,2007,2007,2,0,2,Export,826,United Kingdom,GBR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34881567,,,0
+H3,2007,2007,2007,2,0,2,Export,826,United Kingdom,GBR,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,881209,,,0
+H3,2007,2007,2007,2,0,2,Export,826,United Kingdom,GBR,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,283290,,,0
+H2,2007,2007,2007,2,0,1,Import,834,United Rep. of Tanzania,TZA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2783992,,,0
+H2,2007,2007,2007,2,0,1,Import,834,United Rep. of Tanzania,TZA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1006863,,,0
+H2,2007,2007,2007,2,0,1,Import,834,United Rep. of Tanzania,TZA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,202166,,,0
+H3,2007,2007,2007,2,0,1,Import,842,USA,USA,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4731879862,,,0
+H3,2007,2007,2007,2,0,2,Export,842,USA,USA,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,620230449,,,0
+H3,2007,2007,2007,2,0,1,Import,842,USA,USA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22522,,,0
+H3,2007,2007,2007,2,0,2,Export,842,USA,USA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6370601,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,842,USA,USA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,238224,,,0
+H3,2007,2007,2007,2,0,1,Import,842,USA,USA,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,155128,,,0
+H3,2007,2007,2007,2,0,2,Export,842,USA,USA,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19972847,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,842,USA,USA,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,727582,,,0
+H3,2007,2007,2007,2,0,2,Export,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,456234,,,0
+H3,2007,2007,2007,2,0,1,Import,842,USA,USA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3999397,,,0
+H3,2007,2007,2007,2,0,2,Export,842,USA,USA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,173701862,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,842,USA,USA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,116555,,,0
+H3,2007,2007,2007,2,0,1,Import,842,USA,USA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4531095,,,0
+H3,2007,2007,2007,2,0,2,Export,842,USA,USA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,225699731,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,842,USA,USA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4960937,,,0
+H3,2007,2007,2007,2,0,2,Export,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6455403,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5830,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,842,USA,USA,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,73460,,,0
+H3,2007,2007,2007,2,0,1,Import,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1624171376,,,0
+H3,2007,2007,2007,2,0,2,Export,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1199262,,,0
+H3,2007,2007,2007,2,0,1,Import,842,USA,USA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1174976873,,,0
+H3,2007,2007,2007,2,0,2,Export,842,USA,USA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,262055417,,,0
+H3,2007,2007,2007,2,0,3,Re-Export,842,USA,USA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8820,,,0
+H2,2007,2007,2007,2,0,1,Import,854,Burkina Faso,BFA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,7634133,,,0
+H2,2007,2007,2007,2,0,1,Import,854,Burkina Faso,BFA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,357467,,,0
+H2,2007,2007,2007,2,0,1,Import,854,Burkina Faso,BFA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,176919,,,0
+H2,2007,2007,2007,2,0,1,Import,854,Burkina Faso,BFA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19338,,,0
+H3,2007,2007,2007,2,0,1,Import,858,Uruguay,URY,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,654,,,0
+H3,2007,2007,2007,2,0,2,Export,858,Uruguay,URY,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,280805,,,0
+H3,2007,2007,2007,2,0,1,Import,858,Uruguay,URY,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,204618,,,0
+H3,2007,2007,2007,2,0,2,Export,858,Uruguay,URY,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1690,,,0
+H2,2007,2007,2007,2,0,1,Import,862,Venezuela,VEN,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,378,,,0
+H2,2007,2007,2007,2,0,1,Import,862,Venezuela,VEN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17657703,,,0
+H2,2007,2007,2007,2,0,1,Import,862,Venezuela,VEN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10264053,,,0
+H2,2007,2007,2007,2,0,1,Import,887,Yemen,YEM,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,104808,,,0
+H2,2007,2007,2007,2,0,1,Import,887,Yemen,YEM,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5377471,,,0
+H2,2007,2007,2007,2,0,2,Export,887,Yemen,YEM,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,456,,,0
+H2,2007,2007,2007,2,0,3,Re-Export,887,Yemen,YEM,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,456,,,0
+H2,2007,2007,2007,2,0,1,Import,887,Yemen,YEM,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8748,,,0
+H2,2007,2007,2007,2,0,1,Import,894,Zambia,ZMB,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,71938,,,0
+H2,2007,2007,2007,2,0,1,Import,894,Zambia,ZMB,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,663281,,,0
+H2,2007,2007,2007,2,0,1,Import,894,Zambia,ZMB,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1044181,,,0

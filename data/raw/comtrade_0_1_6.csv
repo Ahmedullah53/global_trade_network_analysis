@@ -1,0 +1,882 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2006,2006,2006,2,0,2,Export,12,Algeria,DZA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10150,,,0
+H2,2006,2006,2006,2,0,2,Export,32,Argentina,ARG,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1658,,,0
+H2,2006,2006,2006,2,0,1,Import,32,Argentina,ARG,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,381483129,,,0
+H2,2006,2006,2006,2,0,2,Export,36,Australia,AUS,10,Antarctica,ATA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2455220,,,0
+H2,2006,2006,2006,2,0,1,Import,36,Australia,AUS,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,772392022,,,0
+H2,2006,2006,2006,2,0,2,Export,36,Australia,AUS,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4583522825,,,0
+H2,2006,2006,2006,2,0,1,Import,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,399,,,0
+H2,2006,2006,2006,2,0,1,Import,48,Bahrain,BHR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4901587510,,,0
+H2,2006,2006,2006,2,0,2,Export,48,Bahrain,BHR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,9217537706,,,0
+H2,2006,2006,2006,2,0,2,Export,50,Bangladesh,BGD,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,23880104,,,0
+H2,2006,2006,2006,2,0,2,Export,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2002205,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2002205,,,0
+H2,2006,2006,2006,2,0,2,Export,52,Barbados,BRB,660,Anguilla,AIA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,198538,,,0
+H2,2006,2006,2006,2,0,2,Export,56,Belgium,BEL,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,583592,,,0
+H2,2006,2006,2006,2,0,2,Export,56,Belgium,BEL,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5295377,,,0
+H2,2006,2006,2006,2,0,1,Import,60,Bermuda,BMU,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10800,,,0
+H2,2006,2006,2006,2,0,2,Export,68,Bolivia (Plurinational State of),BOL,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4053713,,,0
+H2,2006,2006,2006,2,0,1,Import,70,Bosnia Herzegovina,BIH,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,23595,,,0
+H2,2006,2006,2006,2,0,2,Export,70,Bosnia Herzegovina,BIH,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1717,,,0
+H2,2006,2006,2006,2,0,1,Import,76,Brazil,BRA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,466282366,,,0
+H2,2006,2006,2006,2,0,2,Export,76,Brazil,BRA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,41661816,,,0
+H2,2006,2006,2006,2,0,1,Import,76,Brazil,BRA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,227,,,0
+H2,2006,2006,2006,2,0,2,Export,96,Brunei Darussalam,BRN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,868,,,0
+H2,2006,2006,2006,2,0,2,Export,112,Belarus,BLR,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1700,,,0
+H2,2006,2006,2006,2,0,2,Export,120,Cameroon,CMR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,96042139,,,0
+H2,2006,2006,2006,2,0,1,Import,124,Canada,CAN,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,533428794,,,0
+H2,2006,2006,2006,2,0,2,Export,124,Canada,CAN,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,11551,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,124,Canada,CAN,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5618,,,0
+H2,2006,2006,2006,2,0,2,Export,124,Canada,CAN,660,Anguilla,AIA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,11145,,,0
+H2,2006,2006,2006,2,0,1,Import,144,Sri Lanka,LKA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2200,,,0
+H2,2006,2006,2006,2,0,2,Export,144,Sri Lanka,LKA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,7191855,,,0
+H2,2006,2006,2006,2,0,1,Import,152,Chile,CHL,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1317198521,,,0
+H2,2006,2006,2006,2,0,1,Import,152,Chile,CHL,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,825550872,,,0
+H2,2006,2006,2006,2,0,2,Export,152,Chile,CHL,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,415266431,,,0
+H2,2006,2006,2006,2,0,1,Import,156,China,CHN,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10930839396,,,0
+H2,2006,2006,2006,2,0,2,Export,156,China,CHN,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,38876,,,0
+H2,2006,2006,2006,2,0,1,Import,156,China,CHN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,25589,,,0
+H2,2006,2006,2006,2,0,1,Import,170,Colombia,COL,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,33508995,,,0
+H2,2006,2006,2006,2,0,1,Import,170,Colombia,COL,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5459,,,0
+H2,2006,2006,2006,2,0,1,Import,188,Costa Rica,CRI,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,39556,,,0
+H2,2006,2006,2006,2,0,1,Import,196,Cyprus,CYP,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4787935,,,0
+H2,2006,2006,2006,2,0,1,Import,203,Czechia,CZE,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,52683,,,0
+H2,2006,2006,2006,2,0,2,Export,208,Denmark,DNK,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,159,,,0
+H2,2006,2006,2006,2,0,1,Import,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,36,,,0
+H2,2006,2006,2006,2,0,2,Export,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,9509,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,9509,,,0
+H2,2006,2006,2006,2,0,1,Import,214,Dominican Rep.,DOM,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,35044,,,0
+H2,2006,2006,2006,2,0,2,Export,214,Dominican Rep.,DOM,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,86348,,,0
+H2,2006,2006,2006,2,0,1,Import,218,Ecuador,ECU,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,42782279,,,0
+H2,2006,2006,2006,2,0,2,Export,218,Ecuador,ECU,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3231,,,0
+H2,2006,2006,2006,2,0,2,Export,233,Estonia,EST,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2873064,,,0
+H2,2006,2006,2006,2,0,1,Import,234,Faeroe Isds,FRO,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,930,,,0
+H2,2006,2006,2006,2,0,1,Import,242,Fiji,FJI,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,53276,,,0
+H2,2006,2006,2006,2,0,2,Export,242,Fiji,FJI,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,165430456,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,242,Fiji,FJI,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,165430456,,,0
+H2,2006,2006,2006,2,0,2,Export,246,Finland,FIN,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,22180,,,0
+H2,2006,2006,2006,2,0,1,Import,246,Finland,FIN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,101399930,,,0
+H2,2006,2006,2006,2,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,58163693,,,0
+H2,2006,2006,2006,2,0,1,Import,251,France,FRA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1550327799,,,0
+H2,2006,2006,2006,2,0,2,Export,251,France,FRA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,13688233,,,0
+H2,2006,2006,2006,2,0,1,Import,251,France,FRA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,57018191,,,0
+H2,2006,2006,2006,2,0,2,Export,251,France,FRA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,63758746,,,0
+H2,2006,2006,2006,2,0,2,Export,266,Gabon,GAB,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,37126,,,0
+H2,2006,2006,2006,2,0,2,Export,276,Germany,DEU,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,78000,,,0
+H2,2006,2006,2006,2,0,1,Import,276,Germany,DEU,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,69385000,,,0
+H2,2006,2006,2006,2,0,2,Export,276,Germany,DEU,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,55000,,,0
+H2,2006,2006,2006,2,0,2,Export,276,Germany,DEU,660,Anguilla,AIA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,48000,,,0
+H2,2006,2006,2006,2,0,1,Import,288,Ghana,GHA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4533376,,,0
+H2,2006,2006,2006,2,0,2,Export,288,Ghana,GHA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4620046,,,0
+H2,2006,2006,2006,2,0,1,Import,300,Greece,GRC,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,675529335,,,0
+H2,2006,2006,2006,2,0,2,Export,300,Greece,GRC,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,25964,,,0
+H2,2006,2006,2006,2,0,2,Export,304,Greenland,GRL,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,29679,,,0
+H2,2006,2006,2006,2,0,1,Import,320,Guatemala,GTM,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2745,,,0
+H2,2006,2006,2006,2,0,1,Import,340,Honduras,HND,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,450,,,0
+H2,2006,2006,2006,2,0,2,Export,340,Honduras,HND,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10059,,,0
+H2,2006,2006,2006,2,0,2,Export,340,Honduras,HND,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,94554,,,0
+H2,2006,2006,2006,2,0,2,Export,344,"China, Hong Kong SAR",HKG,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1313,,,0
+H2,2006,2006,2006,2,0,2,Export,364,Iran,IRN,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,193577,,,0
+H2,2006,2006,2006,2,0,2,Export,364,Iran,IRN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,120425879,,,0
+H2,2006,2006,2006,2,0,1,Import,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,7529803,,,0
+H2,2006,2006,2006,2,0,2,Export,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1,,,0
+H2,2006,2006,2006,2,0,2,Export,376,Israel,ISR,660,Anguilla,AIA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10000,,,0
+H2,2006,2006,2006,2,0,1,Import,376,Israel,ISR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,6330345000,,,0
+H2,2006,2006,2006,2,0,2,Export,376,Israel,ISR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,18039000,,,0
+H2,2006,2006,2006,2,0,2,Export,381,Italy,ITA,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4788,,,0
+H2,2006,2006,2006,2,0,1,Import,381,Italy,ITA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,38388374,,,0
+H2,2006,2006,2006,2,0,2,Export,381,Italy,ITA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,64548,,,0
+H2,2006,2006,2006,2,0,1,Import,381,Italy,ITA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,59006428,,,0
+H2,2006,2006,2006,2,0,2,Export,381,Italy,ITA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4251731,,,0
+H2,2006,2006,2006,2,0,1,Import,384,Côte d'Ivoire,CIV,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,137,,,0
+H2,2006,2006,2006,2,0,2,Export,384,Côte d'Ivoire,CIV,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,73291,,,0
+H2,2006,2006,2006,2,0,1,Import,384,Côte d'Ivoire,CIV,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,128526,,,0
+H2,2006,2006,2006,2,0,2,Export,384,Côte d'Ivoire,CIV,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,858361,,,0
+H2,2006,2006,2006,2,0,1,Import,392,Japan,JPN,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,692540172,,,0
+H2,2006,2006,2006,2,0,2,Export,392,Japan,JPN,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1985,,,0
+H2,2006,2006,2006,2,0,1,Import,392,Japan,JPN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,26963837,,,0
+H2,2006,2006,2006,2,0,1,Import,404,Kenya,KEN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2416114,,,0
+H2,2006,2006,2006,2,0,2,Export,404,Kenya,KEN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,17640650,,,0
+H2,2006,2006,2006,2,0,1,Import,410,Rep. of Korea,KOR,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,218372876,,,0
+H2,2006,2006,2006,2,0,2,Export,410,Rep. of Korea,KOR,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,500,,,0
+H2,2006,2006,2006,2,0,1,Import,410,Rep. of Korea,KOR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,21917195,,,0
+H2,2006,2006,2006,2,0,2,Export,410,Rep. of Korea,KOR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4500064,,,0
+H2,2006,2006,2006,2,0,1,Import,414,Kuwait,KWT,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,109851,,,0
+H2,2006,2006,2006,2,0,2,Export,414,Kuwait,KWT,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,53129147854,,,0
+H2,2006,2006,2006,2,0,2,Export,422,Lebanon,LBN,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,7962,,,0
+H2,2006,2006,2006,2,0,2,Export,422,Lebanon,LBN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,55770,,,0
+H2,2006,2006,2006,2,0,2,Export,428,Latvia,LVA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2927202,,,0
+H2,2006,2006,2006,2,0,2,Export,442,Luxembourg,LUX,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,38,,,0
+H2,2006,2006,2006,2,0,2,Export,446,"China, Macao SAR",MAC,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,135774430,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,446,"China, Macao SAR",MAC,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,135774430,,,0
+H2,2006,2006,2006,2,0,1,Import,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,16036,,,0
+H2,2006,2006,2006,2,0,2,Export,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,38047898,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,28471080,,,0
+H2,2006,2006,2006,2,0,1,Import,454,Malawi,MWI,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,94,,,0
+H2,2006,2006,2006,2,0,1,Import,458,Malaysia,MYS,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,53848,,,0
+H2,2006,2006,2006,2,0,2,Export,458,Malaysia,MYS,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,31190,,,0
+H2,2006,2006,2006,2,0,1,Import,458,Malaysia,MYS,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,18377142,,,0
+H2,2006,2006,2006,2,0,1,Import,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,13027,,,0
+H2,2006,2006,2006,2,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,16432,,,0
+H2,2006,2006,2006,2,0,1,Import,490,"Other Asia, nes",,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1865781107,,,0
+H2,2006,2006,2006,2,0,1,Import,490,"Other Asia, nes",,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,309471,,,0
+H2,2006,2006,2006,2,0,2,Export,490,"Other Asia, nes",,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2305777339,,,0
+H2,2006,2006,2006,2,0,1,Import,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,36768098,,,0
+H2,2006,2006,2006,2,0,2,Export,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,61060581,,,0
+H2,2006,2006,2006,2,0,2,Export,512,Oman,OMN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,895017892,,,0
+H2,2006,2006,2006,2,0,2,Export,516,Namibia,NAM,10,Antarctica,ATA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,589,,,0
+H2,2006,2006,2006,2,0,2,Export,516,Namibia,NAM,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3580267,,,0
+H2,2006,2006,2006,2,0,2,Export,516,Namibia,NAM,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,31270,,,0
+H2,2006,2006,2006,2,0,1,Import,528,Netherlands,NLD,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,56363825,,,0
+H2,2006,2006,2006,2,0,2,Export,528,Netherlands,NLD,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5931189,,,0
+H2,2006,2006,2006,2,0,1,Import,528,Netherlands,NLD,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3796534,,,0
+H2,2006,2006,2006,2,0,2,Export,528,Netherlands,NLD,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,130660,,,0
+H2,2006,2006,2006,2,0,1,Import,540,New Caledonia,NCL,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1892,,,0
+H2,2006,2006,2006,2,0,2,Export,540,New Caledonia,NCL,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,140,,,0
+H2,2006,2006,2006,2,0,1,Import,554,New Zealand,NZL,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,308,,,0
+H2,2006,2006,2006,2,0,2,Export,562,Niger,NER,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10558,,,0
+H2,2006,2006,2006,2,0,1,Import,562,Niger,NER,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3269865,,,0
+H2,2006,2006,2006,2,0,2,Export,562,Niger,NER,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4822165,,,0
+H2,2006,2006,2006,2,0,2,Export,579,Norway,NOR,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,301894,,,0
+H2,2006,2006,2006,2,0,2,Export,591,Panama,PAN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,25035,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,591,Panama,PAN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,25035,,,0
+H2,2006,2006,2006,2,0,1,Import,604,Peru,PER,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,58484416,,,0
+H2,2006,2006,2006,2,0,1,Import,604,Peru,PER,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1349,,,0
+H2,2006,2006,2006,2,0,2,Export,604,Peru,PER,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,81249298,,,0
+H2,2006,2006,2006,2,0,2,Export,616,Poland,POL,10,Antarctica,ATA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10301,,,0
+H2,2006,2006,2006,2,0,1,Import,616,Poland,POL,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,110586,,,0
+H2,2006,2006,2006,2,0,2,Export,616,Poland,POL,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,26956282,,,0
+H2,2006,2006,2006,2,0,1,Import,620,Portugal,PRT,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,64519771,,,0
+H2,2006,2006,2006,2,0,2,Export,620,Portugal,PRT,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,16065276,,,0
+H2,2006,2006,2006,2,0,1,Import,620,Portugal,PRT,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,306599,,,0
+H2,2006,2006,2006,2,0,2,Export,620,Portugal,PRT,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,183284204,,,0
+H2,2006,2006,2006,2,0,2,Export,634,Qatar,QAT,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3306141369,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,634,Qatar,QAT,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,791,,,0
+H2,2006,2006,2006,2,0,1,Import,642,Romania,ROU,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,937051,,,0
+H2,2006,2006,2006,2,0,2,Export,642,Romania,ROU,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,11940948,,,0
+H2,2006,2006,2006,2,0,2,Export,643,Russian Federation,RUS,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,522091,,,0
+H2,2006,2006,2006,2,0,1,Import,643,Russian Federation,RUS,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,120843483,,,0
+H2,2006,2006,2006,2,0,2,Export,643,Russian Federation,RUS,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,43229410578,,,0
+H2,2006,2006,2006,2,0,2,Export,646,Rwanda,RWA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,66351,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,646,Rwanda,RWA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,66351,,,0
+H2,2006,2006,2006,2,0,2,Export,682,Saudi Arabia,SAU,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,16530341859,,,0
+H2,2006,2006,2006,2,0,2,Export,686,Senegal,SEN,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,36987,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,686,Senegal,SEN,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,36987,,,0
+H2,2006,2006,2006,2,0,1,Import,699,India,IND,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,179718821,,,0
+H2,2006,2006,2006,2,0,2,Export,699,India,IND,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,46685605,,,0
+H2,2006,2006,2006,2,0,1,Import,699,India,IND,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,12256049159,,,0
+H2,2006,2006,2006,2,0,2,Export,699,India,IND,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,75136390,,,0
+H2,2006,2006,2006,2,0,1,Import,702,Singapore,SGP,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10099921,,,0
+H2,2006,2006,2006,2,0,2,Export,702,Singapore,SGP,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,9618385,,,0
+H2,2006,2006,2006,2,0,1,Import,703,Slovakia,SVK,10,Antarctica,ATA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,107123,,,0
+H2,2006,2006,2006,2,0,1,Import,703,Slovakia,SVK,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,468921,,,0
+H2,2006,2006,2006,2,0,1,Import,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,8035,,,0
+H2,2006,2006,2006,2,0,2,Export,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,337511219,,,0
+H2,2006,2006,2006,2,0,1,Import,705,Slovenia,SVN,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1107,,,0
+H2,2006,2006,2006,2,0,1,Import,710,South Africa,ZAF,10,Antarctica,ATA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,27742,,,0
+H2,2006,2006,2006,2,0,2,Export,710,South Africa,ZAF,10,Antarctica,ATA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,427430,,,0
+H2,2006,2006,2006,2,0,2,Export,710,South Africa,ZAF,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,51890,,,0
+H2,2006,2006,2006,2,0,1,Import,710,South Africa,ZAF,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,363623223,,,0
+H2,2006,2006,2006,2,0,2,Export,710,South Africa,ZAF,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,12243114,,,0
+H2,2006,2006,2006,2,0,1,Import,710,South Africa,ZAF,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,110,,,0
+H2,2006,2006,2006,2,0,2,Export,710,South Africa,ZAF,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,17959169,,,0
+H2,2006,2006,2006,2,0,1,Import,716,Zimbabwe,ZWE,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,10191,,,0
+H2,2006,2006,2006,2,0,1,Import,716,Zimbabwe,ZWE,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,,,10,,,4
+H2,2006,2006,2006,2,0,1,Import,724,Spain,ESP,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,1626,,,0
+H2,2006,2006,2006,2,0,2,Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,,,72598669,,,4
+H2,2006,2006,2006,2,0,1,Import,724,Spain,ESP,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,436425297,,,0
+H2,2006,2006,2006,2,0,2,Export,724,Spain,ESP,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,1683947,,,0
+H2,2006,2006,2006,2,0,1,Import,724,Spain,ESP,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,,,1217,,,4
+H2,2006,2006,2006,2,0,2,Export,724,Spain,ESP,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,959426280,,,0
+H2,2006,2006,2006,2,0,2,Export,752,Sweden,SWE,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,815,,,0
+H2,2006,2006,2006,2,0,2,Export,752,Sweden,SWE,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,113395,,,0
+H2,2006,2006,2006,2,0,2,Export,752,Sweden,SWE,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,22627877,,,0
+H2,2006,2006,2006,2,0,1,Import,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,60381179,,,0
+H2,2006,2006,2006,2,0,2,Export,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,122,,,0
+H2,2006,2006,2006,2,0,1,Import,760,Syria,SYR,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2004613,,,0
+H2,2006,2006,2006,2,0,1,Import,760,Syria,SYR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,596940992,,,0
+H2,2006,2006,2006,2,0,2,Export,760,Syria,SYR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,425652271,,,0
+H2,2006,2006,2006,2,0,1,Import,764,Thailand,THA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,127655182,,,0
+H2,2006,2006,2006,2,0,2,Export,764,Thailand,THA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,28672,,,0
+H2,2006,2006,2006,2,0,2,Export,764,Thailand,THA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1448026,,,0
+H2,2006,2006,2006,2,0,1,Import,780,Trinidad and Tobago,TTO,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,17066282,,,0
+H2,2006,2006,2006,2,0,2,Export,780,Trinidad and Tobago,TTO,660,Anguilla,AIA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,904016,,,0
+H2,2006,2006,2006,2,0,2,Export,780,Trinidad and Tobago,TTO,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,159969545,,,0
+H2,2006,2006,2006,2,0,2,Export,784,United Arab Emirates,ARE,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2375111,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,784,United Arab Emirates,ARE,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,202959,,,0
+H2,2006,2006,2006,2,0,1,Import,784,United Arab Emirates,ARE,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10296860,,,0
+H2,2006,2006,2006,2,0,2,Export,784,United Arab Emirates,ARE,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,18290682649,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,784,United Arab Emirates,ARE,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,539237,,,0
+H2,2006,2006,2006,2,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5902424,,,0
+H2,2006,2006,2006,2,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5202022,,,0
+H2,2006,2006,2006,2,0,1,Import,792,Turkey,TUR,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,26318624,,,0
+H2,2006,2006,2006,2,0,1,Import,792,Turkey,TUR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,71403757,,,0
+H2,2006,2006,2006,2,0,2,Export,792,Turkey,TUR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5364,,,0
+H2,2006,2006,2006,2,0,1,Import,800,Uganda,UGA,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,19092,,,0
+H2,2006,2006,2006,2,0,2,Export,800,Uganda,UGA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,36324873,,,0
+H2,2006,2006,2006,2,0,2,Export,826,United Kingdom,GBR,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,217169,,,0
+H2,2006,2006,2006,2,0,1,Import,842,USA,USA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,12116444997,,,0
+H2,2006,2006,2006,2,0,2,Export,842,USA,USA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2091692,,,0
+H2,2006,2006,2006,2,0,2,Export,842,USA,USA,660,Anguilla,AIA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,887820,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,842,USA,USA,660,Anguilla,AIA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,166588,,,0
+H2,2006,2006,2006,2,0,1,Import,862,Venezuela,VEN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,42760,,,0
+H2,2006,2006,2006,2,0,1,Import,887,Yemen,YEM,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,25596,,,0
+H2,2006,2006,2006,2,0,1,Import,887,Yemen,YEM,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,501877,,,0
+H2,2006,2006,2006,2,0,2,Export,894,Zambia,ZMB,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,6859,,,0
+H2,2006,2006,2006,2,0,1,Import,12,Algeria,DZA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,48966,,,0
+H2,2006,2006,2006,2,0,1,Import,12,Algeria,DZA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16033,,,0
+H2,2006,2006,2006,2,0,1,Import,20,Andorra,AND,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23393,,,0
+H2,2006,2006,2006,2,0,4,Re-Import,20,Andorra,AND,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23393,,,0
+H2,2006,2006,2006,2,0,1,Import,31,Azerbaijan,AZE,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,984,,,0
+H2,2006,2006,2006,2,0,2,Export,31,Azerbaijan,AZE,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,35,,,0
+H2,2006,2006,2006,2,0,2,Export,31,Azerbaijan,AZE,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,502532,,,0
+H2,2006,2006,2006,2,0,2,Export,32,Argentina,ARG,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,161,,,0
+H2,2006,2006,2006,2,0,2,Export,32,Argentina,ARG,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20533,,,0
+H2,2006,2006,2006,2,0,1,Import,32,Argentina,ARG,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18205899,,,0
+H2,2006,2006,2006,2,0,2,Export,32,Argentina,ARG,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2440,,,0
+H2,2006,2006,2006,2,0,2,Export,36,Australia,AUS,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8194,,,0
+H2,2006,2006,2006,2,0,1,Import,36,Australia,AUS,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39628,,,0
+H2,2006,2006,2006,2,0,1,Import,36,Australia,AUS,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,552594152,,,0
+H2,2006,2006,2006,2,0,2,Export,36,Australia,AUS,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,471003,,,0
+H2,2006,2006,2006,2,0,1,Import,40,Austria,AUT,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16940,,,0
+H2,2006,2006,2006,2,0,2,Export,40,Austria,AUT,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14588,,,0
+H2,2006,2006,2006,2,0,1,Import,40,Austria,AUT,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,153,,,0
+H2,2006,2006,2006,2,0,2,Export,40,Austria,AUT,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,117738,,,0
+H2,2006,2006,2006,2,0,2,Export,40,Austria,AUT,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13544,,,0
+H2,2006,2006,2006,2,0,1,Import,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18666,,,0
+H2,2006,2006,2006,2,0,2,Export,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,254,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,254,,,0
+H2,2006,2006,2006,2,0,1,Import,50,Bangladesh,BGD,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4926469,,,0
+H2,2006,2006,2006,2,0,2,Export,50,Bangladesh,BGD,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13631971,,,0
+H2,2006,2006,2006,2,0,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8037,,,0
+H2,2006,2006,2006,2,0,1,Import,52,Barbados,BRB,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2602,,,0
+H2,2006,2006,2006,2,0,2,Export,52,Barbados,BRB,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10040,,,0
+H2,2006,2006,2006,2,0,1,Import,56,Belgium,BEL,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37496,,,0
+H2,2006,2006,2006,2,0,2,Export,56,Belgium,BEL,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9106,,,0
+H2,2006,2006,2006,2,0,2,Export,56,Belgium,BEL,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3261432,,,0
+H2,2006,2006,2006,2,0,1,Import,60,Bermuda,BMU,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,49,,,0
+H2,2006,2006,2006,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20,,,0
+H2,2006,2006,2006,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1,,,0
+H2,2006,2006,2006,2,0,2,Export,68,Bolivia (Plurinational State of),BOL,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,186573,,,0
+H2,2006,2006,2006,2,0,1,Import,70,Bosnia Herzegovina,BIH,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,101,,,0
+H2,2006,2006,2006,2,0,1,Import,70,Bosnia Herzegovina,BIH,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,52678,,,0
+H2,2006,2006,2006,2,0,2,Export,70,Bosnia Herzegovina,BIH,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39717,,,0
+H2,2006,2006,2006,2,0,2,Export,76,Brazil,BRA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,17581664,,,4
+H2,2006,2006,2006,2,0,1,Import,76,Brazil,BRA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,396294,,,4
+H2,2006,2006,2006,2,0,2,Export,96,Brunei Darussalam,BRN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,110,,,0
+H2,2006,2006,2006,2,0,1,Import,100,Bulgaria,BGR,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1871,,,0
+H2,2006,2006,2006,2,0,1,Import,112,Belarus,BLR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28600,,,0
+H2,2006,2006,2006,2,0,2,Export,112,Belarus,BLR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,47500,,,0
+H2,2006,2006,2006,2,0,2,Export,116,Cambodia,KHM,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5193,,,0
+H2,2006,2006,2006,2,0,1,Import,116,Cambodia,KHM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15033,,,0
+H2,2006,2006,2006,2,0,1,Import,120,Cameroon,CMR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,143133,,,0
+H2,2006,2006,2006,2,0,2,Export,124,Canada,CAN,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6352,,,0
+H2,2006,2006,2006,2,0,1,Import,124,Canada,CAN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28,,,0
+H2,2006,2006,2006,2,0,2,Export,124,Canada,CAN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9771,,,0
+H2,2006,2006,2006,2,0,2,Export,124,Canada,CAN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,42016,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,124,Canada,CAN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3781,,,0
+H2,2006,2006,2006,2,0,1,Import,124,Canada,CAN,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,356,,,0
+H2,2006,2006,2006,2,0,2,Export,124,Canada,CAN,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,137583,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,124,Canada,CAN,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7,,,0
+H2,2006,2006,2006,2,0,2,Export,144,Sri Lanka,LKA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,54,,,0
+H2,2006,2006,2006,2,0,2,Export,144,Sri Lanka,LKA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1098,,,0
+H2,2006,2006,2006,2,0,1,Import,152,Chile,CHL,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1666888,,,0
+H2,2006,2006,2006,2,0,2,Export,152,Chile,CHL,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,525519,,,0
+H2,2006,2006,2006,2,0,2,Export,156,China,CHN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37122,,,0
+H2,2006,2006,2006,2,0,1,Import,156,China,CHN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,162,,,0
+H2,2006,2006,2006,2,0,2,Export,156,China,CHN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18889315,,,0
+H2,2006,2006,2006,2,0,1,Import,156,China,CHN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1146234,,,0
+H2,2006,2006,2006,2,0,2,Export,170,Colombia,COL,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,40,,,0
+H2,2006,2006,2006,2,0,2,Export,170,Colombia,COL,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,69030,,,0
+H2,2006,2006,2006,2,0,1,Import,175,Mayotte,MYT,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,190,,,0
+H2,2006,2006,2006,2,0,2,Export,175,Mayotte,MYT,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4427,,,0
+H2,2006,2006,2006,2,0,1,Import,188,Costa Rica,CRI,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,94,,,0
+H2,2006,2006,2006,2,0,1,Import,188,Costa Rica,CRI,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30,,,0
+H2,2006,2006,2006,2,0,1,Import,188,Costa Rica,CRI,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,145,,,0
+H2,2006,2006,2006,2,0,1,Import,188,Costa Rica,CRI,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3260037,,,0
+H2,2006,2006,2006,2,0,1,Import,192,Cuba,CUB,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2771,,,0
+H2,2006,2006,2006,2,0,1,Import,196,Cyprus,CYP,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10515,,,0
+H2,2006,2006,2006,2,0,1,Import,203,Czechia,CZE,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14343,,,0
+H2,2006,2006,2006,2,0,2,Export,203,Czechia,CZE,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,909,,,0
+H2,2006,2006,2006,2,0,2,Export,203,Czechia,CZE,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1630,,,0
+H2,2006,2006,2006,2,0,2,Export,203,Czechia,CZE,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1577,,,0
+H2,2006,2006,2006,2,0,1,Import,203,Czechia,CZE,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,862833,,,0
+H2,2006,2006,2006,2,0,2,Export,204,Benin,BEN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,962,,,0
+H2,2006,2006,2006,2,0,1,Import,208,Denmark,DNK,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4431,,,0
+H2,2006,2006,2006,2,0,2,Export,208,Denmark,DNK,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10193,,,0
+H2,2006,2006,2006,2,0,2,Export,208,Denmark,DNK,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21928,,,0
+H2,2006,2006,2006,2,0,2,Export,208,Denmark,DNK,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1285972,,,0
+H2,2006,2006,2006,2,0,1,Import,212,Dominica,DMA,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21,,,0
+H2,2006,2006,2006,2,0,1,Import,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24891,,,0
+H2,2006,2006,2006,2,0,2,Export,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16231,,,0
+H2,2006,2006,2006,2,0,1,Import,214,Dominican Rep.,DOM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,291578,,,0
+H2,2006,2006,2006,2,0,2,Export,214,Dominican Rep.,DOM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19952645,,,0
+H2,2006,2006,2006,2,0,2,Export,218,Ecuador,ECU,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,650,,,0
+H2,2006,2006,2006,2,0,2,Export,218,Ecuador,ECU,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,42040,,,0
+H2,2006,2006,2006,2,0,1,Import,222,El Salvador,SLV,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16816,,,0
+H2,2006,2006,2006,2,0,1,Import,231,Ethiopia,ETH,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,76,,,0
+H2,2006,2006,2006,2,0,2,Export,231,Ethiopia,ETH,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,137870,,,0
+H2,2006,2006,2006,2,0,1,Import,233,Estonia,EST,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30563,,,0
+H2,2006,2006,2006,2,0,2,Export,233,Estonia,EST,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,635464,,,0
+H2,2006,2006,2006,2,0,1,Import,234,Faeroe Isds,FRO,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,133381,,,0
+H2,2006,2006,2006,2,0,1,Import,242,Fiji,FJI,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,125,,,0
+H2,2006,2006,2006,2,0,1,Import,242,Fiji,FJI,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14,,,0
+H2,2006,2006,2006,2,0,2,Export,242,Fiji,FJI,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24260,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,242,Fiji,FJI,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24069,,,0
+H2,2006,2006,2006,2,0,1,Import,246,Finland,FIN,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,735,,,0
+H2,2006,2006,2006,2,0,1,Import,246,Finland,FIN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33477086,,,0
+H2,2006,2006,2006,2,0,2,Export,246,Finland,FIN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,103256303,,,0
+H2,2006,2006,2006,2,0,2,Export,251,France,FRA,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28873,,,0
+H2,2006,2006,2006,2,0,1,Import,251,France,FRA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,268687,,,0
+H2,2006,2006,2006,2,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2773047,,,0
+H2,2006,2006,2006,2,0,1,Import,251,France,FRA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5022,,,0
+H2,2006,2006,2006,2,0,2,Export,251,France,FRA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6426088,,,0
+H2,2006,2006,2006,2,0,1,Import,251,France,FRA,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15067,,,0
+H2,2006,2006,2006,2,0,2,Export,251,France,FRA,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3766,,,0
+H2,2006,2006,2006,2,0,1,Import,251,France,FRA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5889775,,,0
+H2,2006,2006,2006,2,0,2,Export,251,France,FRA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,441880,,,0
+H2,2006,2006,2006,2,0,1,Import,266,Gabon,GAB,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3263,,,0
+H2,2006,2006,2006,2,0,1,Import,276,Germany,DEU,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,67000,,,0
+H2,2006,2006,2006,2,0,2,Export,276,Germany,DEU,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,798000,,,0
+H2,2006,2006,2006,2,0,2,Export,276,Germany,DEU,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3765000,,,0
+H2,2006,2006,2006,2,0,2,Export,276,Germany,DEU,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10000,,,0
+H2,2006,2006,2006,2,0,1,Import,288,Ghana,GHA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,211,,,0
+H2,2006,2006,2006,2,0,2,Export,288,Ghana,GHA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19588,,,0
+H2,2006,2006,2006,2,0,2,Export,288,Ghana,GHA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1703231,,,0
+H2,2006,2006,2006,2,0,2,Export,300,Greece,GRC,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1063,,,0
+H2,2006,2006,2006,2,0,2,Export,300,Greece,GRC,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,86707,,,0
+H2,2006,2006,2006,2,0,1,Import,300,Greece,GRC,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8534,,,0
+H2,2006,2006,2006,2,0,2,Export,300,Greece,GRC,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4919,,,0
+H2,2006,2006,2006,2,0,1,Import,320,Guatemala,GTM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,289232,,,0
+H2,2006,2006,2006,2,0,2,Export,320,Guatemala,GTM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27608,,,0
+H2,2006,2006,2006,2,0,1,Import,340,Honduras,HND,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1708,,,0
+H2,2006,2006,2006,2,0,2,Export,340,Honduras,HND,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3740,,,0
+H2,2006,2006,2006,2,0,1,Import,340,Honduras,HND,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,92253,,,0
+H2,2006,2006,2006,2,0,2,Export,340,Honduras,HND,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24436,,,0
+H2,2006,2006,2006,2,0,2,Export,344,"China, Hong Kong SAR",HKG,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7446,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7446,,,0
+H2,2006,2006,2006,2,0,2,Export,344,"China, Hong Kong SAR",HKG,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,236527,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,236527,,,0
+H2,2006,2006,2006,2,0,1,Import,348,Hungary,HUN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9000,,,0
+H2,2006,2006,2006,2,0,2,Export,348,Hungary,HUN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2000,,,0
+H2,2006,2006,2006,2,0,2,Export,352,Iceland,ISL,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15976,,,0
+H2,2006,2006,2006,2,0,2,Export,364,Iran,IRN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,82343,,,0
+H2,2006,2006,2006,2,0,2,Export,372,Ireland,IRL,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,721,,,0
+H2,2006,2006,2006,2,0,1,Import,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12160217,,,0
+H2,2006,2006,2006,2,0,2,Export,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2113800,,,0
+H2,2006,2006,2006,2,0,2,Export,376,Israel,ISR,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,136000,,,0
+H2,2006,2006,2006,2,0,1,Import,376,Israel,ISR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,44000,,,0
+H2,2006,2006,2006,2,0,2,Export,376,Israel,ISR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,541000,,,0
+H2,2006,2006,2006,2,0,2,Export,381,Italy,ITA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,976261,,,0
+H2,2006,2006,2006,2,0,2,Export,381,Italy,ITA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2242116,,,0
+H2,2006,2006,2006,2,0,2,Export,381,Italy,ITA,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33544,,,0
+H2,2006,2006,2006,2,0,1,Import,381,Italy,ITA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,488508,,,0
+H2,2006,2006,2006,2,0,2,Export,381,Italy,ITA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2764135,,,0
+H2,2006,2006,2006,2,0,2,Export,384,Côte d'Ivoire,CIV,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,113074,,,0
+H2,2006,2006,2006,2,0,1,Import,384,Côte d'Ivoire,CIV,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,364316,,,0
+H2,2006,2006,2006,2,0,2,Export,388,Jamaica,JAM,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31,,,0
+H2,2006,2006,2006,2,0,2,Export,392,Japan,JPN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4040,,,0
+H2,2006,2006,2006,2,0,1,Import,398,Kazakhstan,KAZ,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1726,,,0
+H2,2006,2006,2006,2,0,2,Export,398,Kazakhstan,KAZ,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4,,,0
+H2,2006,2006,2006,2,0,1,Import,398,Kazakhstan,KAZ,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26441,,,0
+H2,2006,2006,2006,2,0,2,Export,404,Kenya,KEN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2853,,,0
+H2,2006,2006,2006,2,0,1,Import,404,Kenya,KEN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1207220,,,0
+H2,2006,2006,2006,2,0,2,Export,404,Kenya,KEN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,54056,,,0
+H2,2006,2006,2006,2,0,1,Import,410,Rep. of Korea,KOR,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21854,,,0
+H2,2006,2006,2006,2,0,2,Export,410,Rep. of Korea,KOR,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20326,,,0
+H2,2006,2006,2006,2,0,2,Export,410,Rep. of Korea,KOR,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8467476,,,0
+H2,2006,2006,2006,2,0,1,Import,410,Rep. of Korea,KOR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5376,,,0
+H2,2006,2006,2006,2,0,2,Export,410,Rep. of Korea,KOR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1274489,,,0
+H2,2006,2006,2006,2,0,1,Import,414,Kuwait,KWT,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,519416,,,0
+H2,2006,2006,2006,2,0,2,Export,414,Kuwait,KWT,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,414,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,414,Kuwait,KWT,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,414,,,0
+H2,2006,2006,2006,2,0,1,Import,422,Lebanon,LBN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3868,,,0
+H2,2006,2006,2006,2,0,2,Export,422,Lebanon,LBN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1983278,,,0
+H2,2006,2006,2006,2,0,2,Export,422,Lebanon,LBN,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43866,,,0
+H2,2006,2006,2006,2,0,1,Import,422,Lebanon,LBN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,293440,,,0
+H2,2006,2006,2006,2,0,2,Export,422,Lebanon,LBN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1023526,,,0
+H2,2006,2006,2006,2,0,2,Export,428,Latvia,LVA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3462,,,0
+H2,2006,2006,2006,2,0,2,Export,442,Luxembourg,LUX,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27082,,,0
+H2,2006,2006,2006,2,0,1,Import,442,Luxembourg,LUX,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,96810,,,0
+H2,2006,2006,2006,2,0,2,Export,442,Luxembourg,LUX,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,394544,,,0
+H2,2006,2006,2006,2,0,2,Export,450,Madagascar,MDG,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3368,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,450,Madagascar,MDG,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3368,,,0
+H2,2006,2006,2006,2,0,1,Import,450,Madagascar,MDG,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,240,,,0
+H2,2006,2006,2006,2,0,1,Import,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1773729,,,0
+H2,2006,2006,2006,2,0,2,Export,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,828225,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,440340,,,0
+H2,2006,2006,2006,2,0,1,Import,454,Malawi,MWI,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39,,,0
+H2,2006,2006,2006,2,0,2,Export,454,Malawi,MWI,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9966,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,454,Malawi,MWI,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9966,,,0
+H2,2006,2006,2006,2,0,1,Import,458,Malaysia,MYS,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4541,,,0
+H2,2006,2006,2006,2,0,2,Export,458,Malaysia,MYS,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6307686,,,0
+H2,2006,2006,2006,2,0,1,Import,458,Malaysia,MYS,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,111773686,,,0
+H2,2006,2006,2006,2,0,2,Export,458,Malaysia,MYS,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1437808,,,0
+H2,2006,2006,2006,2,0,1,Import,466,Mali,MLI,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37412,,,0
+H2,2006,2006,2006,2,0,2,Export,466,Mali,MLI,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,117852,,,0
+H2,2006,2006,2006,2,0,1,Import,484,Mexico,MEX,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2017,,,0
+H2,2006,2006,2006,2,0,1,Import,484,Mexico,MEX,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,63,,,0
+H2,2006,2006,2006,2,0,2,Export,484,Mexico,MEX,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3,,,0
+H2,2006,2006,2006,2,0,1,Import,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,860986,,,0
+H2,2006,2006,2006,2,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20353,,,0
+H2,2006,2006,2006,2,0,2,Export,490,"Other Asia, nes",,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,273,,,0
+H2,2006,2006,2006,2,0,2,Export,490,"Other Asia, nes",,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,540392,,,0
+H2,2006,2006,2006,2,0,1,Import,490,"Other Asia, nes",,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3184738,,,0
+H2,2006,2006,2006,2,0,2,Export,490,"Other Asia, nes",,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,400067,,,0
+H2,2006,2006,2006,2,0,1,Import,498,Rep. of Moldova,MDA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1012,,,0
+H2,2006,2006,2006,2,0,1,Import,498,Rep. of Moldova,MDA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9383,,,0
+H2,2006,2006,2006,2,0,2,Export,500,Montserrat,MSR,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,556,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,500,Montserrat,MSR,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,556,,,0
+H2,2006,2006,2006,2,0,2,Export,504,Morocco,MAR,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,75,,,0
+H2,2006,2006,2006,2,0,1,Import,508,Mozambique,MOZ,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13266,,,0
+H2,2006,2006,2006,2,0,1,Import,508,Mozambique,MOZ,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2385,,,0
+H2,2006,2006,2006,2,0,2,Export,508,Mozambique,MOZ,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,541469,,,0
+H2,2006,2006,2006,2,0,1,Import,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,266482,,,0
+H2,2006,2006,2006,2,0,2,Export,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,564073,,,0
+H2,2006,2006,2006,2,0,1,Import,516,Namibia,NAM,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5499,,,0
+H2,2006,2006,2006,2,0,1,Import,516,Namibia,NAM,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9,,,0
+H2,2006,2006,2006,2,0,2,Export,516,Namibia,NAM,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5847827,,,0
+H2,2006,2006,2006,2,0,1,Import,516,Namibia,NAM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33428,,,0
+H2,2006,2006,2006,2,0,2,Export,516,Namibia,NAM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24010,,,0
+H2,2006,2006,2006,2,0,1,Import,528,Netherlands,NLD,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1256,,,0
+H2,2006,2006,2006,2,0,2,Export,528,Netherlands,NLD,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,115583,,,0
+H2,2006,2006,2006,2,0,2,Export,528,Netherlands,NLD,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2914712,,,0
+H2,2006,2006,2006,2,0,1,Import,528,Netherlands,NLD,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27639,,,0
+H2,2006,2006,2006,2,0,2,Export,528,Netherlands,NLD,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,239961,,,0
+H2,2006,2006,2006,2,0,1,Import,530,Neth. Antilles,ANT,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1322,,,0
+H2,2006,2006,2006,2,0,1,Import,530,Neth. Antilles,ANT,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,520790,,,0
+H2,2006,2006,2006,2,0,2,Export,530,Neth. Antilles,ANT,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,147761,,,0
+H2,2006,2006,2006,2,0,2,Export,533,Aruba,ABW,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,170,,,0
+H2,2006,2006,2006,2,0,1,Import,540,New Caledonia,NCL,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,58984,,,0
+H2,2006,2006,2006,2,0,2,Export,540,New Caledonia,NCL,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1042,,,0
+H2,2006,2006,2006,2,0,1,Import,554,New Zealand,NZL,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24,,,0
+H2,2006,2006,2006,2,0,1,Import,554,New Zealand,NZL,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1441864,,,0
+H2,2006,2006,2006,2,0,1,Import,562,Niger,NER,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,98014,,,0
+H2,2006,2006,2006,2,0,2,Export,562,Niger,NER,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,153533,,,0
+H2,2006,2006,2006,2,0,1,Import,566,Nigeria,NGA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,415919,,,0
+H2,2006,2006,2006,2,0,1,Import,566,Nigeria,NGA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,98021,,,0
+H2,2006,2006,2006,2,0,2,Export,566,Nigeria,NGA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,58563,,,0
+H2,2006,2006,2006,2,0,2,Export,579,Norway,NOR,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3618670,,,0
+H2,2006,2006,2006,2,0,2,Export,586,Pakistan,PAK,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,936,,,0
+H2,2006,2006,2006,2,0,1,Import,586,Pakistan,PAK,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,411,,,0
+H2,2006,2006,2006,2,0,2,Export,591,Panama,PAN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,544,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,591,Panama,PAN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,544,,,0
+H2,2006,2006,2006,2,0,2,Export,591,Panama,PAN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,217576,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,591,Panama,PAN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,217576,,,0
+H2,2006,2006,2006,2,0,2,Export,604,Peru,PER,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29279,,,0
+H2,2006,2006,2006,2,0,2,Export,616,Poland,POL,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2860,,,0
+H2,2006,2006,2006,2,0,1,Import,616,Poland,POL,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,49121,,,0
+H2,2006,2006,2006,2,0,2,Export,616,Poland,POL,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,68092,,,0
+H2,2006,2006,2006,2,0,2,Export,616,Poland,POL,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,227387,,,0
+H2,2006,2006,2006,2,0,1,Import,616,Poland,POL,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9570385,,,0
+H2,2006,2006,2006,2,0,2,Export,616,Poland,POL,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,429380,,,0
+H2,2006,2006,2006,2,0,1,Import,620,Portugal,PRT,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,200,,,0
+H2,2006,2006,2006,2,0,2,Export,620,Portugal,PRT,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13391,,,0
+H2,2006,2006,2006,2,0,2,Export,620,Portugal,PRT,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,46141877,,,0
+H2,2006,2006,2006,2,0,2,Export,620,Portugal,PRT,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43305,,,0
+H2,2006,2006,2006,2,0,2,Export,634,Qatar,QAT,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,728158,,,0
+H2,2006,2006,2006,2,0,2,Export,634,Qatar,QAT,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,840199,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,634,Qatar,QAT,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,474762,,,0
+H2,2006,2006,2006,2,0,2,Export,642,Romania,ROU,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,129,,,0
+H2,2006,2006,2006,2,0,2,Export,642,Romania,ROU,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25610,,,0
+H2,2006,2006,2006,2,0,1,Import,642,Romania,ROU,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3646333,,,0
+H2,2006,2006,2006,2,0,2,Export,642,Romania,ROU,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,171454,,,0
+H2,2006,2006,2006,2,0,1,Import,643,Russian Federation,RUS,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2191,,,0
+H2,2006,2006,2006,2,0,1,Import,643,Russian Federation,RUS,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,47,,,0
+H2,2006,2006,2006,2,0,2,Export,643,Russian Federation,RUS,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,208355,,,0
+H2,2006,2006,2006,2,0,1,Import,643,Russian Federation,RUS,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,36905,,,0
+H2,2006,2006,2006,2,0,1,Import,643,Russian Federation,RUS,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,923554,,,0
+H2,2006,2006,2006,2,0,2,Export,643,Russian Federation,RUS,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,272705,,,0
+H2,2006,2006,2006,2,0,1,Import,646,Rwanda,RWA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8,,,0
+H2,2006,2006,2006,2,0,2,Export,682,Saudi Arabia,SAU,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2361284,,,0
+H2,2006,2006,2006,2,0,1,Import,682,Saudi Arabia,SAU,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1461684,,,0
+H2,2006,2006,2006,2,0,2,Export,682,Saudi Arabia,SAU,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,340187,,,0
+H2,2006,2006,2006,2,0,2,Export,686,Senegal,SEN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,208803,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,686,Senegal,SEN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,176320,,,0
+H2,2006,2006,2006,2,0,1,Import,686,Senegal,SEN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,35403,,,0
+H2,2006,2006,2006,2,0,1,Import,688,Serbia,SRB,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5815,,,0
+H2,2006,2006,2006,2,0,2,Export,699,India,IND,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2292525,,,0
+H2,2006,2006,2006,2,0,2,Export,699,India,IND,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,766,,,0
+H2,2006,2006,2006,2,0,1,Import,699,India,IND,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4543947,,,0
+H2,2006,2006,2006,2,0,2,Export,699,India,IND,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1401509,,,0
+H2,2006,2006,2006,2,0,2,Export,702,Singapore,SGP,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5097930,,,0
+H2,2006,2006,2006,2,0,1,Import,703,Slovakia,SVK,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,94096,,,0
+H2,2006,2006,2006,2,0,2,Export,703,Slovakia,SVK,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4711,,,0
+H2,2006,2006,2006,2,0,1,Import,703,Slovakia,SVK,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9424729,,,0
+H2,2006,2006,2006,2,0,2,Export,703,Slovakia,SVK,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,69953,,,0
+H2,2006,2006,2006,2,0,2,Export,704,Viet Nam,VNM,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,110915,,,0
+H2,2006,2006,2006,2,0,1,Import,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,516804,,,0
+H2,2006,2006,2006,2,0,2,Export,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1696028,,,0
+H2,2006,2006,2006,2,0,1,Import,705,Slovenia,SVN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2343,,,0
+H2,2006,2006,2006,2,0,2,Export,705,Slovenia,SVN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,51,,,0
+H2,2006,2006,2006,2,0,2,Export,705,Slovenia,SVN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12242,,,0
+H2,2006,2006,2006,2,0,2,Export,705,Slovenia,SVN,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1741,,,0
+H2,2006,2006,2006,2,0,2,Export,710,South Africa,ZAF,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16,,,0
+H2,2006,2006,2006,2,0,2,Export,710,South Africa,ZAF,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11648,,,0
+H2,2006,2006,2006,2,0,1,Import,710,South Africa,ZAF,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,639,,,0
+H2,2006,2006,2006,2,0,2,Export,710,South Africa,ZAF,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28020358,,,0
+H2,2006,2006,2006,2,0,1,Import,710,South Africa,ZAF,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,271643,,,0
+H2,2006,2006,2006,2,0,2,Export,710,South Africa,ZAF,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,298154,,,0
+H2,2006,2006,2006,2,0,1,Import,716,Zimbabwe,ZWE,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1482,,,0
+H2,2006,2006,2006,2,0,1,Import,716,Zimbabwe,ZWE,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12,,,0
+H2,2006,2006,2006,2,0,2,Export,716,Zimbabwe,ZWE,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,531,,,0
+H2,2006,2006,2006,2,0,1,Import,724,Spain,ESP,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,450269,,,0
+H2,2006,2006,2006,2,0,2,Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14578471,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,33380,,,0
+H2,2006,2006,2006,2,0,1,Import,724,Spain,ESP,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,15835,,,0
+H2,2006,2006,2006,2,0,2,Export,724,Spain,ESP,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3012814,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,724,Spain,ESP,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,365850,,,0
+H2,2006,2006,2006,2,0,2,Export,724,Spain,ESP,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,380233,,,0
+H2,2006,2006,2006,2,0,2,Export,752,Sweden,SWE,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10457,,,0
+H2,2006,2006,2006,2,0,2,Export,752,Sweden,SWE,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,74148,,,0
+H2,2006,2006,2006,2,0,1,Import,757,Switzerland,CHE,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,47953,,,0
+H2,2006,2006,2006,2,0,2,Export,757,Switzerland,CHE,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2152,,,0
+H2,2006,2006,2006,2,0,1,Import,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,343,,,0
+H2,2006,2006,2006,2,0,2,Export,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43823,,,0
+H2,2006,2006,2006,2,0,2,Export,760,Syria,SYR,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,232706,,,0
+H2,2006,2006,2006,2,0,1,Import,760,Syria,SYR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,298762,,,0
+H2,2006,2006,2006,2,0,2,Export,760,Syria,SYR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5262,,,0
+H2,2006,2006,2006,2,0,1,Import,764,Thailand,THA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11586,,,0
+H2,2006,2006,2006,2,0,2,Export,764,Thailand,THA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1992856,,,0
+H2,2006,2006,2006,2,0,1,Import,764,Thailand,THA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,35943,,,0
+H2,2006,2006,2006,2,0,2,Export,764,Thailand,THA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,619355,,,0
+H2,2006,2006,2006,2,0,2,Export,780,Trinidad and Tobago,TTO,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20917,,,0
+H2,2006,2006,2006,2,0,2,Export,780,Trinidad and Tobago,TTO,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24857,,,0
+H2,2006,2006,2006,2,0,2,Export,784,United Arab Emirates,ARE,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,58002,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,784,United Arab Emirates,ARE,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,408,,,0
+H2,2006,2006,2006,2,0,1,Import,784,United Arab Emirates,ARE,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13287,,,0
+H2,2006,2006,2006,2,0,2,Export,784,United Arab Emirates,ARE,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4237763,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,784,United Arab Emirates,ARE,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3611089,,,0
+H2,2006,2006,2006,2,0,1,Import,784,United Arab Emirates,ARE,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,85484327,,,0
+H2,2006,2006,2006,2,0,2,Export,784,United Arab Emirates,ARE,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5924885,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,784,United Arab Emirates,ARE,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5738451,,,0
+H2,2006,2006,2006,2,0,2,Export,788,Tunisia,TUN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,63105,,,0
+H2,2006,2006,2006,2,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3974203,,,0
+H2,2006,2006,2006,2,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13366582,,,0
+H2,2006,2006,2006,2,0,2,Export,792,Turkey,TUR,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,634807,,,0
+H2,2006,2006,2006,2,0,1,Import,792,Turkey,TUR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,384125,,,0
+H2,2006,2006,2006,2,0,2,Export,792,Turkey,TUR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,152494,,,0
+H2,2006,2006,2006,2,0,1,Import,800,Uganda,UGA,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,41412,,,0
+H2,2006,2006,2006,2,0,2,Export,807,North Macedonia,MKD,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12884,,,0
+H2,2006,2006,2006,2,0,2,Export,826,United Kingdom,GBR,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26046,,,0
+H2,2006,2006,2006,2,0,2,Export,826,United Kingdom,GBR,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,94345,,,0
+H2,2006,2006,2006,2,0,2,Export,826,United Kingdom,GBR,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8879066,,,0
+H2,2006,2006,2006,2,0,1,Import,826,United Kingdom,GBR,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9864,,,0
+H2,2006,2006,2006,2,0,2,Export,826,United Kingdom,GBR,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23133,,,0
+H2,2006,2006,2006,2,0,2,Export,834,United Rep. of Tanzania,TZA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,176238,,,0
+H2,2006,2006,2006,2,0,1,Import,842,USA,USA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3650,,,0
+H2,2006,2006,2006,2,0,2,Export,842,USA,USA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,77324,,,0
+H2,2006,2006,2006,2,0,2,Export,842,USA,USA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4904004,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,842,USA,USA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3721,,,0
+H2,2006,2006,2006,2,0,2,Export,842,USA,USA,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1881281,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,842,USA,USA,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4378,,,0
+H2,2006,2006,2006,2,0,1,Import,862,Venezuela,VEN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19765,,,0
+H2,2006,2006,2006,2,0,1,Import,862,Venezuela,VEN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,131,,,0
+H2,2006,2006,2006,2,0,1,Import,862,Venezuela,VEN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1182,,,0
+H2,2006,2006,2006,2,0,1,Import,887,Yemen,YEM,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,531,,,0
+H2,2006,2006,2006,2,0,1,Import,887,Yemen,YEM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4760238,,,0
+H2,2006,2006,2006,2,0,2,Export,887,Yemen,YEM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15740,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,887,Yemen,YEM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15740,,,0
+H2,2006,2006,2006,2,0,2,Export,894,Zambia,ZMB,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7876,,,0
+H2,2006,2006,2006,2,0,1,Import,12,Algeria,DZA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,121498,,,0
+H2,2006,2006,2006,2,0,1,Import,31,Azerbaijan,AZE,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1428,,,0
+H2,2006,2006,2006,2,0,2,Export,31,Azerbaijan,AZE,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30,,,0
+H2,2006,2006,2006,2,0,2,Export,32,Argentina,ARG,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,125109,,,0
+H2,2006,2006,2006,2,0,1,Import,32,Argentina,ARG,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19361033,,,0
+H2,2006,2006,2006,2,0,2,Export,32,Argentina,ARG,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1341816,,,0
+H2,2006,2006,2006,2,0,2,Export,36,Australia,AUS,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23,,,0
+H2,2006,2006,2006,2,0,1,Import,36,Australia,AUS,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14529656,,,0
+H2,2006,2006,2006,2,0,2,Export,36,Australia,AUS,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,813487,,,0
+H2,2006,2006,2006,2,0,2,Export,40,Austria,AUT,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,289,,,0
+H2,2006,2006,2006,2,0,2,Export,40,Austria,AUT,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,117,,,0
+H2,2006,2006,2006,2,0,1,Import,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,54975,,,0
+H2,2006,2006,2006,2,0,1,Import,50,Bangladesh,BGD,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,81,,,0
+H2,2006,2006,2006,2,0,1,Import,50,Bangladesh,BGD,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,228620,,,0
+H2,2006,2006,2006,2,0,2,Export,50,Bangladesh,BGD,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,262555,,,0
+H2,2006,2006,2006,2,0,1,Import,56,Belgium,BEL,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1856,,,0
+H2,2006,2006,2006,2,0,2,Export,56,Belgium,BEL,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27750,,,0
+H2,2006,2006,2006,2,0,1,Import,56,Belgium,BEL,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,56669,,,0
+H2,2006,2006,2006,2,0,2,Export,56,Belgium,BEL,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,972212,,,0
+H2,2006,2006,2006,2,0,1,Import,70,Bosnia Herzegovina,BIH,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,118,,,0
+H2,2006,2006,2006,2,0,1,Import,70,Bosnia Herzegovina,BIH,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,57927,,,0
+H2,2006,2006,2006,2,0,2,Export,76,Brazil,BRA,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2421434,,,4
+H2,2006,2006,2006,2,0,1,Import,76,Brazil,BRA,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,618151,,,4
+H2,2006,2006,2006,2,0,2,Export,96,Brunei Darussalam,BRN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,327,,,0
+H2,2006,2006,2006,2,0,2,Export,112,Belarus,BLR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,82900,,,0
+H2,2006,2006,2006,2,0,1,Import,112,Belarus,BLR,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6300,,,0
+H2,2006,2006,2006,2,0,1,Import,120,Cameroon,CMR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,523,,,0
+H2,2006,2006,2006,2,0,1,Import,120,Cameroon,CMR,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43290,,,0
+H2,2006,2006,2006,2,0,2,Export,124,Canada,CAN,10,Antarctica,ATA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4290,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,124,Canada,CAN,10,Antarctica,ATA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4290,,,0
+H2,2006,2006,2006,2,0,1,Import,124,Canada,CAN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,295,,,0
+H2,2006,2006,2006,2,0,2,Export,124,Canada,CAN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30453,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,124,Canada,CAN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9505,,,0
+H2,2006,2006,2006,2,0,2,Export,124,Canada,CAN,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3107,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,124,Canada,CAN,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,194,,,0
+H2,2006,2006,2006,2,0,1,Import,152,Chile,CHL,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,204936763,,,0
+H2,2006,2006,2006,2,0,2,Export,152,Chile,CHL,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2824266,,,0
+H2,2006,2006,2006,2,0,2,Export,156,China,CHN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11087360,,,0
+H2,2006,2006,2006,2,0,1,Import,156,China,CHN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,281479,,,0
+H2,2006,2006,2006,2,0,1,Import,188,Costa Rica,CRI,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,581695,,,0
+H2,2006,2006,2006,2,0,1,Import,192,Cuba,CUB,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,419,,,0
+H2,2006,2006,2006,2,0,1,Import,203,Czechia,CZE,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22773,,,0
+H2,2006,2006,2006,2,0,2,Export,203,Czechia,CZE,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4471,,,0
+H2,2006,2006,2006,2,0,1,Import,203,Czechia,CZE,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,232814,,,0
+H2,2006,2006,2006,2,0,1,Import,204,Benin,BEN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,96,,,0
+H2,2006,2006,2006,2,0,2,Export,208,Denmark,DNK,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4010,,,0
+H2,2006,2006,2006,2,0,2,Export,208,Denmark,DNK,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5449,,,0
+H2,2006,2006,2006,2,0,2,Export,208,Denmark,DNK,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,52563,,,0
+H2,2006,2006,2006,2,0,1,Import,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5593,,,0
+H2,2006,2006,2006,2,0,1,Import,214,Dominican Rep.,DOM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29616,,,0
+H2,2006,2006,2006,2,0,2,Export,214,Dominican Rep.,DOM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,266017,,,0
+H2,2006,2006,2006,2,0,2,Export,218,Ecuador,ECU,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1706,,,0
+H2,2006,2006,2006,2,0,1,Import,222,El Salvador,SLV,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,222,,,0
+H2,2006,2006,2006,2,0,2,Export,231,Ethiopia,ETH,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,440750,,,0
+H2,2006,2006,2006,2,0,2,Export,233,Estonia,EST,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6045,,,0
+H2,2006,2006,2006,2,0,2,Export,233,Estonia,EST,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,118,,,0
+H2,2006,2006,2006,2,0,1,Import,234,Faeroe Isds,FRO,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27480,,,0
+H2,2006,2006,2006,2,0,1,Import,242,Fiji,FJI,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,276,,,0
+H2,2006,2006,2006,2,0,2,Export,242,Fiji,FJI,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7121,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,242,Fiji,FJI,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7121,,,0
+H2,2006,2006,2006,2,0,2,Export,246,Finland,FIN,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,69611,,,0
+H2,2006,2006,2006,2,0,1,Import,246,Finland,FIN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,45,,,0
+H2,2006,2006,2006,2,0,1,Import,251,France,FRA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5022,,,0
+H2,2006,2006,2006,2,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4002026,,,0
+H2,2006,2006,2006,2,0,2,Export,251,France,FRA,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10674161,,,0
+H2,2006,2006,2006,2,0,1,Import,251,France,FRA,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,617730,,,0
+H2,2006,2006,2006,2,0,1,Import,266,Gabon,GAB,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4372,,,0
+H2,2006,2006,2006,2,0,2,Export,266,Gabon,GAB,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,100221,,,0
+H2,2006,2006,2006,2,0,1,Import,276,Germany,DEU,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1000,,,0
+H2,2006,2006,2006,2,0,2,Export,276,Germany,DEU,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10000,,,0
+H2,2006,2006,2006,2,0,1,Import,276,Germany,DEU,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5000,,,0
+H2,2006,2006,2006,2,0,2,Export,276,Germany,DEU,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2091000,,,0
+H2,2006,2006,2006,2,0,1,Import,276,Germany,DEU,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,238000,,,0
+H2,2006,2006,2006,2,0,2,Export,288,Ghana,GHA,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,658144,,,0
+H2,2006,2006,2006,2,0,2,Export,300,Greece,GRC,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,629,,,0
+H2,2006,2006,2006,2,0,1,Import,320,Guatemala,GTM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30248,,,0
+H2,2006,2006,2006,2,0,2,Export,320,Guatemala,GTM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,76,,,0
+H2,2006,2006,2006,2,0,1,Import,340,Honduras,HND,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32,,,0
+H2,2006,2006,2006,2,0,1,Import,340,Honduras,HND,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,93073,,,0
+H2,2006,2006,2006,2,0,2,Export,340,Honduras,HND,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7032,,,0
+H2,2006,2006,2006,2,0,2,Export,348,Hungary,HUN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,154000,,,0
+H2,2006,2006,2006,2,0,1,Import,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1453727,,,0
+H2,2006,2006,2006,2,0,2,Export,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19597,,,0
+H2,2006,2006,2006,2,0,2,Export,376,Israel,ISR,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7000,,,0
+H2,2006,2006,2006,2,0,1,Import,376,Israel,ISR,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5000,,,0
+H2,2006,2006,2006,2,0,2,Export,376,Israel,ISR,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8000,,,0
+H2,2006,2006,2006,2,0,2,Export,381,Italy,ITA,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1271251,,,0
+H2,2006,2006,2006,2,0,1,Import,381,Italy,ITA,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2298,,,0
+H2,2006,2006,2006,2,0,2,Export,381,Italy,ITA,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1304916,,,0
+H2,2006,2006,2006,2,0,1,Import,384,Côte d'Ivoire,CIV,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2646,,,0
+H2,2006,2006,2006,2,0,1,Import,384,Côte d'Ivoire,CIV,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,428872,,,0
+H2,2006,2006,2006,2,0,2,Export,388,Jamaica,JAM,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,212592,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,388,Jamaica,JAM,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,212592,,,0
+H2,2006,2006,2006,2,0,2,Export,392,Japan,JPN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,556659,,,0
+H2,2006,2006,2006,2,0,2,Export,398,Kazakhstan,KAZ,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,63,,,0
+H2,2006,2006,2006,2,0,1,Import,398,Kazakhstan,KAZ,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,863,,,0
+H2,2006,2006,2006,2,0,1,Import,404,Kenya,KEN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7440,,,0
+H2,2006,2006,2006,2,0,2,Export,404,Kenya,KEN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,412,,,0
+H2,2006,2006,2006,2,0,1,Import,410,Rep. of Korea,KOR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,51132,,,0
+H2,2006,2006,2006,2,0,2,Export,410,Rep. of Korea,KOR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3008611,,,0
+H2,2006,2006,2006,2,0,1,Import,410,Rep. of Korea,KOR,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,930,,,0
+H2,2006,2006,2006,2,0,2,Export,410,Rep. of Korea,KOR,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1051169,,,0
+H2,2006,2006,2006,2,0,1,Import,414,Kuwait,KWT,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,810,,,0
+H2,2006,2006,2006,2,0,2,Export,414,Kuwait,KWT,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,40234,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,414,Kuwait,KWT,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,40234,,,0
+H2,2006,2006,2006,2,0,2,Export,422,Lebanon,LBN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19188,,,0
+H2,2006,2006,2006,2,0,2,Export,422,Lebanon,LBN,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,391,,,0
+H2,2006,2006,2006,2,0,1,Import,422,Lebanon,LBN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11776,,,0
+H2,2006,2006,2006,2,0,2,Export,422,Lebanon,LBN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,148432,,,0
+H2,2006,2006,2006,2,0,2,Export,428,Latvia,LVA,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5422,,,0
+H2,2006,2006,2006,2,0,2,Export,442,Luxembourg,LUX,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29760,,,0
+H2,2006,2006,2006,2,0,1,Import,442,Luxembourg,LUX,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15796,,,0
+H2,2006,2006,2006,2,0,2,Export,442,Luxembourg,LUX,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4081,,,0
+H2,2006,2006,2006,2,0,1,Import,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,357102,,,0
+H2,2006,2006,2006,2,0,2,Export,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,194890,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,161075,,,0
+H2,2006,2006,2006,2,0,2,Export,454,Malawi,MWI,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3823,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,454,Malawi,MWI,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3823,,,0
+H2,2006,2006,2006,2,0,2,Export,458,Malaysia,MYS,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,846827,,,0
+H2,2006,2006,2006,2,0,1,Import,458,Malaysia,MYS,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3439461,,,0
+H2,2006,2006,2006,2,0,2,Export,458,Malaysia,MYS,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4587698,,,0
+H2,2006,2006,2006,2,0,1,Import,466,Mali,MLI,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2683,,,0
+H2,2006,2006,2006,2,0,1,Import,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,537221,,,0
+H2,2006,2006,2006,2,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2145,,,0
+H2,2006,2006,2006,2,0,1,Import,490,"Other Asia, nes",,10,Antarctica,ATA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2467,,,0
+H2,2006,2006,2006,2,0,2,Export,490,"Other Asia, nes",,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22140,,,0
+H2,2006,2006,2006,2,0,1,Import,490,"Other Asia, nes",,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,143392,,,0
+H2,2006,2006,2006,2,0,2,Export,490,"Other Asia, nes",,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,341,,,0
+H2,2006,2006,2006,2,0,2,Export,498,Rep. of Moldova,MDA,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25252,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,498,Rep. of Moldova,MDA,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25252,,,0
+H2,2006,2006,2006,2,0,1,Import,504,Morocco,MAR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1033,,,0
+H2,2006,2006,2006,2,0,2,Export,508,Mozambique,MOZ,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,864,,,0
+H2,2006,2006,2006,2,0,1,Import,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,159948,,,0
+H2,2006,2006,2006,2,0,2,Export,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,186468,,,0
+H2,2006,2006,2006,2,0,1,Import,516,Namibia,NAM,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,205,,,0
+H2,2006,2006,2006,2,0,2,Export,516,Namibia,NAM,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,194,,,0
+H2,2006,2006,2006,2,0,2,Export,516,Namibia,NAM,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4507061,,,0
+H2,2006,2006,2006,2,0,2,Export,516,Namibia,NAM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1978,,,0
+H2,2006,2006,2006,2,0,2,Export,528,Netherlands,NLD,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5025,,,0
+H2,2006,2006,2006,2,0,1,Import,528,Netherlands,NLD,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12563,,,0
+H2,2006,2006,2006,2,0,2,Export,528,Netherlands,NLD,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,370621,,,0
+H2,2006,2006,2006,2,0,1,Import,528,Netherlands,NLD,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2513,,,0
+H2,2006,2006,2006,2,0,1,Import,530,Neth. Antilles,ANT,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,679,,,0
+H2,2006,2006,2006,2,0,1,Import,530,Neth. Antilles,ANT,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,294589,,,0
+H2,2006,2006,2006,2,0,2,Export,530,Neth. Antilles,ANT,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,102598,,,0
+H2,2006,2006,2006,2,0,1,Import,540,New Caledonia,NCL,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,21985,,,0
+H2,2006,2006,2006,2,0,1,Import,554,New Zealand,NZL,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,150146,,,0
+H2,2006,2006,2006,2,0,1,Import,562,Niger,NER,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,41686,,,0
+H2,2006,2006,2006,2,0,2,Export,562,Niger,NER,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,211749,,,0
+H2,2006,2006,2006,2,0,1,Import,566,Nigeria,NGA,10,Antarctica,ATA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20574,,,0
+H2,2006,2006,2006,2,0,1,Import,566,Nigeria,NGA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16045,,,0
+H2,2006,2006,2006,2,0,2,Export,579,Norway,NOR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,314033,,,0
+H2,2006,2006,2006,2,0,2,Export,591,Panama,PAN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38402,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,591,Panama,PAN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38402,,,0
+H2,2006,2006,2006,2,0,2,Export,591,Panama,PAN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,170891,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,591,Panama,PAN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,170891,,,0
+H2,2006,2006,2006,2,0,2,Export,604,Peru,PER,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4642,,,0
+H2,2006,2006,2006,2,0,1,Import,604,Peru,PER,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,561,,,0
+H2,2006,2006,2006,2,0,2,Export,604,Peru,PER,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8905,,,0
+H2,2006,2006,2006,2,0,2,Export,616,Poland,POL,10,Antarctica,ATA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,513,,,0
+H2,2006,2006,2006,2,0,1,Import,616,Poland,POL,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,891,,,0
+H2,2006,2006,2006,2,0,2,Export,616,Poland,POL,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,83435,,,0
+H2,2006,2006,2006,2,0,1,Import,616,Poland,POL,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1082523,,,0
+H2,2006,2006,2006,2,0,2,Export,616,Poland,POL,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,530234,,,0
+H2,2006,2006,2006,2,0,2,Export,620,Portugal,PRT,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10579279,,,0
+H2,2006,2006,2006,2,0,2,Export,620,Portugal,PRT,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3240,,,0
+H2,2006,2006,2006,2,0,2,Export,634,Qatar,QAT,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5889,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,634,Qatar,QAT,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5889,,,0
+H2,2006,2006,2006,2,0,1,Import,642,Romania,ROU,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,88,,,0
+H2,2006,2006,2006,2,0,2,Export,642,Romania,ROU,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,33,,,0
+H2,2006,2006,2006,2,0,1,Import,642,Romania,ROU,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3933585,,,0
+H2,2006,2006,2006,2,0,2,Export,642,Romania,ROU,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2470,,,0
+H2,2006,2006,2006,2,0,2,Export,643,Russian Federation,RUS,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,582877,,,0
+H2,2006,2006,2006,2,0,1,Import,643,Russian Federation,RUS,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,263521,,,0
+H2,2006,2006,2006,2,0,2,Export,643,Russian Federation,RUS,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,80644,,,0
+H2,2006,2006,2006,2,0,1,Import,646,Rwanda,RWA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47597,,,0
+H2,2006,2006,2006,2,0,1,Import,682,Saudi Arabia,SAU,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,77437,,,0
+H2,2006,2006,2006,2,0,1,Import,686,Senegal,SEN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1870,,,0
+H2,2006,2006,2006,2,0,2,Export,688,Serbia,SRB,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38,,,0
+H2,2006,2006,2006,2,0,2,Export,699,India,IND,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,599291,,,0
+H2,2006,2006,2006,2,0,1,Import,699,India,IND,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,897008,,,0
+H2,2006,2006,2006,2,0,2,Export,699,India,IND,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,102863,,,0
+H2,2006,2006,2006,2,0,1,Import,702,Singapore,SGP,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1489,,,0
+H2,2006,2006,2006,2,0,2,Export,702,Singapore,SGP,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15929,,,0
+H2,2006,2006,2006,2,0,1,Import,703,Slovakia,SVK,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3925,,,0
+H2,2006,2006,2006,2,0,2,Export,703,Slovakia,SVK,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,39963,,,0
+H2,2006,2006,2006,2,0,1,Import,703,Slovakia,SVK,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1873600,,,0
+H2,2006,2006,2006,2,0,2,Export,703,Slovakia,SVK,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,36714,,,0
+H2,2006,2006,2006,2,0,2,Export,704,Viet Nam,VNM,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,116518,,,0
+H2,2006,2006,2006,2,0,1,Import,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,154235,,,0
+H2,2006,2006,2006,2,0,2,Export,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1603345,,,0
+H2,2006,2006,2006,2,0,2,Export,710,South Africa,ZAF,10,Antarctica,ATA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,134,,,0
+H2,2006,2006,2006,2,0,2,Export,710,South Africa,ZAF,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,391,,,0
+H2,2006,2006,2006,2,0,1,Import,710,South Africa,ZAF,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2798,,,0
+H2,2006,2006,2006,2,0,2,Export,710,South Africa,ZAF,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10115619,,,0
+H2,2006,2006,2006,2,0,1,Import,710,South Africa,ZAF,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,198011,,,0
+H2,2006,2006,2006,2,0,2,Export,710,South Africa,ZAF,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,144059,,,0
+H2,2006,2006,2006,2,0,1,Import,716,Zimbabwe,ZWE,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,13683,,,0
+H2,2006,2006,2006,2,0,2,Export,716,Zimbabwe,ZWE,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,40991,,,0
+H2,2006,2006,2006,2,0,1,Import,716,Zimbabwe,ZWE,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1,,,0
+H2,2006,2006,2006,2,0,1,Import,716,Zimbabwe,ZWE,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,712,,,0
+H2,2006,2006,2006,2,0,1,Import,724,Spain,ESP,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,164117,,,0
+H2,2006,2006,2006,2,0,2,Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,10560956,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,438269,,,0
+H2,2006,2006,2006,2,0,2,Export,724,Spain,ESP,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,715539,,,0
+H2,2006,2006,2006,2,0,2,Export,724,Spain,ESP,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,93545,,,0
+H2,2006,2006,2006,2,0,2,Export,752,Sweden,SWE,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,153185,,,0
+H2,2006,2006,2006,2,0,2,Export,757,Switzerland,CHE,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,572,,,0
+H2,2006,2006,2006,2,0,1,Import,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,61,,,0
+H2,2006,2006,2006,2,0,2,Export,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,178757,,,0
+H2,2006,2006,2006,2,0,1,Import,760,Syria,SYR,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,274532,,,0
+H2,2006,2006,2006,2,0,2,Export,764,Thailand,THA,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,541606,,,0
+H2,2006,2006,2006,2,0,1,Import,764,Thailand,THA,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10939,,,0
+H2,2006,2006,2006,2,0,2,Export,764,Thailand,THA,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,306964,,,0
+H2,2006,2006,2006,2,0,2,Export,780,Trinidad and Tobago,TTO,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2616,,,0
+H2,2006,2006,2006,2,0,2,Export,780,Trinidad and Tobago,TTO,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,52053,,,0
+H2,2006,2006,2006,2,0,2,Export,784,United Arab Emirates,ARE,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,40509,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,784,United Arab Emirates,ARE,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,40509,,,0
+H2,2006,2006,2006,2,0,2,Export,784,United Arab Emirates,ARE,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14028149,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,784,United Arab Emirates,ARE,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14028149,,,0
+H2,2006,2006,2006,2,0,1,Import,784,United Arab Emirates,ARE,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1665697,,,0
+H2,2006,2006,2006,2,0,2,Export,784,United Arab Emirates,ARE,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,41654320,,,0
+H2,2006,2006,2006,2,0,3,Re-Export,784,United Arab Emirates,ARE,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,41600028,,,0
+H2,2006,2006,2006,2,0,2,Export,788,Tunisia,TUN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,184,,,0
+H2,2006,2006,2006,2,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,443768,,,0
+H2,2006,2006,2006,2,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2159104,,,0
+H2,2006,2006,2006,2,0,2,Export,792,Turkey,TUR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,21473,,,0
+H2,2006,2006,2006,2,0,1,Import,792,Turkey,TUR,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,106,,,0
+H2,2006,2006,2006,2,0,2,Export,792,Turkey,TUR,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,35873,,,0
+H2,2006,2006,2006,2,0,1,Import,800,Uganda,UGA,10,Antarctica,ATA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5346,,,0
+H2,2006,2006,2006,2,0,2,Export,826,United Kingdom,GBR,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9924,,,0
+H2,2006,2006,2006,2,0,1,Import,826,United Kingdom,GBR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1135,,,0
+H2,2006,2006,2006,2,0,2,Export,826,United Kingdom,GBR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1768784,,,0
+H2,2006,2006,2006,2,0,2,Export,826,United Kingdom,GBR,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25774,,,0
+H2,2006,2006,2006,2,0,2,Export,842,USA,USA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,112773,,,0
+H2,2006,2006,2006,2,0,1,Import,842,USA,USA,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47550,,,0
+H2,2006,2006,2006,2,0,2,Export,842,USA,USA,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2546173,,,0
+H2,2006,2006,2006,2,0,2,Export,842,USA,USA,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,148402,,,0
+H2,2006,2006,2006,2,0,1,Import,862,Venezuela,VEN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,49914,,,0
+H2,2006,2006,2006,2,0,1,Import,887,Yemen,YEM,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19616,,,0
+H2,2006,2006,2006,2,0,1,Import,887,Yemen,YEM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,765323,,,0
+H1,2006,2006,2006,2,0,1,Import,72,Botswana,BWA,20,Andorra,AND,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,6283,,,0
+H1,2006,2006,2006,2,0,1,Import,132,Cabo Verde,CPV,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,611,,,0
+H1,2006,2006,2006,2,0,1,Import,478,Mauritania,MRT,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,238027921,,,0
+H1,2006,2006,2006,2,0,1,Import,548,Vanuatu,VUT,20,Andorra,AND,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,281,,,0
+H1,2006,2006,2006,2,0,1,Import,662,Saint Lucia,LCA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,586,,,0
+H1,2006,2006,2006,2,0,2,Export,670,Saint Vincent and the Grenadines,VCT,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,24596,,,0
+H1,2006,2006,2006,2,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,24596,,,0
+H1,2006,2006,2006,2,0,1,Import,678,Sao Tome and Principe,STP,24,Angola,AGO,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,13237621,,,0
+H1,2006,2006,2006,2,0,2,Export,804,Ukraine,UKR,24,Angola,AGO,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,14891,,,0
+H1,2006,2006,2006,2,0,2,Export,804,Ukraine,UKR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,19414080,,,0
+H1,2006,2006,2006,2,0,1,Import,28,Antigua and Barbuda,ATG,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,240,,,0
+H1,2006,2006,2006,2,0,1,Import,72,Botswana,BWA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13,,,0
+H1,2006,2006,2006,2,0,2,Export,72,Botswana,BWA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,520182,,,0
+H1,2006,2006,2006,2,0,1,Import,132,Cabo Verde,CPV,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17406,,,0
+H1,2006,2006,2006,2,0,2,Export,132,Cabo Verde,CPV,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,57744,,,0
+H1,2006,2006,2006,2,0,3,Re-Export,132,Cabo Verde,CPV,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,57607,,,0
+H1,2006,2006,2006,2,0,2,Export,360,Indonesia,IDN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,52865,,,0
+H1,2006,2006,2006,2,0,1,Import,478,Mauritania,MRT,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,460449,,,0
+H1,2006,2006,2006,2,0,1,Import,548,Vanuatu,VUT,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19780,,,0
+H1,2006,2006,2006,2,0,1,Import,659,Saint Kitts and Nevis,KNA,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10,,,0
+H1,2006,2006,2006,2,0,1,Import,662,Saint Lucia,LCA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,50448,,,0
+H1,2006,2006,2006,2,0,2,Export,662,Saint Lucia,LCA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19,,,0
+H1,2006,2006,2006,2,0,3,Re-Export,662,Saint Lucia,LCA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7,,,0
+H1,2006,2006,2006,2,0,2,Export,670,Saint Vincent and the Grenadines,VCT,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1006,,,0
+H1,2006,2006,2006,2,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1006,,,0
+H1,2006,2006,2006,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,181,,,0
+H1,2006,2006,2006,2,0,1,Import,678,Sao Tome and Principe,STP,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,468,,,0
+H1,2006,2006,2006,2,0,1,Import,678,Sao Tome and Principe,STP,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5268,,,0
+H1,2006,2006,2006,2,0,1,Import,736,Fmr Sudan,SDN,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,106,,,0
+H1,2006,2006,2006,2,0,1,Import,736,Fmr Sudan,SDN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,118,,,0
+H1,2006,2006,2006,2,0,1,Import,804,Ukraine,UKR,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3,,,0
+H1,2006,2006,2006,2,0,2,Export,804,Ukraine,UKR,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9,,,0
+H1,2006,2006,2006,2,0,1,Import,804,Ukraine,UKR,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,49,,,0
+H1,2006,2006,2006,2,0,1,Import,804,Ukraine,UKR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15623755,,,0
+H1,2006,2006,2006,2,0,2,Export,804,Ukraine,UKR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,450231,,,0
+H1,2006,2006,2006,2,0,1,Import,72,Botswana,BWA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,341,,,0
+H1,2006,2006,2006,2,0,1,Import,132,Cabo Verde,CPV,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24399,,,0
+H1,2006,2006,2006,2,0,2,Export,360,Indonesia,IDN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,381914,,,0
+H1,2006,2006,2006,2,0,1,Import,478,Mauritania,MRT,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,681839,,,0
+H1,2006,2006,2006,2,0,1,Import,662,Saint Lucia,LCA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,503,,,0
+H1,2006,2006,2006,2,0,1,Import,662,Saint Lucia,LCA,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3907,,,0
+H1,2006,2006,2006,2,0,1,Import,678,Sao Tome and Principe,STP,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,66,,,0
+H1,2006,2006,2006,2,0,1,Import,804,Ukraine,UKR,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1,,,0
+H1,2006,2006,2006,2,0,2,Export,804,Ukraine,UKR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,176901,,,0
+H1,2006,2006,2006,2,0,1,Import,804,Ukraine,UKR,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,470547,,,0
+H1,2006,2006,2006,2,0,2,Export,804,Ukraine,UKR,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,221215,,,0
+H0,2006,2006,2006,2,0,1,Import,690,Seychelles,SYC,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,293,,,0
+H0,2006,2006,2006,2,0,2,Export,818,Egypt,EGY,24,Angola,AGO,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,117019,,,0
+H0,2006,2006,2006,2,0,1,Import,818,Egypt,EGY,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,65047581,,,0
+H0,2006,2006,2006,2,0,2,Export,818,Egypt,EGY,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,177798,,,0
+H0,2006,2006,2006,2,0,1,Import,876,Wallis and Futuna Isds,WLF,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,894,,,0
+H0,2006,2006,2006,2,0,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5531,,,0
+H0,2006,2006,2006,2,0,1,Import,690,Seychelles,SYC,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,233302,,,0
+H0,2006,2006,2006,2,0,1,Import,740,Suriname,SUR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,429,,,0
+H0,2006,2006,2006,2,0,2,Export,818,Egypt,EGY,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,74979,,,0
+H0,2006,2006,2006,2,0,2,Export,818,Egypt,EGY,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,730676,,,0
+H0,2006,2006,2006,2,0,1,Import,876,Wallis and Futuna Isds,WLF,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13469,,,0
+H0,2006,2006,2006,2,0,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,36,,,0
+H0,2006,2006,2006,2,0,1,Import,690,Seychelles,SYC,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,9066,,,0
+H0,2006,2006,2006,2,0,1,Import,740,Suriname,SUR,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,612,,,0
+H0,2006,2006,2006,2,0,1,Import,876,Wallis and Futuna Isds,WLF,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9765,,,0

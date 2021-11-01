@@ -1,0 +1,816 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,2,0,2,Export,12,Algeria,DZA,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,12040531,,,0
+H1,2001,2001,2001,2,0,2,Export,12,Algeria,DZA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,104670061,,,0
+H1,2001,2001,2001,2,0,2,Export,31,Azerbaijan,AZE,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5093243,,,0
+H1,2001,2001,2001,2,0,2,Export,32,Argentina,ARG,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4560861,,,0
+H1,2001,2001,2001,2,0,1,Import,32,Argentina,ARG,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2050315,,,0
+H1,2001,2001,2001,2,0,1,Import,36,Australia,AUS,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,38057,,,0
+H1,2001,2001,2001,2,0,2,Export,36,Australia,AUS,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5629977,,,0
+H1,2001,2001,2001,2,0,1,Import,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,412,,,0
+H1,2001,2001,2001,2,0,2,Export,40,Austria,AUT,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,63032,,,0
+H1,2001,2001,2001,2,0,1,Import,44,Bahamas,BHS,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2340905,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,453508,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,73936,,,0
+H1,2001,2001,2001,2,0,1,Import,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,37190570,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2420514,,,0
+H1,2001,2001,2001,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,108677,,,0
+H1,2001,2001,2001,2,0,2,Export,76,Brazil,BRA,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,9393,,,0
+H1,2001,2001,2001,2,0,1,Import,76,Brazil,BRA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,11521786,,,0
+H1,2001,2001,2001,2,0,2,Export,76,Brazil,BRA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,1851,,,0
+H1,2001,2001,2001,2,0,1,Import,76,Brazil,BRA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,31176154,,,0
+H1,2001,2001,2001,2,0,1,Import,84,Belize,BLZ,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,115,,,0
+H1,2001,2001,2001,2,0,2,Export,100,Bulgaria,BGR,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,172747,,,0
+H1,2001,2001,2001,2,0,1,Import,100,Bulgaria,BGR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1549820,,,0
+H1,2001,2001,2001,2,0,2,Export,100,Bulgaria,BGR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,26115,,,0
+H1,2001,2001,2001,2,0,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,39539513,,,0
+H1,2001,2001,2001,2,0,2,Export,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1054801,,,0
+H1,2001,2001,2001,2,0,1,Import,120,Cameroon,CMR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,798748,,,0
+H1,2001,2001,2001,2,0,1,Import,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1847018,,,0
+H1,2001,2001,2001,2,0,2,Export,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,235529,,,0
+H1,2001,2001,2001,2,0,1,Import,124,Canada,CAN,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,70845314,,,0
+H1,2001,2001,2001,2,0,1,Import,124,Canada,CAN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,218,,,0
+H1,2001,2001,2001,2,0,2,Export,124,Canada,CAN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,11917337,,,0
+H1,2001,2001,2001,2,0,1,Import,152,Chile,CHL,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,38407338,,,0
+H1,2001,2001,2001,2,0,2,Export,152,Chile,CHL,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,13007519,,,0
+H1,2001,2001,2001,2,0,1,Import,152,Chile,CHL,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5657940,,,0
+H1,2001,2001,2001,2,0,2,Export,156,China,CHN,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2854948,,,0
+H1,2001,2001,2001,2,0,1,Import,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,429588109,,,0
+H1,2001,2001,2001,2,0,1,Import,156,China,CHN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4628262,,,0
+H1,2001,2001,2001,2,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,7462024,,,0
+H1,2001,2001,2001,2,0,1,Import,170,Colombia,COL,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,76039,,,0
+H1,2001,2001,2001,2,0,2,Export,170,Colombia,COL,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3554529,,,0
+H1,2001,2001,2001,2,0,1,Import,188,Costa Rica,CRI,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,14804,,,0
+H1,2001,2001,2001,2,0,2,Export,188,Costa Rica,CRI,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3011706,,,0
+H1,2001,2001,2001,2,0,2,Export,191,Croatia,HRV,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,44498,,,0
+H1,2001,2001,2001,2,0,1,Import,196,Cyprus,CYP,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1583580,,,0
+H1,2001,2001,2001,2,0,2,Export,196,Cyprus,CYP,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,430113,,,0
+H1,2001,2001,2001,2,0,2,Export,203,Czechia,CZE,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,12204,,,0
+H1,2001,2001,2001,2,0,1,Import,204,Benin,BEN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,220944,,,0
+H1,2001,2001,2001,2,0,2,Export,208,Denmark,DNK,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,9914,,,0
+H1,2001,2001,2001,2,0,1,Import,214,Dominican Rep.,DOM,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5392000,,,0
+H1,2001,2001,2001,2,0,1,Import,222,El Salvador,SLV,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,123726598,,,0
+H1,2001,2001,2001,2,0,1,Import,231,Ethiopia,ETH,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,158,,,0
+H1,2001,2001,2001,2,0,1,Import,231,Ethiopia,ETH,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,9703424,,,0
+H1,2001,2001,2001,2,0,2,Export,233,Estonia,EST,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,9218,,,0
+H1,2001,2001,2001,2,0,1,Import,246,Finland,FIN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,327281,,,0
+H1,2001,2001,2001,2,0,1,Import,251,France,FRA,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,35826,,,0
+H1,2001,2001,2001,2,0,2,Export,251,France,FRA,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2589540,,,0
+H1,2001,2001,2001,2,0,1,Import,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,28992486,,,0
+H1,2001,2001,2001,2,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1805156,,,0
+H1,2001,2001,2001,2,0,1,Import,251,France,FRA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,68457914,,,0
+H1,2001,2001,2001,2,0,2,Export,251,France,FRA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,14784194,,,0
+H1,2001,2001,2001,2,0,2,Export,266,Gabon,GAB,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,6207938,,,0
+H1,2001,2001,2001,2,0,1,Import,266,Gabon,GAB,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,192628,,,0
+H1,2001,2001,2001,2,0,1,Import,268,Georgia,GEO,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,363540,,,0
+H1,2001,2001,2001,2,0,1,Import,276,Germany,DEU,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1000,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,672000,,,0
+H1,2001,2001,2001,2,0,1,Import,276,Germany,DEU,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,50054000,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1980000,,,0
+H1,2001,2001,2001,2,0,2,Export,300,Greece,GRC,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,7334,,,0
+H1,2001,2001,2001,2,0,2,Export,300,Greece,GRC,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,39191,,,0
+H1,2001,2001,2001,2,0,1,Import,300,Greece,GRC,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,19696062,,,0
+H1,2001,2001,2001,2,0,2,Export,300,Greece,GRC,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,10149672,,,0
+H1,2001,2001,2001,2,0,1,Import,320,Guatemala,GTM,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4110146,,,0
+H1,2001,2001,2001,2,0,2,Export,324,Guinea,GIN,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,22635,,,0
+H1,2001,2001,2001,2,0,1,Import,324,Guinea,GIN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,25851,,,0
+H1,2001,2001,2001,2,0,1,Import,340,Honduras,HND,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,11328375,,,0
+H1,2001,2001,2001,2,0,2,Export,344,"China, Hong Kong SAR",HKG,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,31385,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,31385,,,0
+H1,2001,2001,2001,2,0,1,Import,344,"China, Hong Kong SAR",HKG,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3703,,,0
+H1,2001,2001,2001,2,0,2,Export,344,"China, Hong Kong SAR",HKG,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,149844,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,149844,,,0
+H1,2001,2001,2001,2,0,2,Export,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,901000,,,0
+H1,2001,2001,2001,2,0,2,Export,364,Iran,IRN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5739,,,0
+H1,2001,2001,2001,2,0,2,Export,372,Ireland,IRL,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,831,,,0
+H1,2001,2001,2001,2,0,1,Import,372,Ireland,IRL,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,28943,,,0
+H1,2001,2001,2001,2,0,2,Export,372,Ireland,IRL,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,410000,,,0
+H1,2001,2001,2001,2,0,1,Import,376,Israel,ISR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1861000,,,0
+H1,2001,2001,2001,2,0,2,Export,376,Israel,ISR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1000,,,0
+H1,2001,2001,2001,2,0,2,Export,381,Italy,ITA,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,14600,,,0
+H1,2001,2001,2001,2,0,2,Export,381,Italy,ITA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,13397345,,,0
+H1,2001,2001,2001,2,0,1,Import,381,Italy,ITA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,552507988,,,0
+H1,2001,2001,2001,2,0,2,Export,381,Italy,ITA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,30017376,,,0
+H1,2001,2001,2001,2,0,2,Export,384,Côte d'Ivoire,CIV,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,11801109,,,0
+H1,2001,2001,2001,2,0,1,Import,384,Côte d'Ivoire,CIV,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,132235,,,0
+H1,2001,2001,2001,2,0,2,Export,384,Côte d'Ivoire,CIV,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,7378,,,0
+H1,2001,2001,2001,2,0,1,Import,388,Jamaica,JAM,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,7509256,,,0
+H1,2001,2001,2001,2,0,1,Import,392,Japan,JPN,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,48014489,,,0
+H1,2001,2001,2001,2,0,2,Export,392,Japan,JPN,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,11216,,,0
+H1,2001,2001,2001,2,0,1,Import,392,Japan,JPN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,37075255,,,0
+H1,2001,2001,2001,2,0,2,Export,392,Japan,JPN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,57472,,,0
+H1,2001,2001,2001,2,0,1,Import,400,Jordan,JOR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,264540,,,0
+H1,2001,2001,2001,2,0,1,Import,404,Kenya,KEN,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,132,,,0
+H1,2001,2001,2001,2,0,1,Import,404,Kenya,KEN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,292482,,,0
+H1,2001,2001,2001,2,0,1,Import,410,Rep. of Korea,KOR,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,291909366,,,0
+H1,2001,2001,2001,2,0,2,Export,410,Rep. of Korea,KOR,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,360,,,0
+H1,2001,2001,2001,2,0,1,Import,410,Rep. of Korea,KOR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,104425816,,,0
+H1,2001,2001,2001,2,0,2,Export,410,Rep. of Korea,KOR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,686786,,,0
+H1,2001,2001,2001,2,0,1,Import,422,Lebanon,LBN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,12951273,,,0
+H1,2001,2001,2001,2,0,2,Export,440,Lithuania,LTU,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3625,,,0
+H1,2001,2001,2001,2,0,2,Export,440,Lithuania,LTU,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,24368,,,0
+H1,2001,2001,2001,2,0,1,Import,450,Madagascar,MDG,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,170740,,,0
+H1,2001,2001,2001,2,0,1,Import,458,Malaysia,MYS,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,39578,,,0
+H1,2001,2001,2001,2,0,2,Export,458,Malaysia,MYS,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2128,,,0
+H1,2001,2001,2001,2,0,1,Import,466,Mali,MLI,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,53642,,,0
+H1,2001,2001,2001,2,0,1,Import,480,Mauritius,MUS,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,25143,,,0
+H1,2001,2001,2001,2,0,1,Import,484,Mexico,MEX,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,71777034,,,0
+H1,2001,2001,2001,2,0,2,Export,484,Mexico,MEX,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,23831335,,,0
+H1,2001,2001,2001,2,0,2,Export,484,Mexico,MEX,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,76071,,,0
+H1,2001,2001,2001,2,0,2,Export,490,"Other Asia, nes",,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,23573,,,0
+H1,2001,2001,2001,2,0,1,Import,490,"Other Asia, nes",,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,19473727,,,0
+H1,2001,2001,2001,2,0,1,Import,490,"Other Asia, nes",,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,14842185,,,0
+H1,2001,2001,2001,2,0,2,Export,490,"Other Asia, nes",,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1053,,,0
+H1,2001,2001,2001,2,0,1,Import,512,Oman,OMN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,38640,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3078697,,,0
+H1,2001,2001,2001,2,0,1,Import,528,Netherlands,NLD,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,8633222,,,0
+H1,2001,2001,2001,2,0,1,Import,528,Netherlands,NLD,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,32929498,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,887689,,,0
+H1,2001,2001,2001,2,0,1,Import,558,Nicaragua,NIC,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,13626932,,,0
+H1,2001,2001,2001,2,0,1,Import,562,Niger,NER,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,59959,,,0
+H1,2001,2001,2001,2,0,1,Import,566,Nigeria,NGA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,174998,,,0
+H1,2001,2001,2001,2,0,2,Export,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3856456,,,0
+H1,2001,2001,2001,2,0,1,Import,579,Norway,NOR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,142,,,0
+H1,2001,2001,2001,2,0,2,Export,579,Norway,NOR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,25423,,,0
+H1,2001,2001,2001,2,0,1,Import,591,Panama,PAN,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,230196153,,,0
+H1,2001,2001,2001,2,0,1,Import,604,Peru,PER,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,265603607,,,0
+H1,2001,2001,2001,2,0,2,Export,604,Peru,PER,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,14004918,,,0
+H1,2001,2001,2001,2,0,2,Export,608,Philippines,PHL,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1330296,,,0
+H1,2001,2001,2001,2,0,2,Export,616,Poland,POL,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,24519000,,,0
+H1,2001,2001,2001,2,0,1,Import,620,Portugal,PRT,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,61421378,,,0
+H1,2001,2001,2001,2,0,2,Export,620,Portugal,PRT,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1809548,,,0
+H1,2001,2001,2001,2,0,1,Import,634,Qatar,QAT,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,575,,,0
+H1,2001,2001,2001,2,0,2,Export,642,Romania,ROU,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,45000,,,0
+H1,2001,2001,2001,2,0,1,Import,642,Romania,ROU,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,12164000,,,0
+H1,2001,2001,2001,2,0,2,Export,642,Romania,ROU,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,20000,,,0
+H1,2001,2001,2001,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,77817,,,0
+H1,2001,2001,2001,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,47636856,,,0
+H1,2001,2001,2001,2,0,1,Import,682,Saudi Arabia,SAU,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,410401,,,0
+H1,2001,2001,2001,2,0,1,Import,686,Senegal,SEN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,141525,,,0
+H1,2001,2001,2001,2,0,1,Import,699,India,IND,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,36487337,,,0
+H1,2001,2001,2001,2,0,2,Export,699,India,IND,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,691635,,,0
+H1,2001,2001,2001,2,0,1,Import,702,Singapore,SGP,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,16829358,,,0
+H1,2001,2001,2001,2,0,1,Import,702,Singapore,SGP,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,35721081,,,0
+H1,2001,2001,2001,2,0,2,Export,702,Singapore,SGP,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,301046,,,0
+H1,2001,2001,2001,2,0,1,Import,703,Slovakia,SVK,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,72,,,0
+H1,2001,2001,2001,2,0,2,Export,710,South Africa,ZAF,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,71414,,,0
+H1,2001,2001,2001,2,0,1,Import,710,South Africa,ZAF,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1728267,,,0
+H1,2001,2001,2001,2,0,2,Export,710,South Africa,ZAF,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,794592,,,0
+H1,2001,2001,2001,2,0,1,Import,716,Zimbabwe,ZWE,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,106159,,,0
+H1,2001,2001,2001,2,0,2,Export,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,14202770,,,0
+H1,2001,2001,2001,2,0,1,Import,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,575980860,,,0
+H1,2001,2001,2001,2,0,2,Export,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,580099,,,0
+H1,2001,2001,2001,2,0,1,Import,724,Spain,ESP,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,78283318,,,0
+H1,2001,2001,2001,2,0,2,Export,724,Spain,ESP,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,6394012,,,0
+H1,2001,2001,2001,2,0,1,Import,736,Fmr Sudan,SDN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,4815709,,,0
+H1,2001,2001,2001,2,0,1,Import,752,Sweden,SWE,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,42421994,,,0
+H1,2001,2001,2001,2,0,2,Export,752,Sweden,SWE,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,58254,,,0
+H1,2001,2001,2001,2,0,2,Export,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2592,,,0
+H1,2001,2001,2001,2,0,2,Export,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,957257,,,0
+H1,2001,2001,2001,2,0,2,Export,760,Syria,SYR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,262628,,,0
+H1,2001,2001,2001,2,0,1,Import,764,Thailand,THA,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,24762573,,,0
+H1,2001,2001,2001,2,0,1,Import,764,Thailand,THA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,41521,,,0
+H1,2001,2001,2001,2,0,1,Import,768,Togo,TGO,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,16348,,,0
+H1,2001,2001,2001,2,0,1,Import,780,Trinidad and Tobago,TTO,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,437,,,0
+H1,2001,2001,2001,2,0,2,Export,780,Trinidad and Tobago,TTO,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,315583,,,0
+H1,2001,2001,2001,2,0,2,Export,780,Trinidad and Tobago,TTO,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,162800,,,0
+H1,2001,2001,2001,2,0,2,Export,780,Trinidad and Tobago,TTO,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,197073,,,0
+H1,2001,2001,2001,2,0,1,Import,784,United Arab Emirates,ARE,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1725,,,0
+H1,2001,2001,2001,2,0,1,Import,784,United Arab Emirates,ARE,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,448296,,,0
+H1,2001,2001,2001,2,0,2,Export,784,United Arab Emirates,ARE,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,363649,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,784,United Arab Emirates,ARE,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,183981,,,0
+H1,2001,2001,2001,2,0,1,Import,788,Tunisia,TUN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,13896563,,,0
+H1,2001,2001,2001,2,0,2,Export,788,Tunisia,TUN,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,74359,,,0
+H1,2001,2001,2001,2,0,2,Export,792,Turkey,TUR,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1321,,,0
+H1,2001,2001,2001,2,0,2,Export,792,Turkey,TUR,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3890,,,0
+H1,2001,2001,2001,2,0,1,Import,792,Turkey,TUR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,17774933,,,0
+H1,2001,2001,2001,2,0,2,Export,792,Turkey,TUR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2920254,,,0
+H1,2001,2001,2001,2,0,1,Import,800,Uganda,UGA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,41518,,,0
+H1,2001,2001,2001,2,0,2,Export,804,Ukraine,UKR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5312180,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,113816,,,0
+H1,2001,2001,2001,2,0,1,Import,826,United Kingdom,GBR,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,979,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,824816,,,0
+H1,2001,2001,2001,2,0,1,Import,826,United Kingdom,GBR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,153726130,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3163811,,,0
+H1,2001,2001,2001,2,0,1,Import,834,United Rep. of Tanzania,TZA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,105489,,,0
+H1,2001,2001,2001,2,0,1,Import,842,USA,USA,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,940545572,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,66215993,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,842,USA,USA,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,925758,,,0
+H1,2001,2001,2001,2,0,1,Import,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,435713386,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1318318,,,0
+H1,2001,2001,2001,2,0,1,Import,842,USA,USA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,158871471,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,47525178,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,842,USA,USA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,19008,,,0
+H1,2001,2001,2001,2,0,1,Import,854,Burkina Faso,BFA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,349976,,,0
+H1,2001,2001,2001,2,0,2,Export,854,Burkina Faso,BFA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,88311,,,0
+H1,2001,2001,2001,2,0,1,Import,858,Uruguay,URY,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,10963997,,,0
+H1,2001,2001,2001,2,0,1,Import,858,Uruguay,URY,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,25752796,,,0
+H1,2001,2001,2001,2,0,1,Import,862,Venezuela,VEN,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,799,,,0
+H1,2001,2001,2001,2,0,2,Export,862,Venezuela,VEN,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,23341468,,,0
+H1,2001,2001,2001,2,0,1,Import,891,Serbia and Montenegro,SCG,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,19946,,,0
+H1,2001,2001,2001,2,0,2,Export,891,Serbia and Montenegro,SCG,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,15115,,,0
+H1,2001,2001,2001,2,0,1,Import,12,Algeria,DZA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,887711,,,0
+H1,2001,2001,2001,2,0,2,Export,31,Azerbaijan,AZE,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,85,,,0
+H1,2001,2001,2001,2,0,1,Import,32,Argentina,ARG,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,530573,,,0
+H1,2001,2001,2001,2,0,2,Export,32,Argentina,ARG,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5845559,,,0
+H1,2001,2001,2001,2,0,1,Import,32,Argentina,ARG,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,123,,,0
+H1,2001,2001,2001,2,0,2,Export,32,Argentina,ARG,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1844187,,,0
+H1,2001,2001,2001,2,0,2,Export,36,Australia,AUS,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37221,,,0
+H1,2001,2001,2001,2,0,1,Import,36,Australia,AUS,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,115487,,,0
+H1,2001,2001,2001,2,0,2,Export,36,Australia,AUS,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1268730,,,0
+H1,2001,2001,2001,2,0,1,Import,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,101282,,,0
+H1,2001,2001,2001,2,0,2,Export,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,171349,,,0
+H1,2001,2001,2001,2,0,1,Import,40,Austria,AUT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1832688,,,0
+H1,2001,2001,2001,2,0,2,Export,40,Austria,AUT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2607046,,,0
+H1,2001,2001,2001,2,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,203,,,0
+H1,2001,2001,2001,2,0,1,Import,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1789,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,442455,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,910,,,0
+H1,2001,2001,2001,2,0,1,Import,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6954017,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,38710984,,,0
+H1,2001,2001,2001,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,182248,,,0
+H1,2001,2001,2001,2,0,2,Export,68,Bolivia (Plurinational State of),BOL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,36295,,,0
+H1,2001,2001,2001,2,0,1,Import,76,Brazil,BRA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,400063,,,0
+H1,2001,2001,2001,2,0,2,Export,76,Brazil,BRA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10631194,,,4
+H1,2001,2001,2001,2,0,2,Export,76,Brazil,BRA,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,41,,,0
+H1,2001,2001,2001,2,0,1,Import,76,Brazil,BRA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5875,,,0
+H1,2001,2001,2001,2,0,2,Export,76,Brazil,BRA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,952548,,,4
+H1,2001,2001,2001,2,0,1,Import,84,Belize,BLZ,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,136,,,0
+H1,2001,2001,2001,2,0,2,Export,100,Bulgaria,BGR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32595,,,0
+H1,2001,2001,2001,2,0,1,Import,100,Bulgaria,BGR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25477,,,0
+H1,2001,2001,2001,2,0,2,Export,100,Bulgaria,BGR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,286,,,0
+H1,2001,2001,2001,2,0,2,Export,112,Belarus,BLR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7000,,,0
+H1,2001,2001,2001,2,0,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,187236,,,0
+H1,2001,2001,2001,2,0,2,Export,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,557023,,,0
+H1,2001,2001,2001,2,0,1,Import,120,Cameroon,CMR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,169473,,,0
+H1,2001,2001,2001,2,0,1,Import,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34558,,,0
+H1,2001,2001,2001,2,0,2,Export,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,912876,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26243,,,0
+H1,2001,2001,2001,2,0,1,Import,124,Canada,CAN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,111686,,,0
+H1,2001,2001,2001,2,0,2,Export,124,Canada,CAN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3708277,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,124,Canada,CAN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3045,,,0
+H1,2001,2001,2001,2,0,1,Import,144,Sri Lanka,LKA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16677,,,0
+H1,2001,2001,2001,2,0,2,Export,144,Sri Lanka,LKA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,155713,,,0
+H1,2001,2001,2001,2,0,1,Import,152,Chile,CHL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,991777,,,0
+H1,2001,2001,2001,2,0,2,Export,152,Chile,CHL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19419417,,,0
+H1,2001,2001,2001,2,0,1,Import,156,China,CHN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,224455,,,0
+H1,2001,2001,2001,2,0,2,Export,156,China,CHN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4426623,,,0
+H1,2001,2001,2001,2,0,2,Export,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,57204,,,0
+H1,2001,2001,2001,2,0,1,Import,156,China,CHN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1869926,,,0
+H1,2001,2001,2001,2,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15405695,,,0
+H1,2001,2001,2001,2,0,1,Import,170,Colombia,COL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9565445,,,0
+H1,2001,2001,2001,2,0,2,Export,170,Colombia,COL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,55824638,,,0
+H1,2001,2001,2001,2,0,1,Import,170,Colombia,COL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,273,,,0
+H1,2001,2001,2001,2,0,2,Export,170,Colombia,COL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,200,,,0
+H1,2001,2001,2001,2,0,1,Import,175,Mayotte,MYT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,178,,,0
+H1,2001,2001,2001,2,0,1,Import,188,Costa Rica,CRI,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,145198,,,0
+H1,2001,2001,2001,2,0,2,Export,188,Costa Rica,CRI,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,638645,,,0
+H1,2001,2001,2001,2,0,1,Import,188,Costa Rica,CRI,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,64865,,,0
+H1,2001,2001,2001,2,0,1,Import,191,Croatia,HRV,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,50437,,,0
+H1,2001,2001,2001,2,0,2,Export,191,Croatia,HRV,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,664,,,0
+H1,2001,2001,2001,2,0,1,Import,192,Cuba,CUB,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,582260,,,0
+H1,2001,2001,2001,2,0,1,Import,196,Cyprus,CYP,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,219593,,,0
+H1,2001,2001,2001,2,0,2,Export,196,Cyprus,CYP,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37380,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,196,Cyprus,CYP,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5637,,,0
+H1,2001,2001,2001,2,0,1,Import,203,Czechia,CZE,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6457,,,0
+H1,2001,2001,2001,2,0,2,Export,203,Czechia,CZE,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,622,,,0
+H1,2001,2001,2001,2,0,1,Import,203,Czechia,CZE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,632553,,,0
+H1,2001,2001,2001,2,0,2,Export,203,Czechia,CZE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,261575,,,0
+H1,2001,2001,2001,2,0,1,Import,204,Benin,BEN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,105,,,0
+H1,2001,2001,2001,2,0,2,Export,208,Denmark,DNK,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33141,,,0
+H1,2001,2001,2001,2,0,1,Import,208,Denmark,DNK,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12041,,,0
+H1,2001,2001,2001,2,0,2,Export,208,Denmark,DNK,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,617497,,,0
+H1,2001,2001,2001,2,0,1,Import,214,Dominican Rep.,DOM,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,540000,,,0
+H1,2001,2001,2001,2,0,1,Import,218,Ecuador,ECU,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4152,,,0
+H1,2001,2001,2001,2,0,1,Import,222,El Salvador,SLV,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,149793,,,0
+H1,2001,2001,2001,2,0,2,Export,222,El Salvador,SLV,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6666,,,0
+H1,2001,2001,2001,2,0,1,Import,231,Ethiopia,ETH,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,30334,,,0
+H1,2001,2001,2001,2,0,1,Import,231,Ethiopia,ETH,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,242605,,,0
+H1,2001,2001,2001,2,0,1,Import,233,Estonia,EST,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19158,,,0
+H1,2001,2001,2001,2,0,1,Import,233,Estonia,EST,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17447,,,0
+H1,2001,2001,2001,2,0,1,Import,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2011,,,0
+H1,2001,2001,2001,2,0,2,Export,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3700,,,0
+H1,2001,2001,2001,2,0,2,Export,246,Finland,FIN,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,63336,,,0
+H1,2001,2001,2001,2,0,2,Export,246,Finland,FIN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2223678,,,0
+H1,2001,2001,2001,2,0,1,Import,251,France,FRA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,66279,,,0
+H1,2001,2001,2001,2,0,2,Export,251,France,FRA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1443409,,,0
+H1,2001,2001,2001,2,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,539935,,,0
+H1,2001,2001,2001,2,0,1,Import,251,France,FRA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14446086,,,0
+H1,2001,2001,2001,2,0,2,Export,251,France,FRA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17815173,,,0
+H1,2001,2001,2001,2,0,1,Import,258,French Polynesia,PYF,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2252,,,0
+H1,2001,2001,2001,2,0,2,Export,266,Gabon,GAB,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23726,,,0
+H1,2001,2001,2001,2,0,1,Import,266,Gabon,GAB,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5793,,,0
+H1,2001,2001,2001,2,0,1,Import,276,Germany,DEU,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18000,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9926000,,,0
+H1,2001,2001,2001,2,0,1,Import,276,Germany,DEU,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1000,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3000,,,0
+H1,2001,2001,2001,2,0,1,Import,276,Germany,DEU,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7539000,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,56726000,,,0
+H1,2001,2001,2001,2,0,1,Import,300,Greece,GRC,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,537056,,,0
+H1,2001,2001,2001,2,0,2,Export,300,Greece,GRC,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4702562,,,0
+H1,2001,2001,2001,2,0,1,Import,320,Guatemala,GTM,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,534689,,,0
+H1,2001,2001,2001,2,0,2,Export,320,Guatemala,GTM,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5588,,,0
+H1,2001,2001,2001,2,0,2,Export,320,Guatemala,GTM,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,501,,,0
+H1,2001,2001,2001,2,0,1,Import,324,Guinea,GIN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,46659,,,0
+H1,2001,2001,2001,2,0,1,Import,340,Honduras,HND,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,200473,,,0
+H1,2001,2001,2001,2,0,1,Import,344,"China, Hong Kong SAR",HKG,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18217,,,0
+H1,2001,2001,2001,2,0,2,Export,344,"China, Hong Kong SAR",HKG,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1904511,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1904494,,,0
+H1,2001,2001,2001,2,0,1,Import,344,"China, Hong Kong SAR",HKG,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,787439,,,0
+H1,2001,2001,2001,2,0,2,Export,344,"China, Hong Kong SAR",HKG,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6753261,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6517246,,,0
+H1,2001,2001,2001,2,0,1,Import,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1000,,,0
+H1,2001,2001,2001,2,0,2,Export,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9000,,,0
+H1,2001,2001,2001,2,0,1,Import,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,435000,,,0
+H1,2001,2001,2001,2,0,2,Export,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4226000,,,0
+H1,2001,2001,2001,2,0,2,Export,352,Iceland,ISL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,71239,,,0
+H1,2001,2001,2001,2,0,1,Import,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2373,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,518326,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7263,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6725319,,,0
+H1,2001,2001,2001,2,0,2,Export,364,Iran,IRN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13545,,,0
+H1,2001,2001,2001,2,0,1,Import,364,Iran,IRN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,266730,,,0
+H1,2001,2001,2001,2,0,2,Export,364,Iran,IRN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4259569,,,0
+H1,2001,2001,2001,2,0,1,Import,372,Ireland,IRL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,909,,,0
+H1,2001,2001,2001,2,0,2,Export,372,Ireland,IRL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6338,,,0
+H1,2001,2001,2001,2,0,1,Import,372,Ireland,IRL,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,157251,,,0
+H1,2001,2001,2001,2,0,1,Import,372,Ireland,IRL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,177390,,,0
+H1,2001,2001,2001,2,0,2,Export,372,Ireland,IRL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,693112,,,0
+H1,2001,2001,2001,2,0,1,Import,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1000,,,0
+H1,2001,2001,2001,2,0,2,Export,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2280000,,,0
+H1,2001,2001,2001,2,0,2,Export,376,Israel,ISR,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,134000,,,0
+H1,2001,2001,2001,2,0,1,Import,376,Israel,ISR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,671000,,,0
+H1,2001,2001,2001,2,0,2,Export,376,Israel,ISR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4312000,,,0
+H1,2001,2001,2001,2,0,1,Import,381,Italy,ITA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4921,,,0
+H1,2001,2001,2001,2,0,2,Export,381,Italy,ITA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3493717,,,0
+H1,2001,2001,2001,2,0,2,Export,381,Italy,ITA,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,66593,,,0
+H1,2001,2001,2001,2,0,1,Import,381,Italy,ITA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12988996,,,0
+H1,2001,2001,2001,2,0,2,Export,381,Italy,ITA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,63271017,,,0
+H1,2001,2001,2001,2,0,2,Export,384,Côte d'Ivoire,CIV,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,153727,,,0
+H1,2001,2001,2001,2,0,1,Import,384,Côte d'Ivoire,CIV,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,72425,,,0
+H1,2001,2001,2001,2,0,1,Import,388,Jamaica,JAM,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1333,,,0
+H1,2001,2001,2001,2,0,1,Import,392,Japan,JPN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1754,,,0
+H1,2001,2001,2001,2,0,2,Export,392,Japan,JPN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2996387,,,0
+H1,2001,2001,2001,2,0,2,Export,392,Japan,JPN,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1853,,,0
+H1,2001,2001,2001,2,0,1,Import,392,Japan,JPN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3722,,,0
+H1,2001,2001,2001,2,0,2,Export,392,Japan,JPN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14017716,,,0
+H1,2001,2001,2001,2,0,1,Import,400,Jordan,JOR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2344,,,0
+H1,2001,2001,2001,2,0,1,Import,400,Jordan,JOR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,561049,,,0
+H1,2001,2001,2001,2,0,2,Export,400,Jordan,JOR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2150100,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,400,Jordan,JOR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,354214,,,0
+H1,2001,2001,2001,2,0,1,Import,404,Kenya,KEN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1069498,,,0
+H1,2001,2001,2001,2,0,2,Export,404,Kenya,KEN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3939,,,0
+H1,2001,2001,2001,2,0,1,Import,410,Rep. of Korea,KOR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,44569,,,0
+H1,2001,2001,2001,2,0,2,Export,410,Rep. of Korea,KOR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28624170,,,0
+H1,2001,2001,2001,2,0,1,Import,410,Rep. of Korea,KOR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,311014,,,0
+H1,2001,2001,2001,2,0,2,Export,410,Rep. of Korea,KOR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24408217,,,0
+H1,2001,2001,2001,2,0,1,Import,417,Kyrgyzstan,KGZ,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,220,,,0
+H1,2001,2001,2001,2,0,1,Import,422,Lebanon,LBN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,52495,,,0
+H1,2001,2001,2001,2,0,2,Export,422,Lebanon,LBN,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,83,,,0
+H1,2001,2001,2001,2,0,1,Import,422,Lebanon,LBN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1726359,,,0
+H1,2001,2001,2001,2,0,2,Export,422,Lebanon,LBN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3214436,,,0
+H1,2001,2001,2001,2,0,1,Import,428,Latvia,LVA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26281,,,0
+H1,2001,2001,2001,2,0,1,Import,440,Lithuania,LTU,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30,,,0
+H1,2001,2001,2001,2,0,1,Import,440,Lithuania,LTU,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9515,,,0
+H1,2001,2001,2001,2,0,2,Export,440,Lithuania,LTU,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33,,,0
+H1,2001,2001,2001,2,0,2,Export,442,Luxembourg,LUX,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,112581,,,0
+H1,2001,2001,2001,2,0,1,Import,450,Madagascar,MDG,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21962,,,0
+H1,2001,2001,2001,2,0,1,Import,454,Malawi,MWI,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,742,,,0
+H1,2001,2001,2001,2,0,1,Import,458,Malaysia,MYS,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7219,,,0
+H1,2001,2001,2001,2,0,2,Export,458,Malaysia,MYS,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3982,,,0
+H1,2001,2001,2001,2,0,1,Import,458,Malaysia,MYS,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22443,,,0
+H1,2001,2001,2001,2,0,2,Export,458,Malaysia,MYS,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1678456,,,0
+H1,2001,2001,2001,2,0,1,Import,466,Mali,MLI,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,957,,,0
+H1,2001,2001,2001,2,0,1,Import,466,Mali,MLI,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3079,,,0
+H1,2001,2001,2001,2,0,1,Import,470,Malta,MLT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,67153,,,0
+H1,2001,2001,2001,2,0,2,Export,470,Malta,MLT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14910,,,0
+H1,2001,2001,2001,2,0,1,Import,478,Mauritania,MRT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9965,,,0
+H1,2001,2001,2001,2,0,1,Import,480,Mauritius,MUS,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,180810,,,0
+H1,2001,2001,2001,2,0,1,Import,484,Mexico,MEX,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,346193,,,0
+H1,2001,2001,2001,2,0,2,Export,484,Mexico,MEX,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6247738,,,0
+H1,2001,2001,2001,2,0,1,Import,484,Mexico,MEX,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,278316,,,0
+H1,2001,2001,2001,2,0,2,Export,484,Mexico,MEX,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,353825,,,0
+H1,2001,2001,2001,2,0,1,Import,490,"Other Asia, nes",,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34800,,,0
+H1,2001,2001,2001,2,0,2,Export,490,"Other Asia, nes",,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4614307,,,0
+H1,2001,2001,2001,2,0,1,Import,490,"Other Asia, nes",,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,283551,,,0
+H1,2001,2001,2001,2,0,2,Export,490,"Other Asia, nes",,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19585982,,,0
+H1,2001,2001,2001,2,0,1,Import,508,Mozambique,MOZ,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,89,,,0
+H1,2001,2001,2001,2,0,1,Import,508,Mozambique,MOZ,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16999,,,0
+H1,2001,2001,2001,2,0,1,Import,512,Oman,OMN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,271267,,,0
+H1,2001,2001,2001,2,0,2,Export,512,Oman,OMN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1404785,,,0
+H1,2001,2001,2001,2,0,1,Import,516,Namibia,NAM,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,732,,,0
+H1,2001,2001,2001,2,0,1,Import,528,Netherlands,NLD,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12540,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1734174,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,280370,,,0
+H1,2001,2001,2001,2,0,1,Import,528,Netherlands,NLD,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2596774,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25889002,,,0
+H1,2001,2001,2001,2,0,1,Import,533,Aruba,ABW,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1626,,,0
+H1,2001,2001,2001,2,0,1,Import,540,New Caledonia,NCL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,105,,,0
+H1,2001,2001,2001,2,0,1,Import,540,New Caledonia,NCL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7152,,,0
+H1,2001,2001,2001,2,0,1,Import,554,New Zealand,NZL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,404,,,0
+H1,2001,2001,2001,2,0,2,Export,554,New Zealand,NZL,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43591,,,0
+H1,2001,2001,2001,2,0,1,Import,554,New Zealand,NZL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31679,,,0
+H1,2001,2001,2001,2,0,2,Export,554,New Zealand,NZL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,99356,,,0
+H1,2001,2001,2001,2,0,1,Import,558,Nicaragua,NIC,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,47722,,,0
+H1,2001,2001,2001,2,0,1,Import,562,Niger,NER,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1209,,,0
+H1,2001,2001,2001,2,0,1,Import,566,Nigeria,NGA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1022,,,0
+H1,2001,2001,2001,2,0,1,Import,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24090,,,0
+H1,2001,2001,2001,2,0,2,Export,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20277,,,0
+H1,2001,2001,2001,2,0,1,Import,579,Norway,NOR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39200,,,0
+H1,2001,2001,2001,2,0,2,Export,579,Norway,NOR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,494456,,,0
+H1,2001,2001,2001,2,0,1,Import,591,Panama,PAN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,155347,,,0
+H1,2001,2001,2001,2,0,2,Export,591,Panama,PAN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34131,,,0
+H1,2001,2001,2001,2,0,1,Import,604,Peru,PER,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7239185,,,0
+H1,2001,2001,2001,2,0,2,Export,604,Peru,PER,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9049419,,,0
+H1,2001,2001,2001,2,0,1,Import,608,Philippines,PHL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,178,,,0
+H1,2001,2001,2001,2,0,2,Export,608,Philippines,PHL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,706083,,,0
+H1,2001,2001,2001,2,0,1,Import,616,Poland,POL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3677000,,,0
+H1,2001,2001,2001,2,0,2,Export,616,Poland,POL,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,332000,,,0
+H1,2001,2001,2001,2,0,1,Import,620,Portugal,PRT,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,105,,,0
+H1,2001,2001,2001,2,0,2,Export,620,Portugal,PRT,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,592,,,0
+H1,2001,2001,2001,2,0,1,Import,620,Portugal,PRT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,558981,,,0
+H1,2001,2001,2001,2,0,2,Export,620,Portugal,PRT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,520635,,,0
+H1,2001,2001,2001,2,0,1,Import,634,Qatar,QAT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34698,,,0
+H1,2001,2001,2001,2,0,2,Export,634,Qatar,QAT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10619763,,,0
+H1,2001,2001,2001,2,0,1,Import,642,Romania,ROU,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,265000,,,0
+H1,2001,2001,2001,2,0,2,Export,642,Romania,ROU,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1739000,,,0
+H1,2001,2001,2001,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15083,,,0
+H1,2001,2001,2001,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,45449,,,0
+H1,2001,2001,2001,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1743281,,,0
+H1,2001,2001,2001,2,0,1,Import,646,Rwanda,RWA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,102780,,,0
+H1,2001,2001,2001,2,0,1,Import,682,Saudi Arabia,SAU,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4199739,,,0
+H1,2001,2001,2001,2,0,2,Export,682,Saudi Arabia,SAU,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,101807861,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,682,Saudi Arabia,SAU,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,96267,,,0
+H1,2001,2001,2001,2,0,1,Import,686,Senegal,SEN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,630825,,,0
+H1,2001,2001,2001,2,0,1,Import,699,India,IND,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,60769,,,0
+H1,2001,2001,2001,2,0,2,Export,699,India,IND,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,288195,,,0
+H1,2001,2001,2001,2,0,2,Export,699,India,IND,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,134828,,,0
+H1,2001,2001,2001,2,0,1,Import,699,India,IND,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,52346,,,0
+H1,2001,2001,2001,2,0,2,Export,699,India,IND,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16827220,,,0
+H1,2001,2001,2001,2,0,1,Import,702,Singapore,SGP,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15604,,,0
+H1,2001,2001,2001,2,0,2,Export,702,Singapore,SGP,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,247517,,,0
+H1,2001,2001,2001,2,0,1,Import,702,Singapore,SGP,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,124177,,,0
+H1,2001,2001,2001,2,0,2,Export,702,Singapore,SGP,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1238252,,,0
+H1,2001,2001,2001,2,0,1,Import,703,Slovakia,SVK,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,143890,,,0
+H1,2001,2001,2001,2,0,2,Export,703,Slovakia,SVK,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6422,,,0
+H1,2001,2001,2001,2,0,1,Import,704,Viet Nam,VNM,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11920,,,0
+H1,2001,2001,2001,2,0,2,Export,704,Viet Nam,VNM,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10454,,,0
+H1,2001,2001,2001,2,0,2,Export,705,Slovenia,SVN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,572,,,0
+H1,2001,2001,2001,2,0,1,Import,705,Slovenia,SVN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,206567,,,0
+H1,2001,2001,2001,2,0,2,Export,705,Slovenia,SVN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,84167,,,0
+H1,2001,2001,2001,2,0,1,Import,710,South Africa,ZAF,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,92100,,,0
+H1,2001,2001,2001,2,0,2,Export,710,South Africa,ZAF,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7877,,,0
+H1,2001,2001,2001,2,0,2,Export,710,South Africa,ZAF,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1052,,,0
+H1,2001,2001,2001,2,0,1,Import,710,South Africa,ZAF,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,337580,,,0
+H1,2001,2001,2001,2,0,2,Export,710,South Africa,ZAF,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,509508,,,0
+H1,2001,2001,2001,2,0,1,Import,716,Zimbabwe,ZWE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3474,,,0
+H1,2001,2001,2001,2,0,1,Import,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,113693,,,0
+H1,2001,2001,2001,2,0,2,Export,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5857167,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,395158,,,0
+H1,2001,2001,2001,2,0,2,Export,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1065130,,,0
+H1,2001,2001,2001,2,0,1,Import,724,Spain,ESP,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9692382,,,0
+H1,2001,2001,2001,2,0,2,Export,724,Spain,ESP,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,21990173,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,724,Spain,ESP,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1254536,,,0
+H1,2001,2001,2001,2,0,1,Import,736,Fmr Sudan,SDN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2424652,,,4
+H1,2001,2001,2001,2,0,2,Export,752,Sweden,SWE,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,215569,,,0
+H1,2001,2001,2001,2,0,2,Export,752,Sweden,SWE,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,49821,,,0
+H1,2001,2001,2001,2,0,1,Import,752,Sweden,SWE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20381,,,0
+H1,2001,2001,2001,2,0,2,Export,752,Sweden,SWE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6158551,,,0
+H1,2001,2001,2001,2,0,1,Import,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,250,,,0
+H1,2001,2001,2001,2,0,2,Export,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,635946,,,0
+H1,2001,2001,2001,2,0,1,Import,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,64962,,,0
+H1,2001,2001,2001,2,0,2,Export,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4429179,,,0
+H1,2001,2001,2001,2,0,1,Import,760,Syria,SYR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2108333,,,0
+H1,2001,2001,2001,2,0,2,Export,760,Syria,SYR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2687933,,,0
+H1,2001,2001,2001,2,0,1,Import,764,Thailand,THA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,90056,,,0
+H1,2001,2001,2001,2,0,2,Export,764,Thailand,THA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,848051,,,0
+H1,2001,2001,2001,2,0,1,Import,764,Thailand,THA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7042,,,0
+H1,2001,2001,2001,2,0,2,Export,764,Thailand,THA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9080661,,,0
+H1,2001,2001,2001,2,0,1,Import,780,Trinidad and Tobago,TTO,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,933,,,0
+H1,2001,2001,2001,2,0,2,Export,780,Trinidad and Tobago,TTO,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17493,,,0
+H1,2001,2001,2001,2,0,1,Import,780,Trinidad and Tobago,TTO,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20091,,,0
+H1,2001,2001,2001,2,0,2,Export,780,Trinidad and Tobago,TTO,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32,,,0
+H1,2001,2001,2001,2,0,1,Import,784,United Arab Emirates,ARE,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22920,,,0
+H1,2001,2001,2001,2,0,1,Import,784,United Arab Emirates,ARE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1478642,,,0
+H1,2001,2001,2001,2,0,2,Export,784,United Arab Emirates,ARE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3696397,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,784,United Arab Emirates,ARE,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,370208,,,0
+H1,2001,2001,2001,2,0,1,Import,788,Tunisia,TUN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1316,,,0
+H1,2001,2001,2001,2,0,2,Export,788,Tunisia,TUN,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9064,,,0
+H1,2001,2001,2001,2,0,1,Import,788,Tunisia,TUN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,792187,,,0
+H1,2001,2001,2001,2,0,2,Export,788,Tunisia,TUN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,133885,,,0
+H1,2001,2001,2001,2,0,1,Import,792,Turkey,TUR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31,,,0
+H1,2001,2001,2001,2,0,2,Export,792,Turkey,TUR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1044,,,0
+H1,2001,2001,2001,2,0,1,Import,792,Turkey,TUR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2179509,,,0
+H1,2001,2001,2001,2,0,2,Export,792,Turkey,TUR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16013534,,,0
+H1,2001,2001,2001,2,0,1,Import,800,Uganda,UGA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,38785,,,0
+H1,2001,2001,2001,2,0,1,Import,800,Uganda,UGA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,109475,,,0
+H1,2001,2001,2001,2,0,1,Import,804,Ukraine,UKR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3750,,,0
+H1,2001,2001,2001,2,0,2,Export,804,Ukraine,UKR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,540,,,0
+H1,2001,2001,2001,2,0,1,Import,807,North Macedonia,MKD,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,86,,,0
+H1,2001,2001,2001,2,0,2,Export,807,North Macedonia,MKD,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13,,,0
+H1,2001,2001,2001,2,0,1,Import,826,United Kingdom,GBR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8703,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1078417,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,42178,,,0
+H1,2001,2001,2001,2,0,1,Import,826,United Kingdom,GBR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1759507,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31319059,,,0
+H1,2001,2001,2001,2,0,1,Import,834,United Rep. of Tanzania,TZA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,59,,,0
+H1,2001,2001,2001,2,0,1,Import,834,United Rep. of Tanzania,TZA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32288,,,0
+H1,2001,2001,2001,2,0,1,Import,842,USA,USA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3234751,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,79350358,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,842,USA,USA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,838660,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,262231,,,0
+H1,2001,2001,2001,2,0,1,Import,842,USA,USA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1643742,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,69622117,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,842,USA,USA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,113355,,,0
+H1,2001,2001,2001,2,0,1,Import,854,Burkina Faso,BFA,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,159,,,0
+H1,2001,2001,2001,2,0,1,Import,854,Burkina Faso,BFA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,880,,,0
+H1,2001,2001,2001,2,0,2,Export,858,Uruguay,URY,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,63221,,,0
+H1,2001,2001,2001,2,0,1,Import,862,Venezuela,VEN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4256872,,,0
+H1,2001,2001,2001,2,0,2,Export,862,Venezuela,VEN,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17408421,,,0
+H1,2001,2001,2001,2,0,1,Import,862,Venezuela,VEN,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,861,,,0
+H1,2001,2001,2001,2,0,1,Import,891,Serbia and Montenegro,SCG,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11155,,,0
+H1,2001,2001,2001,2,0,2,Export,891,Serbia and Montenegro,SCG,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,246170,,,0
+H1,2001,2001,2001,2,0,1,Import,12,Algeria,DZA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,145576,,,0
+H1,2001,2001,2001,2,0,1,Import,32,Argentina,ARG,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,508,,,0
+H1,2001,2001,2001,2,0,2,Export,32,Argentina,ARG,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2795085,,,0
+H1,2001,2001,2001,2,0,1,Import,32,Argentina,ARG,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,305649,,,0
+H1,2001,2001,2001,2,0,2,Export,32,Argentina,ARG,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,111784,,,0
+H1,2001,2001,2001,2,0,1,Import,36,Australia,AUS,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22536,,,0
+H1,2001,2001,2001,2,0,1,Import,36,Australia,AUS,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3079,,,0
+H1,2001,2001,2001,2,0,1,Import,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1042,,,0
+H1,2001,2001,2001,2,0,2,Export,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,519290,,,0
+H1,2001,2001,2001,2,0,1,Import,40,Austria,AUT,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4363,,,0
+H1,2001,2001,2001,2,0,2,Export,40,Austria,AUT,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,489966,,,0
+H1,2001,2001,2001,2,0,1,Import,52,Barbados,BRB,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2162,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,93176,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1776,,,0
+H1,2001,2001,2001,2,0,1,Import,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,693583,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2578425,,,0
+H1,2001,2001,2001,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,268569,,,0
+H1,2001,2001,2001,2,0,2,Export,68,Bolivia (Plurinational State of),BOL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,35000,,,0
+H1,2001,2001,2001,2,0,2,Export,76,Brazil,BRA,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4001465,,,4
+H1,2001,2001,2001,2,0,1,Import,76,Brazil,BRA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6836,,,0
+H1,2001,2001,2001,2,0,2,Export,76,Brazil,BRA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2780469,,,4
+H1,2001,2001,2001,2,0,1,Import,84,Belize,BLZ,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,104,,,0
+H1,2001,2001,2001,2,0,1,Import,100,Bulgaria,BGR,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4,,,0
+H1,2001,2001,2001,2,0,2,Export,100,Bulgaria,BGR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,146085,,,0
+H1,2001,2001,2001,2,0,1,Import,112,Belarus,BLR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,200,,,0
+H1,2001,2001,2001,2,0,2,Export,112,Belarus,BLR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19700,,,0
+H1,2001,2001,2001,2,0,2,Export,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6840,,,0
+H1,2001,2001,2001,2,0,1,Import,120,Cameroon,CMR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2120056,,,0
+H1,2001,2001,2001,2,0,1,Import,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8975,,,0
+H1,2001,2001,2001,2,0,2,Export,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,458505,,,0
+H1,2001,2001,2001,2,0,1,Import,124,Canada,CAN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3639,,,0
+H1,2001,2001,2001,2,0,2,Export,124,Canada,CAN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,107892,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,124,Canada,CAN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,184,,,0
+H1,2001,2001,2001,2,0,2,Export,144,Sri Lanka,LKA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,251894,,,0
+H1,2001,2001,2001,2,0,1,Import,152,Chile,CHL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1284686,,,0
+H1,2001,2001,2001,2,0,2,Export,152,Chile,CHL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2652734,,,0
+H1,2001,2001,2001,2,0,1,Import,152,Chile,CHL,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,101386,,,0
+H1,2001,2001,2001,2,0,2,Export,156,China,CHN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6027593,,,0
+H1,2001,2001,2001,2,0,2,Export,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,63473,,,0
+H1,2001,2001,2001,2,0,1,Import,156,China,CHN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15,,,0
+H1,2001,2001,2001,2,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22236544,,,0
+H1,2001,2001,2001,2,0,1,Import,170,Colombia,COL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14832299,,,0
+H1,2001,2001,2001,2,0,2,Export,170,Colombia,COL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14687498,,,0
+H1,2001,2001,2001,2,0,1,Import,188,Costa Rica,CRI,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,318,,,0
+H1,2001,2001,2001,2,0,2,Export,188,Costa Rica,CRI,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,64179,,,0
+H1,2001,2001,2001,2,0,2,Export,191,Croatia,HRV,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,75,,,0
+H1,2001,2001,2001,2,0,1,Import,192,Cuba,CUB,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,33388,,,0
+H1,2001,2001,2001,2,0,1,Import,196,Cyprus,CYP,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,34346,,,0
+H1,2001,2001,2001,2,0,2,Export,196,Cyprus,CYP,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2922,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,196,Cyprus,CYP,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2716,,,0
+H1,2001,2001,2001,2,0,2,Export,203,Czechia,CZE,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,109802,,,0
+H1,2001,2001,2001,2,0,1,Import,203,Czechia,CZE,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1448,,,0
+H1,2001,2001,2001,2,0,2,Export,203,Czechia,CZE,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,930917,,,0
+H1,2001,2001,2001,2,0,2,Export,208,Denmark,DNK,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2451,,,0
+H1,2001,2001,2001,2,0,2,Export,208,Denmark,DNK,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,90541,,,0
+H1,2001,2001,2001,2,0,1,Import,222,El Salvador,SLV,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,165748,,,0
+H1,2001,2001,2001,2,0,2,Export,222,El Salvador,SLV,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1500,,,0
+H1,2001,2001,2001,2,0,1,Import,231,Ethiopia,ETH,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6360,,,0
+H1,2001,2001,2001,2,0,1,Import,231,Ethiopia,ETH,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3773598,,,0
+H1,2001,2001,2001,2,0,1,Import,233,Estonia,EST,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,317,,,0
+H1,2001,2001,2001,2,0,1,Import,233,Estonia,EST,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,379,,,0
+H1,2001,2001,2001,2,0,1,Import,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,110,,,0
+H1,2001,2001,2001,2,0,2,Export,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,644,,,0
+H1,2001,2001,2001,2,0,2,Export,246,Finland,FIN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,264592,,,0
+H1,2001,2001,2001,2,0,1,Import,251,France,FRA,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6270,,,0
+H1,2001,2001,2001,2,0,2,Export,251,France,FRA,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1380730,,,0
+H1,2001,2001,2001,2,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,78797,,,0
+H1,2001,2001,2001,2,0,1,Import,251,France,FRA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,84192,,,0
+H1,2001,2001,2001,2,0,2,Export,251,France,FRA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7883232,,,0
+H1,2001,2001,2001,2,0,2,Export,266,Gabon,GAB,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,58819,,,0
+H1,2001,2001,2001,2,0,1,Import,266,Gabon,GAB,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,54615,,,0
+H1,2001,2001,2001,2,0,1,Import,268,Georgia,GEO,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1584,,,0
+H1,2001,2001,2001,2,0,1,Import,276,Germany,DEU,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,535000,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1434000,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7000,,,0
+H1,2001,2001,2001,2,0,1,Import,276,Germany,DEU,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,37000,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12767000,,,0
+H1,2001,2001,2001,2,0,1,Import,300,Greece,GRC,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,420639,,,0
+H1,2001,2001,2001,2,0,2,Export,300,Greece,GRC,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,49744,,,0
+H1,2001,2001,2001,2,0,2,Export,320,Guatemala,GTM,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18591,,,0
+H1,2001,2001,2001,2,0,1,Import,320,Guatemala,GTM,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23984,,,0
+H1,2001,2001,2001,2,0,1,Import,324,Guinea,GIN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15722,,,0
+H1,2001,2001,2001,2,0,1,Import,344,"China, Hong Kong SAR",HKG,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,342616,,,0
+H1,2001,2001,2001,2,0,2,Export,344,"China, Hong Kong SAR",HKG,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,87507,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,87507,,,0
+H1,2001,2001,2001,2,0,1,Import,344,"China, Hong Kong SAR",HKG,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,103876,,,0
+H1,2001,2001,2001,2,0,2,Export,344,"China, Hong Kong SAR",HKG,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,273112,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,267611,,,0
+H1,2001,2001,2001,2,0,2,Export,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7000,,,0
+H1,2001,2001,2001,2,0,1,Import,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3000,,,0
+H1,2001,2001,2001,2,0,2,Export,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,148000,,,0
+H1,2001,2001,2001,2,0,1,Import,352,Iceland,ISL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3063795,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4396,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5787019,,,0
+H1,2001,2001,2001,2,0,2,Export,364,Iran,IRN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,84774,,,0
+H1,2001,2001,2001,2,0,2,Export,372,Ireland,IRL,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,367652,,,0
+H1,2001,2001,2001,2,0,2,Export,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,241000,,,0
+H1,2001,2001,2001,2,0,2,Export,376,Israel,ISR,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10000,,,0
+H1,2001,2001,2001,2,0,1,Import,376,Israel,ISR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1000,,,0
+H1,2001,2001,2001,2,0,2,Export,381,Italy,ITA,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1062152,,,0
+H1,2001,2001,2001,2,0,2,Export,381,Italy,ITA,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10318,,,0
+H1,2001,2001,2001,2,0,1,Import,381,Italy,ITA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4640132,,,0
+H1,2001,2001,2001,2,0,2,Export,381,Italy,ITA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12260908,,,0
+H1,2001,2001,2001,2,0,1,Import,384,Côte d'Ivoire,CIV,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,539562,,,0
+H1,2001,2001,2001,2,0,1,Import,392,Japan,JPN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2075,,,0
+H1,2001,2001,2001,2,0,2,Export,392,Japan,JPN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4695029,,,0
+H1,2001,2001,2001,2,0,2,Export,392,Japan,JPN,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,284075,,,0
+H1,2001,2001,2001,2,0,1,Import,392,Japan,JPN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,55784,,,0
+H1,2001,2001,2001,2,0,2,Export,392,Japan,JPN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16498468,,,0
+H1,2001,2001,2001,2,0,1,Import,398,Kazakhstan,KAZ,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2200,,,0
+H1,2001,2001,2001,2,0,1,Import,400,Jordan,JOR,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1732,,,0
+H1,2001,2001,2001,2,0,1,Import,400,Jordan,JOR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,507446,,,0
+H1,2001,2001,2001,2,0,2,Export,400,Jordan,JOR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3963,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,400,Jordan,JOR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3822,,,0
+H1,2001,2001,2001,2,0,1,Import,404,Kenya,KEN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2512919,,,0
+H1,2001,2001,2001,2,0,2,Export,404,Kenya,KEN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,204889,,,0
+H1,2001,2001,2001,2,0,2,Export,410,Rep. of Korea,KOR,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5000158,,,0
+H1,2001,2001,2001,2,0,1,Import,410,Rep. of Korea,KOR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,177206,,,0
+H1,2001,2001,2001,2,0,2,Export,410,Rep. of Korea,KOR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23188163,,,0
+H1,2001,2001,2001,2,0,2,Export,422,Lebanon,LBN,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,265,,,0
+H1,2001,2001,2001,2,0,1,Import,422,Lebanon,LBN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,263177,,,0
+H1,2001,2001,2001,2,0,2,Export,422,Lebanon,LBN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47307,,,0
+H1,2001,2001,2001,2,0,1,Import,440,Lithuania,LTU,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14,,,0
+H1,2001,2001,2001,2,0,2,Export,440,Lithuania,LTU,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,320,,,0
+H1,2001,2001,2001,2,0,2,Export,442,Luxembourg,LUX,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,165522,,,0
+H1,2001,2001,2001,2,0,1,Import,450,Madagascar,MDG,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,89868,,,0
+H1,2001,2001,2001,2,0,1,Import,458,Malaysia,MYS,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2147,,,0
+H1,2001,2001,2001,2,0,2,Export,458,Malaysia,MYS,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1225346,,,0
+H1,2001,2001,2001,2,0,1,Import,458,Malaysia,MYS,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,339,,,0
+H1,2001,2001,2001,2,0,2,Export,458,Malaysia,MYS,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9397258,,,0
+H1,2001,2001,2001,2,0,1,Import,466,Mali,MLI,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,148204,,,0
+H1,2001,2001,2001,2,0,2,Export,470,Malta,MLT,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,102,,,0
+H1,2001,2001,2001,2,0,1,Import,480,Mauritius,MUS,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,148,,,0
+H1,2001,2001,2001,2,0,1,Import,480,Mauritius,MUS,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,174642,,,0
+H1,2001,2001,2001,2,0,1,Import,484,Mexico,MEX,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,422949,,,0
+H1,2001,2001,2001,2,0,2,Export,484,Mexico,MEX,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2092977,,,0
+H1,2001,2001,2001,2,0,1,Import,484,Mexico,MEX,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3279,,,0
+H1,2001,2001,2001,2,0,2,Export,484,Mexico,MEX,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5974,,,0
+H1,2001,2001,2001,2,0,2,Export,490,"Other Asia, nes",,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1597477,,,0
+H1,2001,2001,2001,2,0,2,Export,490,"Other Asia, nes",,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5019786,,,0
+H1,2001,2001,2001,2,0,1,Import,508,Mozambique,MOZ,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25,,,0
+H1,2001,2001,2001,2,0,1,Import,512,Oman,OMN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,191514,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,413837,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,501621,,,0
+H1,2001,2001,2001,2,0,1,Import,528,Netherlands,NLD,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,335906,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3401167,,,0
+H1,2001,2001,2001,2,0,1,Import,533,Aruba,ABW,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,67,,,0
+H1,2001,2001,2001,2,0,1,Import,540,New Caledonia,NCL,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20714,,,0
+H1,2001,2001,2001,2,0,1,Import,554,New Zealand,NZL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3639,,,0
+H1,2001,2001,2001,2,0,2,Export,554,New Zealand,NZL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,71,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,554,New Zealand,NZL,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,71,,,0
+H1,2001,2001,2001,2,0,1,Import,554,New Zealand,NZL,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1155,,,0
+H1,2001,2001,2001,2,0,2,Export,554,New Zealand,NZL,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,148651,,,0
+H1,2001,2001,2001,2,0,1,Import,558,Nicaragua,NIC,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,117,,,0
+H1,2001,2001,2001,2,0,1,Import,562,Niger,NER,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,477,,,0
+H1,2001,2001,2001,2,0,1,Import,566,Nigeria,NGA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,167630,,,0
+H1,2001,2001,2001,2,0,1,Import,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,201,,,0
+H1,2001,2001,2001,2,0,2,Export,579,Norway,NOR,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,825,,,0
+H1,2001,2001,2001,2,0,2,Export,579,Norway,NOR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,46404,,,0
+H1,2001,2001,2001,2,0,1,Import,604,Peru,PER,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3809691,,,0
+H1,2001,2001,2001,2,0,2,Export,604,Peru,PER,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3508232,,,0
+H1,2001,2001,2001,2,0,2,Export,616,Poland,POL,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,330000,,,0
+H1,2001,2001,2001,2,0,2,Export,620,Portugal,PRT,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4360,,,0
+H1,2001,2001,2001,2,0,1,Import,620,Portugal,PRT,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1822,,,0
+H1,2001,2001,2001,2,0,2,Export,620,Portugal,PRT,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,89307,,,0
+H1,2001,2001,2001,2,0,1,Import,634,Qatar,QAT,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,136982,,,0
+H1,2001,2001,2001,2,0,1,Import,642,Romania,ROU,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7000,,,0
+H1,2001,2001,2001,2,0,2,Export,642,Romania,ROU,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,626000,,,0
+H1,2001,2001,2001,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,175412,,,0
+H1,2001,2001,2001,2,0,2,Export,643,Russian Federation,RUS,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,578,,,0
+H1,2001,2001,2001,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10,,,0
+H1,2001,2001,2001,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2206693,,,0
+H1,2001,2001,2001,2,0,1,Import,659,Saint Kitts and Nevis,KNA,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,442,,,0
+H1,2001,2001,2001,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,77,,,0
+H1,2001,2001,2001,2,0,1,Import,682,Saudi Arabia,SAU,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2283736,,,0
+H1,2001,2001,2001,2,0,2,Export,682,Saudi Arabia,SAU,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,40000,,,0
+H1,2001,2001,2001,2,0,1,Import,686,Senegal,SEN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,163904,,,0
+H1,2001,2001,2001,2,0,1,Import,699,India,IND,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,163538,,,0
+H1,2001,2001,2001,2,0,2,Export,699,India,IND,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,563096,,,0
+H1,2001,2001,2001,2,0,1,Import,699,India,IND,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5136,,,0
+H1,2001,2001,2001,2,0,2,Export,699,India,IND,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9277534,,,0
+H1,2001,2001,2001,2,0,2,Export,702,Singapore,SGP,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,73236,,,0
+H1,2001,2001,2001,2,0,2,Export,702,Singapore,SGP,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,48248,,,0
+H1,2001,2001,2001,2,0,1,Import,702,Singapore,SGP,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,103065,,,0
+H1,2001,2001,2001,2,0,2,Export,702,Singapore,SGP,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,730172,,,0
+H1,2001,2001,2001,2,0,1,Import,703,Slovakia,SVK,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,102,,,0
+H1,2001,2001,2001,2,0,2,Export,703,Slovakia,SVK,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,62592,,,0
+H1,2001,2001,2001,2,0,2,Export,704,Viet Nam,VNM,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,434367,,,0
+H1,2001,2001,2001,2,0,2,Export,704,Viet Nam,VNM,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7589,,,0
+H1,2001,2001,2001,2,0,2,Export,705,Slovenia,SVN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,123,,,0
+H1,2001,2001,2001,2,0,2,Export,705,Slovenia,SVN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,185304,,,0
+H1,2001,2001,2001,2,0,1,Import,710,South Africa,ZAF,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,45402,,,0
+H1,2001,2001,2001,2,0,2,Export,710,South Africa,ZAF,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,705,,,0
+H1,2001,2001,2001,2,0,2,Export,710,South Africa,ZAF,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,40563,,,0
+H1,2001,2001,2001,2,0,1,Import,710,South Africa,ZAF,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,67667,,,0
+H1,2001,2001,2001,2,0,2,Export,710,South Africa,ZAF,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,91158,,,0
+H1,2001,2001,2001,2,0,1,Import,716,Zimbabwe,ZWE,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3101,,,0
+H1,2001,2001,2001,2,0,2,Export,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,345433,,,0
+H1,2001,2001,2001,2,0,1,Import,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,66546,,,0
+H1,2001,2001,2001,2,0,2,Export,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,366417,,,0
+H1,2001,2001,2001,2,0,1,Import,724,Spain,ESP,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,670886,,,0
+H1,2001,2001,2001,2,0,2,Export,724,Spain,ESP,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2124384,,,0
+H1,2001,2001,2001,2,0,1,Import,736,Fmr Sudan,SDN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,555203,,,0
+H1,2001,2001,2001,2,0,2,Export,736,Fmr Sudan,SDN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,24739,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,736,Fmr Sudan,SDN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,24739,,,0
+H1,2001,2001,2001,2,0,2,Export,752,Sweden,SWE,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2326,,,0
+H1,2001,2001,2001,2,0,1,Import,752,Sweden,SWE,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4561,,,0
+H1,2001,2001,2001,2,0,2,Export,752,Sweden,SWE,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,416405,,,0
+H1,2001,2001,2001,2,0,2,Export,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25848,,,0
+H1,2001,2001,2001,2,0,2,Export,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,168273,,,0
+H1,2001,2001,2001,2,0,1,Import,760,Syria,SYR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,617997,,,0
+H1,2001,2001,2001,2,0,1,Import,764,Thailand,THA,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1420,,,0
+H1,2001,2001,2001,2,0,2,Export,764,Thailand,THA,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1324821,,,0
+H1,2001,2001,2001,2,0,2,Export,764,Thailand,THA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11959730,,,0
+H1,2001,2001,2001,2,0,1,Import,780,Trinidad and Tobago,TTO,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1257,,,0
+H1,2001,2001,2001,2,0,1,Import,780,Trinidad and Tobago,TTO,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1148,,,0
+H1,2001,2001,2001,2,0,1,Import,784,United Arab Emirates,ARE,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1215209,,,0
+H1,2001,2001,2001,2,0,2,Export,784,United Arab Emirates,ARE,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5048507,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,784,United Arab Emirates,ARE,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5048507,,,0
+H1,2001,2001,2001,2,0,2,Export,788,Tunisia,TUN,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10965,,,0
+H1,2001,2001,2001,2,0,1,Import,788,Tunisia,TUN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,175182,,,0
+H1,2001,2001,2001,2,0,2,Export,788,Tunisia,TUN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,598226,,,0
+H1,2001,2001,2001,2,0,2,Export,792,Turkey,TUR,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1323,,,0
+H1,2001,2001,2001,2,0,2,Export,792,Turkey,TUR,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,87355,,,0
+H1,2001,2001,2001,2,0,1,Import,792,Turkey,TUR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,218636,,,0
+H1,2001,2001,2001,2,0,2,Export,792,Turkey,TUR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7278385,,,0
+H1,2001,2001,2001,2,0,1,Import,800,Uganda,UGA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,529879,,,0
+H1,2001,2001,2001,2,0,2,Export,804,Ukraine,UKR,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20,,,0
+H1,2001,2001,2001,2,0,1,Import,804,Ukraine,UKR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,60,,,0
+H1,2001,2001,2001,2,0,2,Export,804,Ukraine,UKR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,104450,,,0
+H1,2001,2001,2001,2,0,1,Import,807,North Macedonia,MKD,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,148,,,0
+H1,2001,2001,2001,2,0,2,Export,807,North Macedonia,MKD,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43840,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11031,,,0
+H1,2001,2001,2001,2,0,1,Import,826,United Kingdom,GBR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,222492,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7936418,,,0
+H1,2001,2001,2001,2,0,1,Import,834,United Rep. of Tanzania,TZA,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1535,,,0
+H1,2001,2001,2001,2,0,1,Import,834,United Rep. of Tanzania,TZA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2798,,,0
+H1,2001,2001,2001,2,0,1,Import,842,USA,USA,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,156727,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19242894,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,842,USA,USA,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,893319,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,51666,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2592,,,0
+H1,2001,2001,2001,2,0,1,Import,842,USA,USA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10242,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6768513,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,842,USA,USA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,311597,,,0
+H1,2001,2001,2001,2,0,1,Import,854,Burkina Faso,BFA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,42003,,,0
+H1,2001,2001,2001,2,0,1,Import,862,Venezuela,VEN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1977896,,,0
+H1,2001,2001,2001,2,0,2,Export,862,Venezuela,VEN,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3665648,,,0
+H1,2001,2001,2001,2,0,1,Import,862,Venezuela,VEN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,158350,,,0
+H1,2001,2001,2001,2,0,2,Export,862,Venezuela,VEN,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,177853,,,0
+H1,2001,2001,2001,2,0,1,Import,891,Serbia and Montenegro,SCG,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14623,,,0
+H1,2001,2001,2001,2,0,2,Export,891,Serbia and Montenegro,SCG,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,273100,,,0
+H0,2001,2001,2001,2,0,1,Import,48,Bahrain,BHR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4465,,,0
+H0,2001,2001,2001,2,0,1,Import,288,Ghana,GHA,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,8486440,,,0
+H0,2001,2001,2001,2,0,1,Import,414,Kuwait,KWT,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,486,,,0
+H0,2001,2001,2001,2,0,2,Export,414,Kuwait,KWT,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2618,,,0
+H0,2001,2001,2001,2,0,1,Import,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2001992,,,0
+H0,2001,2001,2001,2,0,2,Export,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,11630,,,0
+H0,2001,2001,2001,2,0,1,Import,598,Papua New Guinea,PNG,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,13043,,,0
+H0,2001,2001,2001,2,0,1,Import,894,Zambia,ZMB,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,9617,,,0
+H0,2001,2001,2001,2,0,1,Import,48,Bahrain,BHR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,41667,,,0
+H0,2001,2001,2001,2,0,1,Import,288,Ghana,GHA,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,212701,,,0
+H0,2001,2001,2001,2,0,1,Import,414,Kuwait,KWT,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25080,,,0
+H0,2001,2001,2001,2,0,2,Export,414,Kuwait,KWT,226,Equatorial Guinea,GNQ,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,211171,,,0
+H0,2001,2001,2001,2,0,1,Import,414,Kuwait,KWT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,535374,,,0
+H0,2001,2001,2001,2,0,2,Export,414,Kuwait,KWT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28648665,,,0
+H0,2001,2001,2001,2,0,3,Re-Export,414,Kuwait,KWT,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20224,,,0
+H0,2001,2001,2001,2,0,1,Import,504,Morocco,MAR,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,614,,,0
+H0,2001,2001,2001,2,0,1,Import,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1713217,,,0
+H0,2001,2001,2001,2,0,2,Export,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1268082,,,0
+H0,2001,2001,2001,2,0,1,Import,660,Anguilla,AIA,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20,,,0
+H0,2001,2001,2001,2,0,1,Import,894,Zambia,ZMB,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,55235,,,0
+H0,2001,2001,2001,2,0,1,Import,48,Bahrain,BHR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,134659,,,0
+H0,2001,2001,2001,2,0,1,Import,270,Gambia,GMB,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1266,,,4
+H0,2001,2001,2001,2,0,1,Import,288,Ghana,GHA,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,74726,,,0
+H0,2001,2001,2001,2,0,1,Import,414,Kuwait,KWT,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,805,,,0
+H0,2001,2001,2001,2,0,1,Import,414,Kuwait,KWT,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,211309,,,0
+H0,2001,2001,2001,2,0,2,Export,414,Kuwait,KWT,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4389,,,0
+H0,2001,2001,2001,2,0,3,Re-Export,414,Kuwait,KWT,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4389,,,0
+H0,2001,2001,2001,2,0,1,Import,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,429789,,,0
+H0,2001,2001,2001,2,0,2,Export,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,212115,,,0
+H0,2001,2001,2001,2,0,1,Import,598,Papua New Guinea,PNG,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,954,,,0
+H0,2001,2001,2001,2,0,1,Import,894,Zambia,ZMB,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,121211,,,0

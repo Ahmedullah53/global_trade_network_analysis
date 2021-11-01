@@ -1,0 +1,673 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,2,0,2,Export,8,Albania,ALB,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4251,,,0
+H3,2011,2011,2011,2,0,2,Export,12,Algeria,DZA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,32159401,,,0
+H3,2011,2011,2011,2,0,1,Import,24,Angola,AGO,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,103,,,0
+H1,2011,2011,2011,2,0,1,Import,28,Antigua and Barbuda,ATG,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,63268,,,0
+H1,2011,2011,2011,2,0,1,Import,28,Antigua and Barbuda,ATG,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6020,,,0
+H3,2011,2011,2011,2,0,2,Export,31,Azerbaijan,AZE,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,204,,,0
+H3,2011,2011,2011,2,0,1,Import,32,Argentina,ARG,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,101286582,,,0
+H3,2011,2011,2011,2,0,2,Export,32,Argentina,ARG,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,13235471,,,0
+H3,2011,2011,2011,2,0,1,Import,32,Argentina,ARG,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39787336,,,0
+H3,2011,2011,2011,2,0,2,Export,32,Argentina,ARG,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13631381,,,0
+H3,2011,2011,2011,2,0,1,Import,32,Argentina,ARG,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5077971,,,0
+H3,2011,2011,2011,2,0,2,Export,32,Argentina,ARG,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7921490,,,0
+H3,2011,2011,2011,2,0,1,Import,36,Australia,AUS,162,Christmas Isds,CXR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1032,,,0
+H3,2011,2011,2011,2,0,2,Export,36,Australia,AUS,162,Christmas Isds,CXR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6528979,,,0
+H3,2011,2011,2011,2,0,1,Import,36,Australia,AUS,166,Cocos Isds,CCK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1032,,,0
+H3,2011,2011,2011,2,0,2,Export,36,Australia,AUS,166,Cocos Isds,CCK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,226358,,,0
+H3,2011,2011,2011,2,0,2,Export,36,Australia,AUS,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,941696,,,0
+H3,2011,2011,2011,2,0,2,Export,36,Australia,AUS,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,986943,,,0
+H3,2011,2011,2011,2,0,1,Import,36,Australia,AUS,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32678,,,0
+H3,2011,2011,2011,2,0,2,Export,36,Australia,AUS,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,399025,,,0
+H3,2011,2011,2011,2,0,2,Export,36,Australia,AUS,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,40975,,,0
+H3,2011,2011,2011,2,0,2,Export,36,Australia,AUS,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,79237,,,0
+H3,2011,2011,2011,2,0,1,Import,36,Australia,AUS,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,661073,,,0
+H3,2011,2011,2011,2,0,2,Export,36,Australia,AUS,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,292625,,,0
+H3,2011,2011,2011,2,0,2,Export,36,Australia,AUS,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,80748,,,0
+H3,2011,2011,2011,2,0,2,Export,36,Australia,AUS,162,Christmas Isds,CXR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,208447,,,0
+H3,2011,2011,2011,2,0,2,Export,36,Australia,AUS,166,Cocos Isds,CCK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,231510,,,0
+H3,2011,2011,2011,2,0,1,Import,40,Austria,AUT,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,7246098,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1331,,,0
+H3,2011,2011,2011,2,0,1,Import,40,Austria,AUT,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,341,,,0
+H3,2011,2011,2011,2,0,1,Import,40,Austria,AUT,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,363142,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2985163,,,0
+H3,2011,2011,2011,2,0,1,Import,40,Austria,AUT,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6456,,,0
+H3,2011,2011,2011,2,0,1,Import,40,Austria,AUT,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,26,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,279245,,,0
+H3,2011,2011,2011,2,0,1,Import,44,Bahamas,BHS,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,46352,,,0
+H3,2011,2011,2011,2,0,2,Export,44,Bahamas,BHS,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1043,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,44,Bahamas,BHS,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1043,,,0
+H3,2011,2011,2011,2,0,1,Import,44,Bahamas,BHS,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2440,,,0
+H3,2011,2011,2011,2,0,1,Import,48,Bahrain,BHR,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,89,,,0
+H3,2011,2011,2011,2,0,1,Import,50,Bangladesh,BGD,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,208981,,,0
+H3,2011,2011,2011,2,0,1,Import,51,Armenia,ARM,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5315,,,0
+H2,2011,2011,2011,2,0,1,Import,52,Barbados,BRB,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,216,,,0
+H2,2011,2011,2011,2,0,1,Import,52,Barbados,BRB,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1237233,,,0
+H2,2011,2011,2011,2,0,1,Import,52,Barbados,BRB,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,79157,,,0
+H3,2011,2011,2011,2,0,1,Import,56,Belgium,BEL,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,60114015,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,934595,,,0
+H3,2011,2011,2011,2,0,1,Import,56,Belgium,BEL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,439369,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,17761964,,,4
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,370,,,0
+H3,2011,2011,2011,2,0,1,Import,56,Belgium,BEL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,705135,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1506668,,,4
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,10422,,,0
+H3,2011,2011,2011,2,0,1,Import,60,Bermuda,BMU,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,396,,,0
+H3,2011,2011,2011,2,0,1,Import,60,Bermuda,BMU,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28,,,0
+H3,2011,2011,2011,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4138542,,,0
+H3,2011,2011,2011,2,0,2,Export,68,Bolivia (Plurinational State of),BOL,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,392089,,,0
+H3,2011,2011,2011,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,305,,,0
+H3,2011,2011,2011,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,31891124,,,0
+H3,2011,2011,2011,2,0,2,Export,68,Bolivia (Plurinational State of),BOL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1054,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,490,,,0
+H3,2011,2011,2011,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,166,Cocos Isds,CCK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3752,,,0
+H3,2011,2011,2011,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1530032,,,0
+H3,2011,2011,2011,2,0,2,Export,68,Bolivia (Plurinational State of),BOL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,480,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,480,,,0
+H3,2011,2011,2011,2,0,1,Import,70,Bosnia Herzegovina,BIH,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,14002549,,,0
+H3,2011,2011,2011,2,0,1,Import,70,Bosnia Herzegovina,BIH,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1597,,,0
+H3,2011,2011,2011,2,0,1,Import,76,Brazil,BRA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,634723271,,,0
+H3,2011,2011,2011,2,0,2,Export,76,Brazil,BRA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5885694,,,0
+H3,2011,2011,2011,2,0,1,Import,76,Brazil,BRA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,358097178,,,4
+H3,2011,2011,2011,2,0,2,Export,76,Brazil,BRA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,122483461,,,4
+H3,2011,2011,2011,2,0,1,Import,76,Brazil,BRA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,92216494,,,4
+H3,2011,2011,2011,2,0,2,Export,76,Brazil,BRA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,107909314,,,4
+H3,2011,2011,2011,2,0,1,Import,84,Belize,BLZ,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,91179,,,0
+H3,2011,2011,2011,2,0,1,Import,84,Belize,BLZ,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6018,,,0
+H3,2011,2011,2011,2,0,2,Export,100,Bulgaria,BGR,166,Cocos Isds,CCK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,23713,,,0
+H3,2011,2011,2011,2,0,2,Export,100,Bulgaria,BGR,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2881544,,,0
+H3,2011,2011,2011,2,0,2,Export,100,Bulgaria,BGR,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,39218,,,0
+H3,2011,2011,2011,2,0,2,Export,100,Bulgaria,BGR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15364,,,0
+H3,2011,2011,2011,2,0,1,Import,104,Myanmar,MMR,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2933,,,0
+H3,2011,2011,2011,2,0,1,Import,112,Belarus,BLR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,121200,,,0
+H3,2011,2011,2011,2,0,2,Export,112,Belarus,BLR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1180900,,,0
+H3,2011,2011,2011,2,0,1,Import,112,Belarus,BLR,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,100,,,0
+H3,2011,2011,2011,2,0,2,Export,116,Cambodia,KHM,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20217,,,0
+H2,2011,2011,2011,2,0,1,Import,120,Cameroon,CMR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3191,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,336376544,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,27265865,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,100019,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,120587,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,260,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3316,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3316,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,823,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,75512,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,336862,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3011078,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,597592,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3930,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11007345,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8638961,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,354697,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,588,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,823,,,0
+H3,2011,2011,2011,2,0,1,Import,144,Sri Lanka,LKA,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2091,,,0
+H3,2011,2011,2011,2,0,2,Export,144,Sri Lanka,LKA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,135,,,0
+H3,2011,2011,2011,2,0,2,Export,144,Sri Lanka,LKA,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1,,,0
+H3,2011,2011,2011,2,0,1,Import,144,Sri Lanka,LKA,166,Cocos Isds,CCK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3687,,,0
+H3,2011,2011,2011,2,0,2,Export,144,Sri Lanka,LKA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,987775,,,0
+H3,2011,2011,2011,2,0,1,Import,152,Chile,CHL,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1648359924,,,0
+H3,2011,2011,2011,2,0,2,Export,152,Chile,CHL,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,182437,,,0
+H3,2011,2011,2011,2,0,1,Import,152,Chile,CHL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,67630515,,,0
+H3,2011,2011,2011,2,0,2,Export,152,Chile,CHL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,61795920,,,0
+H3,2011,2011,2011,2,0,1,Import,152,Chile,CHL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7999176,,,0
+H3,2011,2011,2011,2,0,2,Export,152,Chile,CHL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6267313,,,0
+H3,2011,2011,2011,2,0,1,Import,156,China,CHN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1742175087,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,14040101,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,70000,,,0
+H3,2011,2011,2011,2,0,1,Import,156,China,CHN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7726978,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,161471455,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,275047,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,60806,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,214944614,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1084,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,42273,,,0
+H3,2011,2011,2011,2,0,1,Import,170,Colombia,COL,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,669,,,0
+H3,2011,2011,2011,2,0,4,Re-Import,170,Colombia,COL,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,669,,,0
+H3,2011,2011,2011,2,0,1,Import,170,Colombia,COL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,283733,,,0
+H3,2011,2011,2011,2,0,4,Re-Import,170,Colombia,COL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,283733,,,0
+H3,2011,2011,2011,2,0,1,Import,170,Colombia,COL,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,411,,,0
+H3,2011,2011,2011,2,0,1,Import,170,Colombia,COL,166,Cocos Isds,CCK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,61012,,,0
+H3,2011,2011,2011,2,0,1,Import,170,Colombia,COL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,71036554,,,0
+H3,2011,2011,2011,2,0,4,Re-Import,170,Colombia,COL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,71036554,,,0
+H3,2011,2011,2011,2,0,1,Import,188,Costa Rica,CRI,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,166146794,,,0
+H3,2011,2011,2011,2,0,2,Export,188,Costa Rica,CRI,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,439,,,0
+H3,2011,2011,2011,2,0,1,Import,188,Costa Rica,CRI,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,54,,,0
+H3,2011,2011,2011,2,0,1,Import,188,Costa Rica,CRI,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,99,,,0
+H3,2011,2011,2011,2,0,1,Import,188,Costa Rica,CRI,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,57875718,,,0
+H3,2011,2011,2011,2,0,2,Export,188,Costa Rica,CRI,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6603732,,,0
+H3,2011,2011,2011,2,0,1,Import,188,Costa Rica,CRI,162,Christmas Isds,CXR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,203,,,0
+H3,2011,2011,2011,2,0,1,Import,188,Costa Rica,CRI,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1129261,,,0
+H3,2011,2011,2011,2,0,2,Export,188,Costa Rica,CRI,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3310284,,,0
+H3,2011,2011,2011,2,0,1,Import,188,Costa Rica,CRI,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2684,,,0
+H3,2011,2011,2011,2,0,1,Import,188,Costa Rica,CRI,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19,,,0
+H3,2011,2011,2011,2,0,1,Import,191,Croatia,HRV,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,61112378,,,0
+H3,2011,2011,2011,2,0,1,Import,191,Croatia,HRV,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12089,,,0
+H3,2011,2011,2011,2,0,1,Import,191,Croatia,HRV,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1872,,,0
+H3,2011,2011,2011,2,0,1,Import,196,Cyprus,CYP,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,174,,,0
+H3,2011,2011,2011,2,0,1,Import,203,Czechia,CZE,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3894680,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4240,,,0
+H3,2011,2011,2011,2,0,1,Import,203,Czechia,CZE,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,158396,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2811069,,,0
+H3,2011,2011,2011,2,0,1,Import,203,Czechia,CZE,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,142,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,90128,,,0
+H3,2011,2011,2011,2,0,1,Import,203,Czechia,CZE,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,182,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2973,,,0
+H3,2011,2011,2011,2,0,1,Import,203,Czechia,CZE,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,609,,,0
+H3,2011,2011,2011,2,0,1,Import,208,Denmark,DNK,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2592,,,0
+H3,2011,2011,2011,2,0,1,Import,208,Denmark,DNK,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,487767,,,0
+H3,2011,2011,2011,2,0,2,Export,208,Denmark,DNK,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,125377,,,0
+H3,2011,2011,2011,2,0,2,Export,208,Denmark,DNK,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10322,,,0
+H3,2011,2011,2011,2,0,2,Export,208,Denmark,DNK,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3823,,,0
+H3,2011,2011,2011,2,0,1,Import,214,Dominican Rep.,DOM,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,382024208,,,0
+H3,2011,2011,2011,2,0,2,Export,214,Dominican Rep.,DOM,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,40,,,0
+H3,2011,2011,2011,2,0,1,Import,214,Dominican Rep.,DOM,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,54681069,,,0
+H3,2011,2011,2011,2,0,2,Export,214,Dominican Rep.,DOM,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,231572,,,0
+H3,2011,2011,2011,2,0,1,Import,214,Dominican Rep.,DOM,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1068120,,,0
+H3,2011,2011,2011,2,0,2,Export,214,Dominican Rep.,DOM,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18000,,,0
+H3,2011,2011,2011,2,0,1,Import,218,Ecuador,ECU,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,125311456,,,0
+H3,2011,2011,2011,2,0,2,Export,218,Ecuador,ECU,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3038947,,,0
+H3,2011,2011,2011,2,0,1,Import,218,Ecuador,ECU,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,163030012,,,0
+H3,2011,2011,2011,2,0,2,Export,218,Ecuador,ECU,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,40289223,,,0
+H3,2011,2011,2011,2,0,1,Import,218,Ecuador,ECU,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,26544660,,,0
+H3,2011,2011,2011,2,0,2,Export,218,Ecuador,ECU,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,21755833,,,0
+H3,2011,2011,2011,2,0,1,Import,222,El Salvador,SLV,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,95944338,,,0
+H3,2011,2011,2011,2,0,2,Export,222,El Salvador,SLV,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,129688,,,0
+H3,2011,2011,2011,2,0,1,Import,222,El Salvador,SLV,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,18404210,,,4
+H3,2011,2011,2011,2,0,2,Export,222,El Salvador,SLV,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,156951,,,0
+H3,2011,2011,2011,2,0,1,Import,222,El Salvador,SLV,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,177808,,,0
+H3,2011,2011,2011,2,0,2,Export,233,Estonia,EST,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,110575,,,0
+H3,2011,2011,2011,2,0,2,Export,233,Estonia,EST,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34210,,,0
+H3,2011,2011,2011,2,0,2,Export,242,Fiji,FJI,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,15965944,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,242,Fiji,FJI,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,15965944,,,0
+H3,2011,2011,2011,2,0,2,Export,242,Fiji,FJI,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3065,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,242,Fiji,FJI,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3065,,,0
+H3,2011,2011,2011,2,0,1,Import,242,Fiji,FJI,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,961,,,0
+H3,2011,2011,2011,2,0,2,Export,242,Fiji,FJI,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29106,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,242,Fiji,FJI,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26063,,,0
+H3,2011,2011,2011,2,0,1,Import,242,Fiji,FJI,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,44,,,0
+H3,2011,2011,2011,2,0,2,Export,242,Fiji,FJI,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,357,,,0
+H3,2011,2011,2011,2,0,1,Import,246,Finland,FIN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,29267973,,,0
+H3,2011,2011,2011,2,0,2,Export,246,Finland,FIN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,196,,,0
+H3,2011,2011,2011,2,0,2,Export,246,Finland,FIN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1068295,,,0
+H3,2011,2011,2011,2,0,2,Export,246,Finland,FIN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,63754,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,470653030,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,62027051,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,180500,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1788985,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15032871,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,101137,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,672018,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,64,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,210524,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,162,Christmas Isds,CXR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,689,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,91499,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20743858,,,0
+H3,2011,2011,2011,2,0,2,Export,258,French Polynesia,PYF,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,188,,,0
+H3,2011,2011,2011,2,0,2,Export,258,French Polynesia,PYF,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,940,,,0
+H3,2011,2011,2011,2,0,2,Export,258,French Polynesia,PYF,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,277,,,0
+H3,2011,2011,2011,2,0,1,Import,276,Germany,DEU,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1575923662,,,0
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7161903,,,0
+H3,2011,2011,2011,2,0,1,Import,276,Germany,DEU,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2644548,,,4
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,69184206,,,4
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,314,,,0
+H3,2011,2011,2011,2,0,1,Import,276,Germany,DEU,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5375,,,4
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,34846676,,,4
+H3,2011,2011,2011,2,0,1,Import,288,Ghana,GHA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9882,,,0
+H3,2011,2011,2011,2,0,1,Import,288,Ghana,GHA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,249,,,0
+H3,2011,2011,2011,2,0,1,Import,300,Greece,GRC,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,18541039,,,0
+H3,2011,2011,2011,2,0,2,Export,300,Greece,GRC,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,346,,,0
+H3,2011,2011,2011,2,0,2,Export,300,Greece,GRC,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2045879,,,0
+H3,2011,2011,2011,2,0,2,Export,300,Greece,GRC,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,95377,,,0
+H3,2011,2011,2011,2,0,1,Import,300,Greece,GRC,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,311619,,,0
+H3,2011,2011,2011,2,0,2,Export,300,Greece,GRC,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,224581,,,0
+H3,2011,2011,2011,2,0,1,Import,304,Greenland,GRL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,24,,,0
+H3,2011,2011,2011,2,0,1,Import,308,Grenada,GRD,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,90034,,,0
+H3,2011,2011,2011,2,0,1,Import,320,Guatemala,GTM,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,362556739,,,0
+H3,2011,2011,2011,2,0,2,Export,320,Guatemala,GTM,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6,,,0
+H3,2011,2011,2011,2,0,1,Import,320,Guatemala,GTM,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,48542456,,,0
+H3,2011,2011,2011,2,0,2,Export,320,Guatemala,GTM,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1676727,,,0
+H3,2011,2011,2011,2,0,2,Export,320,Guatemala,GTM,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1929,,,0
+H3,2011,2011,2011,2,0,1,Import,320,Guatemala,GTM,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1317669,,,0
+H3,2011,2011,2011,2,0,2,Export,320,Guatemala,GTM,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,48930782,,,0
+H3,2011,2011,2011,2,0,2,Export,320,Guatemala,GTM,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14,,,0
+H3,2011,2011,2011,2,0,1,Import,328,Guyana,GUY,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1702093,,,0
+H3,2011,2011,2011,2,0,2,Export,328,Guyana,GUY,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12437,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,328,Guyana,GUY,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12437,,,0
+H3,2011,2011,2011,2,0,1,Import,328,Guyana,GUY,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12823,,,0
+H3,2011,2011,2011,2,0,1,Import,340,Honduras,HND,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,229969840,,,0
+H3,2011,2011,2011,2,0,1,Import,340,Honduras,HND,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6448256,,,0
+H3,2011,2011,2011,2,0,2,Export,340,Honduras,HND,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,52700,,,0
+H3,2011,2011,2011,2,0,1,Import,340,Honduras,HND,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,504452,,,0
+H3,2011,2011,2011,2,0,2,Export,340,Honduras,HND,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,879,,,0
+H3,2011,2011,2011,2,0,2,Export,344,"China, Hong Kong SAR",HKG,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,48814,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,48814,,,0
+H3,2011,2011,2011,2,0,2,Export,344,"China, Hong Kong SAR",HKG,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15984,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15984,,,0
+H3,2011,2011,2011,2,0,1,Import,344,"China, Hong Kong SAR",HKG,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,81184,,,0
+H3,2011,2011,2011,2,0,1,Import,344,"China, Hong Kong SAR",HKG,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,746241,,,0
+H3,2011,2011,2011,2,0,2,Export,344,"China, Hong Kong SAR",HKG,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4681714,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4475066,,,0
+H3,2011,2011,2011,2,0,1,Import,348,Hungary,HUN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,28241000,,,0
+H3,2011,2011,2011,2,0,2,Export,348,Hungary,HUN,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,151000,,,0
+H3,2011,2011,2011,2,0,2,Export,348,Hungary,HUN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,124000,,,0
+H3,2011,2011,2011,2,0,2,Export,348,Hungary,HUN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1528000,,,0
+H3,2011,2011,2011,2,0,1,Import,352,Iceland,ISL,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,501928,,,0
+H3,2011,2011,2011,2,0,2,Export,352,Iceland,ISL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,260,,,0
+H3,2011,2011,2011,2,0,1,Import,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3229064,,,0
+H3,2011,2011,2011,2,0,1,Import,360,Indonesia,IDN,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3116,,,0
+H3,2011,2011,2011,2,0,1,Import,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1471551,,,0
+H3,2011,2011,2011,2,0,2,Export,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1552124,,,0
+H3,2011,2011,2011,2,0,2,Export,360,Indonesia,IDN,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25812,,,0
+H3,2011,2011,2011,2,0,2,Export,360,Indonesia,IDN,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37021,,,0
+H3,2011,2011,2011,2,0,1,Import,360,Indonesia,IDN,166,Cocos Isds,CCK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,770,,,0
+H3,2011,2011,2011,2,0,2,Export,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29877882,,,0
+H3,2011,2011,2011,2,0,1,Import,360,Indonesia,IDN,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,83,,,0
+H3,2011,2011,2011,2,0,2,Export,360,Indonesia,IDN,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,326,,,0
+H3,2011,2011,2011,2,0,2,Export,364,Iran,IRN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,174686,,,0
+H3,2011,2011,2011,2,0,2,Export,364,Iran,IRN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5094,,,0
+H3,2011,2011,2011,2,0,1,Import,372,Ireland,IRL,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5592350,,,0
+H3,2011,2011,2011,2,0,1,Import,372,Ireland,IRL,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7388,,,0
+H3,2011,2011,2011,2,0,1,Import,372,Ireland,IRL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,58727,,,0
+H3,2011,2011,2011,2,0,2,Export,372,Ireland,IRL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,31189,,,0
+H3,2011,2011,2011,2,0,1,Import,372,Ireland,IRL,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8049,,,0
+H3,2011,2011,2011,2,0,1,Import,372,Ireland,IRL,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9806,,,0
+H3,2011,2011,2011,2,0,2,Export,372,Ireland,IRL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,20185,,,0
+H3,2011,2011,2011,2,0,2,Export,376,Israel,ISR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,88000,,,0
+H3,2011,2011,2011,2,0,1,Import,376,Israel,ISR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1022000,,,0
+H3,2011,2011,2011,2,0,2,Export,376,Israel,ISR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8131000,,,0
+H3,2011,2011,2011,2,0,1,Import,376,Israel,ISR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2000,,,0
+H3,2011,2011,2011,2,0,2,Export,376,Israel,ISR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,732000,,,0
+H3,2011,2011,2011,2,0,1,Import,381,Italy,ITA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,332208931,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3805154,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,664976,,,0
+H3,2011,2011,2011,2,0,1,Import,381,Italy,ITA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9145754,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19055121,,,0
+H3,2011,2011,2011,2,0,1,Import,381,Italy,ITA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,31602,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11472306,,,0
+H3,2011,2011,2011,2,0,1,Import,384,Côte d'Ivoire,CIV,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,233143755,,,0
+H3,2011,2011,2011,2,0,1,Import,384,Côte d'Ivoire,CIV,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,144566,,,0
+H3,2011,2011,2011,2,0,1,Import,384,Côte d'Ivoire,CIV,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,72,,,0
+H3,2011,2011,2011,2,0,1,Import,388,Jamaica,JAM,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,187911,,,0
+H3,2011,2011,2011,2,0,1,Import,388,Jamaica,JAM,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4028061,,,0
+H3,2011,2011,2011,2,0,2,Export,388,Jamaica,JAM,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16907,,,0
+H3,2011,2011,2011,2,0,1,Import,388,Jamaica,JAM,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15600,,,0
+H3,2011,2011,2011,2,0,1,Import,392,Japan,JPN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,101856720,,,0
+H3,2011,2011,2011,2,0,2,Export,392,Japan,JPN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,262554,,,0
+H3,2011,2011,2011,2,0,2,Export,392,Japan,JPN,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2750,,,0
+H3,2011,2011,2011,2,0,1,Import,392,Japan,JPN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8540,,,0
+H3,2011,2011,2011,2,0,2,Export,392,Japan,JPN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9382639,,,0
+H3,2011,2011,2011,2,0,1,Import,392,Japan,JPN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16929,,,0
+H3,2011,2011,2011,2,0,2,Export,392,Japan,JPN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,123645120,,,0
+H3,2011,2011,2011,2,0,1,Import,398,Kazakhstan,KAZ,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14,,,0
+H3,2011,2011,2011,2,0,2,Export,398,Kazakhstan,KAZ,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2591,,,0
+H3,2011,2011,2011,2,0,1,Import,398,Kazakhstan,KAZ,162,Christmas Isds,CXR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,291,,,0
+H3,2011,2011,2011,2,0,2,Export,398,Kazakhstan,KAZ,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,621,,,0
+H3,2011,2011,2011,2,0,1,Import,400,Jordan,JOR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1106221,,,0
+H3,2011,2011,2011,2,0,1,Import,410,Rep. of Korea,KOR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,111210031,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1311731,,,0
+H3,2011,2011,2011,2,0,1,Import,410,Rep. of Korea,KOR,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,279,,,0
+H3,2011,2011,2011,2,0,1,Import,410,Rep. of Korea,KOR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,142179,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,127205564,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,199,,,0
+H3,2011,2011,2011,2,0,1,Import,410,Rep. of Korea,KOR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,117722,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,48402839,,,0
+H3,2011,2011,2011,2,0,1,Import,414,Kuwait,KWT,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11042,,,0
+H3,2011,2011,2011,2,0,2,Export,414,Kuwait,KWT,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18843,,,0
+H3,2011,2011,2011,2,0,2,Export,414,Kuwait,KWT,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12321,,,0
+H3,2011,2011,2011,2,0,1,Import,422,Lebanon,LBN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43,,,0
+H3,2011,2011,2011,2,0,1,Import,422,Lebanon,LBN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2259,,,0
+H3,2011,2011,2011,2,0,2,Export,428,Latvia,LVA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,361858,,,0
+H3,2011,2011,2011,2,0,2,Export,428,Latvia,LVA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24,,,0
+H3,2011,2011,2011,2,0,2,Export,428,Latvia,LVA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32,,,0
+H3,2011,2011,2011,2,0,2,Export,440,Lithuania,LTU,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,142033,,,0
+H3,2011,2011,2011,2,0,2,Export,440,Lithuania,LTU,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8097,,,0
+H3,2011,2011,2011,2,0,2,Export,440,Lithuania,LTU,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,114465,,,0
+H3,2011,2011,2011,2,0,1,Import,442,Luxembourg,LUX,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43,,,0
+H3,2011,2011,2011,2,0,1,Import,442,Luxembourg,LUX,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23697,,,0
+H3,2011,2011,2011,2,0,2,Export,442,Luxembourg,LUX,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,172049,,,0
+H3,2011,2011,2011,2,0,2,Export,442,Luxembourg,LUX,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13680,,,0
+H3,2011,2011,2011,2,0,2,Export,442,Luxembourg,LUX,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6229,,,0
+H3,2011,2011,2011,2,0,2,Export,446,"China, Macao SAR",MAC,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3952,,,0
+H3,2011,2011,2011,2,0,1,Import,450,Madagascar,MDG,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,173,,,0
+H3,2011,2011,2011,2,0,2,Export,450,Madagascar,MDG,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6328933,,,0
+H3,2011,2011,2011,2,0,1,Import,450,Madagascar,MDG,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1834,,,0
+H3,2011,2011,2011,2,0,2,Export,450,Madagascar,MDG,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,243237,,,0
+H3,2011,2011,2011,2,0,2,Export,450,Madagascar,MDG,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,39198,,,0
+H3,2011,2011,2011,2,0,1,Import,458,Malaysia,MYS,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,99617395,,,0
+H3,2011,2011,2011,2,0,2,Export,458,Malaysia,MYS,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,13187,,,0
+H3,2011,2011,2011,2,0,2,Export,458,Malaysia,MYS,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24105,,,0
+H3,2011,2011,2011,2,0,1,Import,458,Malaysia,MYS,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32153,,,0
+H3,2011,2011,2011,2,0,2,Export,458,Malaysia,MYS,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2381843,,,0
+H3,2011,2011,2011,2,0,2,Export,458,Malaysia,MYS,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23842933,,,0
+H3,2011,2011,2011,2,0,2,Export,470,Malta,MLT,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1956,,,0
+H3,2011,2011,2011,2,0,1,Import,478,Mauritania,MRT,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2604,,,0
+H3,2011,2011,2011,2,0,2,Export,480,Mauritius,MUS,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,35272,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,480,Mauritius,MUS,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29625,,,0
+H3,2011,2011,2011,2,0,2,Export,480,Mauritius,MUS,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,493,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,480,Mauritius,MUS,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,319,,,0
+H3,2011,2011,2011,2,0,1,Import,484,Mexico,MEX,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,116229719,,,0
+H3,2011,2011,2011,2,0,2,Export,484,Mexico,MEX,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,444006102,,,0
+H3,2011,2011,2011,2,0,1,Import,484,Mexico,MEX,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,754,,,0
+H3,2011,2011,2011,2,0,1,Import,484,Mexico,MEX,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,101006283,,,0
+H3,2011,2011,2011,2,0,2,Export,484,Mexico,MEX,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,289240919,,,0
+H3,2011,2011,2011,2,0,1,Import,484,Mexico,MEX,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20245534,,,0
+H3,2011,2011,2011,2,0,2,Export,484,Mexico,MEX,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,40484824,,,0
+H3,2011,2011,2011,2,0,1,Import,484,Mexico,MEX,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28,,,0
+H3,2011,2011,2011,2,0,1,Import,490,"Other Asia, nes",,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,115434857,,,0
+H3,2011,2011,2011,2,0,2,Export,490,"Other Asia, nes",,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,236839,,,0
+H3,2011,2011,2011,2,0,1,Import,490,"Other Asia, nes",,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,121232,,,0
+H3,2011,2011,2011,2,0,2,Export,490,"Other Asia, nes",,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,78238757,,,0
+H3,2011,2011,2011,2,0,4,Re-Import,490,"Other Asia, nes",,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,86424,,,0
+H3,2011,2011,2011,2,0,2,Export,490,"Other Asia, nes",,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3259,,,0
+H3,2011,2011,2011,2,0,2,Export,490,"Other Asia, nes",,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13961260,,,0
+H3,2011,2011,2011,2,0,2,Export,490,"Other Asia, nes",,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3056,,,0
+H3,2011,2011,2011,2,0,1,Import,499,Montenegro,MNE,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,94,,,0
+H3,2011,2011,2011,2,0,1,Import,499,Montenegro,MNE,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1888,,,0
+H2,2011,2011,2011,2,0,1,Import,504,Morocco,MAR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,108334435,,,0
+H2,2011,2011,2011,2,0,1,Import,504,Morocco,MAR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,337,,,0
+H2,2011,2011,2011,2,0,1,Import,508,Mozambique,MOZ,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19000,,,0
+H3,2011,2011,2011,2,0,2,Export,516,Namibia,NAM,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2762,,,0
+H3,2011,2011,2011,2,0,2,Export,516,Namibia,NAM,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,32919,,,0
+H3,2011,2011,2011,2,0,2,Export,516,Namibia,NAM,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,49,,,0
+H3,2011,2011,2011,2,0,1,Import,524,Nepal,NPL,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,293,,,0
+H3,2011,2011,2011,2,0,1,Import,528,Netherlands,NLD,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1258197299,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,8192659,,,0
+H3,2011,2011,2011,2,0,1,Import,528,Netherlands,NLD,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1164627,,,4
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,21244788,,,4
+H3,2011,2011,2011,2,0,1,Import,528,Netherlands,NLD,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14262,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2566,,,0
+H3,2011,2011,2011,2,0,1,Import,528,Netherlands,NLD,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,80962,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2953728,,,4
+H3,2011,2011,2011,2,0,1,Import,528,Netherlands,NLD,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,148,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,27378,,,0
+H3,2011,2011,2011,2,0,1,Import,533,Aruba,ABW,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,754051,,,0
+H3,2011,2011,2011,2,0,2,Export,533,Aruba,ABW,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3031,,,0
+H3,2011,2011,2011,2,0,1,Import,533,Aruba,ABW,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,526855,,,0
+H3,2011,2011,2011,2,0,2,Export,533,Aruba,ABW,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,84,,,0
+H3,2011,2011,2011,2,0,1,Import,540,New Caledonia,NCL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21,,,0
+H3,2011,2011,2011,2,0,2,Export,540,New Caledonia,NCL,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,954,,,0
+H3,2011,2011,2011,2,0,1,Import,540,New Caledonia,NCL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,842,,,0
+H3,2011,2011,2011,2,0,2,Export,554,New Zealand,NZL,162,Christmas Isds,CXR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,315537,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,554,New Zealand,NZL,162,Christmas Isds,CXR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,72188,,,0
+H3,2011,2011,2011,2,0,2,Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,20236849,,,4
+H3,2011,2011,2011,2,0,3,Re-Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,39570,,,0
+H3,2011,2011,2011,2,0,2,Export,554,New Zealand,NZL,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,69376,,,4
+H3,2011,2011,2011,2,0,3,Re-Export,554,New Zealand,NZL,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16254,,,0
+H3,2011,2011,2011,2,0,2,Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,855110,,,4
+H3,2011,2011,2011,2,0,3,Re-Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,198883,,,0
+H3,2011,2011,2011,2,0,2,Export,554,New Zealand,NZL,162,Christmas Isds,CXR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,119872,,,4
+H3,2011,2011,2011,2,0,3,Re-Export,554,New Zealand,NZL,162,Christmas Isds,CXR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,109329,,,0
+H3,2011,2011,2011,2,0,1,Import,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1931,,,4
+H3,2011,2011,2011,2,0,2,Export,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3772,,,4
+H3,2011,2011,2011,2,0,3,Re-Export,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,34,,,0
+H3,2011,2011,2011,2,0,1,Import,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6129,,,4
+H3,2011,2011,2011,2,0,1,Import,554,New Zealand,NZL,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,331,,,4
+H3,2011,2011,2011,2,0,1,Import,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,101758,,,4
+H3,2011,2011,2011,2,0,2,Export,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,178003,,,4
+H3,2011,2011,2011,2,0,1,Import,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,15,,,0
+H3,2011,2011,2011,2,0,2,Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3130055,,,4
+H3,2011,2011,2011,2,0,3,Re-Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,365304,,,0
+H3,2011,2011,2011,2,0,1,Import,558,Nicaragua,NIC,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,25652,,,0
+H3,2011,2011,2011,2,0,2,Export,558,Nicaragua,NIC,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,73757,,,0
+H3,2011,2011,2011,2,0,1,Import,558,Nicaragua,NIC,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,127974,,,0
+H3,2011,2011,2011,2,0,1,Import,558,Nicaragua,NIC,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,222994,,,0
+H3,2011,2011,2011,2,0,2,Export,558,Nicaragua,NIC,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6938,,,0
+H3,2011,2011,2011,2,0,1,Import,562,Niger,NER,162,Christmas Isds,CXR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,509,,,0
+H3,2011,2011,2011,2,0,1,Import,566,Nigeria,NGA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,148974,,,0
+H3,2011,2011,2011,2,0,2,Export,566,Nigeria,NGA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,402614,,,0
+H3,2011,2011,2011,2,0,1,Import,579,Norway,NOR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,12316519,,,0
+H3,2011,2011,2011,2,0,1,Import,579,Norway,NOR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,314877,,,0
+H3,2011,2011,2011,2,0,2,Export,579,Norway,NOR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3803181,,,0
+H3,2011,2011,2011,2,0,1,Import,579,Norway,NOR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11210,,,0
+H3,2011,2011,2011,2,0,2,Export,579,Norway,NOR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,51880,,,0
+H2,2011,2011,2011,2,0,1,Import,585,Palau,PLW,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,157,,,0
+H3,2011,2011,2011,2,0,1,Import,586,Pakistan,PAK,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,170986,,,0
+H3,2011,2011,2011,2,0,1,Import,586,Pakistan,PAK,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7358,,,0
+H3,2011,2011,2011,2,0,1,Import,586,Pakistan,PAK,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,66559,,,0
+H3,2011,2011,2011,2,0,2,Export,586,Pakistan,PAK,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26018,,,0
+H3,2011,2011,2011,2,0,2,Export,586,Pakistan,PAK,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13185,,,0
+H3,2011,2011,2011,2,0,1,Import,586,Pakistan,PAK,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13,,,0
+H3,2011,2011,2011,2,0,1,Import,591,Panama,PAN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,28383626,,,0
+H3,2011,2011,2011,2,0,2,Export,591,Panama,PAN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,65735,,,0
+H3,2011,2011,2011,2,0,1,Import,591,Panama,PAN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34474354,,,0
+H3,2011,2011,2011,2,0,2,Export,591,Panama,PAN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28482452,,,0
+H3,2011,2011,2011,2,0,1,Import,591,Panama,PAN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4087119,,,0
+H3,2011,2011,2011,2,0,2,Export,591,Panama,PAN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,26159688,,,0
+H3,2011,2011,2011,2,0,1,Import,598,Papua New Guinea,PNG,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1949,,,0
+H3,2011,2011,2011,2,0,1,Import,600,Paraguay,PRY,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4971627,,,0
+H3,2011,2011,2011,2,0,1,Import,600,Paraguay,PRY,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1827266,,,0
+H3,2011,2011,2011,2,0,1,Import,600,Paraguay,PRY,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,594471,,,0
+H3,2011,2011,2011,2,0,1,Import,604,Peru,PER,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,335353469,,,0
+H3,2011,2011,2011,2,0,2,Export,604,Peru,PER,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,84966656,,,0
+H3,2011,2011,2011,2,0,1,Import,604,Peru,PER,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,213,,,0
+H3,2011,2011,2011,2,0,1,Import,604,Peru,PER,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,155614573,,,0
+H3,2011,2011,2011,2,0,2,Export,604,Peru,PER,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,101623067,,,4
+H3,2011,2011,2011,2,0,1,Import,604,Peru,PER,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,11002539,,,0
+H3,2011,2011,2011,2,0,2,Export,604,Peru,PER,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,26059761,,,0
+H2,2011,2011,2011,2,0,1,Import,608,Philippines,PHL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,51369,,,0
+H2,2011,2011,2011,2,0,2,Export,608,Philippines,PHL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,96916,,,0
+H2,2011,2011,2011,2,0,2,Export,608,Philippines,PHL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,791435,,,0
+H3,2011,2011,2011,2,0,1,Import,616,Poland,POL,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,74006924,,,0
+H3,2011,2011,2011,2,0,2,Export,616,Poland,POL,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,40723,,,0
+H3,2011,2011,2011,2,0,2,Export,616,Poland,POL,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5,,,0
+H3,2011,2011,2011,2,0,1,Import,616,Poland,POL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,180904,,,0
+H3,2011,2011,2011,2,0,2,Export,616,Poland,POL,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,268096,,,0
+H3,2011,2011,2011,2,0,1,Import,616,Poland,POL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19,,,0
+H3,2011,2011,2011,2,0,2,Export,616,Poland,POL,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3043592,,,0
+H3,2011,2011,2011,2,0,1,Import,620,Portugal,PRT,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,316406385,,,0
+H3,2011,2011,2011,2,0,2,Export,620,Portugal,PRT,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,19102,,,0
+H3,2011,2011,2011,2,0,1,Import,620,Portugal,PRT,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,188422,,,0
+H3,2011,2011,2011,2,0,2,Export,620,Portugal,PRT,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2187659,,,0
+H3,2011,2011,2011,2,0,1,Import,620,Portugal,PRT,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1076,,,0
+H3,2011,2011,2011,2,0,2,Export,620,Portugal,PRT,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38110,,,0
+H3,2011,2011,2011,2,0,2,Export,634,Qatar,QAT,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2781335,,,0
+H3,2011,2011,2011,2,0,1,Import,642,Romania,ROU,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3216992,,,0
+H3,2011,2011,2011,2,0,2,Export,642,Romania,ROU,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,249708,,,0
+H3,2011,2011,2011,2,0,1,Import,642,Romania,ROU,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,367636,,,0
+H3,2011,2011,2011,2,0,2,Export,642,Romania,ROU,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,97005,,,0
+H3,2011,2011,2011,2,0,1,Import,642,Romania,ROU,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1711,,,0
+H3,2011,2011,2011,2,0,2,Export,642,Romania,ROU,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1620528,,,0
+H3,2011,2011,2011,2,0,1,Import,643,Russian Federation,RUS,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8922887,,,0
+H3,2011,2011,2011,2,0,2,Export,643,Russian Federation,RUS,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,15466,,,0
+H3,2011,2011,2011,2,0,1,Import,643,Russian Federation,RUS,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5432,,,0
+H3,2011,2011,2011,2,0,2,Export,643,Russian Federation,RUS,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1936475,,,0
+H3,2011,2011,2011,2,0,1,Import,643,Russian Federation,RUS,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1652,,,0
+H3,2011,2011,2011,2,0,1,Import,643,Russian Federation,RUS,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2922,,,0
+H3,2011,2011,2011,2,0,2,Export,643,Russian Federation,RUS,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3448916,,,0
+H3,2011,2011,2011,2,0,1,Import,659,Saint Kitts and Nevis,KNA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,928,,,0
+H3,2011,2011,2011,2,0,1,Import,659,Saint Kitts and Nevis,KNA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13,,,0
+H1,2011,2011,2011,2,0,1,Import,662,Saint Lucia,LCA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,35088,,,0
+H1,2011,2011,2011,2,0,2,Export,662,Saint Lucia,LCA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8822,,,0
+H1,2011,2011,2011,2,0,3,Re-Export,662,Saint Lucia,LCA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8822,,,0
+H3,2011,2011,2011,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,158759,,,0
+H3,2011,2011,2011,2,0,1,Import,682,Saudi Arabia,SAU,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,44800,,,0
+H3,2011,2011,2011,2,0,2,Export,682,Saudi Arabia,SAU,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26964567,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,682,Saudi Arabia,SAU,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37333,,,0
+H3,2011,2011,2011,2,0,1,Import,686,Senegal,SEN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,561,,,0
+H3,2011,2011,2011,2,0,2,Export,686,Senegal,SEN,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,189064,,,0
+H3,2011,2011,2011,2,0,2,Export,686,Senegal,SEN,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9947,,,0
+H3,2011,2011,2011,2,0,1,Import,688,Serbia,SRB,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15164,,,0
+H3,2011,2011,2011,2,0,2,Export,688,Serbia,SRB,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,106,,,0
+H2,2011,2011,2011,2,0,1,Import,690,Seychelles,SYC,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,649,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,162,Christmas Isds,CXR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,15551,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,166,Cocos Isds,CCK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,47496328,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,686010681,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,650077,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,681,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7330,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29870,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,796730,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24317152,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12144,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,125545,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2859,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8418674,,,0
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,162,Christmas Isds,CXR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7780,,,0
+H3,2011,2011,2011,2,0,1,Import,702,Singapore,SGP,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,464000990,,,0
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,99251,,,0
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,556,,,4
+H3,2011,2011,2011,2,0,1,Import,702,Singapore,SGP,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,917677,,,4
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2569101,,,4
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14365,,,4
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,162,Christmas Isds,CXR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,158459,,,4
+H3,2011,2011,2011,2,0,1,Import,702,Singapore,SGP,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1827,,,4
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3536956,,,4
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,39,,,4
+H3,2011,2011,2011,2,0,1,Import,703,Slovakia,SVK,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,18341,,,0
+H3,2011,2011,2011,2,0,2,Export,703,Slovakia,SVK,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3114,,,0
+H3,2011,2011,2011,2,0,1,Import,703,Slovakia,SVK,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,663,,,0
+H3,2011,2011,2011,2,0,2,Export,703,Slovakia,SVK,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1622,,,0
+H3,2011,2011,2011,2,0,1,Import,704,Viet Nam,VNM,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5897715,,,0
+H3,2011,2011,2011,2,0,2,Export,704,Viet Nam,VNM,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,893352,,,0
+H3,2011,2011,2011,2,0,2,Export,704,Viet Nam,VNM,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6445430,,,0
+H3,2011,2011,2011,2,0,1,Import,705,Slovenia,SVN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,107,,,0
+H3,2011,2011,2011,2,0,2,Export,705,Slovenia,SVN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1427,,,0
+H3,2011,2011,2011,2,0,1,Import,705,Slovenia,SVN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3641,,,0
+H3,2011,2011,2011,2,0,2,Export,705,Slovenia,SVN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,155446,,,0
+H3,2011,2011,2011,2,0,1,Import,710,South Africa,ZAF,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5112479,,,0
+H3,2011,2011,2011,2,0,2,Export,710,South Africa,ZAF,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,337747,,,0
+H3,2011,2011,2011,2,0,2,Export,710,South Africa,ZAF,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,189002,,,0
+H3,2011,2011,2011,2,0,2,Export,710,South Africa,ZAF,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,29056,,,0
+H3,2011,2011,2011,2,0,1,Import,710,South Africa,ZAF,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,62,,,0
+H3,2011,2011,2011,2,0,1,Import,710,South Africa,ZAF,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,882266,,,0
+H3,2011,2011,2011,2,0,2,Export,710,South Africa,ZAF,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,234028,,,0
+H3,2011,2011,2011,2,0,2,Export,710,South Africa,ZAF,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,47729,,,0
+H3,2011,2011,2011,2,0,1,Import,710,South Africa,ZAF,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,9980,,,0
+H3,2011,2011,2011,2,0,2,Export,710,South Africa,ZAF,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,47986,,,0
+H3,2011,2011,2011,2,0,2,Export,710,South Africa,ZAF,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,43438,,,0
+H3,2011,2011,2011,2,0,1,Import,716,Zimbabwe,ZWE,166,Cocos Isds,CCK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,27984,,,0
+H3,2011,2011,2011,2,0,1,Import,716,Zimbabwe,ZWE,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,137,,,0
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1361691680,,,0
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5436066,,,0
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7821,,,0
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,154631,,,0
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,13332065,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,724,Spain,ESP,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,196566,,,0
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16906430,,,4
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,23622519,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,724,Spain,ESP,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14802,,,0
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,333,,,0
+H3,2011,2011,2011,2,0,1,Import,736,Fmr Sudan,SDN,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,98339,,,0
+H3,2011,2011,2011,2,0,1,Import,740,Suriname,SUR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,259036,,,0
+H3,2011,2011,2011,2,0,1,Import,740,Suriname,SUR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1479303,,,0
+H3,2011,2011,2011,2,0,1,Import,740,Suriname,SUR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13808,,,0
+H3,2011,2011,2011,2,0,1,Import,752,Sweden,SWE,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6916450,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,175757,,,0
+H3,2011,2011,2011,2,0,1,Import,752,Sweden,SWE,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,353006,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5018644,,,0
+H3,2011,2011,2011,2,0,1,Import,752,Sweden,SWE,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,617,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,612530,,,0
+H3,2011,2011,2011,2,0,1,Import,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5065,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10921,,,0
+H3,2011,2011,2011,2,0,1,Import,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26714,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4483660,,,0
+H3,2011,2011,2011,2,0,1,Import,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,285,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,121579,,,0
+H3,2011,2011,2011,2,0,1,Import,764,Thailand,THA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,32604408,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,25963,,,0
+H3,2011,2011,2011,2,0,1,Import,764,Thailand,THA,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,97,,,0
+H3,2011,2011,2011,2,0,1,Import,764,Thailand,THA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,756313,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14071486,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28355,,,0
+H3,2011,2011,2011,2,0,1,Import,764,Thailand,THA,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4330,,,0
+H3,2011,2011,2011,2,0,1,Import,764,Thailand,THA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,710,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32564494,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,994,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,946,,,0
+H3,2011,2011,2011,2,0,1,Import,768,Togo,TGO,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,61556,,,0
+H3,2011,2011,2011,2,0,1,Import,780,Trinidad and Tobago,TTO,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1052284364,,,0
+H3,2011,2011,2011,2,0,2,Export,780,Trinidad and Tobago,TTO,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,142437490,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,780,Trinidad and Tobago,TTO,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,30766,,,0
+H3,2011,2011,2011,2,0,1,Import,780,Trinidad and Tobago,TTO,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5158770,,,0
+H3,2011,2011,2011,2,0,2,Export,780,Trinidad and Tobago,TTO,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,780,Trinidad and Tobago,TTO,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6,,,0
+H3,2011,2011,2011,2,0,1,Import,780,Trinidad and Tobago,TTO,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,83870,,,0
+H3,2011,2011,2011,2,0,2,Export,780,Trinidad and Tobago,TTO,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,321,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,780,Trinidad and Tobago,TTO,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,321,,,0
+H3,2011,2011,2011,2,0,2,Export,784,United Arab Emirates,ARE,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,63897,,,0
+H3,2011,2011,2011,2,0,2,Export,784,United Arab Emirates,ARE,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,98867,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,784,United Arab Emirates,ARE,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,19507,,,0
+H3,2011,2011,2011,2,0,1,Import,784,United Arab Emirates,ARE,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25303,,,0
+H3,2011,2011,2011,2,0,2,Export,784,United Arab Emirates,ARE,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,127073,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,784,United Arab Emirates,ARE,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,82816,,,0
+H3,2011,2011,2011,2,0,2,Export,784,United Arab Emirates,ARE,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2089206,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,784,United Arab Emirates,ARE,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1724505,,,0
+H3,2011,2011,2011,2,0,1,Import,784,United Arab Emirates,ARE,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,415357,,,0
+H3,2011,2011,2011,2,0,2,Export,784,United Arab Emirates,ARE,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,182931,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,784,United Arab Emirates,ARE,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,180752,,,0
+H3,2011,2011,2011,2,0,1,Import,788,Tunisia,TUN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29853,,,0
+H3,2011,2011,2011,2,0,2,Export,788,Tunisia,TUN,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4131,,,0
+H3,2011,2011,2011,2,0,1,Import,792,Turkey,TUR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,635829068,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,655833,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,723458,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,162132,,,0
+H3,2011,2011,2011,2,0,1,Import,792,Turkey,TUR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29927027,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2203213,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,323900,,,0
+H3,2011,2011,2011,2,0,1,Import,792,Turkey,TUR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,643,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3213114,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,202168,,,0
+H3,2011,2011,2011,2,0,1,Import,800,Uganda,UGA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18712,,,0
+H3,2011,2011,2011,2,0,1,Import,800,Uganda,UGA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12982,,,0
+H3,2011,2011,2011,2,0,1,Import,804,Ukraine,UKR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,9598282,,,0
+H3,2011,2011,2011,2,0,2,Export,804,Ukraine,UKR,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,25916,,,0
+H3,2011,2011,2011,2,0,1,Import,804,Ukraine,UKR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,193370,,,0
+H3,2011,2011,2011,2,0,2,Export,804,Ukraine,UKR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,110271,,,0
+H3,2011,2011,2011,2,0,2,Export,804,Ukraine,UKR,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,137,,,0
+H3,2011,2011,2011,2,0,1,Import,804,Ukraine,UKR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5838,,,0
+H3,2011,2011,2011,2,0,2,Export,804,Ukraine,UKR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22431,,,0
+H3,2011,2011,2011,2,0,2,Export,804,Ukraine,UKR,174,Comoros,COM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,449,,,0
+H3,2011,2011,2011,2,0,1,Import,807,North Macedonia,MKD,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,11789132,,,0
+H3,2011,2011,2011,2,0,2,Export,818,Egypt,EGY,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,257056,,,0
+H3,2011,2011,2011,2,0,2,Export,818,Egypt,EGY,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,572976,,,0
+H3,2011,2011,2011,2,0,1,Import,826,United Kingdom,GBR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1049691918,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,39360329,,,0
+H3,2011,2011,2011,2,0,1,Import,826,United Kingdom,GBR,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4449,,,0
+H3,2011,2011,2011,2,0,1,Import,826,United Kingdom,GBR,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4146,,,0
+H3,2011,2011,2011,2,0,1,Import,826,United Kingdom,GBR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4511461,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15644442,,,0
+H3,2011,2011,2011,2,0,1,Import,826,United Kingdom,GBR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,447122,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,959494,,,0
+H3,2011,2011,2011,2,0,2,Export,834,United Rep. of Tanzania,TZA,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,78368,,,0
+H3,2011,2011,2011,2,0,2,Export,834,United Rep. of Tanzania,TZA,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,130657,,,0
+H3,2011,2011,2011,2,0,2,Export,834,United Rep. of Tanzania,TZA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,208,,,0
+H3,2011,2011,2011,2,0,1,Import,842,USA,USA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,17171473471,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2727601352,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,842,USA,USA,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,208277,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,174,Comoros,COM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,14445,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,842,USA,USA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4883760,,,0
+H3,2011,2011,2011,2,0,1,Import,842,USA,USA,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,31810,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4225,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,842,USA,USA,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4225,,,0
+H3,2011,2011,2011,2,0,1,Import,842,USA,USA,166,Cocos Isds,CCK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,41036,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,166,Cocos Isds,CCK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14344,,,0
+H3,2011,2011,2011,2,0,1,Import,842,USA,USA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4628144,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,123426076,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,177801,,,0
+H3,2011,2011,2011,2,0,1,Import,842,USA,USA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,178130001,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,691689730,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,842,USA,USA,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,45484292,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2899,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,32217,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,162,Christmas Isds,CXR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18765,,,0
+H3,2011,2011,2011,2,0,1,Import,842,USA,USA,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,99879,,,0
+H3,2011,2011,2011,2,0,1,Import,858,Uruguay,URY,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,37261,,,0
+H3,2011,2011,2011,2,0,1,Import,858,Uruguay,URY,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,691998,,,0
+H3,2011,2011,2011,2,0,2,Export,858,Uruguay,URY,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,388791,,,0
+H3,2011,2011,2011,2,0,1,Import,858,Uruguay,URY,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,281918,,,0
+H3,2011,2011,2011,2,0,2,Export,858,Uruguay,URY,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,446703,,,0
+H2,2011,2011,2011,2,0,4,Re-Import,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,73352,,,0
+H2,2011,2011,2011,2,0,1,Import,862,Venezuela,VEN,174,Comoros,COM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1208,,,0
+H2,2011,2011,2011,2,0,1,Import,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9916235,,,0
+H2,2011,2011,2011,2,0,2,Export,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2464322,,,0
+H2,2011,2011,2011,2,0,1,Import,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,59795768,,,0
+H2,2011,2011,2011,2,0,2,Export,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5790883,,,0
+H2,2011,2011,2011,2,0,1,Import,862,Venezuela,VEN,166,Cocos Isds,CCK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9073,,,0
+H2,2011,2011,2011,2,0,1,Import,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,130082583,,,0
+H2,2011,2011,2011,2,0,2,Export,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19571951,,,0

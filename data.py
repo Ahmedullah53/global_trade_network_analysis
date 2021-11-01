@@ -50,10 +50,54 @@ class Comtrade:
             start += 20
             end += 20
 
+    def merge_data(self, raw_data_path='./data/raw', save_data_path='./data/processed/comtrade.csv'):
+        files = os.listdir(raw_data_path)
+        data = None
+        print('Merginh data...')
+        for count, file in enumerate(files):
+            if data is None:
+                data = pd.read_csv(os.path.join(raw_data_path, file))
+            else:
+                data = pd.concat([data, pd.read_csv(os.path.join(raw_data_path, file))])
+            percentage_complete = math.floor(((count+1)/len(files))*100)
+            print(percentage_complete)
+            
+        data.to_csv(save_data_path)
+        print('Merging data complete...')
+
+    def create_nodes(self, df, save_data_path):
+        node = df.copy()
+        node = node[['Year', 'Reporter', 'Partner', 'Trade Flow']]
+        node['weight'] = node.loc[(node['Trade Flow'] != 'Re-Export') & (node['Trade Flow'] != 'Re-Import')].groupby('Reporter')['Reporter'].transform('count')
+        node['label'] = node['Reporter']
+        node.drop(columns=['Year', 'Reporter', 'Trade Flow', 'Partner'], inplace=True)
+        node.dropna(axis=0, inplace=True)
+        node.drop_duplicates(inplace=True, ignore_index=True)
+        node.to_csv(save_data_path)
+        print('Node data created...')
+
+    def create_edges(self, df, save_data_path):
+        edge = df.copy()
+        edge = edge[['Year', 'Reporter', 'Partner', 'Trade Flow']]
+        edge = edge.drop(columns=['Year', 'Trade Flow'])
+        edge.drop_duplicates(inplace=True, ignore_index=True)
+        edge.to_csv(save_data_path)
+        print('Edges data created...')
+
+    def convert_to_graph_data(self, from_file='./data/processed/comtrade.csv', save_data_path='./data/processed'):
+        df = pd.read_csv(from_file)
+        self.create_nodes(df, os.path.join(save_data_path, 'nodes.csv'))
+        self.create_edges(df, os.path.join(save_data_path, 'edges.csv'))
+
 
 
 # drive = Drive()
 # print(drive.upload("student-por.csv"))
+def main():
+    comtrade = Comtrade()
+    # comtrade.get_data()
+    comtrade.merge_data()
+    comtrade.convert_to_graph_data()
 
-comtrade = Comtrade()
-comtrade.get_data()
+if __name__ == '__main__':
+    main()

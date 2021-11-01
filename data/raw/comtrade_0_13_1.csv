@@ -1,0 +1,947 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,2,0,1,Import,8,Albania,ALB,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,52767,,,0
+H1,2001,2001,2001,2,0,1,Import,8,Albania,ALB,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,8281,,,0
+H1,2001,2001,2001,2,0,2,Export,12,Algeria,DZA,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,8337850,,,0
+H1,2001,2001,2001,2,0,1,Import,12,Algeria,DZA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,39,,,0
+H1,2001,2001,2001,2,0,2,Export,32,Argentina,ARG,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1138184,,,0
+H1,2001,2001,2001,2,0,1,Import,32,Argentina,ARG,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,65,,,0
+H1,2001,2001,2001,2,0,2,Export,36,Australia,AUS,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,333422,,,0
+H1,2001,2001,2001,2,0,1,Import,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,80,,,0
+H1,2001,2001,2001,2,0,2,Export,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,28994,,,0
+H1,2001,2001,2001,2,0,1,Import,40,Austria,AUT,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,183787690,,,0
+H1,2001,2001,2001,2,0,2,Export,40,Austria,AUT,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,155607501,,,0
+H1,2001,2001,2001,2,0,1,Import,51,Armenia,ARM,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,293871,,,0
+H1,2001,2001,2001,2,0,1,Import,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,23047,,,0
+H1,2001,2001,2001,2,0,1,Import,52,Barbados,BRB,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,619,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1733268,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2831740,,,0
+H1,2001,2001,2001,2,0,1,Import,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,41373,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4582463,,,0
+H1,2001,2001,2001,2,0,2,Export,72,Botswana,BWA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,161904,,,0
+H1,2001,2001,2001,2,0,1,Import,76,Brazil,BRA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,880993,,,0
+H1,2001,2001,2001,2,0,2,Export,76,Brazil,BRA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,11606,,,0
+H1,2001,2001,2001,2,0,1,Import,100,Bulgaria,BGR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,19164,,,0
+H1,2001,2001,2001,2,0,2,Export,100,Bulgaria,BGR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,9282419,,,0
+H1,2001,2001,2001,2,0,1,Import,100,Bulgaria,BGR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,333036,,,0
+H1,2001,2001,2001,2,0,2,Export,100,Bulgaria,BGR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5450,,,0
+H1,2001,2001,2001,2,0,1,Import,112,Belarus,BLR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,700,,,0
+H1,2001,2001,2001,2,0,2,Export,112,Belarus,BLR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,111900,,,0
+H1,2001,2001,2001,2,0,2,Export,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,20641682,,,0
+H1,2001,2001,2001,2,0,1,Import,120,Cameroon,CMR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1105808,,,0
+H1,2001,2001,2001,2,0,1,Import,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,7731664,,,0
+H1,2001,2001,2001,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,63465,,,0
+H1,2001,2001,2001,2,0,2,Export,156,China,CHN,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,11866262,,,0
+H1,2001,2001,2001,2,0,2,Export,156,China,CHN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,17600,,,0
+H1,2001,2001,2001,2,0,1,Import,170,Colombia,COL,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,105,,,0
+H1,2001,2001,2001,2,0,2,Export,188,Costa Rica,CRI,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5647,,,0
+H1,2001,2001,2001,2,0,1,Import,191,Croatia,HRV,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,37545,,,0
+H1,2001,2001,2001,2,0,2,Export,191,Croatia,HRV,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,34362,,,0
+H1,2001,2001,2001,2,0,1,Import,191,Croatia,HRV,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2795619,,,0
+H1,2001,2001,2001,2,0,2,Export,191,Croatia,HRV,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3676245,,,0
+H1,2001,2001,2001,2,0,1,Import,196,Cyprus,CYP,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,217,,,0
+H1,2001,2001,2001,2,0,1,Import,204,Benin,BEN,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,52569,,,0
+H1,2001,2001,2001,2,0,2,Export,208,Denmark,DNK,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,12756582,,,0
+H1,2001,2001,2001,2,0,1,Import,208,Denmark,DNK,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,44299,,,0
+H1,2001,2001,2001,2,0,2,Export,208,Denmark,DNK,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,19565,,,0
+H1,2001,2001,2001,2,0,1,Import,218,Ecuador,ECU,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,358,,,0
+H1,2001,2001,2001,2,0,1,Import,222,El Salvador,SLV,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,7633,,,0
+H1,2001,2001,2001,2,0,2,Export,233,Estonia,EST,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,8286318,,,0
+H1,2001,2001,2001,2,0,1,Import,233,Estonia,EST,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,106,,,0
+H1,2001,2001,2001,2,0,2,Export,233,Estonia,EST,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,132175,,,0
+H1,2001,2001,2001,2,0,1,Import,234,Faeroe Isds,FRO,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,198,,,0
+H1,2001,2001,2001,2,0,2,Export,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,8769,,,0
+H1,2001,2001,2001,2,0,1,Import,246,Finland,FIN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,251107,,,0
+H1,2001,2001,2001,2,0,2,Export,246,Finland,FIN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,15685,,,0
+H1,2001,2001,2001,2,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,803187,,,0
+H1,2001,2001,2001,2,0,2,Export,251,France,FRA,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,9518260,,,0
+H1,2001,2001,2001,2,0,1,Import,251,France,FRA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2998667,,,0
+H1,2001,2001,2001,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5255190,,,0
+H1,2001,2001,2001,2,0,2,Export,266,Gabon,GAB,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,7657300,,,0
+H1,2001,2001,2001,2,0,2,Export,266,Gabon,GAB,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2426,,,0
+H1,2001,2001,2001,2,0,1,Import,268,Georgia,GEO,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,211325,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5000,,,0
+H1,2001,2001,2001,2,0,1,Import,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3000,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,590000,,,0
+H1,2001,2001,2001,2,0,1,Import,276,Germany,DEU,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,198336000,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,322081000,,,0
+H1,2001,2001,2001,2,0,1,Import,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,27302,,,0
+H1,2001,2001,2001,2,0,2,Export,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,39568595,,,0
+H1,2001,2001,2001,2,0,1,Import,300,Greece,GRC,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,964681,,,0
+H1,2001,2001,2001,2,0,2,Export,300,Greece,GRC,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,927934,,,0
+H1,2001,2001,2001,2,0,2,Export,344,"China, Hong Kong SAR",HKG,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,21488,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,21488,,,0
+H1,2001,2001,2001,2,0,1,Import,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,97000,,,0
+H1,2001,2001,2001,2,0,2,Export,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,15000,,,0
+H1,2001,2001,2001,2,0,1,Import,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,74052000,,,0
+H1,2001,2001,2001,2,0,2,Export,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,25565000,,,0
+H1,2001,2001,2001,2,0,1,Import,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,15728,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,415,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1320094,,,0
+H1,2001,2001,2001,2,0,2,Export,372,Ireland,IRL,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,616363,,,0
+H1,2001,2001,2001,2,0,2,Export,372,Ireland,IRL,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,7785,,,0
+H1,2001,2001,2001,2,0,1,Import,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,18000,,,0
+H1,2001,2001,2001,2,0,2,Export,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,525000,,,0
+H1,2001,2001,2001,2,0,1,Import,376,Israel,ISR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4000,,,0
+H1,2001,2001,2001,2,0,1,Import,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,522825,,,0
+H1,2001,2001,2001,2,0,2,Export,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4028555,,,0
+H1,2001,2001,2001,2,0,2,Export,381,Italy,ITA,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,15335389,,,0
+H1,2001,2001,2001,2,0,1,Import,381,Italy,ITA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,7334660,,,0
+H1,2001,2001,2001,2,0,2,Export,381,Italy,ITA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1656065,,,0
+H1,2001,2001,2001,2,0,2,Export,384,Côte d'Ivoire,CIV,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,13591641,,,0
+H1,2001,2001,2001,2,0,2,Export,384,Côte d'Ivoire,CIV,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3035414,,,0
+H1,2001,2001,2001,2,0,1,Import,384,Côte d'Ivoire,CIV,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,75842,,,0
+H1,2001,2001,2001,2,0,1,Import,392,Japan,JPN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,369883,,,0
+H1,2001,2001,2001,2,0,1,Import,398,Kazakhstan,KAZ,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1700,,,0
+H1,2001,2001,2001,2,0,1,Import,410,Rep. of Korea,KOR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,182016,,,0
+H1,2001,2001,2001,2,0,2,Export,428,Latvia,LVA,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,10535,,,0
+H1,2001,2001,2001,2,0,1,Import,428,Latvia,LVA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,41520,,,0
+H1,2001,2001,2001,2,0,2,Export,428,Latvia,LVA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,19618,,,0
+H1,2001,2001,2001,2,0,2,Export,440,Lithuania,LTU,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,77102,,,0
+H1,2001,2001,2001,2,0,1,Import,440,Lithuania,LTU,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,87966,,,0
+H1,2001,2001,2001,2,0,2,Export,440,Lithuania,LTU,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,8410442,,,0
+H1,2001,2001,2001,2,0,2,Export,442,Luxembourg,LUX,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,790,,,0
+H1,2001,2001,2001,2,0,2,Export,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,612,,,0
+H1,2001,2001,2001,2,0,1,Import,470,Malta,MLT,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,180618,,,0
+H1,2001,2001,2001,2,0,2,Export,484,Mexico,MEX,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,686040,,,0
+H1,2001,2001,2001,2,0,2,Export,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1465,,,0
+H1,2001,2001,2001,2,0,2,Export,490,"Other Asia, nes",,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2592,,,0
+H1,2001,2001,2001,2,0,2,Export,490,"Other Asia, nes",,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2593,,,0
+H1,2001,2001,2001,2,0,1,Import,496,Mongolia,MNG,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,45,,,0
+H1,2001,2001,2001,2,0,1,Import,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1242,,,0
+H1,2001,2001,2001,2,0,1,Import,508,Mozambique,MOZ,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,463,,,0
+H1,2001,2001,2001,2,0,2,Export,508,Mozambique,MOZ,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2002,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,80618,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,934269,,,0
+H1,2001,2001,2001,2,0,1,Import,528,Netherlands,NLD,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1789705,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3104674,,,0
+H1,2001,2001,2001,2,0,1,Import,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,484734,,,0
+H1,2001,2001,2001,2,0,2,Export,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3828384,,,0
+H1,2001,2001,2001,2,0,2,Export,579,Norway,NOR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,327241293,,,0
+H1,2001,2001,2001,2,0,1,Import,591,Panama,PAN,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,711474,,,0
+H1,2001,2001,2001,2,0,2,Export,604,Peru,PER,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,15912,,,0
+H1,2001,2001,2001,2,0,1,Import,604,Peru,PER,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,17,,,0
+H1,2001,2001,2001,2,0,2,Export,604,Peru,PER,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1,,,0
+H1,2001,2001,2001,2,0,2,Export,608,Philippines,PHL,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,38177,,,0
+H1,2001,2001,2001,2,0,1,Import,608,Philippines,PHL,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,11211,,,0
+H1,2001,2001,2001,2,0,1,Import,616,Poland,POL,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,11146000,,,0
+H1,2001,2001,2001,2,0,2,Export,616,Poland,POL,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,532000,,,0
+H1,2001,2001,2001,2,0,1,Import,616,Poland,POL,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,110966000,,,0
+H1,2001,2001,2001,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,204470000,,,0
+H1,2001,2001,2001,2,0,1,Import,620,Portugal,PRT,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5385717,,,0
+H1,2001,2001,2001,2,0,2,Export,620,Portugal,PRT,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,6198,,,0
+H1,2001,2001,2001,2,0,1,Import,620,Portugal,PRT,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,211,,,0
+H1,2001,2001,2001,2,0,2,Export,620,Portugal,PRT,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,733,,,0
+H1,2001,2001,2001,2,0,2,Export,642,Romania,ROU,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,7055000,,,0
+H1,2001,2001,2001,2,0,1,Import,642,Romania,ROU,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4368000,,,0
+H1,2001,2001,2001,2,0,2,Export,642,Romania,ROU,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,741000,,,0
+H1,2001,2001,2001,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1989103,,,0
+H1,2001,2001,2001,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1279932798,,,0
+H1,2001,2001,2001,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5623960,,,0
+H1,2001,2001,2001,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,574519882,,,0
+H1,2001,2001,2001,2,0,2,Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,450472,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,446486,,,0
+H1,2001,2001,2001,2,0,1,Import,690,Seychelles,SYC,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5,,,0
+H1,2001,2001,2001,2,0,1,Import,699,India,IND,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1603380,,,0
+H1,2001,2001,2001,2,0,2,Export,702,Singapore,SGP,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,286673,,,0
+H1,2001,2001,2001,2,0,1,Import,702,Singapore,SGP,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,355,,,0
+H1,2001,2001,2001,2,0,2,Export,702,Singapore,SGP,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,49,,,0
+H1,2001,2001,2001,2,0,2,Export,703,Slovakia,SVK,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,49772,,,0
+H1,2001,2001,2001,2,0,1,Import,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,163951362,,,0
+H1,2001,2001,2001,2,0,2,Export,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,363466292,,,0
+H1,2001,2001,2001,2,0,2,Export,704,Viet Nam,VNM,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,36935,,,0
+H1,2001,2001,2001,2,0,2,Export,705,Slovenia,SVN,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,12032,,,0
+H1,2001,2001,2001,2,0,1,Import,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3254734,,,0
+H1,2001,2001,2001,2,0,2,Export,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,33225,,,0
+H1,2001,2001,2001,2,0,1,Import,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2568,,,0
+H1,2001,2001,2001,2,0,2,Export,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,15190186,,,0
+H1,2001,2001,2001,2,0,2,Export,710,South Africa,ZAF,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,418883,,,0
+H1,2001,2001,2001,2,0,1,Import,710,South Africa,ZAF,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3961887,,,0
+H1,2001,2001,2001,2,0,2,Export,710,South Africa,ZAF,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1850,,,0
+H1,2001,2001,2001,2,0,1,Import,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,,,4226340,,,4
+H1,2001,2001,2001,2,0,2,Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,69633,,,0
+H1,2001,2001,2001,2,0,2,Export,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,7984954,,,0
+H1,2001,2001,2001,2,0,1,Import,724,Spain,ESP,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,2999868,,,0
+H1,2001,2001,2001,2,0,2,Export,724,Spain,ESP,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,455601,,,0
+H1,2001,2001,2001,2,0,2,Export,752,Sweden,SWE,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4556031,,,0
+H1,2001,2001,2001,2,0,1,Import,752,Sweden,SWE,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1314457,,,0
+H1,2001,2001,2001,2,0,2,Export,752,Sweden,SWE,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,290786,,,0
+H1,2001,2001,2001,2,0,2,Export,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,618609,,,0
+H1,2001,2001,2001,2,0,1,Import,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,344066,,,0
+H1,2001,2001,2001,2,0,2,Export,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,436975,,,0
+H1,2001,2001,2001,2,0,2,Export,760,Syria,SYR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,608293608,,,0
+H1,2001,2001,2001,2,0,2,Export,764,Thailand,THA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,178,,,0
+H1,2001,2001,2001,2,0,1,Import,764,Thailand,THA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,9279,,,0
+H1,2001,2001,2001,2,0,1,Import,768,Togo,TGO,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,168715,,,0
+H1,2001,2001,2001,2,0,1,Import,780,Trinidad and Tobago,TTO,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,659247,,,0
+H1,2001,2001,2001,2,0,2,Export,780,Trinidad and Tobago,TTO,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5885169,,,0
+H1,2001,2001,2001,2,0,2,Export,784,United Arab Emirates,ARE,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,152018,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,784,United Arab Emirates,ARE,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,55330,,,0
+H1,2001,2001,2001,2,0,1,Import,784,United Arab Emirates,ARE,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,672,,,0
+H1,2001,2001,2001,2,0,2,Export,788,Tunisia,TUN,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,17759,,,0
+H1,2001,2001,2001,2,0,1,Import,792,Turkey,TUR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,81877,,,0
+H1,2001,2001,2001,2,0,2,Export,792,Turkey,TUR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,41288285,,,0
+H1,2001,2001,2001,2,0,1,Import,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,91205,,,0
+H1,2001,2001,2001,2,0,2,Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,96805,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,89929,,,0
+H1,2001,2001,2001,2,0,1,Import,804,Ukraine,UKR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,224250,,,0
+H1,2001,2001,2001,2,0,2,Export,804,Ukraine,UKR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,21114740,,,0
+H1,2001,2001,2001,2,0,1,Import,804,Ukraine,UKR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,813390,,,0
+H1,2001,2001,2001,2,0,2,Export,804,Ukraine,UKR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,15066500,,,0
+H1,2001,2001,2001,2,0,1,Import,807,North Macedonia,MKD,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,8930,,,0
+H1,2001,2001,2001,2,0,2,Export,807,North Macedonia,MKD,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2587,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,10081,,,0
+H1,2001,2001,2001,2,0,1,Import,826,United Kingdom,GBR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2199,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,22560946,,,0
+H1,2001,2001,2001,2,0,1,Import,826,United Kingdom,GBR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3107987,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,729245,,,0
+H1,2001,2001,2001,2,0,2,Export,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5005,,,0
+H1,2001,2001,2001,2,0,1,Import,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,114223859,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,9648,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,160167,,,0
+H1,2001,2001,2001,2,0,1,Import,842,USA,USA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,53546,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,180565,,,0
+H1,2001,2001,2001,2,0,1,Import,891,Serbia and Montenegro,SCG,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1963305,,,0
+H1,2001,2001,2001,2,0,2,Export,891,Serbia and Montenegro,SCG,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,259344,,,0
+H1,2001,2001,2001,2,0,1,Import,891,Serbia and Montenegro,SCG,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1662316,,,0
+H1,2001,2001,2001,2,0,2,Export,891,Serbia and Montenegro,SCG,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,171122,,,0
+H1,2001,2001,2001,2,0,1,Import,8,Albania,ALB,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,68540,,,0
+H1,2001,2001,2001,2,0,1,Import,12,Algeria,DZA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43777,,,0
+H1,2001,2001,2001,2,0,2,Export,20,Andorra,AND,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,686,,,0
+H1,2001,2001,2001,2,0,1,Import,20,Andorra,AND,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,723,,,0
+H1,2001,2001,2001,2,0,1,Import,31,Azerbaijan,AZE,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11944,,,0
+H1,2001,2001,2001,2,0,2,Export,32,Argentina,ARG,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8912,,,0
+H1,2001,2001,2001,2,0,1,Import,32,Argentina,ARG,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,64210,,,0
+H1,2001,2001,2001,2,0,2,Export,32,Argentina,ARG,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4189,,,0
+H1,2001,2001,2001,2,0,2,Export,36,Australia,AUS,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16562,,,0
+H1,2001,2001,2001,2,0,1,Import,36,Australia,AUS,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,158893,,,0
+H1,2001,2001,2001,2,0,2,Export,36,Australia,AUS,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,102148,,,0
+H1,2001,2001,2001,2,0,1,Import,36,Australia,AUS,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,537205,,,0
+H1,2001,2001,2001,2,0,2,Export,36,Australia,AUS,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37982,,,0
+H1,2001,2001,2001,2,0,1,Import,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,184,,,0
+H1,2001,2001,2001,2,0,2,Export,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6229,,,0
+H1,2001,2001,2001,2,0,1,Import,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10178,,,0
+H1,2001,2001,2001,2,0,2,Export,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,643899,,,0
+H1,2001,2001,2001,2,0,1,Import,40,Austria,AUT,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,55889455,,,0
+H1,2001,2001,2001,2,0,2,Export,40,Austria,AUT,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,99772232,,,0
+H1,2001,2001,2001,2,0,1,Import,51,Armenia,ARM,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,110799,,,0
+H1,2001,2001,2001,2,0,1,Import,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,44180,,,0
+H1,2001,2001,2001,2,0,1,Import,52,Barbados,BRB,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6,,,0
+H1,2001,2001,2001,2,0,1,Import,52,Barbados,BRB,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8973,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2521809,,,0
+H1,2001,2001,2001,2,0,1,Import,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,97586,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6034751,,,0
+H1,2001,2001,2001,2,0,1,Import,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25983462,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,113205741,,,0
+H1,2001,2001,2001,2,0,2,Export,72,Botswana,BWA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,40,,,0
+H1,2001,2001,2001,2,0,2,Export,76,Brazil,BRA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,27030,,,0
+H1,2001,2001,2001,2,0,2,Export,76,Brazil,BRA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5425,,,4
+H1,2001,2001,2001,2,0,1,Import,76,Brazil,BRA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1158810,,,4
+H1,2001,2001,2001,2,0,2,Export,76,Brazil,BRA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,39291,,,0
+H1,2001,2001,2001,2,0,1,Import,100,Bulgaria,BGR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,111724,,,0
+H1,2001,2001,2001,2,0,2,Export,100,Bulgaria,BGR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,77627,,,0
+H1,2001,2001,2001,2,0,1,Import,100,Bulgaria,BGR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6511535,,,0
+H1,2001,2001,2001,2,0,2,Export,100,Bulgaria,BGR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,232706,,,0
+H1,2001,2001,2001,2,0,1,Import,112,Belarus,BLR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8100,,,0
+H1,2001,2001,2001,2,0,1,Import,112,Belarus,BLR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3758600,,,0
+H1,2001,2001,2001,2,0,2,Export,112,Belarus,BLR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,198600,,,0
+H1,2001,2001,2001,2,0,1,Import,116,Cambodia,KHM,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,226,,,0
+H1,2001,2001,2001,2,0,2,Export,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,45345,,,0
+H1,2001,2001,2001,2,0,1,Import,120,Cameroon,CMR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,916,,,0
+H1,2001,2001,2001,2,0,1,Import,120,Cameroon,CMR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,477,,,0
+H1,2001,2001,2001,2,0,2,Export,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24969,,,0
+H1,2001,2001,2001,2,0,1,Import,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11934,,,0
+H1,2001,2001,2001,2,0,2,Export,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,65628,,,0
+H1,2001,2001,2001,2,0,1,Import,124,Canada,CAN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1649872,,,0
+H1,2001,2001,2001,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,630652,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2736,,,0
+H1,2001,2001,2001,2,0,1,Import,144,Sri Lanka,LKA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,801,,,0
+H1,2001,2001,2001,2,0,2,Export,144,Sri Lanka,LKA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,150,,,0
+H1,2001,2001,2001,2,0,2,Export,144,Sri Lanka,LKA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,35985,,,0
+H1,2001,2001,2001,2,0,1,Import,152,Chile,CHL,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3128,,,0
+H1,2001,2001,2001,2,0,1,Import,152,Chile,CHL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26439,,,0
+H1,2001,2001,2001,2,0,2,Export,152,Chile,CHL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,53907,,,0
+H1,2001,2001,2001,2,0,2,Export,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,492705,,,0
+H1,2001,2001,2001,2,0,1,Import,156,China,CHN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,617,,,0
+H1,2001,2001,2001,2,0,2,Export,156,China,CHN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2269205,,,0
+H1,2001,2001,2001,2,0,1,Import,156,China,CHN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1837552,,,0
+H1,2001,2001,2001,2,0,2,Export,156,China,CHN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3562422,,,0
+H1,2001,2001,2001,2,0,1,Import,170,Colombia,COL,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1,,,0
+H1,2001,2001,2001,2,0,2,Export,170,Colombia,COL,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,209520,,,0
+H1,2001,2001,2001,2,0,1,Import,170,Colombia,COL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29303,,,0
+H1,2001,2001,2001,2,0,1,Import,188,Costa Rica,CRI,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1139,,,0
+H1,2001,2001,2001,2,0,1,Import,188,Costa Rica,CRI,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13163,,,0
+H1,2001,2001,2001,2,0,1,Import,191,Croatia,HRV,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19855,,,0
+H1,2001,2001,2001,2,0,1,Import,191,Croatia,HRV,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4525419,,,0
+H1,2001,2001,2001,2,0,2,Export,191,Croatia,HRV,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,920947,,,0
+H1,2001,2001,2001,2,0,1,Import,192,Cuba,CUB,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32571,,,0
+H1,2001,2001,2001,2,0,1,Import,192,Cuba,CUB,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,181263,,,0
+H1,2001,2001,2001,2,0,1,Import,196,Cyprus,CYP,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,87172,,,0
+H1,2001,2001,2001,2,0,4,Re-Import,196,Cyprus,CYP,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,87172,,,0
+H1,2001,2001,2001,2,0,1,Import,196,Cyprus,CYP,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,73117,,,0
+H1,2001,2001,2001,2,0,2,Export,203,Czechia,CZE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24,,,0
+H1,2001,2001,2001,2,0,1,Import,203,Czechia,CZE,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,100622,,,0
+H1,2001,2001,2001,2,0,2,Export,203,Czechia,CZE,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,678069,,,0
+H1,2001,2001,2001,2,0,1,Import,204,Benin,BEN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,679,,,0
+H1,2001,2001,2001,2,0,2,Export,208,Denmark,DNK,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21848,,,0
+H1,2001,2001,2001,2,0,1,Import,208,Denmark,DNK,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14684,,,0
+H1,2001,2001,2001,2,0,2,Export,208,Denmark,DNK,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,623779,,,0
+H1,2001,2001,2001,2,0,1,Import,208,Denmark,DNK,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4453061,,,0
+H1,2001,2001,2001,2,0,2,Export,208,Denmark,DNK,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9854641,,,0
+H1,2001,2001,2001,2,0,1,Import,212,Dominica,DMA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,84,,,0
+H1,2001,2001,2001,2,0,1,Import,214,Dominican Rep.,DOM,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30000,,,0
+H1,2001,2001,2001,2,0,1,Import,218,Ecuador,ECU,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3513,,,0
+H1,2001,2001,2001,2,0,1,Import,222,El Salvador,SLV,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5930,,,0
+H1,2001,2001,2001,2,0,2,Export,233,Estonia,EST,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5951,,,0
+H1,2001,2001,2001,2,0,1,Import,233,Estonia,EST,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1779027,,,0
+H1,2001,2001,2001,2,0,2,Export,233,Estonia,EST,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,226999,,,0
+H1,2001,2001,2001,2,0,1,Import,234,Faeroe Isds,FRO,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2187,,,0
+H1,2001,2001,2001,2,0,2,Export,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,662904,,,0
+H1,2001,2001,2001,2,0,1,Import,246,Finland,FIN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1225581,,,0
+H1,2001,2001,2001,2,0,2,Export,246,Finland,FIN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7309580,,,0
+H1,2001,2001,2001,2,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1080766,,,0
+H1,2001,2001,2001,2,0,1,Import,251,France,FRA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,63592,,,0
+H1,2001,2001,2001,2,0,2,Export,251,France,FRA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4109954,,,0
+H1,2001,2001,2001,2,0,1,Import,251,France,FRA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,42691592,,,0
+H1,2001,2001,2001,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,67733654,,,0
+H1,2001,2001,2001,2,0,1,Import,258,French Polynesia,PYF,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2552,,,0
+H1,2001,2001,2001,2,0,1,Import,258,French Polynesia,PYF,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,75,,,0
+H1,2001,2001,2001,2,0,1,Import,266,Gabon,GAB,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25945,,,0
+H1,2001,2001,2001,2,0,1,Import,266,Gabon,GAB,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,431,,,0
+H1,2001,2001,2001,2,0,1,Import,268,Georgia,GEO,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,218657,,,0
+H1,2001,2001,2001,2,0,1,Import,268,Georgia,GEO,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,122453,,,0
+H1,2001,2001,2001,2,0,1,Import,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23000,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,435000,,,0
+H1,2001,2001,2001,2,0,1,Import,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,112000,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9112000,,,0
+H1,2001,2001,2001,2,0,1,Import,276,Germany,DEU,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,400971000,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,840614000,,,0
+H1,2001,2001,2001,2,0,2,Export,300,Greece,GRC,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1197,,,0
+H1,2001,2001,2001,2,0,1,Import,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3069902,,,0
+H1,2001,2001,2001,2,0,2,Export,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33022688,,,0
+H1,2001,2001,2001,2,0,1,Import,300,Greece,GRC,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1282839,,,0
+H1,2001,2001,2001,2,0,2,Export,300,Greece,GRC,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3183883,,,0
+H1,2001,2001,2001,2,0,1,Import,308,Grenada,GRD,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11,,,0
+H1,2001,2001,2001,2,0,1,Import,308,Grenada,GRD,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,182,,,0
+H1,2001,2001,2001,2,0,1,Import,320,Guatemala,GTM,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,120,,,0
+H1,2001,2001,2001,2,0,1,Import,340,Honduras,HND,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4075,,,0
+H1,2001,2001,2001,2,0,2,Export,344,"China, Hong Kong SAR",HKG,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,35226,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,35226,,,0
+H1,2001,2001,2001,2,0,1,Import,344,"China, Hong Kong SAR",HKG,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17775,,,0
+H1,2001,2001,2001,2,0,2,Export,344,"China, Hong Kong SAR",HKG,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1017400,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1006070,,,0
+H1,2001,2001,2001,2,0,1,Import,344,"China, Hong Kong SAR",HKG,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,183993,,,0
+H1,2001,2001,2001,2,0,2,Export,344,"China, Hong Kong SAR",HKG,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4022780,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3892972,,,0
+H1,2001,2001,2001,2,0,1,Import,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2000,,,0
+H1,2001,2001,2001,2,0,2,Export,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,770000,,,0
+H1,2001,2001,2001,2,0,1,Import,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25014000,,,0
+H1,2001,2001,2001,2,0,2,Export,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30542000,,,0
+H1,2001,2001,2001,2,0,2,Export,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15120,,,0
+H1,2001,2001,2001,2,0,1,Import,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,55634,,,0
+H1,2001,2001,2001,2,0,2,Export,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,366,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,300934,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8409,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,179682,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,258376,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15640,,,0
+H1,2001,2001,2001,2,0,2,Export,364,Iran,IRN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,138,,,0
+H1,2001,2001,2001,2,0,1,Import,364,Iran,IRN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,117832,,,0
+H1,2001,2001,2001,2,0,2,Export,364,Iran,IRN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6997,,,0
+H1,2001,2001,2001,2,0,1,Import,372,Ireland,IRL,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,202839,,,0
+H1,2001,2001,2001,2,0,2,Export,372,Ireland,IRL,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,246170,,,0
+H1,2001,2001,2001,2,0,1,Import,372,Ireland,IRL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3297957,,,0
+H1,2001,2001,2001,2,0,2,Export,372,Ireland,IRL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4645967,,,0
+H1,2001,2001,2001,2,0,1,Import,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,264000,,,0
+H1,2001,2001,2001,2,0,2,Export,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4943000,,,0
+H1,2001,2001,2001,2,0,1,Import,376,Israel,ISR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,346000,,,0
+H1,2001,2001,2001,2,0,2,Export,376,Israel,ISR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2541000,,,0
+H1,2001,2001,2001,2,0,2,Export,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,450294,,,0
+H1,2001,2001,2001,2,0,1,Import,381,Italy,ITA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,127876,,,0
+H1,2001,2001,2001,2,0,2,Export,381,Italy,ITA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12889175,,,0
+H1,2001,2001,2001,2,0,1,Import,381,Italy,ITA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,41222275,,,0
+H1,2001,2001,2001,2,0,2,Export,381,Italy,ITA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,132476652,,,0
+H1,2001,2001,2001,2,0,2,Export,384,Côte d'Ivoire,CIV,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,627023,,,0
+H1,2001,2001,2001,2,0,1,Import,384,Côte d'Ivoire,CIV,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2488,,,0
+H1,2001,2001,2001,2,0,1,Import,384,Côte d'Ivoire,CIV,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1758,,,0
+H1,2001,2001,2001,2,0,1,Import,388,Jamaica,JAM,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19,,,0
+H1,2001,2001,2001,2,0,1,Import,392,Japan,JPN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17277,,,0
+H1,2001,2001,2001,2,0,2,Export,392,Japan,JPN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,844343,,,0
+H1,2001,2001,2001,2,0,1,Import,392,Japan,JPN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,363789,,,0
+H1,2001,2001,2001,2,0,2,Export,392,Japan,JPN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1284767,,,0
+H1,2001,2001,2001,2,0,1,Import,398,Kazakhstan,KAZ,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,630200,,,0
+H1,2001,2001,2001,2,0,2,Export,398,Kazakhstan,KAZ,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1900,,,0
+H1,2001,2001,2001,2,0,1,Import,400,Jordan,JOR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,64640,,,0
+H1,2001,2001,2001,2,0,2,Export,400,Jordan,JOR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7052,,,0
+H1,2001,2001,2001,2,0,1,Import,400,Jordan,JOR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,241852,,,0
+H1,2001,2001,2001,2,0,1,Import,404,Kenya,KEN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34279,,,0
+H1,2001,2001,2001,2,0,1,Import,404,Kenya,KEN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,713,,,0
+H1,2001,2001,2001,2,0,2,Export,410,Rep. of Korea,KOR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,426507,,,0
+H1,2001,2001,2001,2,0,1,Import,410,Rep. of Korea,KOR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,382,,,0
+H1,2001,2001,2001,2,0,2,Export,410,Rep. of Korea,KOR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,606655,,,0
+H1,2001,2001,2001,2,0,1,Import,410,Rep. of Korea,KOR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,427681,,,0
+H1,2001,2001,2001,2,0,2,Export,410,Rep. of Korea,KOR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4126738,,,0
+H1,2001,2001,2001,2,0,1,Import,417,Kyrgyzstan,KGZ,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,38000,,,0
+H1,2001,2001,2001,2,0,1,Import,422,Lebanon,LBN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,339100,,,0
+H1,2001,2001,2001,2,0,2,Export,422,Lebanon,LBN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,157453,,,0
+H1,2001,2001,2001,2,0,1,Import,422,Lebanon,LBN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,101222,,,0
+H1,2001,2001,2001,2,0,2,Export,428,Latvia,LVA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1955,,,0
+H1,2001,2001,2001,2,0,1,Import,428,Latvia,LVA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3324822,,,0
+H1,2001,2001,2001,2,0,2,Export,428,Latvia,LVA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19687,,,0
+H1,2001,2001,2001,2,0,1,Import,440,Lithuania,LTU,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5,,,0
+H1,2001,2001,2001,2,0,2,Export,440,Lithuania,LTU,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18274,,,0
+H1,2001,2001,2001,2,0,1,Import,440,Lithuania,LTU,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6028864,,,0
+H1,2001,2001,2001,2,0,2,Export,440,Lithuania,LTU,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10018,,,0
+H1,2001,2001,2001,2,0,2,Export,442,Luxembourg,LUX,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4706,,,0
+H1,2001,2001,2001,2,0,2,Export,442,Luxembourg,LUX,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,165937,,,0
+H1,2001,2001,2001,2,0,1,Import,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,86283,,,0
+H1,2001,2001,2001,2,0,2,Export,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1119903,,,0
+H1,2001,2001,2001,2,0,1,Import,450,Madagascar,MDG,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23,,,0
+H1,2001,2001,2001,2,0,2,Export,458,Malaysia,MYS,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,281808,,,0
+H1,2001,2001,2001,2,0,1,Import,458,Malaysia,MYS,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3082,,,0
+H1,2001,2001,2001,2,0,2,Export,458,Malaysia,MYS,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,132037,,,0
+H1,2001,2001,2001,2,0,1,Import,458,Malaysia,MYS,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,132687,,,0
+H1,2001,2001,2001,2,0,2,Export,458,Malaysia,MYS,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1884538,,,0
+H1,2001,2001,2001,2,0,1,Import,462,Maldives,MDV,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1108,,,0
+H1,2001,2001,2001,2,0,1,Import,466,Mali,MLI,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32,,,0
+H1,2001,2001,2001,2,0,1,Import,470,Malta,MLT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19273,,,0
+H1,2001,2001,2001,2,0,2,Export,470,Malta,MLT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,40546,,,0
+H1,2001,2001,2001,2,0,1,Import,470,Malta,MLT,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,97761,,,0
+H1,2001,2001,2001,2,0,2,Export,470,Malta,MLT,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32692,,,0
+H1,2001,2001,2001,2,0,1,Import,478,Mauritania,MRT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8735,,,0
+H1,2001,2001,2001,2,0,1,Import,480,Mauritius,MUS,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,36596,,,0
+H1,2001,2001,2001,2,0,1,Import,484,Mexico,MEX,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,59562,,,0
+H1,2001,2001,2001,2,0,2,Export,484,Mexico,MEX,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,46080,,,0
+H1,2001,2001,2001,2,0,1,Import,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,428625,,,0
+H1,2001,2001,2001,2,0,2,Export,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,149598,,,0
+H1,2001,2001,2001,2,0,2,Export,490,"Other Asia, nes",,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21670,,,0
+H1,2001,2001,2001,2,0,2,Export,490,"Other Asia, nes",,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1786828,,,0
+H1,2001,2001,2001,2,0,1,Import,490,"Other Asia, nes",,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,719439,,,0
+H1,2001,2001,2001,2,0,2,Export,490,"Other Asia, nes",,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2119479,,,0
+H1,2001,2001,2001,2,0,1,Import,496,Mongolia,MNG,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,164244,,,0
+H1,2001,2001,2001,2,0,1,Import,498,Rep. of Moldova,MDA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,56000,,,0
+H1,2001,2001,2001,2,0,1,Import,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,799810,,,0
+H1,2001,2001,2001,2,0,2,Export,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1142,,,0
+H1,2001,2001,2001,2,0,1,Import,508,Mozambique,MOZ,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17147,,,0
+H1,2001,2001,2001,2,0,1,Import,508,Mozambique,MOZ,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,42,,,0
+H1,2001,2001,2001,2,0,1,Import,512,Oman,OMN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,76278,,,0
+H1,2001,2001,2001,2,0,2,Export,512,Oman,OMN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6546,,,0
+H1,2001,2001,2001,2,0,1,Import,512,Oman,OMN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15477,,,0
+H1,2001,2001,2001,2,0,2,Export,516,Namibia,NAM,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2212,,,0
+H1,2001,2001,2001,2,0,1,Import,516,Namibia,NAM,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24,,,0
+H1,2001,2001,2001,2,0,2,Export,516,Namibia,NAM,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7359,,,0
+H1,2001,2001,2001,2,0,1,Import,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1791,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,139737,,,0
+H1,2001,2001,2001,2,0,1,Import,528,Netherlands,NLD,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,249018,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6213826,,,0
+H1,2001,2001,2001,2,0,1,Import,528,Netherlands,NLD,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32056143,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,60793740,,,0
+H1,2001,2001,2001,2,0,1,Import,533,Aruba,ABW,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,95,,,0
+H1,2001,2001,2001,2,0,2,Export,533,Aruba,ABW,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,145,,,0
+H1,2001,2001,2001,2,0,1,Import,540,New Caledonia,NCL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1426,,,0
+H1,2001,2001,2001,2,0,1,Import,554,New Zealand,NZL,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,35951,,,0
+H1,2001,2001,2001,2,0,2,Export,554,New Zealand,NZL,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,84597,,,0
+H1,2001,2001,2001,2,0,1,Import,554,New Zealand,NZL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,118987,,,0
+H1,2001,2001,2001,2,0,2,Export,554,New Zealand,NZL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7975,,,0
+H1,2001,2001,2001,2,0,1,Import,558,Nicaragua,NIC,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,685,,,0
+H1,2001,2001,2001,2,0,1,Import,566,Nigeria,NGA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,52818,,,0
+H1,2001,2001,2001,2,0,1,Import,566,Nigeria,NGA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,102133,,,0
+H1,2001,2001,2001,2,0,1,Import,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,66616,,,0
+H1,2001,2001,2001,2,0,2,Export,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9459,,,0
+H1,2001,2001,2001,2,0,1,Import,579,Norway,NOR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4517692,,,0
+H1,2001,2001,2001,2,0,2,Export,579,Norway,NOR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2530422,,,0
+H1,2001,2001,2001,2,0,1,Import,591,Panama,PAN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,672,,,0
+H1,2001,2001,2001,2,0,1,Import,600,Paraguay,PRY,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,263,,,0
+H1,2001,2001,2001,2,0,1,Import,604,Peru,PER,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43253,,,0
+H1,2001,2001,2001,2,0,1,Import,608,Philippines,PHL,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16846,,,0
+H1,2001,2001,2001,2,0,2,Export,608,Philippines,PHL,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18000,,,0
+H1,2001,2001,2001,2,0,1,Import,608,Philippines,PHL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,610825,,,0
+H1,2001,2001,2001,2,0,1,Import,616,Poland,POL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,92057000,,,0
+H1,2001,2001,2001,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,61401000,,,0
+H1,2001,2001,2001,2,0,2,Export,620,Portugal,PRT,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16292,,,0
+H1,2001,2001,2001,2,0,1,Import,620,Portugal,PRT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4484,,,0
+H1,2001,2001,2001,2,0,2,Export,620,Portugal,PRT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,453313,,,0
+H1,2001,2001,2001,2,0,1,Import,620,Portugal,PRT,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2027964,,,0
+H1,2001,2001,2001,2,0,2,Export,620,Portugal,PRT,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,620358,,,0
+H1,2001,2001,2001,2,0,1,Import,634,Qatar,QAT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,221817,,,0
+H1,2001,2001,2001,2,0,2,Export,634,Qatar,QAT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,312643,,,0
+H1,2001,2001,2001,2,0,1,Import,634,Qatar,QAT,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,751,,,0
+H1,2001,2001,2001,2,0,2,Export,642,Romania,ROU,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3000,,,0
+H1,2001,2001,2001,2,0,1,Import,642,Romania,ROU,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,56000,,,0
+H1,2001,2001,2001,2,0,2,Export,642,Romania,ROU,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,78000,,,0
+H1,2001,2001,2001,2,0,1,Import,642,Romania,ROU,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14194000,,,0
+H1,2001,2001,2001,2,0,2,Export,642,Romania,ROU,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,946000,,,0
+H1,2001,2001,2001,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,127625,,,0
+H1,2001,2001,2001,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31071,,,0
+H1,2001,2001,2001,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11062478,,,0
+H1,2001,2001,2001,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1763443,,,0
+H1,2001,2001,2001,2,0,1,Import,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37931,,,0
+H1,2001,2001,2001,2,0,1,Import,682,Saudi Arabia,SAU,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,266667,,,0
+H1,2001,2001,2001,2,0,2,Export,682,Saudi Arabia,SAU,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2586937,,,0
+H1,2001,2001,2001,2,0,1,Import,682,Saudi Arabia,SAU,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,369334,,,0
+H1,2001,2001,2001,2,0,1,Import,686,Senegal,SEN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3022,,,0
+H1,2001,2001,2001,2,0,1,Import,690,Seychelles,SYC,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2760,,,0
+H1,2001,2001,2001,2,0,2,Export,699,India,IND,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21642,,,0
+H1,2001,2001,2001,2,0,1,Import,699,India,IND,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11598,,,0
+H1,2001,2001,2001,2,0,2,Export,699,India,IND,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,394630,,,0
+H1,2001,2001,2001,2,0,1,Import,699,India,IND,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,208885,,,0
+H1,2001,2001,2001,2,0,2,Export,699,India,IND,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,535700,,,0
+H1,2001,2001,2001,2,0,2,Export,702,Singapore,SGP,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,77520,,,0
+H1,2001,2001,2001,2,0,1,Import,702,Singapore,SGP,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17002,,,0
+H1,2001,2001,2001,2,0,2,Export,702,Singapore,SGP,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,178458,,,0
+H1,2001,2001,2001,2,0,1,Import,702,Singapore,SGP,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,50148,,,0
+H1,2001,2001,2001,2,0,2,Export,702,Singapore,SGP,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43479,,,0
+H1,2001,2001,2001,2,0,1,Import,703,Slovakia,SVK,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,42,,,0
+H1,2001,2001,2001,2,0,2,Export,703,Slovakia,SVK,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,110832,,,0
+H1,2001,2001,2001,2,0,1,Import,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,88632137,,,0
+H1,2001,2001,2001,2,0,2,Export,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,110345921,,,0
+H1,2001,2001,2001,2,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22343,,,0
+H1,2001,2001,2001,2,0,2,Export,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,313633,,,0
+H1,2001,2001,2001,2,0,1,Import,705,Slovenia,SVN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,297775,,,0
+H1,2001,2001,2001,2,0,2,Export,705,Slovenia,SVN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,69760,,,0
+H1,2001,2001,2001,2,0,1,Import,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5494018,,,0
+H1,2001,2001,2001,2,0,2,Export,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12093989,,,0
+H1,2001,2001,2001,2,0,2,Export,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3642746,,,0
+H1,2001,2001,2001,2,0,1,Import,710,South Africa,ZAF,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43980,,,0
+H1,2001,2001,2001,2,0,2,Export,710,South Africa,ZAF,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11591,,,0
+H1,2001,2001,2001,2,0,1,Import,710,South Africa,ZAF,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,744107,,,0
+H1,2001,2001,2001,2,0,2,Export,710,South Africa,ZAF,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30397,,,0
+H1,2001,2001,2001,2,0,1,Import,716,Zimbabwe,ZWE,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2125,,,0
+H1,2001,2001,2001,2,0,1,Import,716,Zimbabwe,ZWE,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1440,,,0
+H1,2001,2001,2001,2,0,2,Export,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,159612,,,0
+H1,2001,2001,2001,2,0,1,Import,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,170378,,,0
+H1,2001,2001,2001,2,0,2,Export,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3561099,,,0
+H1,2001,2001,2001,2,0,1,Import,724,Spain,ESP,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14694611,,,4
+H1,2001,2001,2001,2,0,2,Export,724,Spain,ESP,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,23129744,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,724,Spain,ESP,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,333957,,,0
+H1,2001,2001,2001,2,0,1,Import,736,Fmr Sudan,SDN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,68562,,,0
+H1,2001,2001,2001,2,0,2,Export,752,Sweden,SWE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,969,,,0
+H1,2001,2001,2001,2,0,1,Import,752,Sweden,SWE,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,35132,,,0
+H1,2001,2001,2001,2,0,2,Export,752,Sweden,SWE,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1430666,,,0
+H1,2001,2001,2001,2,0,1,Import,752,Sweden,SWE,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7617909,,,0
+H1,2001,2001,2001,2,0,2,Export,752,Sweden,SWE,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20351026,,,0
+H1,2001,2001,2001,2,0,2,Export,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,48451,,,0
+H1,2001,2001,2001,2,0,1,Import,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7466,,,0
+H1,2001,2001,2001,2,0,2,Export,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,491931,,,0
+H1,2001,2001,2001,2,0,1,Import,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9497343,,,0
+H1,2001,2001,2001,2,0,2,Export,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24730454,,,0
+H1,2001,2001,2001,2,0,2,Export,764,Thailand,THA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30197,,,0
+H1,2001,2001,2001,2,0,2,Export,764,Thailand,THA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1012269,,,0
+H1,2001,2001,2001,2,0,1,Import,764,Thailand,THA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,691109,,,0
+H1,2001,2001,2001,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,407082,,,0
+H1,2001,2001,2001,2,0,2,Export,780,Trinidad and Tobago,TTO,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1328,,,0
+H1,2001,2001,2001,2,0,2,Export,780,Trinidad and Tobago,TTO,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,83,,,0
+H1,2001,2001,2001,2,0,2,Export,784,United Arab Emirates,ARE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,89651,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,784,United Arab Emirates,ARE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,70960,,,0
+H1,2001,2001,2001,2,0,1,Import,784,United Arab Emirates,ARE,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,348362,,,0
+H1,2001,2001,2001,2,0,2,Export,784,United Arab Emirates,ARE,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,103696,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,784,United Arab Emirates,ARE,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28676,,,0
+H1,2001,2001,2001,2,0,1,Import,784,United Arab Emirates,ARE,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2081817,,,0
+H1,2001,2001,2001,2,0,2,Export,784,United Arab Emirates,ARE,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5831,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,784,United Arab Emirates,ARE,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5231,,,0
+H1,2001,2001,2001,2,0,1,Import,788,Tunisia,TUN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,394,,,0
+H1,2001,2001,2001,2,0,2,Export,788,Tunisia,TUN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21916,,,0
+H1,2001,2001,2001,2,0,1,Import,788,Tunisia,TUN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,116957,,,0
+H1,2001,2001,2001,2,0,1,Import,792,Turkey,TUR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39257,,,0
+H1,2001,2001,2001,2,0,2,Export,792,Turkey,TUR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8176115,,,0
+H1,2001,2001,2001,2,0,1,Import,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1957415,,,0
+H1,2001,2001,2001,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1933905,,,0
+H1,2001,2001,2001,2,0,2,Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,42036,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7715,,,0
+H1,2001,2001,2001,2,0,1,Import,804,Ukraine,UKR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14980,,,0
+H1,2001,2001,2001,2,0,2,Export,804,Ukraine,UKR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12630,,,0
+H1,2001,2001,2001,2,0,1,Import,804,Ukraine,UKR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15842800,,,0
+H1,2001,2001,2001,2,0,2,Export,804,Ukraine,UKR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,262940,,,0
+H1,2001,2001,2001,2,0,1,Import,807,North Macedonia,MKD,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,99884,,,0
+H1,2001,2001,2001,2,0,1,Import,807,North Macedonia,MKD,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,119078,,,0
+H1,2001,2001,2001,2,0,2,Export,807,North Macedonia,MKD,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,760,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,49272,,,0
+H1,2001,2001,2001,2,0,1,Import,826,United Kingdom,GBR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,792285,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10586309,,,0
+H1,2001,2001,2001,2,0,1,Import,826,United Kingdom,GBR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16978828,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43324669,,,0
+H1,2001,2001,2001,2,0,1,Import,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1280,,,0
+H1,2001,2001,2001,2,0,2,Export,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31492,,,0
+H1,2001,2001,2001,2,0,1,Import,834,United Rep. of Tanzania,TZA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,71273,,,0
+H1,2001,2001,2001,2,0,1,Import,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2837,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,408481,,,0
+H1,2001,2001,2001,2,0,1,Import,842,USA,USA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,59790,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1429433,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,842,USA,USA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6818,,,0
+H1,2001,2001,2001,2,0,1,Import,842,USA,USA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12483824,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14724046,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,842,USA,USA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,297847,,,0
+H1,2001,2001,2001,2,0,1,Import,854,Burkina Faso,BFA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5029,,,0
+H1,2001,2001,2001,2,0,1,Import,858,Uruguay,URY,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,125,,,0
+H1,2001,2001,2001,2,0,1,Import,858,Uruguay,URY,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21385,,,0
+H1,2001,2001,2001,2,0,1,Import,862,Venezuela,VEN,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20691,,,0
+H1,2001,2001,2001,2,0,1,Import,862,Venezuela,VEN,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,35484,,,0
+H1,2001,2001,2001,2,0,1,Import,891,Serbia and Montenegro,SCG,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,251762,,,0
+H1,2001,2001,2001,2,0,2,Export,891,Serbia and Montenegro,SCG,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,205458,,,0
+H1,2001,2001,2001,2,0,1,Import,891,Serbia and Montenegro,SCG,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8540893,,,0
+H1,2001,2001,2001,2,0,2,Export,891,Serbia and Montenegro,SCG,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1261111,,,0
+H1,2001,2001,2001,2,0,1,Import,8,Albania,ALB,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,195760,,,0
+H1,2001,2001,2001,2,0,1,Import,12,Algeria,DZA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4639331,,,0
+H1,2001,2001,2001,2,0,1,Import,20,Andorra,AND,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,330,,,0
+H1,2001,2001,2001,2,0,1,Import,31,Azerbaijan,AZE,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8837,,,0
+H1,2001,2001,2001,2,0,2,Export,32,Argentina,ARG,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,143503,,,0
+H1,2001,2001,2001,2,0,1,Import,32,Argentina,ARG,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1495604,,,0
+H1,2001,2001,2001,2,0,2,Export,32,Argentina,ARG,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4,,,0
+H1,2001,2001,2001,2,0,1,Import,36,Australia,AUS,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3826,,,0
+H1,2001,2001,2001,2,0,2,Export,36,Australia,AUS,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,221120,,,0
+H1,2001,2001,2001,2,0,1,Import,36,Australia,AUS,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1722419,,,0
+H1,2001,2001,2001,2,0,2,Export,36,Australia,AUS,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5397,,,0
+H1,2001,2001,2001,2,0,2,Export,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8297,,,0
+H1,2001,2001,2001,2,0,1,Import,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3424,,,0
+H1,2001,2001,2001,2,0,2,Export,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,75028,,,0
+H1,2001,2001,2001,2,0,1,Import,40,Austria,AUT,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25105512,,,0
+H1,2001,2001,2001,2,0,2,Export,40,Austria,AUT,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30444607,,,0
+H1,2001,2001,2001,2,0,1,Import,51,Armenia,ARM,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,452,,,0
+H1,2001,2001,2001,2,0,1,Import,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15734,,,0
+H1,2001,2001,2001,2,0,1,Import,52,Barbados,BRB,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,63994,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1569362,,,0
+H1,2001,2001,2001,2,0,1,Import,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3199,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2869791,,,0
+H1,2001,2001,2001,2,0,1,Import,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,21956910,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9158530,,,0
+H1,2001,2001,2001,2,0,2,Export,72,Botswana,BWA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,33,,,0
+H1,2001,2001,2001,2,0,2,Export,76,Brazil,BRA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,45120,,,0
+H1,2001,2001,2001,2,0,1,Import,76,Brazil,BRA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,275,,,4
+H1,2001,2001,2001,2,0,2,Export,76,Brazil,BRA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,318795,,,4
+H1,2001,2001,2001,2,0,1,Import,76,Brazil,BRA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1382534,,,4
+H1,2001,2001,2001,2,0,2,Export,76,Brazil,BRA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,61185,,,4
+H1,2001,2001,2001,2,0,1,Import,100,Bulgaria,BGR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14722,,,0
+H1,2001,2001,2001,2,0,2,Export,100,Bulgaria,BGR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9088,,,0
+H1,2001,2001,2001,2,0,1,Import,100,Bulgaria,BGR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6290981,,,0
+H1,2001,2001,2001,2,0,2,Export,100,Bulgaria,BGR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,720991,,,0
+H1,2001,2001,2001,2,0,1,Import,112,Belarus,BLR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,100,,,0
+H1,2001,2001,2001,2,0,1,Import,112,Belarus,BLR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1209300,,,0
+H1,2001,2001,2001,2,0,2,Export,112,Belarus,BLR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,372700,,,0
+H1,2001,2001,2001,2,0,2,Export,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,613,,,0
+H1,2001,2001,2001,2,0,1,Import,120,Cameroon,CMR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,491993,,,0
+H1,2001,2001,2001,2,0,2,Export,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14988,,,0
+H1,2001,2001,2001,2,0,1,Import,124,Canada,CAN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,675909,,,0
+H1,2001,2001,2001,2,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,117162,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2559,,,0
+H1,2001,2001,2001,2,0,1,Import,132,Cabo Verde,CPV,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18417,,,0
+H1,2001,2001,2001,2,0,2,Export,144,Sri Lanka,LKA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1833,,,0
+H1,2001,2001,2001,2,0,2,Export,144,Sri Lanka,LKA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,50971,,,0
+H1,2001,2001,2001,2,0,1,Import,144,Sri Lanka,LKA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,51494,,,0
+H1,2001,2001,2001,2,0,2,Export,144,Sri Lanka,LKA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,532255,,,0
+H1,2001,2001,2001,2,0,1,Import,152,Chile,CHL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30236,,,0
+H1,2001,2001,2001,2,0,2,Export,152,Chile,CHL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1250,,,0
+H1,2001,2001,2001,2,0,2,Export,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,255378,,,0
+H1,2001,2001,2001,2,0,2,Export,156,China,CHN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,908513,,,0
+H1,2001,2001,2001,2,0,1,Import,156,China,CHN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1189816,,,0
+H1,2001,2001,2001,2,0,2,Export,156,China,CHN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,264514,,,0
+H1,2001,2001,2001,2,0,1,Import,170,Colombia,COL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,26183,,,0
+H1,2001,2001,2001,2,0,1,Import,175,Mayotte,MYT,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4805,,,0
+H1,2001,2001,2001,2,0,1,Import,188,Costa Rica,CRI,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10752,,,0
+H1,2001,2001,2001,2,0,2,Export,191,Croatia,HRV,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2334,,,0
+H1,2001,2001,2001,2,0,1,Import,191,Croatia,HRV,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5354925,,,0
+H1,2001,2001,2001,2,0,2,Export,191,Croatia,HRV,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6417,,,0
+H1,2001,2001,2001,2,0,1,Import,192,Cuba,CUB,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16,,,0
+H1,2001,2001,2001,2,0,1,Import,192,Cuba,CUB,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,445399,,,0
+H1,2001,2001,2001,2,0,1,Import,196,Cyprus,CYP,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,98,,,0
+H1,2001,2001,2001,2,0,1,Import,196,Cyprus,CYP,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2704,,,0
+H1,2001,2001,2001,2,0,4,Re-Import,196,Cyprus,CYP,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2704,,,0
+H1,2001,2001,2001,2,0,1,Import,196,Cyprus,CYP,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,356272,,,0
+H1,2001,2001,2001,2,0,1,Import,203,Czechia,CZE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8,,,0
+H1,2001,2001,2001,2,0,2,Export,203,Czechia,CZE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7925,,,0
+H1,2001,2001,2001,2,0,1,Import,203,Czechia,CZE,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43397,,,0
+H1,2001,2001,2001,2,0,2,Export,203,Czechia,CZE,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,564380,,,0
+H1,2001,2001,2001,2,0,1,Import,204,Benin,BEN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10433,,,0
+H1,2001,2001,2001,2,0,2,Export,208,Denmark,DNK,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1991,,,0
+H1,2001,2001,2001,2,0,2,Export,208,Denmark,DNK,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,149589,,,0
+H1,2001,2001,2001,2,0,1,Import,208,Denmark,DNK,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3742080,,,0
+H1,2001,2001,2001,2,0,2,Export,208,Denmark,DNK,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1116883,,,0
+H1,2001,2001,2001,2,0,1,Import,214,Dominican Rep.,DOM,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,58000,,,0
+H1,2001,2001,2001,2,0,1,Import,218,Ecuador,ECU,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17283,,,0
+H1,2001,2001,2001,2,0,1,Import,222,El Salvador,SLV,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13703,,,0
+H1,2001,2001,2001,2,0,1,Import,231,Ethiopia,ETH,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,36451,,,0
+H1,2001,2001,2001,2,0,2,Export,233,Estonia,EST,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6653,,,0
+H1,2001,2001,2001,2,0,1,Import,233,Estonia,EST,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,255777,,,0
+H1,2001,2001,2001,2,0,2,Export,233,Estonia,EST,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,141,,,0
+H1,2001,2001,2001,2,0,1,Import,234,Faeroe Isds,FRO,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18,,,0
+H1,2001,2001,2001,2,0,2,Export,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,211031,,,0
+H1,2001,2001,2001,2,0,1,Import,246,Finland,FIN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6531104,,,0
+H1,2001,2001,2001,2,0,2,Export,246,Finland,FIN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1200059,,,0
+H1,2001,2001,2001,2,0,1,Import,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10748,,,0
+H1,2001,2001,2001,2,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,150430,,,0
+H1,2001,2001,2001,2,0,2,Export,251,France,FRA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1474748,,,0
+H1,2001,2001,2001,2,0,1,Import,251,France,FRA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,64375500,,,0
+H1,2001,2001,2001,2,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,74768033,,,0
+H1,2001,2001,2001,2,0,1,Import,258,French Polynesia,PYF,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12008,,,0
+H1,2001,2001,2001,2,0,1,Import,266,Gabon,GAB,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,31853,,,0
+H1,2001,2001,2001,2,0,1,Import,268,Georgia,GEO,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47477,,,0
+H1,2001,2001,2001,2,0,1,Import,268,Georgia,GEO,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,333,,,0
+H1,2001,2001,2001,2,0,1,Import,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25000,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,197000,,,0
+H1,2001,2001,2001,2,0,1,Import,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25000,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3799000,,,0
+H1,2001,2001,2001,2,0,1,Import,276,Germany,DEU,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,298288000,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,241686000,,,0
+H1,2001,2001,2001,2,0,1,Import,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,51602,,,0
+H1,2001,2001,2001,2,0,2,Export,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,395743,,,0
+H1,2001,2001,2001,2,0,1,Import,300,Greece,GRC,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5724156,,,0
+H1,2001,2001,2001,2,0,1,Import,308,Grenada,GRD,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3,,,0
+H1,2001,2001,2001,2,0,1,Import,308,Grenada,GRD,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,921,,,0
+H1,2001,2001,2001,2,0,1,Import,320,Guatemala,GTM,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3762,,,0
+H1,2001,2001,2001,2,0,1,Import,324,Guinea,GIN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13626,,,0
+H1,2001,2001,2001,2,0,1,Import,328,Guyana,GUY,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7,,,0
+H1,2001,2001,2001,2,0,1,Import,328,Guyana,GUY,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3138,,,0
+H1,2001,2001,2001,2,0,1,Import,340,Honduras,HND,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,37091,,,0
+H1,2001,2001,2001,2,0,2,Export,344,"China, Hong Kong SAR",HKG,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,46374,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,46374,,,0
+H1,2001,2001,2001,2,0,2,Export,344,"China, Hong Kong SAR",HKG,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27251,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27251,,,0
+H1,2001,2001,2001,2,0,2,Export,344,"China, Hong Kong SAR",HKG,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,149171,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,149171,,,0
+H1,2001,2001,2001,2,0,2,Export,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,67000,,,0
+H1,2001,2001,2001,2,0,1,Import,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12124000,,,0
+H1,2001,2001,2001,2,0,2,Export,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2096000,,,0
+H1,2001,2001,2001,2,0,1,Import,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,41941,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,288,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,121579,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8467,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,468243,,,0
+H1,2001,2001,2001,2,0,1,Import,364,Iran,IRN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3861,,,0
+H1,2001,2001,2001,2,0,1,Import,364,Iran,IRN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,142433,,,0
+H1,2001,2001,2001,2,0,1,Import,372,Ireland,IRL,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,924,,,0
+H1,2001,2001,2001,2,0,2,Export,372,Ireland,IRL,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22,,,0
+H1,2001,2001,2001,2,0,1,Import,372,Ireland,IRL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2649177,,,0
+H1,2001,2001,2001,2,0,2,Export,372,Ireland,IRL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,156429,,,0
+H1,2001,2001,2001,2,0,1,Import,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6000,,,0
+H1,2001,2001,2001,2,0,2,Export,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,887000,,,0
+H1,2001,2001,2001,2,0,1,Import,376,Israel,ISR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,645000,,,0
+H1,2001,2001,2001,2,0,2,Export,376,Israel,ISR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,49000,,,0
+H1,2001,2001,2001,2,0,1,Import,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22751,,,0
+H1,2001,2001,2001,2,0,2,Export,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,247733,,,0
+H1,2001,2001,2001,2,0,2,Export,381,Italy,ITA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1640991,,,0
+H1,2001,2001,2001,2,0,1,Import,381,Italy,ITA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,36236879,,,0
+H1,2001,2001,2001,2,0,2,Export,381,Italy,ITA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20406590,,,0
+H1,2001,2001,2001,2,0,2,Export,384,Côte d'Ivoire,CIV,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,273,,,0
+H1,2001,2001,2001,2,0,1,Import,384,Côte d'Ivoire,CIV,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,181197,,,0
+H1,2001,2001,2001,2,0,1,Import,388,Jamaica,JAM,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,298,,,0
+H1,2001,2001,2001,2,0,2,Export,392,Japan,JPN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4087162,,,0
+H1,2001,2001,2001,2,0,1,Import,392,Japan,JPN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,499659,,,0
+H1,2001,2001,2001,2,0,2,Export,392,Japan,JPN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,777862,,,0
+H1,2001,2001,2001,2,0,1,Import,398,Kazakhstan,KAZ,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,260200,,,0
+H1,2001,2001,2001,2,0,1,Import,400,Jordan,JOR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2738,,,0
+H1,2001,2001,2001,2,0,1,Import,400,Jordan,JOR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,116016,,,0
+H1,2001,2001,2001,2,0,1,Import,404,Kenya,KEN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11527,,,0
+H1,2001,2001,2001,2,0,2,Export,410,Rep. of Korea,KOR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29832,,,0
+H1,2001,2001,2001,2,0,2,Export,410,Rep. of Korea,KOR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1239514,,,0
+H1,2001,2001,2001,2,0,1,Import,410,Rep. of Korea,KOR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,36928,,,0
+H1,2001,2001,2001,2,0,2,Export,410,Rep. of Korea,KOR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,670606,,,0
+H1,2001,2001,2001,2,0,1,Import,417,Kyrgyzstan,KGZ,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,560,,,0
+H1,2001,2001,2001,2,0,1,Import,422,Lebanon,LBN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19615,,,0
+H1,2001,2001,2001,2,0,2,Export,422,Lebanon,LBN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38103,,,0
+H1,2001,2001,2001,2,0,1,Import,422,Lebanon,LBN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,592920,,,0
+H1,2001,2001,2001,2,0,2,Export,428,Latvia,LVA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1565,,,0
+H1,2001,2001,2001,2,0,1,Import,428,Latvia,LVA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2091950,,,0
+H1,2001,2001,2001,2,0,2,Export,428,Latvia,LVA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8792,,,0
+H1,2001,2001,2001,2,0,2,Export,440,Lithuania,LTU,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17771,,,0
+H1,2001,2001,2001,2,0,1,Import,440,Lithuania,LTU,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2272214,,,0
+H1,2001,2001,2001,2,0,2,Export,440,Lithuania,LTU,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14614,,,0
+H1,2001,2001,2001,2,0,2,Export,442,Luxembourg,LUX,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19682,,,0
+H1,2001,2001,2001,2,0,2,Export,442,Luxembourg,LUX,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,788,,,0
+H1,2001,2001,2001,2,0,1,Import,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18835,,,0
+H1,2001,2001,2001,2,0,2,Export,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,539163,,,0
+H1,2001,2001,2001,2,0,1,Import,446,"China, Macao SAR",MAC,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3153,,,0
+H1,2001,2001,2001,2,0,1,Import,450,Madagascar,MDG,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,71807,,,0
+H1,2001,2001,2001,2,0,2,Export,458,Malaysia,MYS,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,835336,,,0
+H1,2001,2001,2001,2,0,1,Import,458,Malaysia,MYS,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,68,,,0
+H1,2001,2001,2001,2,0,2,Export,458,Malaysia,MYS,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2191327,,,0
+H1,2001,2001,2001,2,0,1,Import,466,Mali,MLI,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,379675,,,0
+H1,2001,2001,2001,2,0,1,Import,470,Malta,MLT,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,192422,,,0
+H1,2001,2001,2001,2,0,2,Export,470,Malta,MLT,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,143276,,,0
+H1,2001,2001,2001,2,0,1,Import,480,Mauritius,MUS,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8152,,,0
+H1,2001,2001,2001,2,0,1,Import,480,Mauritius,MUS,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10781,,,0
+H1,2001,2001,2001,2,0,1,Import,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1319811,,,0
+H1,2001,2001,2001,2,0,2,Export,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13293,,,0
+H1,2001,2001,2001,2,0,2,Export,490,"Other Asia, nes",,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28630,,,0
+H1,2001,2001,2001,2,0,2,Export,490,"Other Asia, nes",,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,929853,,,0
+H1,2001,2001,2001,2,0,1,Import,490,"Other Asia, nes",,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,943460,,,0
+H1,2001,2001,2001,2,0,2,Export,490,"Other Asia, nes",,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,322235,,,0
+H1,2001,2001,2001,2,0,1,Import,496,Mongolia,MNG,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24058,,,0
+H1,2001,2001,2001,2,0,1,Import,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,248767,,,0
+H1,2001,2001,2001,2,0,1,Import,508,Mozambique,MOZ,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10410,,,0
+H1,2001,2001,2001,2,0,1,Import,508,Mozambique,MOZ,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13615,,,0
+H1,2001,2001,2001,2,0,1,Import,512,Oman,OMN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6702,,,0
+H1,2001,2001,2001,2,0,2,Export,516,Namibia,NAM,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,62,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,170193,,,0
+H1,2001,2001,2001,2,0,1,Import,528,Netherlands,NLD,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47475,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3199623,,,0
+H1,2001,2001,2001,2,0,1,Import,528,Netherlands,NLD,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12020942,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7946209,,,0
+H1,2001,2001,2001,2,0,1,Import,540,New Caledonia,NCL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7407,,,0
+H1,2001,2001,2001,2,0,1,Import,554,New Zealand,NZL,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1632,,,0
+H1,2001,2001,2001,2,0,2,Export,554,New Zealand,NZL,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10878,,,0
+H1,2001,2001,2001,2,0,1,Import,554,New Zealand,NZL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,617582,,,0
+H1,2001,2001,2001,2,0,1,Import,558,Nicaragua,NIC,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,190,,,0
+H1,2001,2001,2001,2,0,1,Import,562,Niger,NER,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,478,,,0
+H1,2001,2001,2001,2,0,1,Import,566,Nigeria,NGA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,705312,,,0
+H1,2001,2001,2001,2,0,2,Export,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32394,,,0
+H1,2001,2001,2001,2,0,1,Import,579,Norway,NOR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4079057,,,0
+H1,2001,2001,2001,2,0,2,Export,579,Norway,NOR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23205,,,0
+H1,2001,2001,2001,2,0,1,Import,591,Panama,PAN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,912,,,0
+H1,2001,2001,2001,2,0,1,Import,600,Paraguay,PRY,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,591,,,0
+H1,2001,2001,2001,2,0,1,Import,604,Peru,PER,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,57,,,0
+H1,2001,2001,2001,2,0,1,Import,604,Peru,PER,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,34663,,,0
+H1,2001,2001,2001,2,0,2,Export,608,Philippines,PHL,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18525,,,0
+H1,2001,2001,2001,2,0,2,Export,608,Philippines,PHL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,99530,,,0
+H1,2001,2001,2001,2,0,2,Export,616,Poland,POL,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,108000,,,0
+H1,2001,2001,2001,2,0,1,Import,616,Poland,POL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30552000,,,0
+H1,2001,2001,2001,2,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18720000,,,0
+H1,2001,2001,2001,2,0,2,Export,620,Portugal,PRT,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,602,,,0
+H1,2001,2001,2001,2,0,2,Export,620,Portugal,PRT,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,136893,,,0
+H1,2001,2001,2001,2,0,1,Import,620,Portugal,PRT,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6242676,,,0
+H1,2001,2001,2001,2,0,2,Export,620,Portugal,PRT,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5572201,,,0
+H1,2001,2001,2001,2,0,1,Import,634,Qatar,QAT,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,139364,,,0
+H1,2001,2001,2001,2,0,1,Import,642,Romania,ROU,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2000,,,0
+H1,2001,2001,2001,2,0,2,Export,642,Romania,ROU,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3000,,,0
+H1,2001,2001,2001,2,0,1,Import,642,Romania,ROU,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12292000,,,0
+H1,2001,2001,2001,2,0,2,Export,642,Romania,ROU,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1464000,,,0
+H1,2001,2001,2001,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,250860,,,0
+H1,2001,2001,2001,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12191,,,0
+H1,2001,2001,2001,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5764339,,,0
+H1,2001,2001,2001,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5866825,,,0
+H1,2001,2001,2001,2,0,2,Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4894,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4894,,,0
+H1,2001,2001,2001,2,0,1,Import,682,Saudi Arabia,SAU,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,98933,,,0
+H1,2001,2001,2001,2,0,1,Import,686,Senegal,SEN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,114031,,,0
+H1,2001,2001,2001,2,0,1,Import,690,Seychelles,SYC,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7969,,,0
+H1,2001,2001,2001,2,0,2,Export,699,India,IND,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,76322,,,0
+H1,2001,2001,2001,2,0,2,Export,699,India,IND,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24052,,,0
+H1,2001,2001,2001,2,0,1,Import,699,India,IND,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,422371,,,0
+H1,2001,2001,2001,2,0,2,Export,699,India,IND,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,123950,,,0
+H1,2001,2001,2001,2,0,2,Export,702,Singapore,SGP,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,693102,,,0
+H1,2001,2001,2001,2,0,1,Import,702,Singapore,SGP,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28557,,,0
+H1,2001,2001,2001,2,0,2,Export,702,Singapore,SGP,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7690,,,0
+H1,2001,2001,2001,2,0,2,Export,703,Slovakia,SVK,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,97078,,,0
+H1,2001,2001,2001,2,0,1,Import,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,33924557,,,0
+H1,2001,2001,2001,2,0,2,Export,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,42174066,,,0
+H1,2001,2001,2001,2,0,2,Export,704,Viet Nam,VNM,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,567,,,0
+H1,2001,2001,2001,2,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,130005,,,0
+H1,2001,2001,2001,2,0,2,Export,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,35070,,,0
+H1,2001,2001,2001,2,0,1,Import,705,Slovenia,SVN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5,,,0
+H1,2001,2001,2001,2,0,2,Export,705,Slovenia,SVN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,355476,,,0
+H1,2001,2001,2001,2,0,1,Import,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,21256543,,,0
+H1,2001,2001,2001,2,0,2,Export,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3106178,,,0
+H1,2001,2001,2001,2,0,2,Export,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2323146,,,0
+H1,2001,2001,2001,2,0,1,Import,710,South Africa,ZAF,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,44,,,0
+H1,2001,2001,2001,2,0,2,Export,710,South Africa,ZAF,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47606,,,0
+H1,2001,2001,2001,2,0,1,Import,710,South Africa,ZAF,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,663800,,,0
+H1,2001,2001,2001,2,0,1,Import,716,Zimbabwe,ZWE,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,358,,,0
+H1,2001,2001,2001,2,0,1,Import,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,98893,,,0
+H1,2001,2001,2001,2,0,2,Export,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,223706,,,0
+H1,2001,2001,2001,2,0,1,Import,724,Spain,ESP,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,34288036,,,0
+H1,2001,2001,2001,2,0,2,Export,724,Spain,ESP,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,21344358,,,0
+H1,2001,2001,2001,2,0,1,Import,736,Fmr Sudan,SDN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1413,,,0
+H1,2001,2001,2001,2,0,1,Import,736,Fmr Sudan,SDN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,70586,,,0
+H1,2001,2001,2001,2,0,2,Export,752,Sweden,SWE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2908,,,0
+H1,2001,2001,2001,2,0,1,Import,752,Sweden,SWE,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3106,,,0
+H1,2001,2001,2001,2,0,2,Export,752,Sweden,SWE,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,53601,,,0
+H1,2001,2001,2001,2,0,1,Import,752,Sweden,SWE,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6347708,,,0
+H1,2001,2001,2001,2,0,2,Export,752,Sweden,SWE,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2330938,,,0
+H1,2001,2001,2001,2,0,2,Export,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,33808,,,0
+H1,2001,2001,2001,2,0,1,Import,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,65,,,0
+H1,2001,2001,2001,2,0,2,Export,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,45085,,,0
+H1,2001,2001,2001,2,0,1,Import,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7121344,,,0
+H1,2001,2001,2001,2,0,2,Export,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4933219,,,0
+H1,2001,2001,2001,2,0,1,Import,760,Syria,SYR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,647930,,,0
+H1,2001,2001,2001,2,0,2,Export,764,Thailand,THA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4534,,,0
+H1,2001,2001,2001,2,0,2,Export,764,Thailand,THA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,275219,,,0
+H1,2001,2001,2001,2,0,1,Import,764,Thailand,THA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,157965,,,0
+H1,2001,2001,2001,2,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1945809,,,0
+H1,2001,2001,2001,2,0,2,Export,780,Trinidad and Tobago,TTO,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,108,,,0
+H1,2001,2001,2001,2,0,2,Export,784,United Arab Emirates,ARE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,420165,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,784,United Arab Emirates,ARE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,420165,,,0
+H1,2001,2001,2001,2,0,1,Import,784,United Arab Emirates,ARE,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2661,,,0
+H1,2001,2001,2001,2,0,2,Export,784,United Arab Emirates,ARE,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,127468,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,784,United Arab Emirates,ARE,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,123782,,,0
+H1,2001,2001,2001,2,0,1,Import,784,United Arab Emirates,ARE,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,436459,,,0
+H1,2001,2001,2001,2,0,2,Export,784,United Arab Emirates,ARE,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5835,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,784,United Arab Emirates,ARE,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5835,,,0
+H1,2001,2001,2001,2,0,1,Import,788,Tunisia,TUN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,175,,,0
+H1,2001,2001,2001,2,0,1,Import,788,Tunisia,TUN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,595375,,,0
+H1,2001,2001,2001,2,0,1,Import,792,Turkey,TUR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11613,,,0
+H1,2001,2001,2001,2,0,2,Export,792,Turkey,TUR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1440134,,,0
+H1,2001,2001,2001,2,0,1,Import,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,432356,,,0
+H1,2001,2001,2001,2,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1741793,,,0
+H1,2001,2001,2001,2,0,2,Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7120,,,0
+H1,2001,2001,2001,2,0,2,Export,804,Ukraine,UKR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38290,,,0
+H1,2001,2001,2001,2,0,1,Import,804,Ukraine,UKR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1492030,,,0
+H1,2001,2001,2001,2,0,2,Export,804,Ukraine,UKR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,330450,,,0
+H1,2001,2001,2001,2,0,1,Import,807,North Macedonia,MKD,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,114815,,,0
+H1,2001,2001,2001,2,0,1,Import,807,North Macedonia,MKD,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,135928,,,0
+H1,2001,2001,2001,2,0,1,Import,826,United Kingdom,GBR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,79860,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,965,,,0
+H1,2001,2001,2001,2,0,1,Import,826,United Kingdom,GBR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,97145,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2647008,,,0
+H1,2001,2001,2001,2,0,1,Import,826,United Kingdom,GBR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,37508090,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16314707,,,0
+H1,2001,2001,2001,2,0,1,Import,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,117,,,0
+H1,2001,2001,2001,2,0,2,Export,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,96696,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,559168,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,805640,,,0
+H1,2001,2001,2001,2,0,1,Import,842,USA,USA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9079784,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4083649,,,0
+H1,2001,2001,2001,2,0,3,Re-Export,842,USA,USA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,40756,,,0
+H1,2001,2001,2001,2,0,1,Import,854,Burkina Faso,BFA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,67821,,,0
+H1,2001,2001,2001,2,0,1,Import,858,Uruguay,URY,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,59687,,,0
+H1,2001,2001,2001,2,0,1,Import,862,Venezuela,VEN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5726,,,0
+H1,2001,2001,2001,2,0,2,Export,862,Venezuela,VEN,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,56074,,,0
+H1,2001,2001,2001,2,0,1,Import,862,Venezuela,VEN,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47033,,,0
+H1,2001,2001,2001,2,0,1,Import,891,Serbia and Montenegro,SCG,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,51095,,,0
+H1,2001,2001,2001,2,0,2,Export,891,Serbia and Montenegro,SCG,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5838836,,,0
+H1,2001,2001,2001,2,0,1,Import,891,Serbia and Montenegro,SCG,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6076428,,,0
+H1,2001,2001,2001,2,0,2,Export,891,Serbia and Montenegro,SCG,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4367308,,,0
+H0,2001,2001,2001,2,0,2,Export,140,Central African Rep.,CAF,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,16387,,,0
+H0,2001,2001,2001,2,0,1,Import,414,Kuwait,KWT,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2208,,,0
+H0,2001,2001,2001,2,0,1,Import,414,Kuwait,KWT,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3013,,,0
+H0,2001,2001,2001,2,0,2,Export,740,Suriname,SUR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,20027,,,0
+H0,2001,2001,2001,2,0,2,Export,818,Egypt,EGY,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4252,,,0
+H0,2001,2001,2001,2,0,1,Import,818,Egypt,EGY,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1661519,,,0
+H0,2001,2001,2001,2,0,2,Export,818,Egypt,EGY,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,84428,,,0
+H0,2001,2001,2001,2,0,2,Export,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,2208769,,,0
+H0,2001,2001,2001,2,0,1,Import,48,Bahrain,BHR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,154508,,,0
+H0,2001,2001,2001,2,0,1,Import,48,Bahrain,BHR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22016,,,0
+H0,2001,2001,2001,2,0,1,Import,270,Gambia,GMB,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1469,,,0
+H0,2001,2001,2001,2,0,1,Import,288,Ghana,GHA,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,604052,,,0
+H0,2001,2001,2001,2,0,1,Import,288,Ghana,GHA,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,293,,,0
+H0,2001,2001,2001,2,0,1,Import,414,Kuwait,KWT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,123720,,,0
+H0,2001,2001,2001,2,0,2,Export,414,Kuwait,KWT,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3315606,,,0
+H0,2001,2001,2001,2,0,1,Import,414,Kuwait,KWT,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,193122,,,0
+H0,2001,2001,2001,2,0,2,Export,414,Kuwait,KWT,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,114,,,0
+H0,2001,2001,2001,2,0,3,Re-Export,414,Kuwait,KWT,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,114,,,0
+H0,2001,2001,2001,2,0,1,Import,504,Morocco,MAR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5147,,,0
+H0,2001,2001,2001,2,0,1,Import,504,Morocco,MAR,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,61155,,,0
+H0,2001,2001,2001,2,0,1,Import,598,Papua New Guinea,PNG,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,478,,,0
+H0,2001,2001,2001,2,0,1,Import,740,Suriname,SUR,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13983,,,0
+H0,2001,2001,2001,2,0,2,Export,818,Egypt,EGY,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,50633,,,0
+H0,2001,2001,2001,2,0,1,Import,818,Egypt,EGY,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,67365,,,0
+H0,2001,2001,2001,2,0,2,Export,818,Egypt,EGY,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,146295,,,0
+H0,2001,2001,2001,2,0,1,Import,818,Egypt,EGY,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,217185,,,0
+H0,2001,2001,2001,2,0,2,Export,818,Egypt,EGY,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18121,,,0
+H0,2001,2001,2001,2,0,2,Export,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,177165,,,0
+H0,2001,2001,2001,2,0,1,Import,48,Bahrain,BHR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,80745,,,0
+H0,2001,2001,2001,2,0,1,Import,50,Bangladesh,BGD,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14570,,,0
+H0,2001,2001,2001,2,0,1,Import,50,Bangladesh,BGD,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,142,,,0
+H0,2001,2001,2001,2,0,2,Export,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1807,,,0
+H0,2001,2001,2001,2,0,1,Import,108,Burundi,BDI,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30582,,,0
+H0,2001,2001,2001,2,0,2,Export,140,Central African Rep.,CAF,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2334,,,0
+H0,2001,2001,2001,2,0,1,Import,288,Ghana,GHA,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,143154,,,0
+H0,2001,2001,2001,2,0,1,Import,288,Ghana,GHA,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,317,,,0
+H0,2001,2001,2001,2,0,1,Import,414,Kuwait,KWT,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5583,,,0
+H0,2001,2001,2001,2,0,1,Import,414,Kuwait,KWT,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,121506,,,0
+H0,2001,2001,2001,2,0,1,Import,504,Morocco,MAR,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3823,,,0
+H0,2001,2001,2001,2,0,1,Import,598,Papua New Guinea,PNG,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6,,,0
+H0,2001,2001,2001,2,0,2,Export,818,Egypt,EGY,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,41464,,,0
+H0,2001,2001,2001,2,0,1,Import,818,Egypt,EGY,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,45680,,,0
+H0,2001,2001,2001,2,0,2,Export,818,Egypt,EGY,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10075,,,0
+H0,2001,2001,2001,2,0,1,Import,818,Egypt,EGY,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,699570,,,0
+H0,2001,2001,2001,2,0,2,Export,818,Egypt,EGY,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12926,,,0
+H0,2001,2001,2001,2,0,2,Export,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,24819,,,0
+H0,2001,2001,2001,2,0,1,Import,894,Zambia,ZMB,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,260,,,0
+H0,2001,2001,2001,2,0,1,Import,894,Zambia,ZMB,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,903,,,0

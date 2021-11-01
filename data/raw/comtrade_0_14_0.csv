@@ -1,0 +1,983 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,2,0,1,Import,12,Algeria,DZA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,10631,,,0
+H1,2000,2000,2000,2,0,2,Export,12,Algeria,DZA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,61672,,,0
+H1,2000,2000,2000,2,0,2,Export,28,Antigua and Barbuda,ATG,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,611,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,28,Antigua and Barbuda,ATG,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,611,,,0
+H1,2000,2000,2000,2,0,1,Import,32,Argentina,ARG,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,22294,,,0
+H1,2000,2000,2000,2,0,1,Import,36,Australia,AUS,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,27108,,,0
+H1,2000,2000,2000,2,0,2,Export,36,Australia,AUS,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2246041,,,0
+H1,2000,2000,2000,2,0,2,Export,36,Australia,AUS,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,31704,,,0
+H1,2000,2000,2000,2,0,1,Import,40,Austria,AUT,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,516495,,,0
+H1,2000,2000,2000,2,0,2,Export,40,Austria,AUT,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,662625,,,0
+H1,2000,2000,2000,2,0,1,Import,40,Austria,AUT,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,9567,,,0
+H1,2000,2000,2000,2,0,2,Export,52,Barbados,BRB,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,11090,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,52,Barbados,BRB,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,11090,,,0
+H1,2000,2000,2000,2,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1482181,,,0
+H1,2000,2000,2000,2,0,1,Import,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,19597311,,,0
+H1,2000,2000,2000,2,0,2,Export,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,14229365,,,0
+H1,2000,2000,2000,2,0,2,Export,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,81140,,,0
+H1,2000,2000,2000,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,7336,,,0
+H1,2000,2000,2000,2,0,1,Import,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,9368,,,0
+H1,2000,2000,2000,2,0,1,Import,100,Bulgaria,BGR,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1478,,,0
+H1,2000,2000,2000,2,0,1,Import,100,Bulgaria,BGR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1283,,,0
+H1,2000,2000,2000,2,0,2,Export,100,Bulgaria,BGR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,6417,,,0
+H1,2000,2000,2000,2,0,1,Import,112,Belarus,BLR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,181700,,,0
+H1,2000,2000,2000,2,0,2,Export,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,20093056,,,0
+H1,2000,2000,2000,2,0,1,Import,124,Canada,CAN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,17794,,,0
+H1,2000,2000,2000,2,0,2,Export,124,Canada,CAN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,149693,,,0
+H1,2000,2000,2000,2,0,1,Import,124,Canada,CAN,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1946,,,0
+H1,2000,2000,2000,2,0,1,Import,144,Sri Lanka,LKA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1113,,,0
+H1,2000,2000,2000,2,0,1,Import,152,Chile,CHL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,8814,,,0
+H1,2000,2000,2000,2,0,1,Import,156,China,CHN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,120964,,,0
+H1,2000,2000,2000,2,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,969242,,,0
+H1,2000,2000,2000,2,0,2,Export,156,China,CHN,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,472516,,,0
+H1,2000,2000,2000,2,0,2,Export,156,China,CHN,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,17688,,,0
+H1,2000,2000,2000,2,0,1,Import,170,Colombia,COL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,314,,,0
+H1,2000,2000,2000,2,0,2,Export,170,Colombia,COL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,15864824,,,0
+H1,2000,2000,2000,2,0,1,Import,188,Costa Rica,CRI,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2866,,,0
+H1,2000,2000,2000,2,0,1,Import,191,Croatia,HRV,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,7099,,,0
+H1,2000,2000,2000,2,0,2,Export,191,Croatia,HRV,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,11728,,,0
+H1,2000,2000,2000,2,0,1,Import,196,Cyprus,CYP,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3219,,,0
+H1,2000,2000,2000,2,0,1,Import,203,Czechia,CZE,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,66981,,,0
+H1,2000,2000,2000,2,0,2,Export,203,Czechia,CZE,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,94486,,,0
+H1,2000,2000,2000,2,0,2,Export,208,Denmark,DNK,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3961,,,0
+H1,2000,2000,2000,2,0,1,Import,231,Ethiopia,ETH,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,1659,,,0
+H1,2000,2000,2000,2,0,1,Import,231,Ethiopia,ETH,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,293863,,,0
+H1,2000,2000,2000,2,0,1,Import,233,Estonia,EST,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,202542,,,0
+H1,2000,2000,2000,2,0,2,Export,233,Estonia,EST,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3488290,,,0
+H1,2000,2000,2000,2,0,1,Import,234,Faeroe Isds,FRO,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,818144,,,0
+H1,2000,2000,2000,2,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,496442635,,,0
+H1,2000,2000,2000,2,0,2,Export,246,Finland,FIN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,69627382,,,0
+H1,2000,2000,2000,2,0,2,Export,246,Finland,FIN,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,65,,,0
+H1,2000,2000,2000,2,0,1,Import,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,11747820,,,0
+H1,2000,2000,2000,2,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,82447,,,0
+H1,2000,2000,2000,2,0,1,Import,251,France,FRA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,188849384,,,0
+H1,2000,2000,2000,2,0,2,Export,251,France,FRA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5665111,,,0
+H1,2000,2000,2000,2,0,1,Import,251,France,FRA,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2808,,,0
+H1,2000,2000,2000,2,0,2,Export,251,France,FRA,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,233998,,,0
+H1,2000,2000,2000,2,0,1,Import,258,French Polynesia,PYF,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,6582,,,0
+H1,2000,2000,2000,2,0,2,Export,266,Gabon,GAB,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,6449642,,,0
+H1,2000,2000,2000,2,0,1,Import,266,Gabon,GAB,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,315,,,0
+H1,2000,2000,2000,2,0,2,Export,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,7000,,,0
+H1,2000,2000,2000,2,0,1,Import,276,Germany,DEU,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,346735000,,,0
+H1,2000,2000,2000,2,0,2,Export,276,Germany,DEU,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,67007000,,,0
+H1,2000,2000,2000,2,0,2,Export,276,Germany,DEU,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,19000,,,0
+H1,2000,2000,2000,2,0,1,Import,300,Greece,GRC,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,977514,,,0
+H1,2000,2000,2000,2,0,2,Export,300,Greece,GRC,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3843,,,0
+H1,2000,2000,2000,2,0,1,Import,304,Greenland,GRL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,37235048,,,0
+H1,2000,2000,2000,2,0,1,Import,308,Grenada,GRD,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4,,,0
+H1,2000,2000,2000,2,0,1,Import,344,"China, Hong Kong SAR",HKG,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,8623,,,0
+H1,2000,2000,2000,2,0,2,Export,344,"China, Hong Kong SAR",HKG,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,626269,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,626269,,,0
+H1,2000,2000,2000,2,0,1,Import,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,14000,,,0
+H1,2000,2000,2000,2,0,2,Export,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1182000,,,0
+H1,2000,2000,2000,2,0,2,Export,348,Hungary,HUN,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,28000,,,0
+H1,2000,2000,2000,2,0,1,Import,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3601844,,,0
+H1,2000,2000,2000,2,0,2,Export,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,387100,,,0
+H1,2000,2000,2000,2,0,1,Import,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,826,,,0
+H1,2000,2000,2000,2,0,2,Export,364,Iran,IRN,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,10800,,,0
+H1,2000,2000,2000,2,0,1,Import,364,Iran,IRN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,20249,,,0
+H1,2000,2000,2000,2,0,2,Export,364,Iran,IRN,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2909597,,,0
+H1,2000,2000,2000,2,0,1,Import,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,20533156,,,0
+H1,2000,2000,2000,2,0,2,Export,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,16496,,,0
+H1,2000,2000,2000,2,0,1,Import,376,Israel,ISR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,26000,,,0
+H1,2000,2000,2000,2,0,1,Import,381,Italy,ITA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3493254,,,0
+H1,2000,2000,2000,2,0,2,Export,381,Italy,ITA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2219339,,,0
+H1,2000,2000,2000,2,0,2,Export,384,Côte d'Ivoire,CIV,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,30036239,,,0
+H1,2000,2000,2000,2,0,2,Export,384,Côte d'Ivoire,CIV,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,526429,,,0
+H1,2000,2000,2000,2,0,2,Export,384,Côte d'Ivoire,CIV,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,9662,,,0
+H1,2000,2000,2000,2,0,1,Import,388,Jamaica,JAM,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,336,,,0
+H1,2000,2000,2000,2,0,1,Import,392,Japan,JPN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,856260,,,0
+H1,2000,2000,2000,2,0,2,Export,392,Japan,JPN,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4231,,,0
+H1,2000,2000,2000,2,0,1,Import,398,Kazakhstan,KAZ,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,53100,,,0
+H1,2000,2000,2000,2,0,2,Export,398,Kazakhstan,KAZ,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,100,,,0
+H1,2000,2000,2000,2,0,1,Import,398,Kazakhstan,KAZ,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,65100,,,0
+H1,2000,2000,2000,2,0,2,Export,398,Kazakhstan,KAZ,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,72900,,,0
+H1,2000,2000,2000,2,0,1,Import,400,Jordan,JOR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,82829,,,0
+H1,2000,2000,2000,2,0,2,Export,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2718495,,,0
+H1,2000,2000,2000,2,0,1,Import,404,Kenya,KEN,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5117,,,0
+H1,2000,2000,2000,2,0,2,Export,404,Kenya,KEN,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1195154,,,0
+H1,2000,2000,2000,2,0,1,Import,410,Rep. of Korea,KOR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,55918,,,0
+H1,2000,2000,2000,2,0,1,Import,417,Kyrgyzstan,KGZ,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,32,,,0
+H1,2000,2000,2000,2,0,1,Import,422,Lebanon,LBN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,54192,,,0
+H1,2000,2000,2000,2,0,2,Export,422,Lebanon,LBN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1745,,,0
+H1,2000,2000,2000,2,0,1,Import,428,Latvia,LVA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,173604,,,0
+H1,2000,2000,2000,2,0,2,Export,428,Latvia,LVA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1233090,,,0
+H1,2000,2000,2000,2,0,1,Import,440,Lithuania,LTU,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,31575,,,0
+H1,2000,2000,2000,2,0,2,Export,440,Lithuania,LTU,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2113110,,,0
+H1,2000,2000,2000,2,0,1,Import,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,12,,,0
+H1,2000,2000,2000,2,0,2,Export,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,83583,,,0
+H1,2000,2000,2000,2,0,1,Import,450,Madagascar,MDG,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,426,,,0
+H1,2000,2000,2000,2,0,1,Import,458,Malaysia,MYS,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,20805,,,0
+H1,2000,2000,2000,2,0,1,Import,462,Maldives,MDV,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,31151,,,0
+H1,2000,2000,2000,2,0,1,Import,470,Malta,MLT,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5721,,,0
+H1,2000,2000,2000,2,0,1,Import,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,21683,,,0
+H1,2000,2000,2000,2,0,2,Export,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,442762,,,0
+H1,2000,2000,2000,2,0,1,Import,490,"Other Asia, nes",,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,14331,,,0
+H1,2000,2000,2000,2,0,2,Export,490,"Other Asia, nes",,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,25149,,,0
+H1,2000,2000,2000,2,0,1,Import,496,Mongolia,MNG,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4065,,,0
+H1,2000,2000,2000,2,0,1,Import,512,Oman,OMN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2692,,,0
+H1,2000,2000,2000,2,0,2,Export,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,48787,,,0
+H1,2000,2000,2000,2,0,1,Import,528,Netherlands,NLD,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,423880871,,,0
+H1,2000,2000,2000,2,0,2,Export,528,Netherlands,NLD,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,24871357,,,0
+H1,2000,2000,2000,2,0,1,Import,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4723,,,0
+H1,2000,2000,2000,2,0,1,Import,558,Nicaragua,NIC,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1225,,,0
+H1,2000,2000,2000,2,0,1,Import,566,Nigeria,NGA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,403143,,,0
+H1,2000,2000,2000,2,0,1,Import,566,Nigeria,NGA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,117413,,,0
+H1,2000,2000,2000,2,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,142495609,,,0
+H1,2000,2000,2000,2,0,2,Export,579,Norway,NOR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,890265983,,,0
+H1,2000,2000,2000,2,0,1,Import,604,Peru,PER,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5598,,,0
+H1,2000,2000,2000,2,0,2,Export,604,Peru,PER,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,128016,,,0
+H1,2000,2000,2000,2,0,1,Import,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,8729,,,0
+H1,2000,2000,2000,2,0,2,Export,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1031258,,,0
+H1,2000,2000,2000,2,0,1,Import,616,Poland,POL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,12008000,,,0
+H1,2000,2000,2000,2,0,2,Export,616,Poland,POL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,143794000,,,0
+H1,2000,2000,2000,2,0,2,Export,616,Poland,POL,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,397000,,,0
+H1,2000,2000,2000,2,0,1,Import,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,71296168,,,0
+H1,2000,2000,2000,2,0,2,Export,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1483243,,,0
+H1,2000,2000,2000,2,0,2,Export,642,Romania,ROU,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,77000,,,0
+H1,2000,2000,2000,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,120651,,,0
+H1,2000,2000,2000,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,285164924,,,0
+H1,2000,2000,2000,2,0,1,Import,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2193,,,0
+H1,2000,2000,2000,2,0,2,Export,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2104,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,16,,,0
+H1,2000,2000,2000,2,0,1,Import,682,Saudi Arabia,SAU,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,106667,,,0
+H1,2000,2000,2000,2,0,2,Export,686,Senegal,SEN,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,82518,,,0
+H1,2000,2000,2000,2,0,1,Import,699,India,IND,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3723447,,,0
+H1,2000,2000,2000,2,0,2,Export,702,Singapore,SGP,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,301615,,,0
+H1,2000,2000,2000,2,0,1,Import,702,Singapore,SGP,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,11733877,,,0
+H1,2000,2000,2000,2,0,2,Export,702,Singapore,SGP,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1105448,,,0
+H1,2000,2000,2000,2,0,1,Import,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,63522,,,0
+H1,2000,2000,2000,2,0,2,Export,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,262956,,,0
+H1,2000,2000,2000,2,0,2,Export,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,14000,,,0
+H1,2000,2000,2000,2,0,1,Import,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,28198,,,0
+H1,2000,2000,2000,2,0,2,Export,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,811,,,0
+H1,2000,2000,2000,2,0,2,Export,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,14576272,,,0
+H1,2000,2000,2000,2,0,1,Import,710,South Africa,ZAF,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,19,,,0
+H1,2000,2000,2000,2,0,2,Export,710,South Africa,ZAF,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,36956736,,,0
+H1,2000,2000,2000,2,0,2,Export,710,South Africa,ZAF,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,23803,,,0
+H1,2000,2000,2000,2,0,1,Import,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,9980545,,,4
+H1,2000,2000,2000,2,0,2,Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,131418,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,39794,,,0
+H1,2000,2000,2000,2,0,1,Import,716,Zimbabwe,ZWE,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,642,,,0
+H1,2000,2000,2000,2,0,2,Export,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,3372700,,,0
+H1,2000,2000,2000,2,0,1,Import,724,Spain,ESP,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,23209851,,,0
+H1,2000,2000,2000,2,0,2,Export,724,Spain,ESP,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,55943589,,,4
+H1,2000,2000,2000,2,0,2,Export,736,Fmr Sudan,SDN,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,8624264,,,0
+H1,2000,2000,2000,2,0,1,Import,752,Sweden,SWE,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1081789662,,,0
+H1,2000,2000,2000,2,0,2,Export,752,Sweden,SWE,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,509085248,,,0
+H1,2000,2000,2000,2,0,1,Import,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2688999,,,0
+H1,2000,2000,2000,2,0,1,Import,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,151154,,,0
+H1,2000,2000,2000,2,0,2,Export,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1294267,,,0
+H1,2000,2000,2000,2,0,2,Export,757,Switzerland,CHE,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2746,,,0
+H1,2000,2000,2000,2,0,1,Import,764,Thailand,THA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,45425,,,0
+H1,2000,2000,2000,2,0,1,Import,764,Thailand,THA,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,277,,,0
+H1,2000,2000,2000,2,0,1,Import,768,Togo,TGO,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,17,,,0
+H1,2000,2000,2000,2,0,2,Export,768,Togo,TGO,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3065,,,0
+H1,2000,2000,2000,2,0,1,Import,780,Trinidad and Tobago,TTO,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,67950,,,0
+H1,2000,2000,2000,2,0,2,Export,780,Trinidad and Tobago,TTO,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,95,,,0
+H1,2000,2000,2000,2,0,1,Import,780,Trinidad and Tobago,TTO,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,7814,,,0
+H1,2000,2000,2000,2,0,2,Export,780,Trinidad and Tobago,TTO,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,10723376,,,0
+H1,2000,2000,2000,2,0,2,Export,784,United Arab Emirates,ARE,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,294465,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,784,United Arab Emirates,ARE,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,32722,,,0
+H1,2000,2000,2000,2,0,1,Import,784,United Arab Emirates,ARE,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,204732,,,0
+H1,2000,2000,2000,2,0,1,Import,784,United Arab Emirates,ARE,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,27,,,0
+H1,2000,2000,2000,2,0,2,Export,784,United Arab Emirates,ARE,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1925860,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,784,United Arab Emirates,ARE,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1286880,,,0
+H1,2000,2000,2000,2,0,1,Import,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,8728,,,0
+H1,2000,2000,2000,2,0,1,Import,792,Turkey,TUR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,559268,,,0
+H1,2000,2000,2000,2,0,2,Export,792,Turkey,TUR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,396753,,,0
+H1,2000,2000,2000,2,0,2,Export,795,Turkmenistan,TKM,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3382768,,,0
+H1,2000,2000,2000,2,0,2,Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,53140,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,48085,,,0
+H1,2000,2000,2000,2,0,1,Import,800,Uganda,UGA,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,6361,,,0
+H1,2000,2000,2000,2,0,2,Export,807,North Macedonia,MKD,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,17541,,,0
+H1,2000,2000,2000,2,0,1,Import,826,United Kingdom,GBR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,246856071,,,0
+H1,2000,2000,2000,2,0,2,Export,826,United Kingdom,GBR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,54013647,,,0
+H1,2000,2000,2000,2,0,2,Export,826,United Kingdom,GBR,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,40172,,,0
+H1,2000,2000,2000,2,0,2,Export,826,United Kingdom,GBR,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,143086,,,0
+H1,2000,2000,2000,2,0,2,Export,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,16786,,,0
+H1,2000,2000,2000,2,0,1,Import,834,United Rep. of Tanzania,TZA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,55011,,,0
+H1,2000,2000,2000,2,0,1,Import,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,168655625,,,0
+H1,2000,2000,2000,2,0,1,Import,842,USA,USA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,130088978,,,0
+H1,2000,2000,2000,2,0,2,Export,842,USA,USA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5111689,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,842,USA,USA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,109800,,,0
+H1,2000,2000,2000,2,0,2,Export,842,USA,USA,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,482341,,,0
+H1,2000,2000,2000,2,0,1,Import,854,Burkina Faso,BFA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4634,,,0
+H1,2000,2000,2000,2,0,1,Import,858,Uruguay,URY,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,87,,,0
+H1,2000,2000,2000,2,0,1,Import,862,Venezuela,VEN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5788,,,0
+H1,2000,2000,2000,2,0,2,Export,862,Venezuela,VEN,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,12500,,,0
+H1,2000,2000,2000,2,0,1,Import,8,Albania,ALB,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18665,,,0
+H1,2000,2000,2000,2,0,1,Import,12,Algeria,DZA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,62679,,,0
+H1,2000,2000,2000,2,0,1,Import,20,Andorra,AND,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,381,,,0
+H1,2000,2000,2000,2,0,2,Export,20,Andorra,AND,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4913,,,0
+H1,2000,2000,2000,2,0,1,Import,20,Andorra,AND,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,624,,,0
+H1,2000,2000,2000,2,0,1,Import,28,Antigua and Barbuda,ATG,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1293,,,0
+H1,2000,2000,2000,2,0,1,Import,28,Antigua and Barbuda,ATG,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,196,,,0
+H1,2000,2000,2000,2,0,2,Export,28,Antigua and Barbuda,ATG,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5829,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,28,Antigua and Barbuda,ATG,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4636,,,0
+H1,2000,2000,2000,2,0,1,Import,31,Azerbaijan,AZE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39976,,,0
+H1,2000,2000,2000,2,0,2,Export,31,Azerbaijan,AZE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,50,,,0
+H1,2000,2000,2000,2,0,2,Export,32,Argentina,ARG,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,42160,,,0
+H1,2000,2000,2000,2,0,1,Import,32,Argentina,ARG,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3452823,,,0
+H1,2000,2000,2000,2,0,2,Export,32,Argentina,ARG,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,254,,,0
+H1,2000,2000,2000,2,0,1,Import,36,Australia,AUS,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5369637,,,0
+H1,2000,2000,2000,2,0,2,Export,36,Australia,AUS,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,320986,,,0
+H1,2000,2000,2000,2,0,1,Import,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,67,,,0
+H1,2000,2000,2000,2,0,2,Export,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,335,,,0
+H1,2000,2000,2000,2,0,1,Import,40,Austria,AUT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22045968,,,0
+H1,2000,2000,2000,2,0,2,Export,40,Austria,AUT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,38741805,,,0
+H1,2000,2000,2000,2,0,1,Import,40,Austria,AUT,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6891,,,0
+H1,2000,2000,2000,2,0,1,Import,40,Austria,AUT,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,67,,,0
+H1,2000,2000,2000,2,0,1,Import,44,Bahamas,BHS,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,632,,,0
+H1,2000,2000,2000,2,0,1,Import,51,Armenia,ARM,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11288,,,0
+H1,2000,2000,2000,2,0,1,Import,52,Barbados,BRB,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17834,,,0
+H1,2000,2000,2000,2,0,1,Import,52,Barbados,BRB,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1380,,,0
+H1,2000,2000,2000,2,0,2,Export,52,Barbados,BRB,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,200548,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,52,Barbados,BRB,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,82052,,,0
+H1,2000,2000,2000,2,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3373092,,,0
+H1,2000,2000,2000,2,0,1,Import,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39524988,,,0
+H1,2000,2000,2000,2,0,2,Export,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,231573678,,,0
+H1,2000,2000,2000,2,0,2,Export,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,511198,,,0
+H1,2000,2000,2000,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,165269,,,0
+H1,2000,2000,2000,2,0,1,Import,72,Botswana,BWA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,53808,,,0
+H1,2000,2000,2000,2,0,1,Import,76,Brazil,BRA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2250,,,0
+H1,2000,2000,2000,2,0,2,Export,76,Brazil,BRA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7,,,0
+H1,2000,2000,2000,2,0,1,Import,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6701082,,,4
+H1,2000,2000,2000,2,0,2,Export,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,52392,,,0
+H1,2000,2000,2000,2,0,2,Export,76,Brazil,BRA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,25924,,,0
+H1,2000,2000,2000,2,0,1,Import,84,Belize,BLZ,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25266,,,0
+H1,2000,2000,2000,2,0,1,Import,84,Belize,BLZ,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,672,,,0
+H1,2000,2000,2000,2,0,1,Import,100,Bulgaria,BGR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,921165,,,0
+H1,2000,2000,2000,2,0,2,Export,100,Bulgaria,BGR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,294443,,,0
+H1,2000,2000,2000,2,0,1,Import,112,Belarus,BLR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2250700,,,0
+H1,2000,2000,2000,2,0,2,Export,112,Belarus,BLR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9900,,,0
+H1,2000,2000,2000,2,0,1,Import,116,Cambodia,KHM,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,95286,,,0
+H1,2000,2000,2000,2,0,2,Export,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,109786,,,0
+H1,2000,2000,2000,2,0,1,Import,120,Cameroon,CMR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33990,,,0
+H1,2000,2000,2000,2,0,2,Export,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,45848,,,0
+H1,2000,2000,2000,2,0,1,Import,124,Canada,CAN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4483046,,,0
+H1,2000,2000,2000,2,0,2,Export,124,Canada,CAN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1784688,,,0
+H1,2000,2000,2000,2,0,1,Import,124,Canada,CAN,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21621,,,0
+H1,2000,2000,2000,2,0,1,Import,132,Cabo Verde,CPV,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,48,,,0
+H1,2000,2000,2000,2,0,1,Import,144,Sri Lanka,LKA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,66820,,,0
+H1,2000,2000,2000,2,0,2,Export,144,Sri Lanka,LKA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17416,,,0
+H1,2000,2000,2000,2,0,1,Import,152,Chile,CHL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1039022,,,0
+H1,2000,2000,2000,2,0,2,Export,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,446162,,,0
+H1,2000,2000,2000,2,0,1,Import,156,China,CHN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2803802,,,0
+H1,2000,2000,2000,2,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27425300,,,0
+H1,2000,2000,2000,2,0,1,Import,156,China,CHN,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14000,,,0
+H1,2000,2000,2000,2,0,2,Export,156,China,CHN,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1102530,,,0
+H1,2000,2000,2000,2,0,2,Export,156,China,CHN,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,364899,,,0
+H1,2000,2000,2000,2,0,1,Import,170,Colombia,COL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37813,,,0
+H1,2000,2000,2000,2,0,1,Import,175,Mayotte,MYT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,435,,,0
+H1,2000,2000,2000,2,0,1,Import,188,Costa Rica,CRI,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2915,,,0
+H1,2000,2000,2000,2,0,1,Import,188,Costa Rica,CRI,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,58885,,,0
+H1,2000,2000,2000,2,0,2,Export,188,Costa Rica,CRI,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,487005,,,0
+H1,2000,2000,2000,2,0,1,Import,191,Croatia,HRV,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,358028,,,0
+H1,2000,2000,2000,2,0,2,Export,191,Croatia,HRV,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,192216,,,0
+H1,2000,2000,2000,2,0,1,Import,192,Cuba,CUB,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,568837,,,0
+H1,2000,2000,2000,2,0,2,Export,192,Cuba,CUB,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,250,,,0
+H1,2000,2000,2000,2,0,1,Import,192,Cuba,CUB,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,68763,,,0
+H1,2000,2000,2000,2,0,1,Import,196,Cyprus,CYP,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,813714,,,0
+H1,2000,2000,2000,2,0,2,Export,196,Cyprus,CYP,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3409,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,196,Cyprus,CYP,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3390,,,0
+H1,2000,2000,2000,2,0,2,Export,196,Cyprus,CYP,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,369,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,196,Cyprus,CYP,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,369,,,0
+H1,2000,2000,2000,2,0,1,Import,203,Czechia,CZE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,99,,,0
+H1,2000,2000,2000,2,0,2,Export,203,Czechia,CZE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2,,,0
+H1,2000,2000,2000,2,0,1,Import,203,Czechia,CZE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9221855,,,0
+H1,2000,2000,2000,2,0,2,Export,203,Czechia,CZE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6682856,,,0
+H1,2000,2000,2000,2,0,2,Export,203,Czechia,CZE,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2607,,,0
+H1,2000,2000,2000,2,0,1,Import,204,Benin,BEN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,41022,,,0
+H1,2000,2000,2000,2,0,2,Export,208,Denmark,DNK,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4329,,,0
+H1,2000,2000,2000,2,0,2,Export,208,Denmark,DNK,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16109,,,0
+H1,2000,2000,2000,2,0,2,Export,208,Denmark,DNK,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3157,,,0
+H1,2000,2000,2000,2,0,1,Import,218,Ecuador,ECU,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,71530,,,0
+H1,2000,2000,2000,2,0,1,Import,222,El Salvador,SLV,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,57455,,,0
+H1,2000,2000,2000,2,0,1,Import,231,Ethiopia,ETH,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,59635,,,0
+H1,2000,2000,2000,2,0,1,Import,231,Ethiopia,ETH,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13942,,,0
+H1,2000,2000,2000,2,0,1,Import,233,Estonia,EST,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1751830,,,0
+H1,2000,2000,2000,2,0,2,Export,233,Estonia,EST,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1167897,,,0
+H1,2000,2000,2000,2,0,1,Import,233,Estonia,EST,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1391,,,0
+H1,2000,2000,2000,2,0,1,Import,234,Faeroe Isds,FRO,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5493540,,,0
+H1,2000,2000,2000,2,0,1,Import,242,Fiji,FJI,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3378,,,0
+H1,2000,2000,2000,2,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28805084,,,0
+H1,2000,2000,2000,2,0,2,Export,246,Finland,FIN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,47461811,,,0
+H1,2000,2000,2000,2,0,1,Import,246,Finland,FIN,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,201,,,0
+H1,2000,2000,2000,2,0,2,Export,246,Finland,FIN,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2508,,,0
+H1,2000,2000,2000,2,0,2,Export,246,Finland,FIN,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,110,,,0
+H1,2000,2000,2000,2,0,1,Import,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,79749,,,0
+H1,2000,2000,2000,2,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,597636,,,0
+H1,2000,2000,2000,2,0,1,Import,251,France,FRA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,77681745,,,0
+H1,2000,2000,2000,2,0,2,Export,251,France,FRA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,109378189,,,0
+H1,2000,2000,2000,2,0,1,Import,251,France,FRA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,83821,,,0
+H1,2000,2000,2000,2,0,2,Export,251,France,FRA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,87363,,,0
+H1,2000,2000,2000,2,0,1,Import,251,France,FRA,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7863,,,0
+H1,2000,2000,2000,2,0,2,Export,251,France,FRA,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,569264,,,0
+H1,2000,2000,2000,2,0,1,Import,258,French Polynesia,PYF,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,80063,,,0
+H1,2000,2000,2000,2,0,1,Import,266,Gabon,GAB,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16440,,,0
+H1,2000,2000,2000,2,0,1,Import,268,Georgia,GEO,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28909,,,0
+H1,2000,2000,2000,2,0,1,Import,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19000,,,0
+H1,2000,2000,2000,2,0,2,Export,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,221000,,,0
+H1,2000,2000,2000,2,0,1,Import,276,Germany,DEU,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,196762000,,,0
+H1,2000,2000,2000,2,0,2,Export,276,Germany,DEU,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,470758000,,,0
+H1,2000,2000,2000,2,0,1,Import,276,Germany,DEU,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6000,,,0
+H1,2000,2000,2000,2,0,2,Export,276,Germany,DEU,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30000,,,0
+H1,2000,2000,2000,2,0,1,Import,276,Germany,DEU,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,54000,,,0
+H1,2000,2000,2000,2,0,2,Export,276,Germany,DEU,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,86000,,,0
+H1,2000,2000,2000,2,0,2,Export,300,Greece,GRC,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21743,,,0
+H1,2000,2000,2000,2,0,1,Import,300,Greece,GRC,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6053894,,,0
+H1,2000,2000,2000,2,0,2,Export,300,Greece,GRC,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2012843,,,0
+H1,2000,2000,2000,2,0,1,Import,300,Greece,GRC,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17704,,,0
+H1,2000,2000,2000,2,0,2,Export,300,Greece,GRC,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,75,,,0
+H1,2000,2000,2000,2,0,1,Import,304,Greenland,GRL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4377110,,,0
+H1,2000,2000,2000,2,0,2,Export,304,Greenland,GRL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9615,,,0
+H1,2000,2000,2000,2,0,1,Import,308,Grenada,GRD,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,846,,,0
+H1,2000,2000,2000,2,0,1,Import,308,Grenada,GRD,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6715,,,0
+H1,2000,2000,2000,2,0,2,Export,308,Grenada,GRD,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,188849,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,308,Grenada,GRD,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,188849,,,0
+H1,2000,2000,2000,2,0,1,Import,320,Guatemala,GTM,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,100091,,,0
+H1,2000,2000,2000,2,0,2,Export,320,Guatemala,GTM,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5378,,,0
+H1,2000,2000,2000,2,0,1,Import,324,Guinea,GIN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16698,,,0
+H1,2000,2000,2000,2,0,1,Import,328,Guyana,GUY,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,530,,,0
+H1,2000,2000,2000,2,0,1,Import,328,Guyana,GUY,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17402,,,0
+H1,2000,2000,2000,2,0,2,Export,328,Guyana,GUY,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,59485,,,0
+H1,2000,2000,2000,2,0,1,Import,340,Honduras,HND,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1006,,,0
+H1,2000,2000,2000,2,0,2,Export,344,"China, Hong Kong SAR",HKG,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32961,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32961,,,0
+H1,2000,2000,2000,2,0,1,Import,344,"China, Hong Kong SAR",HKG,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3282137,,,0
+H1,2000,2000,2000,2,0,2,Export,344,"China, Hong Kong SAR",HKG,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22957139,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22689615,,,0
+H1,2000,2000,2000,2,0,1,Import,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5209000,,,0
+H1,2000,2000,2000,2,0,2,Export,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2926000,,,0
+H1,2000,2000,2000,2,0,1,Import,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9873069,,,0
+H1,2000,2000,2000,2,0,2,Export,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1186138,,,0
+H1,2000,2000,2000,2,0,2,Export,360,Indonesia,IDN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,45434,,,0
+H1,2000,2000,2000,2,0,1,Import,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,992586,,,0
+H1,2000,2000,2000,2,0,2,Export,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,236307,,,0
+H1,2000,2000,2000,2,0,2,Export,360,Indonesia,IDN,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,54,,,0
+H1,2000,2000,2000,2,0,2,Export,360,Indonesia,IDN,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,86375,,,0
+H1,2000,2000,2000,2,0,1,Import,364,Iran,IRN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,802140,,,0
+H1,2000,2000,2000,2,0,2,Export,364,Iran,IRN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1098,,,0
+H1,2000,2000,2000,2,0,2,Export,364,Iran,IRN,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10865,,,0
+H1,2000,2000,2000,2,0,2,Export,372,Ireland,IRL,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18069,,,0
+H1,2000,2000,2000,2,0,1,Import,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10203579,,,0
+H1,2000,2000,2000,2,0,2,Export,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4978902,,,0
+H1,2000,2000,2000,2,0,1,Import,372,Ireland,IRL,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,198945,,,0
+H1,2000,2000,2000,2,0,2,Export,372,Ireland,IRL,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24932,,,0
+H1,2000,2000,2000,2,0,1,Import,376,Israel,ISR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3502000,,,0
+H1,2000,2000,2000,2,0,2,Export,376,Israel,ISR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4126000,,,0
+H1,2000,2000,2000,2,0,1,Import,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,595,,,0
+H1,2000,2000,2000,2,0,2,Export,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,188064,,,0
+H1,2000,2000,2000,2,0,1,Import,381,Italy,ITA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34576372,,,0
+H1,2000,2000,2000,2,0,2,Export,381,Italy,ITA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,84612317,,,0
+H1,2000,2000,2000,2,0,2,Export,381,Italy,ITA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6827,,,0
+H1,2000,2000,2000,2,0,2,Export,381,Italy,ITA,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,340691,,,0
+H1,2000,2000,2000,2,0,2,Export,384,Côte d'Ivoire,CIV,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,521474,,,0
+H1,2000,2000,2000,2,0,1,Import,384,Côte d'Ivoire,CIV,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,53350,,,0
+H1,2000,2000,2000,2,0,1,Import,388,Jamaica,JAM,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,61764,,,0
+H1,2000,2000,2000,2,0,1,Import,388,Jamaica,JAM,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,109596,,,0
+H1,2000,2000,2000,2,0,2,Export,388,Jamaica,JAM,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,106908,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,388,Jamaica,JAM,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24,,,0
+H1,2000,2000,2000,2,0,1,Import,392,Japan,JPN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18913053,,,0
+H1,2000,2000,2000,2,0,2,Export,392,Japan,JPN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11676022,,,0
+H1,2000,2000,2000,2,0,1,Import,392,Japan,JPN,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9609,,,0
+H1,2000,2000,2000,2,0,2,Export,392,Japan,JPN,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,212367,,,0
+H1,2000,2000,2000,2,0,1,Import,398,Kazakhstan,KAZ,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,66900,,,0
+H1,2000,2000,2000,2,0,1,Import,400,Jordan,JOR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,123110,,,0
+H1,2000,2000,2000,2,0,2,Export,400,Jordan,JOR,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15515,,,0
+H1,2000,2000,2000,2,0,1,Import,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6273,,,0
+H1,2000,2000,2000,2,0,2,Export,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1609945,,,0
+H1,2000,2000,2000,2,0,1,Import,404,Kenya,KEN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,147385,,,0
+H1,2000,2000,2000,2,0,2,Export,404,Kenya,KEN,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22654,,,0
+H1,2000,2000,2000,2,0,2,Export,410,Rep. of Korea,KOR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,145311,,,0
+H1,2000,2000,2000,2,0,1,Import,410,Rep. of Korea,KOR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3447499,,,0
+H1,2000,2000,2000,2,0,2,Export,410,Rep. of Korea,KOR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6210329,,,0
+H1,2000,2000,2000,2,0,1,Import,410,Rep. of Korea,KOR,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1042,,,0
+H1,2000,2000,2000,2,0,2,Export,410,Rep. of Korea,KOR,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,971645,,,0
+H1,2000,2000,2000,2,0,2,Export,410,Rep. of Korea,KOR,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2493606,,,0
+H1,2000,2000,2000,2,0,1,Import,417,Kyrgyzstan,KGZ,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25231,,,0
+H1,2000,2000,2000,2,0,1,Import,422,Lebanon,LBN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,272693,,,0
+H1,2000,2000,2000,2,0,2,Export,422,Lebanon,LBN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5708,,,0
+H1,2000,2000,2000,2,0,2,Export,422,Lebanon,LBN,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,200,,,0
+H1,2000,2000,2000,2,0,1,Import,428,Latvia,LVA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3225051,,,0
+H1,2000,2000,2000,2,0,2,Export,428,Latvia,LVA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1207648,,,0
+H1,2000,2000,2000,2,0,1,Import,440,Lithuania,LTU,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4438333,,,0
+H1,2000,2000,2000,2,0,2,Export,440,Lithuania,LTU,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3070313,,,0
+H1,2000,2000,2000,2,0,2,Export,442,Luxembourg,LUX,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,122,,,0
+H1,2000,2000,2000,2,0,1,Import,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1161012,,,0
+H1,2000,2000,2000,2,0,2,Export,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5964271,,,0
+H1,2000,2000,2000,2,0,1,Import,446,"China, Macao SAR",MAC,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25565,,,0
+H1,2000,2000,2000,2,0,1,Import,450,Madagascar,MDG,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,227,,,0
+H1,2000,2000,2000,2,0,2,Export,450,Madagascar,MDG,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,450,Madagascar,MDG,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9,,,0
+H1,2000,2000,2000,2,0,1,Import,450,Madagascar,MDG,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7150,,,0
+H1,2000,2000,2000,2,0,2,Export,450,Madagascar,MDG,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,67,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,450,Madagascar,MDG,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,67,,,0
+H1,2000,2000,2000,2,0,1,Import,454,Malawi,MWI,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2435,,,0
+H1,2000,2000,2000,2,0,2,Export,458,Malaysia,MYS,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,63068,,,0
+H1,2000,2000,2000,2,0,1,Import,458,Malaysia,MYS,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1943150,,,0
+H1,2000,2000,2000,2,0,2,Export,458,Malaysia,MYS,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1192232,,,0
+H1,2000,2000,2000,2,0,2,Export,458,Malaysia,MYS,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19872,,,0
+H1,2000,2000,2000,2,0,1,Import,462,Maldives,MDV,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31950,,,0
+H1,2000,2000,2000,2,0,1,Import,470,Malta,MLT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,251024,,,0
+H1,2000,2000,2000,2,0,2,Export,470,Malta,MLT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27748,,,0
+H1,2000,2000,2000,2,0,1,Import,478,Mauritania,MRT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1064,,,0
+H1,2000,2000,2000,2,0,1,Import,480,Mauritius,MUS,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,212368,,,0
+H1,2000,2000,2000,2,0,2,Export,480,Mauritius,MUS,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,58,,,0
+H1,2000,2000,2000,2,0,1,Import,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3897385,,,0
+H1,2000,2000,2000,2,0,2,Export,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18524,,,0
+H1,2000,2000,2000,2,0,2,Export,484,Mexico,MEX,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,236081,,,0
+H1,2000,2000,2000,2,0,2,Export,490,"Other Asia, nes",,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,173315,,,0
+H1,2000,2000,2000,2,0,1,Import,490,"Other Asia, nes",,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1761342,,,0
+H1,2000,2000,2000,2,0,2,Export,490,"Other Asia, nes",,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11006536,,,0
+H1,2000,2000,2000,2,0,1,Import,490,"Other Asia, nes",,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21457,,,0
+H1,2000,2000,2000,2,0,2,Export,490,"Other Asia, nes",,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,44921,,,0
+H1,2000,2000,2000,2,0,2,Export,490,"Other Asia, nes",,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,188552,,,0
+H1,2000,2000,2000,2,0,1,Import,496,Mongolia,MNG,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14204,,,0
+H1,2000,2000,2000,2,0,1,Import,498,Rep. of Moldova,MDA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11257,,,0
+H1,2000,2000,2000,2,0,2,Export,498,Rep. of Moldova,MDA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1906,,,0
+H1,2000,2000,2000,2,0,1,Import,512,Oman,OMN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,183901,,,0
+H1,2000,2000,2000,2,0,2,Export,512,Oman,OMN,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,93126,,,0
+H1,2000,2000,2000,2,0,1,Import,516,Namibia,NAM,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1478,,,0
+H1,2000,2000,2000,2,0,2,Export,516,Namibia,NAM,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,395,,,0
+H1,2000,2000,2000,2,0,1,Import,524,Nepal,NPL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10151,,,0
+H1,2000,2000,2000,2,0,2,Export,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,46026,,,0
+H1,2000,2000,2000,2,0,1,Import,528,Netherlands,NLD,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,49850194,,,0
+H1,2000,2000,2000,2,0,2,Export,528,Netherlands,NLD,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,148717258,,,0
+H1,2000,2000,2000,2,0,2,Export,528,Netherlands,NLD,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21172,,,0
+H1,2000,2000,2000,2,0,2,Export,528,Netherlands,NLD,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7364,,,0
+H1,2000,2000,2000,2,0,1,Import,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1620776,,,0
+H1,2000,2000,2000,2,0,2,Export,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,269082,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15710,,,0
+H1,2000,2000,2000,2,0,1,Import,558,Nicaragua,NIC,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33502,,,0
+H1,2000,2000,2000,2,0,1,Import,562,Niger,NER,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,812,,,0
+H1,2000,2000,2000,2,0,1,Import,566,Nigeria,NGA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,280673,,,0
+H1,2000,2000,2000,2,0,1,Import,566,Nigeria,NGA,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1365,,,0
+H1,2000,2000,2000,2,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,116232712,,,0
+H1,2000,2000,2000,2,0,2,Export,579,Norway,NOR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,36731828,,,0
+H1,2000,2000,2000,2,0,1,Import,591,Panama,PAN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27789,,,0
+H1,2000,2000,2000,2,0,1,Import,600,Paraguay,PRY,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25,,,0
+H1,2000,2000,2000,2,0,1,Import,604,Peru,PER,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,201996,,,0
+H1,2000,2000,2000,2,0,2,Export,604,Peru,PER,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21630,,,0
+H1,2000,2000,2000,2,0,2,Export,604,Peru,PER,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17346,,,0
+H1,2000,2000,2000,2,0,2,Export,608,Philippines,PHL,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14486,,,0
+H1,2000,2000,2000,2,0,1,Import,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,210419,,,0
+H1,2000,2000,2000,2,0,2,Export,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,53343,,,0
+H1,2000,2000,2000,2,0,1,Import,616,Poland,POL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,41524000,,,0
+H1,2000,2000,2000,2,0,2,Export,616,Poland,POL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21965000,,,0
+H1,2000,2000,2000,2,0,2,Export,620,Portugal,PRT,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16944,,,0
+H1,2000,2000,2000,2,0,1,Import,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5645875,,,0
+H1,2000,2000,2000,2,0,2,Export,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3647453,,,0
+H1,2000,2000,2000,2,0,2,Export,620,Portugal,PRT,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7396,,,0
+H1,2000,2000,2000,2,0,2,Export,620,Portugal,PRT,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,219,,,0
+H1,2000,2000,2000,2,0,1,Import,634,Qatar,QAT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,133704,,,0
+H1,2000,2000,2000,2,0,2,Export,634,Qatar,QAT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1787,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,634,Qatar,QAT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1787,,,0
+H1,2000,2000,2000,2,0,1,Import,642,Romania,ROU,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1466000,,,0
+H1,2000,2000,2000,2,0,2,Export,642,Romania,ROU,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,146000,,,0
+H1,2000,2000,2000,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6763441,,,0
+H1,2000,2000,2000,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9924,,,0
+H1,2000,2000,2000,2,0,1,Import,659,Saint Kitts and Nevis,KNA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,124,,,0
+H1,2000,2000,2000,2,0,1,Import,662,Saint Lucia,LCA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3901,,,0
+H1,2000,2000,2000,2,0,1,Import,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32471,,,0
+H1,2000,2000,2000,2,0,2,Export,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,203,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,203,,,0
+H1,2000,2000,2000,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4437,,,0
+H1,2000,2000,2000,2,0,2,Export,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,69305,,,0
+H1,2000,2000,2000,2,0,1,Import,682,Saudi Arabia,SAU,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,875468,,,0
+H1,2000,2000,2000,2,0,2,Export,682,Saudi Arabia,SAU,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,497334,,,0
+H1,2000,2000,2000,2,0,2,Export,686,Senegal,SEN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,75973,,,0
+H1,2000,2000,2000,2,0,1,Import,686,Senegal,SEN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,70253,,,0
+H1,2000,2000,2000,2,0,2,Export,699,India,IND,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,88196,,,0
+H1,2000,2000,2000,2,0,1,Import,699,India,IND,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1082767,,,0
+H1,2000,2000,2000,2,0,2,Export,699,India,IND,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1013563,,,0
+H1,2000,2000,2000,2,0,2,Export,699,India,IND,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39025,,,0
+H1,2000,2000,2000,2,0,2,Export,699,India,IND,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,808086,,,0
+H1,2000,2000,2000,2,0,2,Export,702,Singapore,SGP,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,127352,,,0
+H1,2000,2000,2000,2,0,1,Import,702,Singapore,SGP,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3140374,,,0
+H1,2000,2000,2000,2,0,2,Export,702,Singapore,SGP,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,366535,,,0
+H1,2000,2000,2000,2,0,2,Export,702,Singapore,SGP,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,170543,,,0
+H1,2000,2000,2000,2,0,1,Import,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1749857,,,0
+H1,2000,2000,2000,2,0,2,Export,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,570855,,,0
+H1,2000,2000,2000,2,0,1,Import,703,Slovakia,SVK,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29,,,0
+H1,2000,2000,2000,2,0,1,Import,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,668000,,,0
+H1,2000,2000,2000,2,0,1,Import,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1050818,,,0
+H1,2000,2000,2000,2,0,2,Export,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,721957,,,0
+H1,2000,2000,2000,2,0,2,Export,705,Slovenia,SVN,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25840,,,0
+H1,2000,2000,2000,2,0,1,Import,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,113,,,0
+H1,2000,2000,2000,2,0,2,Export,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3065947,,,0
+H1,2000,2000,2000,2,0,1,Import,710,South Africa,ZAF,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2235926,,,0
+H1,2000,2000,2000,2,0,2,Export,710,South Africa,ZAF,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,238490,,,0
+H1,2000,2000,2000,2,0,1,Import,710,South Africa,ZAF,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21202,,,0
+H1,2000,2000,2000,2,0,2,Export,710,South Africa,ZAF,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5588,,,0
+H1,2000,2000,2000,2,0,2,Export,710,South Africa,ZAF,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30789,,,0
+H1,2000,2000,2000,2,0,2,Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12409,,,0
+H1,2000,2000,2000,2,0,1,Import,716,Zimbabwe,ZWE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13301,,,0
+H1,2000,2000,2000,2,0,1,Import,716,Zimbabwe,ZWE,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1271,,,0
+H1,2000,2000,2000,2,0,2,Export,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1788385,,,0
+H1,2000,2000,2000,2,0,1,Import,724,Spain,ESP,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,30386938,,,4
+H1,2000,2000,2000,2,0,2,Export,724,Spain,ESP,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,18689790,,,0
+H1,2000,2000,2000,2,0,1,Import,724,Spain,ESP,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,749,,,0
+H1,2000,2000,2000,2,0,2,Export,724,Spain,ESP,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,63591,,,0
+H1,2000,2000,2000,2,0,1,Import,736,Fmr Sudan,SDN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,62790,,,0
+H1,2000,2000,2000,2,0,1,Import,736,Fmr Sudan,SDN,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,42295,,,0
+H1,2000,2000,2000,2,0,2,Export,752,Sweden,SWE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,982,,,0
+H1,2000,2000,2000,2,0,1,Import,752,Sweden,SWE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,179229446,,,0
+H1,2000,2000,2000,2,0,2,Export,752,Sweden,SWE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,222120191,,,0
+H1,2000,2000,2000,2,0,2,Export,752,Sweden,SWE,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14514,,,0
+H1,2000,2000,2000,2,0,2,Export,752,Sweden,SWE,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2292,,,0
+H1,2000,2000,2000,2,0,2,Export,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,90220,,,0
+H1,2000,2000,2000,2,0,1,Import,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24168068,,,0
+H1,2000,2000,2000,2,0,2,Export,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,36563354,,,0
+H1,2000,2000,2000,2,0,2,Export,757,Switzerland,CHE,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11433,,,0
+H1,2000,2000,2000,2,0,2,Export,764,Thailand,THA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,45142,,,0
+H1,2000,2000,2000,2,0,1,Import,764,Thailand,THA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3529939,,,0
+H1,2000,2000,2000,2,0,2,Export,764,Thailand,THA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2239140,,,0
+H1,2000,2000,2000,2,0,1,Import,764,Thailand,THA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11814,,,0
+H1,2000,2000,2000,2,0,2,Export,764,Thailand,THA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31427,,,0
+H1,2000,2000,2000,2,0,1,Import,764,Thailand,THA,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,529,,,0
+H1,2000,2000,2000,2,0,2,Export,764,Thailand,THA,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,513272,,,0
+H1,2000,2000,2000,2,0,2,Export,768,Togo,TGO,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1667,,,0
+H1,2000,2000,2000,2,0,1,Import,768,Togo,TGO,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,334396,,,0
+H1,2000,2000,2000,2,0,2,Export,780,Trinidad and Tobago,TTO,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,162,,,0
+H1,2000,2000,2000,2,0,1,Import,780,Trinidad and Tobago,TTO,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34403,,,0
+H1,2000,2000,2000,2,0,1,Import,780,Trinidad and Tobago,TTO,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12444,,,0
+H1,2000,2000,2000,2,0,2,Export,780,Trinidad and Tobago,TTO,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,595281,,,0
+H1,2000,2000,2000,2,0,2,Export,784,United Arab Emirates,ARE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,65490,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,784,United Arab Emirates,ARE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,65490,,,0
+H1,2000,2000,2000,2,0,1,Import,784,United Arab Emirates,ARE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,964535,,,0
+H1,2000,2000,2000,2,0,2,Export,784,United Arab Emirates,ARE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,111853,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,784,United Arab Emirates,ARE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,48829,,,0
+H1,2000,2000,2000,2,0,1,Import,784,United Arab Emirates,ARE,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,817,,,0
+H1,2000,2000,2000,2,0,2,Export,784,United Arab Emirates,ARE,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2259647,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,784,United Arab Emirates,ARE,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1130887,,,0
+H1,2000,2000,2000,2,0,1,Import,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,320196,,,0
+H1,2000,2000,2000,2,0,2,Export,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2239,,,0
+H1,2000,2000,2000,2,0,2,Export,788,Tunisia,TUN,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12973,,,0
+H1,2000,2000,2000,2,0,1,Import,792,Turkey,TUR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5039876,,,0
+H1,2000,2000,2000,2,0,2,Export,792,Turkey,TUR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,802609,,,0
+H1,2000,2000,2000,2,0,2,Export,792,Turkey,TUR,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31160,,,0
+H1,2000,2000,2000,2,0,1,Import,792,Turkey,TUR,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16556,,,0
+H1,2000,2000,2000,2,0,1,Import,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,49,,,0
+H1,2000,2000,2000,2,0,2,Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21832,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5683,,,0
+H1,2000,2000,2000,2,0,1,Import,800,Uganda,UGA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,75493,,,0
+H1,2000,2000,2000,2,0,1,Import,800,Uganda,UGA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1546,,,0
+H1,2000,2000,2000,2,0,1,Import,807,North Macedonia,MKD,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,99131,,,0
+H1,2000,2000,2000,2,0,1,Import,826,United Kingdom,GBR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8078,,,0
+H1,2000,2000,2000,2,0,2,Export,826,United Kingdom,GBR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15012,,,0
+H1,2000,2000,2000,2,0,1,Import,826,United Kingdom,GBR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,143758357,,,0
+H1,2000,2000,2000,2,0,2,Export,826,United Kingdom,GBR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,143988445,,,0
+H1,2000,2000,2000,2,0,1,Import,826,United Kingdom,GBR,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,246114,,,0
+H1,2000,2000,2000,2,0,2,Export,826,United Kingdom,GBR,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,738447,,,0
+H1,2000,2000,2000,2,0,2,Export,826,United Kingdom,GBR,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,236628,,,0
+H1,2000,2000,2000,2,0,2,Export,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9760,,,0
+H1,2000,2000,2000,2,0,1,Import,834,United Rep. of Tanzania,TZA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,78599,,,0
+H1,2000,2000,2000,2,0,2,Export,834,United Rep. of Tanzania,TZA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,812,,,0
+H1,2000,2000,2000,2,0,1,Import,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2444,,,0
+H1,2000,2000,2000,2,0,2,Export,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12652,,,0
+H1,2000,2000,2000,2,0,1,Import,842,USA,USA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,47506565,,,0
+H1,2000,2000,2000,2,0,2,Export,842,USA,USA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23197879,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,842,USA,USA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1514385,,,0
+H1,2000,2000,2000,2,0,1,Import,842,USA,USA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,148116,,,0
+H1,2000,2000,2000,2,0,2,Export,842,USA,USA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1109708,,,0
+H1,2000,2000,2000,2,0,2,Export,842,USA,USA,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,964958,,,0
+H1,2000,2000,2000,2,0,1,Import,854,Burkina Faso,BFA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34461,,,0
+H1,2000,2000,2000,2,0,1,Import,858,Uruguay,URY,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30850,,,0
+H1,2000,2000,2000,2,0,1,Import,862,Venezuela,VEN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,288760,,,0
+H1,2000,2000,2000,2,0,2,Export,862,Venezuela,VEN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,147709,,,0
+H1,2000,2000,2000,2,0,2,Export,862,Venezuela,VEN,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,148026,,,0
+H1,2000,2000,2000,2,0,1,Import,891,Serbia and Montenegro,SCG,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,592000,,,0
+H1,2000,2000,2000,2,0,2,Export,891,Serbia and Montenegro,SCG,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14000,,,0
+H1,2000,2000,2000,2,0,1,Import,8,Albania,ALB,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3598,,,0
+H1,2000,2000,2000,2,0,1,Import,12,Algeria,DZA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,329102,,,0
+H1,2000,2000,2000,2,0,1,Import,28,Antigua and Barbuda,ATG,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,525,,,0
+H1,2000,2000,2000,2,0,2,Export,28,Antigua and Barbuda,ATG,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2660,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,28,Antigua and Barbuda,ATG,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2660,,,0
+H1,2000,2000,2000,2,0,1,Import,31,Azerbaijan,AZE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,348,,,0
+H1,2000,2000,2000,2,0,1,Import,32,Argentina,ARG,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,576119,,,0
+H1,2000,2000,2000,2,0,2,Export,32,Argentina,ARG,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,185324,,,0
+H1,2000,2000,2000,2,0,1,Import,36,Australia,AUS,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1696390,,,0
+H1,2000,2000,2000,2,0,2,Export,36,Australia,AUS,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13305,,,0
+H1,2000,2000,2000,2,0,2,Export,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4483,,,0
+H1,2000,2000,2000,2,0,1,Import,40,Austria,AUT,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1886277,,,0
+H1,2000,2000,2000,2,0,2,Export,40,Austria,AUT,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6208726,,,0
+H1,2000,2000,2000,2,0,1,Import,40,Austria,AUT,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1405,,,0
+H1,2000,2000,2000,2,0,1,Import,44,Bahamas,BHS,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7677,,,0
+H1,2000,2000,2000,2,0,1,Import,52,Barbados,BRB,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4719,,,0
+H1,2000,2000,2000,2,0,2,Export,52,Barbados,BRB,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9458,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,52,Barbados,BRB,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9458,,,0
+H1,2000,2000,2000,2,0,1,Import,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,103391,,,0
+H1,2000,2000,2000,2,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1839896,,,0
+H1,2000,2000,2000,2,0,1,Import,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6232622,,,0
+H1,2000,2000,2000,2,0,2,Export,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17748502,,,0
+H1,2000,2000,2000,2,0,2,Export,56,Belgium,BEL,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1601,,,0
+H1,2000,2000,2000,2,0,2,Export,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16465,,,0
+H1,2000,2000,2000,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9239,,,0
+H1,2000,2000,2000,2,0,1,Import,72,Botswana,BWA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47440,,,0
+H1,2000,2000,2000,2,0,1,Import,76,Brazil,BRA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,87,,,0
+H1,2000,2000,2000,2,0,2,Export,76,Brazil,BRA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,413,,,0
+H1,2000,2000,2000,2,0,1,Import,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1023595,,,4
+H1,2000,2000,2000,2,0,2,Export,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,790406,,,4
+H1,2000,2000,2000,2,0,1,Import,84,Belize,BLZ,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1445,,,0
+H1,2000,2000,2000,2,0,1,Import,100,Bulgaria,BGR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,179133,,,0
+H1,2000,2000,2000,2,0,2,Export,100,Bulgaria,BGR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,304479,,,0
+H1,2000,2000,2000,2,0,1,Import,112,Belarus,BLR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,94100,,,0
+H1,2000,2000,2000,2,0,2,Export,112,Belarus,BLR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9400,,,0
+H1,2000,2000,2000,2,0,2,Export,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,164,,,0
+H1,2000,2000,2000,2,0,1,Import,120,Cameroon,CMR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12055,,,0
+H1,2000,2000,2000,2,0,2,Export,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4066,,,0
+H1,2000,2000,2000,2,0,1,Import,124,Canada,CAN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,836436,,,0
+H1,2000,2000,2000,2,0,2,Export,124,Canada,CAN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,339986,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,124,Canada,CAN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2190,,,0
+H1,2000,2000,2000,2,0,1,Import,124,Canada,CAN,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17125,,,0
+H1,2000,2000,2000,2,0,2,Export,124,Canada,CAN,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11379,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,124,Canada,CAN,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11379,,,0
+H1,2000,2000,2000,2,0,1,Import,132,Cabo Verde,CPV,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,881,,,0
+H1,2000,2000,2000,2,0,1,Import,144,Sri Lanka,LKA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,31232,,,0
+H1,2000,2000,2000,2,0,2,Export,144,Sri Lanka,LKA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3156950,,,0
+H1,2000,2000,2000,2,0,1,Import,144,Sri Lanka,LKA,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12,,,0
+H1,2000,2000,2000,2,0,1,Import,152,Chile,CHL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,388853,,,0
+H1,2000,2000,2000,2,0,2,Export,152,Chile,CHL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,300,,,0
+H1,2000,2000,2000,2,0,2,Export,152,Chile,CHL,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14957,,,0
+H1,2000,2000,2000,2,0,2,Export,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,441319,,,0
+H1,2000,2000,2000,2,0,1,Import,156,China,CHN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1564784,,,0
+H1,2000,2000,2000,2,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2331895,,,0
+H1,2000,2000,2000,2,0,2,Export,156,China,CHN,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3892460,,,0
+H1,2000,2000,2000,2,0,2,Export,156,China,CHN,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3373426,,,0
+H1,2000,2000,2000,2,0,1,Import,170,Colombia,COL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,165987,,,0
+H1,2000,2000,2000,2,0,1,Import,170,Colombia,COL,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,87,,,0
+H1,2000,2000,2000,2,0,1,Import,188,Costa Rica,CRI,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18715,,,0
+H1,2000,2000,2000,2,0,2,Export,188,Costa Rica,CRI,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22190,,,0
+H1,2000,2000,2000,2,0,1,Import,191,Croatia,HRV,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,159207,,,0
+H1,2000,2000,2000,2,0,1,Import,192,Cuba,CUB,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,80777,,,0
+H1,2000,2000,2000,2,0,1,Import,196,Cyprus,CYP,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13,,,0
+H1,2000,2000,2000,2,0,1,Import,196,Cyprus,CYP,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47862,,,0
+H1,2000,2000,2000,2,0,2,Export,196,Cyprus,CYP,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,37,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,196,Cyprus,CYP,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,37,,,0
+H1,2000,2000,2000,2,0,2,Export,203,Czechia,CZE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2265,,,0
+H1,2000,2000,2000,2,0,1,Import,203,Czechia,CZE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1267203,,,0
+H1,2000,2000,2000,2,0,2,Export,203,Czechia,CZE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3868707,,,0
+H1,2000,2000,2000,2,0,2,Export,203,Czechia,CZE,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1544,,,0
+H1,2000,2000,2000,2,0,1,Import,204,Benin,BEN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,119025,,,0
+H1,2000,2000,2000,2,0,2,Export,204,Benin,BEN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8538,,,0
+H1,2000,2000,2000,2,0,2,Export,208,Denmark,DNK,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11131,,,0
+H1,2000,2000,2000,2,0,1,Import,218,Ecuador,ECU,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6543,,,0
+H1,2000,2000,2000,2,0,1,Import,222,El Salvador,SLV,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13818,,,0
+H1,2000,2000,2000,2,0,1,Import,231,Ethiopia,ETH,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,37791,,,4
+H1,2000,2000,2000,2,0,1,Import,231,Ethiopia,ETH,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14537,,,0
+H1,2000,2000,2000,2,0,1,Import,233,Estonia,EST,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,243379,,,0
+H1,2000,2000,2000,2,0,2,Export,233,Estonia,EST,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,279113,,,0
+H1,2000,2000,2000,2,0,1,Import,234,Faeroe Isds,FRO,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,817347,,,0
+H1,2000,2000,2000,2,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2707353,,,0
+H1,2000,2000,2000,2,0,2,Export,246,Finland,FIN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4729053,,,0
+H1,2000,2000,2000,2,0,2,Export,246,Finland,FIN,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,176,,,0
+H1,2000,2000,2000,2,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,80621,,,0
+H1,2000,2000,2000,2,0,1,Import,251,France,FRA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17244748,,,0
+H1,2000,2000,2000,2,0,2,Export,251,France,FRA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22706232,,,0
+H1,2000,2000,2000,2,0,1,Import,251,France,FRA,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1544,,,0
+H1,2000,2000,2000,2,0,2,Export,251,France,FRA,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1230105,,,0
+H1,2000,2000,2000,2,0,1,Import,258,French Polynesia,PYF,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,71545,,,0
+H1,2000,2000,2000,2,0,1,Import,266,Gabon,GAB,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,60516,,,0
+H1,2000,2000,2000,2,0,1,Import,268,Georgia,GEO,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4354,,,0
+H1,2000,2000,2000,2,0,1,Import,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24000,,,0
+H1,2000,2000,2000,2,0,2,Export,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,199000,,,0
+H1,2000,2000,2000,2,0,1,Import,276,Germany,DEU,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22883000,,,0
+H1,2000,2000,2000,2,0,2,Export,276,Germany,DEU,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,77821000,,,0
+H1,2000,2000,2000,2,0,1,Import,276,Germany,DEU,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2000,,,0
+H1,2000,2000,2000,2,0,2,Export,276,Germany,DEU,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,26000,,,0
+H1,2000,2000,2000,2,0,2,Export,276,Germany,DEU,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,44000,,,0
+H1,2000,2000,2000,2,0,1,Import,300,Greece,GRC,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,700679,,,0
+H1,2000,2000,2000,2,0,2,Export,300,Greece,GRC,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13180,,,0
+H1,2000,2000,2000,2,0,1,Import,304,Greenland,GRL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,544387,,,0
+H1,2000,2000,2000,2,0,2,Export,304,Greenland,GRL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1719,,,0
+H1,2000,2000,2000,2,0,1,Import,320,Guatemala,GTM,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32271,,,0
+H1,2000,2000,2000,2,0,1,Import,324,Guinea,GIN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,403353,,,0
+H1,2000,2000,2000,2,0,1,Import,328,Guyana,GUY,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4360,,,0
+H1,2000,2000,2000,2,0,2,Export,328,Guyana,GUY,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,83,,,0
+H1,2000,2000,2000,2,0,1,Import,340,Honduras,HND,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22920,,,0
+H1,2000,2000,2000,2,0,2,Export,344,"China, Hong Kong SAR",HKG,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29449,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29449,,,0
+H1,2000,2000,2000,2,0,1,Import,344,"China, Hong Kong SAR",HKG,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,100986,,,0
+H1,2000,2000,2000,2,0,2,Export,344,"China, Hong Kong SAR",HKG,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,596844,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,580566,,,0
+H1,2000,2000,2000,2,0,1,Import,348,Hungary,HUN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1000,,,0
+H1,2000,2000,2000,2,0,1,Import,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,858000,,,0
+H1,2000,2000,2000,2,0,2,Export,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1777000,,,0
+H1,2000,2000,2000,2,0,1,Import,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,696129,,,0
+H1,2000,2000,2000,2,0,2,Export,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30297,,,0
+H1,2000,2000,2000,2,0,2,Export,360,Indonesia,IDN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6954,,,0
+H1,2000,2000,2000,2,0,1,Import,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,903007,,,0
+H1,2000,2000,2000,2,0,2,Export,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6452617,,,0
+H1,2000,2000,2000,2,0,1,Import,360,Indonesia,IDN,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17,,,0
+H1,2000,2000,2000,2,0,2,Export,360,Indonesia,IDN,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47766,,,0
+H1,2000,2000,2000,2,0,2,Export,360,Indonesia,IDN,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,518558,,,0
+H1,2000,2000,2000,2,0,1,Import,364,Iran,IRN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,836468,,,0
+H1,2000,2000,2000,2,0,2,Export,364,Iran,IRN,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,41276,,,0
+H1,2000,2000,2000,2,0,2,Export,372,Ireland,IRL,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2313,,,0
+H1,2000,2000,2000,2,0,1,Import,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,259589,,,0
+H1,2000,2000,2000,2,0,2,Export,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1071322,,,0
+H1,2000,2000,2000,2,0,1,Import,372,Ireland,IRL,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7399,,,0
+H1,2000,2000,2000,2,0,1,Import,376,Israel,ISR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,442000,,,0
+H1,2000,2000,2000,2,0,2,Export,376,Israel,ISR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2806000,,,0
+H1,2000,2000,2000,2,0,2,Export,376,Israel,ISR,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,45000,,,0
+H1,2000,2000,2000,2,0,2,Export,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16946,,,0
+H1,2000,2000,2000,2,0,1,Import,381,Italy,ITA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6055326,,,0
+H1,2000,2000,2000,2,0,2,Export,381,Italy,ITA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14936316,,,0
+H1,2000,2000,2000,2,0,2,Export,381,Italy,ITA,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,46156,,,0
+H1,2000,2000,2000,2,0,2,Export,381,Italy,ITA,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,198080,,,0
+H1,2000,2000,2000,2,0,2,Export,384,Côte d'Ivoire,CIV,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13834,,,0
+H1,2000,2000,2000,2,0,1,Import,384,Côte d'Ivoire,CIV,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8048,,,0
+H1,2000,2000,2000,2,0,1,Import,388,Jamaica,JAM,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,52816,,,0
+H1,2000,2000,2000,2,0,2,Export,388,Jamaica,JAM,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,69065,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,388,Jamaica,JAM,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,69065,,,0
+H1,2000,2000,2000,2,0,2,Export,392,Japan,JPN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8982,,,0
+H1,2000,2000,2000,2,0,1,Import,392,Japan,JPN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,781502,,,0
+H1,2000,2000,2000,2,0,2,Export,392,Japan,JPN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11606071,,,0
+H1,2000,2000,2000,2,0,2,Export,392,Japan,JPN,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,192428,,,0
+H1,2000,2000,2000,2,0,2,Export,392,Japan,JPN,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1876687,,,0
+H1,2000,2000,2000,2,0,1,Import,398,Kazakhstan,KAZ,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7100,,,0
+H1,2000,2000,2000,2,0,1,Import,400,Jordan,JOR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,53244,,,0
+H1,2000,2000,2000,2,0,1,Import,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1408,,,0
+H1,2000,2000,2000,2,0,2,Export,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28616,,,0
+H1,2000,2000,2000,2,0,1,Import,404,Kenya,KEN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,98357,,,0
+H1,2000,2000,2000,2,0,2,Export,404,Kenya,KEN,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11871,,,0
+H1,2000,2000,2000,2,0,1,Import,410,Rep. of Korea,KOR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,394167,,,0
+H1,2000,2000,2000,2,0,2,Export,410,Rep. of Korea,KOR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7395545,,,0
+H1,2000,2000,2000,2,0,2,Export,410,Rep. of Korea,KOR,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,451127,,,0
+H1,2000,2000,2000,2,0,2,Export,410,Rep. of Korea,KOR,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,725773,,,0
+H1,2000,2000,2000,2,0,1,Import,417,Kyrgyzstan,KGZ,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4742,,,0
+H1,2000,2000,2000,2,0,1,Import,422,Lebanon,LBN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,69438,,,0
+H1,2000,2000,2000,2,0,1,Import,428,Latvia,LVA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,215725,,,0
+H1,2000,2000,2000,2,0,2,Export,428,Latvia,LVA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10500,,,0
+H1,2000,2000,2000,2,0,1,Import,440,Lithuania,LTU,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,592290,,,0
+H1,2000,2000,2000,2,0,2,Export,440,Lithuania,LTU,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,74382,,,0
+H1,2000,2000,2000,2,0,2,Export,442,Luxembourg,LUX,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1531,,,0
+H1,2000,2000,2000,2,0,1,Import,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5445,,,0
+H1,2000,2000,2000,2,0,2,Export,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2739013,,,0
+H1,2000,2000,2000,2,0,1,Import,450,Madagascar,MDG,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3197,,,0
+H1,2000,2000,2000,2,0,2,Export,450,Madagascar,MDG,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1176,,,0
+H1,2000,2000,2000,2,0,1,Import,454,Malawi,MWI,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2004,,,0
+H1,2000,2000,2000,2,0,1,Import,458,Malaysia,MYS,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,91539,,,0
+H1,2000,2000,2000,2,0,2,Export,458,Malaysia,MYS,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6346068,,,0
+H1,2000,2000,2000,2,0,2,Export,458,Malaysia,MYS,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,39130,,,0
+H1,2000,2000,2000,2,0,2,Export,458,Malaysia,MYS,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23621,,,0
+H1,2000,2000,2000,2,0,1,Import,462,Maldives,MDV,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10060,,,0
+H1,2000,2000,2000,2,0,1,Import,466,Mali,MLI,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4117,,,0
+H1,2000,2000,2000,2,0,1,Import,470,Malta,MLT,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27583,,,0
+H1,2000,2000,2000,2,0,2,Export,470,Malta,MLT,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18596,,,0
+H1,2000,2000,2000,2,0,1,Import,480,Mauritius,MUS,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,39363,,,0
+H1,2000,2000,2000,2,0,1,Import,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,490076,,,0
+H1,2000,2000,2000,2,0,2,Export,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6671,,,0
+H1,2000,2000,2000,2,0,1,Import,490,"Other Asia, nes",,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,383076,,,0
+H1,2000,2000,2000,2,0,2,Export,490,"Other Asia, nes",,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5296812,,,0
+H1,2000,2000,2000,2,0,2,Export,490,"Other Asia, nes",,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4680,,,0
+H1,2000,2000,2000,2,0,2,Export,490,"Other Asia, nes",,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2005,,,0
+H1,2000,2000,2000,2,0,1,Import,496,Mongolia,MNG,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2014,,,0
+H1,2000,2000,2000,2,0,1,Import,498,Rep. of Moldova,MDA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10019,,,0
+H1,2000,2000,2000,2,0,1,Import,512,Oman,OMN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2349,,,0
+H1,2000,2000,2000,2,0,1,Import,516,Namibia,NAM,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,408,,,0
+H1,2000,2000,2000,2,0,2,Export,516,Namibia,NAM,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,53172,,,0
+H1,2000,2000,2000,2,0,2,Export,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,227367,,,0
+H1,2000,2000,2000,2,0,1,Import,528,Netherlands,NLD,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16273612,,,0
+H1,2000,2000,2000,2,0,2,Export,528,Netherlands,NLD,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15272241,,,0
+H1,2000,2000,2000,2,0,2,Export,528,Netherlands,NLD,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,94813,,,0
+H1,2000,2000,2000,2,0,1,Import,533,Aruba,ABW,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17,,,0
+H1,2000,2000,2000,2,0,1,Import,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,494182,,,0
+H1,2000,2000,2000,2,0,2,Export,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,173486,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,639,,,0
+H1,2000,2000,2000,2,0,1,Import,558,Nicaragua,NIC,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32632,,,0
+H1,2000,2000,2000,2,0,1,Import,562,Niger,NER,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1701,,,0
+H1,2000,2000,2000,2,0,1,Import,566,Nigeria,NGA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,73518,,,0
+H1,2000,2000,2000,2,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9452254,,,0
+H1,2000,2000,2000,2,0,2,Export,579,Norway,NOR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2133056,,,0
+H1,2000,2000,2000,2,0,1,Import,591,Panama,PAN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3460,,,0
+H1,2000,2000,2000,2,0,1,Import,600,Paraguay,PRY,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,344,,,0
+H1,2000,2000,2000,2,0,1,Import,604,Peru,PER,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,63089,,,0
+H1,2000,2000,2000,2,0,2,Export,604,Peru,PER,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11120,,,0
+H1,2000,2000,2000,2,0,1,Import,604,Peru,PER,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,481,,,0
+H1,2000,2000,2000,2,0,1,Import,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,162082,,,0
+H1,2000,2000,2000,2,0,2,Export,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,366747,,,0
+H1,2000,2000,2000,2,0,1,Import,608,Philippines,PHL,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,256,,,0
+H1,2000,2000,2000,2,0,1,Import,616,Poland,POL,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,77000,,,0
+H1,2000,2000,2000,2,0,1,Import,616,Poland,POL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2073000,,,0
+H1,2000,2000,2000,2,0,2,Export,616,Poland,POL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3182000,,,0
+H1,2000,2000,2000,2,0,2,Export,620,Portugal,PRT,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17279,,,0
+H1,2000,2000,2000,2,0,1,Import,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,597542,,,0
+H1,2000,2000,2000,2,0,2,Export,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1695850,,,0
+H1,2000,2000,2000,2,0,1,Import,642,Romania,ROU,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,442000,,,0
+H1,2000,2000,2000,2,0,2,Export,642,Romania,ROU,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,491000,,,0
+H1,2000,2000,2000,2,0,2,Export,643,Russian Federation,RUS,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10975,,,0
+H1,2000,2000,2000,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,816757,,,0
+H1,2000,2000,2000,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,230029,,,0
+H1,2000,2000,2000,2,0,2,Export,643,Russian Federation,RUS,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,194531,,,0
+H1,2000,2000,2000,2,0,1,Import,662,Saint Lucia,LCA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2053,,,0
+H1,2000,2000,2000,2,0,2,Export,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,129,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,129,,,0
+H1,2000,2000,2000,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,406,,,0
+H1,2000,2000,2000,2,0,2,Export,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,431,,,0
+H1,2000,2000,2000,2,0,1,Import,686,Senegal,SEN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27999,,,0
+H1,2000,2000,2000,2,0,2,Export,699,India,IND,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,58540,,,0
+H1,2000,2000,2000,2,0,1,Import,699,India,IND,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,774754,,,0
+H1,2000,2000,2000,2,0,2,Export,699,India,IND,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1186606,,,0
+H1,2000,2000,2000,2,0,2,Export,699,India,IND,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22953,,,0
+H1,2000,2000,2000,2,0,1,Import,702,Singapore,SGP,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,804577,,,0
+H1,2000,2000,2000,2,0,2,Export,702,Singapore,SGP,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4576435,,,0
+H1,2000,2000,2000,2,0,2,Export,702,Singapore,SGP,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,48854,,,0
+H1,2000,2000,2000,2,0,1,Import,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,171500,,,0
+H1,2000,2000,2000,2,0,2,Export,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,488214,,,0
+H1,2000,2000,2000,2,0,2,Export,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,452000,,,0
+H1,2000,2000,2000,2,0,1,Import,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,138553,,,0
+H1,2000,2000,2000,2,0,2,Export,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3377136,,,0
+H1,2000,2000,2000,2,0,1,Import,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10222,,,0
+H1,2000,2000,2000,2,0,2,Export,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2589285,,,0
+H1,2000,2000,2000,2,0,1,Import,710,South Africa,ZAF,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,538882,,,0
+H1,2000,2000,2000,2,0,2,Export,710,South Africa,ZAF,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29024,,,0
+H1,2000,2000,2000,2,0,1,Import,710,South Africa,ZAF,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16124,,,0
+H1,2000,2000,2000,2,0,2,Export,710,South Africa,ZAF,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1541,,,0
+H1,2000,2000,2000,2,0,1,Import,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,16,,,0
+H1,2000,2000,2000,2,0,2,Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,380,,,0
+H1,2000,2000,2000,2,0,1,Import,716,Zimbabwe,ZWE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,90153,,,0
+H1,2000,2000,2000,2,0,1,Import,724,Spain,ESP,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2126016,,,4
+H1,2000,2000,2000,2,0,2,Export,724,Spain,ESP,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,9332145,,,0
+H1,2000,2000,2000,2,0,1,Import,736,Fmr Sudan,SDN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7331,,,0
+H1,2000,2000,2000,2,0,1,Import,736,Fmr Sudan,SDN,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2097,,,0
+H1,2000,2000,2000,2,0,1,Import,748,Eswatini,SWZ,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16,,,0
+H1,2000,2000,2000,2,0,2,Export,752,Sweden,SWE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,109,,,0
+H1,2000,2000,2000,2,0,1,Import,752,Sweden,SWE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22221934,,,0
+H1,2000,2000,2000,2,0,2,Export,752,Sweden,SWE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,74517889,,,0
+H1,2000,2000,2000,2,0,2,Export,752,Sweden,SWE,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,109,,,0
+H1,2000,2000,2000,2,0,2,Export,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32967,,,0
+H1,2000,2000,2000,2,0,1,Import,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1490219,,,0
+H1,2000,2000,2000,2,0,2,Export,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,869754,,,0
+H1,2000,2000,2000,2,0,1,Import,762,Tajikistan,TJK,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1000,,,0
+H1,2000,2000,2000,2,0,2,Export,764,Thailand,THA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5040,,,0
+H1,2000,2000,2000,2,0,1,Import,764,Thailand,THA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,337698,,,0
+H1,2000,2000,2000,2,0,2,Export,764,Thailand,THA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2131225,,,0
+H1,2000,2000,2000,2,0,1,Import,764,Thailand,THA,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12354,,,0
+H1,2000,2000,2000,2,0,2,Export,764,Thailand,THA,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,129807,,,0
+H1,2000,2000,2000,2,0,2,Export,764,Thailand,THA,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3637,,,0
+H1,2000,2000,2000,2,0,1,Import,768,Togo,TGO,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10435,,,0
+H1,2000,2000,2000,2,0,1,Import,780,Trinidad and Tobago,TTO,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23300,,,0
+H1,2000,2000,2000,2,0,1,Import,780,Trinidad and Tobago,TTO,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,206,,,0
+H1,2000,2000,2000,2,0,2,Export,780,Trinidad and Tobago,TTO,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2122,,,0
+H1,2000,2000,2000,2,0,2,Export,784,United Arab Emirates,ARE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,492390,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,784,United Arab Emirates,ARE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,492390,,,0
+H1,2000,2000,2000,2,0,1,Import,784,United Arab Emirates,ARE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,227688,,,0
+H1,2000,2000,2000,2,0,2,Export,784,United Arab Emirates,ARE,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1035183,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,784,United Arab Emirates,ARE,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1035183,,,0
+H1,2000,2000,2000,2,0,1,Import,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,149262,,,0
+H1,2000,2000,2000,2,0,2,Export,788,Tunisia,TUN,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1536,,,0
+H1,2000,2000,2000,2,0,2,Export,792,Turkey,TUR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11709,,,0
+H1,2000,2000,2000,2,0,1,Import,792,Turkey,TUR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,208097,,,0
+H1,2000,2000,2000,2,0,2,Export,792,Turkey,TUR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2061997,,,0
+H1,2000,2000,2000,2,0,2,Export,792,Turkey,TUR,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,35795,,,0
+H1,2000,2000,2000,2,0,1,Import,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3210,,,0
+H1,2000,2000,2000,2,0,2,Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1440,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1440,,,0
+H1,2000,2000,2000,2,0,1,Import,800,Uganda,UGA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7320,,,0
+H1,2000,2000,2000,2,0,1,Import,800,Uganda,UGA,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4800,,,0
+H1,2000,2000,2000,2,0,1,Import,807,North Macedonia,MKD,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5,,,0
+H1,2000,2000,2000,2,0,1,Import,807,North Macedonia,MKD,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3982,,,0
+H1,2000,2000,2000,2,0,1,Import,826,United Kingdom,GBR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13184,,,0
+H1,2000,2000,2000,2,0,2,Export,826,United Kingdom,GBR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6264,,,0
+H1,2000,2000,2000,2,0,1,Import,826,United Kingdom,GBR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20664122,,,0
+H1,2000,2000,2000,2,0,2,Export,826,United Kingdom,GBR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,26587264,,,0
+H1,2000,2000,2000,2,0,2,Export,826,United Kingdom,GBR,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,216017,,,0
+H1,2000,2000,2000,2,0,2,Export,826,United Kingdom,GBR,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14897,,,0
+H1,2000,2000,2000,2,0,2,Export,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5852,,,0
+H1,2000,2000,2000,2,0,1,Import,834,United Rep. of Tanzania,TZA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,146924,,,0
+H1,2000,2000,2000,2,0,1,Import,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2323,,,0
+H1,2000,2000,2000,2,0,2,Export,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,526851,,,0
+H1,2000,2000,2000,2,0,1,Import,842,USA,USA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9903631,,,0
+H1,2000,2000,2000,2,0,2,Export,842,USA,USA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2837027,,,0
+H1,2000,2000,2000,2,0,3,Re-Export,842,USA,USA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,181301,,,0
+H1,2000,2000,2000,2,0,1,Import,842,USA,USA,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5150,,,0
+H1,2000,2000,2000,2,0,2,Export,842,USA,USA,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,98560,,,0
+H1,2000,2000,2000,2,0,2,Export,842,USA,USA,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3294,,,0
+H1,2000,2000,2000,2,0,1,Import,854,Burkina Faso,BFA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,53796,,,0
+H1,2000,2000,2000,2,0,1,Import,858,Uruguay,URY,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27956,,,0
+H1,2000,2000,2000,2,0,1,Import,862,Venezuela,VEN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,85024,,,0
+H1,2000,2000,2000,2,0,1,Import,891,Serbia and Montenegro,SCG,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32000,,,0
+H0,2000,2000,2000,2,0,1,Import,48,Bahrain,BHR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,14731,,,0
+H0,2000,2000,2000,2,0,1,Import,108,Burundi,BDI,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,534219,,,0
+H0,2000,2000,2000,2,0,2,Export,140,Central African Rep.,CAF,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,215207,,,0
+H0,2000,2000,2000,2,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,53698,,,0
+H0,2000,2000,2000,2,0,2,Export,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,21434,,,0
+H0,2000,2000,2000,2,0,1,Import,414,Kuwait,KWT,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1499,,,0
+H0,2000,2000,2000,2,0,1,Import,500,Montserrat,MSR,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,22540,,,0
+H0,2000,2000,2000,2,0,1,Import,504,Morocco,MAR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,259818,,,0
+H0,2000,2000,2000,2,0,1,Import,540,New Caledonia,NCL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,6687,,,0
+H0,2000,2000,2000,2,0,1,Import,796,Turks and Caicos Isds,TCA,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,131,,,0
+H0,2000,2000,2000,2,0,1,Import,804,Ukraine,UKR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,410,,,0
+H0,2000,2000,2000,2,0,2,Export,804,Ukraine,UKR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,644740,,,0
+H0,2000,2000,2000,2,0,2,Export,818,Egypt,EGY,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,82319,,,0
+H0,2000,2000,2000,2,0,1,Import,818,Egypt,EGY,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,81173,,,0
+H0,2000,2000,2000,2,0,2,Export,818,Egypt,EGY,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,130736,,,0
+H0,2000,2000,2000,2,0,2,Export,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,2056867,,,0
+H0,2000,2000,2000,2,0,1,Import,894,Zambia,ZMB,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,58,,,0
+H0,2000,2000,2000,2,0,1,Import,894,Zambia,ZMB,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,397906,,,0
+H0,2000,2000,2000,2,0,1,Import,48,Bahrain,BHR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,332587,,,0
+H0,2000,2000,2000,2,0,1,Import,50,Bangladesh,BGD,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,220065,,,0
+H0,2000,2000,2000,2,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17087,,,0
+H0,2000,2000,2000,2,0,1,Import,108,Burundi,BDI,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1431,,,0
+H0,2000,2000,2000,2,0,1,Import,270,Gambia,GMB,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14295,,,4
+H0,2000,2000,2000,2,0,2,Export,288,Ghana,GHA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,127,,,0
+H0,2000,2000,2000,2,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1586281,,,0
+H0,2000,2000,2000,2,0,2,Export,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4157,,,0
+H0,2000,2000,2000,2,0,1,Import,414,Kuwait,KWT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1426396,,,0
+H0,2000,2000,2000,2,0,2,Export,414,Kuwait,KWT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,77604,,,0
+H0,2000,2000,2000,2,0,3,Re-Export,414,Kuwait,KWT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,163,,,0
+H0,2000,2000,2000,2,0,2,Export,414,Kuwait,KWT,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,65871,,,0
+H0,2000,2000,2000,2,0,1,Import,504,Morocco,MAR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,174767,,,0
+H0,2000,2000,2000,2,0,1,Import,508,Mozambique,MOZ,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,720036,,,0
+H0,2000,2000,2000,2,0,1,Import,540,New Caledonia,NCL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,88219,,,0
+H0,2000,2000,2000,2,0,1,Import,598,Papua New Guinea,PNG,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16274,,,0
+H0,2000,2000,2000,2,0,1,Import,660,Anguilla,AIA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32,,,0
+H0,2000,2000,2000,2,0,1,Import,660,Anguilla,AIA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1637,,,0
+H0,2000,2000,2000,2,0,2,Export,660,Anguilla,AIA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,439,,,0
+H0,2000,2000,2000,2,0,1,Import,690,Seychelles,SYC,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17238,,,0
+H0,2000,2000,2000,2,0,1,Import,694,Sierra Leone,SLE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15,,,0
+H0,2000,2000,2000,2,0,1,Import,740,Suriname,SUR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16870,,,0
+H0,2000,2000,2000,2,0,1,Import,740,Suriname,SUR,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,84,,,0
+H0,2000,2000,2000,2,0,1,Import,776,Tonga,TON,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17,,,0
+H0,2000,2000,2000,2,0,1,Import,796,Turks and Caicos Isds,TCA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,570,,,0
+H0,2000,2000,2000,2,0,1,Import,804,Ukraine,UKR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2521290,,,0
+H0,2000,2000,2000,2,0,2,Export,804,Ukraine,UKR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,630,,,0
+H0,2000,2000,2000,2,0,1,Import,818,Egypt,EGY,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,566248,,,0
+H0,2000,2000,2000,2,0,2,Export,818,Egypt,EGY,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,129465,,,0
+H0,2000,2000,2000,2,0,2,Export,818,Egypt,EGY,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1436,,,0
+H0,2000,2000,2000,2,0,1,Import,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2554,,,0
+H0,2000,2000,2000,2,0,2,Export,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,165301,,,0
+H0,2000,2000,2000,2,0,1,Import,894,Zambia,ZMB,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14555,,,0
+H0,2000,2000,2000,2,0,1,Import,48,Bahrain,BHR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,64596,,,0
+H0,2000,2000,2000,2,0,1,Import,50,Bangladesh,BGD,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9134,,,0
+H0,2000,2000,2000,2,0,1,Import,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,389,,,0
+H0,2000,2000,2000,2,0,2,Export,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14,,,0
+H0,2000,2000,2000,2,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2167,,,0
+H0,2000,2000,2000,2,0,1,Import,270,Gambia,GMB,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1140,,,0
+H0,2000,2000,2000,2,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,352077,,,0
+H0,2000,2000,2000,2,0,2,Export,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,104650,,,0
+H0,2000,2000,2000,2,0,1,Import,414,Kuwait,KWT,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,137317,,,0
+H0,2000,2000,2000,2,0,1,Import,504,Morocco,MAR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15686,,,0
+H0,2000,2000,2000,2,0,1,Import,504,Morocco,MAR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,170214,,,0
+H0,2000,2000,2000,2,0,1,Import,508,Mozambique,MOZ,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,31599,,,0
+H0,2000,2000,2000,2,0,1,Import,508,Mozambique,MOZ,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4153,,,0
+H0,2000,2000,2000,2,0,1,Import,540,New Caledonia,NCL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8837,,,0
+H0,2000,2000,2000,2,0,1,Import,598,Papua New Guinea,PNG,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,234,,,0
+H0,2000,2000,2000,2,0,2,Export,598,Papua New Guinea,PNG,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,244851,,,0
+H0,2000,2000,2000,2,0,1,Import,598,Papua New Guinea,PNG,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,703,,,0
+H0,2000,2000,2000,2,0,1,Import,690,Seychelles,SYC,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3329,,,0
+H0,2000,2000,2000,2,0,1,Import,740,Suriname,SUR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,674,,,0
+H0,2000,2000,2000,2,0,1,Import,804,Ukraine,UKR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,193320,,,0
+H0,2000,2000,2000,2,0,2,Export,804,Ukraine,UKR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,330,,,0
+H0,2000,2000,2000,2,0,2,Export,818,Egypt,EGY,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,80855,,,0
+H0,2000,2000,2000,2,0,1,Import,818,Egypt,EGY,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,132581,,,0
+H0,2000,2000,2000,2,0,2,Export,818,Egypt,EGY,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3257,,,0
+H0,2000,2000,2000,2,0,2,Export,818,Egypt,EGY,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2734720,,,0
+H0,2000,2000,2000,2,0,1,Import,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,96,,,0
+H0,2000,2000,2000,2,0,2,Export,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,63169,,,0
+H0,2000,2000,2000,2,0,1,Import,894,Zambia,ZMB,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,63108,,,0
+H0,2000,2000,2000,2,0,1,Import,894,Zambia,ZMB,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,44,,,0

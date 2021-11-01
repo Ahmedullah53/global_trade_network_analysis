@@ -1,0 +1,952 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2005,2005,2005,2,0,1,Import,8,Albania,ALB,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,8221275,,,0
+H2,2005,2005,2005,2,0,1,Import,12,Algeria,DZA,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,443,,,0
+H2,2005,2005,2005,2,0,2,Export,31,Azerbaijan,AZE,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,176273311,,,0
+H2,2005,2005,2005,2,0,2,Export,32,Argentina,ARG,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,166737,,,0
+H2,2005,2005,2005,2,0,2,Export,32,Argentina,ARG,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,986032,,,0
+H2,2005,2005,2005,2,0,2,Export,36,Australia,AUS,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,159132,,,0
+H2,2005,2005,2005,2,0,1,Import,40,Austria,AUT,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,26135837,,,0
+H2,2005,2005,2005,2,0,2,Export,40,Austria,AUT,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,31243016,,,0
+H2,2005,2005,2005,2,0,2,Export,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,220,,,0
+H2,2005,2005,2005,2,0,1,Import,52,Barbados,BRB,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1631,,,0
+H2,2005,2005,2005,2,0,2,Export,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,150488,,,0
+H2,2005,2005,2005,2,0,1,Import,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,43817,,,0
+H2,2005,2005,2005,2,0,2,Export,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,6121669,,,0
+H2,2005,2005,2005,2,0,2,Export,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4651488,,,0
+H2,2005,2005,2005,2,0,2,Export,68,Bolivia (Plurinational State of),BOL,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4922500,,,0
+H2,2005,2005,2005,2,0,1,Import,70,Bosnia Herzegovina,BIH,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,346956336,,,0
+H2,2005,2005,2005,2,0,2,Export,70,Bosnia Herzegovina,BIH,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,68846394,,,0
+H2,2005,2005,2005,2,0,2,Export,76,Brazil,BRA,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,104323442,,,0
+H2,2005,2005,2005,2,0,1,Import,84,Belize,BLZ,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,154945,,,0
+H2,2005,2005,2005,2,0,1,Import,100,Bulgaria,BGR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,25428051,,,0
+H2,2005,2005,2005,2,0,2,Export,100,Bulgaria,BGR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,120771464,,,0
+H2,2005,2005,2005,2,0,1,Import,112,Belarus,BLR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,91600,,,0
+H2,2005,2005,2005,2,0,1,Import,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,13456998,,,0
+H2,2005,2005,2005,2,0,2,Export,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,18876368,,,0
+H2,2005,2005,2005,2,0,1,Import,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,181,,,0
+H2,2005,2005,2005,2,0,2,Export,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1416458,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2344,,,0
+H2,2005,2005,2005,2,0,2,Export,124,Canada,CAN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,9983,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,124,Canada,CAN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2248,,,0
+H2,2005,2005,2005,2,0,1,Import,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,25328490,,,0
+H2,2005,2005,2005,2,0,2,Export,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,7890,,,0
+H2,2005,2005,2005,2,0,2,Export,152,Chile,CHL,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,200,,,0
+H2,2005,2005,2005,2,0,2,Export,156,China,CHN,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,602,,,0
+H2,2005,2005,2005,2,0,2,Export,156,China,CHN,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1398930,,,0
+H2,2005,2005,2005,2,0,2,Export,156,China,CHN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2894055,,,0
+H2,2005,2005,2005,2,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,271561,,,0
+H2,2005,2005,2005,2,0,1,Import,170,Colombia,COL,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,177,,,0
+H2,2005,2005,2005,2,0,2,Export,170,Colombia,COL,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,20164969,,,0
+H2,2005,2005,2005,2,0,2,Export,170,Colombia,COL,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4105691,,,0
+H2,2005,2005,2005,2,0,1,Import,188,Costa Rica,CRI,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,34993,,,0
+H2,2005,2005,2005,2,0,4,Re-Import,188,Costa Rica,CRI,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,34993,,,0
+H2,2005,2005,2005,2,0,1,Import,192,Cuba,CUB,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2811,,,0
+H2,2005,2005,2005,2,0,1,Import,196,Cyprus,CYP,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5610073,,,0
+H2,2005,2005,2005,2,0,1,Import,203,Czechia,CZE,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5986285,,,0
+H2,2005,2005,2005,2,0,2,Export,203,Czechia,CZE,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,6293880,,,0
+H2,2005,2005,2005,2,0,2,Export,208,Denmark,DNK,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,318109,,,0
+H2,2005,2005,2005,2,0,2,Export,208,Denmark,DNK,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2042,,,0
+H2,2005,2005,2005,2,0,2,Export,218,Ecuador,ECU,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,25455520,,,0
+H2,2005,2005,2005,2,0,1,Import,222,El Salvador,SLV,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,6146,,,0
+H2,2005,2005,2005,2,0,2,Export,222,El Salvador,SLV,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,6600811,,,0
+H2,2005,2005,2005,2,0,2,Export,233,Estonia,EST,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,8947,,,0
+H2,2005,2005,2005,2,0,2,Export,233,Estonia,EST,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,305126,,,0
+H2,2005,2005,2005,2,0,2,Export,233,Estonia,EST,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,124919,,,0
+H2,2005,2005,2005,2,0,2,Export,242,Fiji,FJI,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,18613,,,0
+H2,2005,2005,2005,2,0,2,Export,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5761,,,0
+H2,2005,2005,2005,2,0,2,Export,251,France,FRA,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,102647498,,,0
+H2,2005,2005,2005,2,0,1,Import,251,France,FRA,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,12872004,,,0
+H2,2005,2005,2005,2,0,2,Export,251,France,FRA,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5469689,,,0
+H2,2005,2005,2005,2,0,1,Import,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,40713856,,,0
+H2,2005,2005,2005,2,0,2,Export,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5794436,,,0
+H2,2005,2005,2005,2,0,1,Import,266,Gabon,GAB,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2162205,,,0
+H2,2005,2005,2005,2,0,1,Import,268,Georgia,GEO,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,208419,,,0
+H2,2005,2005,2005,2,0,2,Export,276,Germany,DEU,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,421000,,,0
+H2,2005,2005,2005,2,0,1,Import,276,Germany,DEU,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,781000,,,0
+H2,2005,2005,2005,2,0,2,Export,276,Germany,DEU,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,8412000,,,0
+H2,2005,2005,2005,2,0,2,Export,276,Germany,DEU,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,6285000,,,0
+H2,2005,2005,2005,2,0,1,Import,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,8138725,,,0
+H2,2005,2005,2005,2,0,2,Export,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,65113,,,0
+H2,2005,2005,2005,2,0,1,Import,300,Greece,GRC,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1299,,,0
+H2,2005,2005,2005,2,0,2,Export,300,Greece,GRC,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,341265,,,0
+H2,2005,2005,2005,2,0,2,Export,300,Greece,GRC,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,180521,,,0
+H2,2005,2005,2005,2,0,1,Import,320,Guatemala,GTM,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,9956,,,0
+H2,2005,2005,2005,2,0,2,Export,320,Guatemala,GTM,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1885404,,,0
+H2,2005,2005,2005,2,0,1,Import,324,Guinea,GIN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,228049897,,,0
+H2,2005,2005,2005,2,0,1,Import,340,Honduras,HND,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,23636,,,0
+H2,2005,2005,2005,2,0,2,Export,340,Honduras,HND,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,209880,,,0
+H2,2005,2005,2005,2,0,2,Export,344,"China, Hong Kong SAR",HKG,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,40927,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,40927,,,0
+H2,2005,2005,2005,2,0,2,Export,348,Hungary,HUN,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1775000,,,0
+H2,2005,2005,2005,2,0,1,Import,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,25674000,,,0
+H2,2005,2005,2005,2,0,2,Export,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,183945000,,,0
+H2,2005,2005,2005,2,0,2,Export,348,Hungary,HUN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,44000,,,0
+H2,2005,2005,2005,2,0,2,Export,364,Iran,IRN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,8940,,,0
+H2,2005,2005,2005,2,0,2,Export,364,Iran,IRN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,319381,,,0
+H2,2005,2005,2005,2,0,1,Import,376,Israel,ISR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,65000,,,0
+H2,2005,2005,2005,2,0,2,Export,376,Israel,ISR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1000,,,0
+H2,2005,2005,2005,2,0,1,Import,381,Italy,ITA,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,458468,,,0
+H2,2005,2005,2005,2,0,2,Export,381,Italy,ITA,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,810763,,,0
+H2,2005,2005,2005,2,0,1,Import,381,Italy,ITA,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,52445045,,,0
+H2,2005,2005,2005,2,0,2,Export,381,Italy,ITA,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,113426733,,,0
+H2,2005,2005,2005,2,0,1,Import,381,Italy,ITA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10251771,,,0
+H2,2005,2005,2005,2,0,2,Export,381,Italy,ITA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3620509,,,0
+H2,2005,2005,2005,2,0,2,Export,392,Japan,JPN,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,27755,,,0
+H2,2005,2005,2005,2,0,2,Export,398,Kazakhstan,KAZ,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,21570028,,,0
+H2,2005,2005,2005,2,0,2,Export,410,Rep. of Korea,KOR,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,15619,,,0
+H2,2005,2005,2005,2,0,2,Export,410,Rep. of Korea,KOR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,12858,,,0
+H2,2005,2005,2005,2,0,1,Import,422,Lebanon,LBN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,39414000,,,0
+H2,2005,2005,2005,2,0,2,Export,428,Latvia,LVA,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,139208,,,0
+H2,2005,2005,2005,2,0,2,Export,428,Latvia,LVA,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,440137,,,0
+H2,2005,2005,2005,2,0,2,Export,440,Lithuania,LTU,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,881,,,0
+H2,2005,2005,2005,2,0,2,Export,440,Lithuania,LTU,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2840,,,0
+H2,2005,2005,2005,2,0,2,Export,440,Lithuania,LTU,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,684609,,,0
+H2,2005,2005,2005,2,0,2,Export,440,Lithuania,LTU,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,303970,,,0
+H2,2005,2005,2005,2,0,1,Import,466,Mali,MLI,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,43659585,,,0
+H2,2005,2005,2005,2,0,2,Export,466,Mali,MLI,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,139751,,,0
+H2,2005,2005,2005,2,0,1,Import,470,Malta,MLT,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,708368,,,0
+H2,2005,2005,2005,2,0,1,Import,470,Malta,MLT,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,8860735,,,0
+H2,2005,2005,2005,2,0,1,Import,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1837,,,0
+H2,2005,2005,2005,2,0,2,Export,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2004364,,,0
+H2,2005,2005,2005,2,0,2,Export,484,Mexico,MEX,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,27763,,,0
+H2,2005,2005,2005,2,0,2,Export,484,Mexico,MEX,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,17071143,,,0
+H2,2005,2005,2005,2,0,2,Export,504,Morocco,MAR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1750792,,,0
+H2,2005,2005,2005,2,0,2,Export,516,Namibia,NAM,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,8554,,,0
+H2,2005,2005,2005,2,0,2,Export,528,Netherlands,NLD,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,172870,,,0
+H2,2005,2005,2005,2,0,2,Export,528,Netherlands,NLD,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5469650,,,0
+H2,2005,2005,2005,2,0,1,Import,528,Netherlands,NLD,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,49568916,,,0
+H2,2005,2005,2005,2,0,2,Export,528,Netherlands,NLD,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,16121663,,,0
+H2,2005,2005,2005,2,0,2,Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2163577,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4199,,,0
+H2,2005,2005,2005,2,0,1,Import,558,Nicaragua,NIC,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,491250,,,0
+H2,2005,2005,2005,2,0,2,Export,558,Nicaragua,NIC,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5364670,,,0
+H2,2005,2005,2005,2,0,1,Import,562,Niger,NER,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,27171198,,,0
+H2,2005,2005,2005,2,0,2,Export,562,Niger,NER,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1772591,,,0
+H2,2005,2005,2005,2,0,2,Export,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,767,,,0
+H2,2005,2005,2005,2,0,1,Import,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,181447,,,0
+H2,2005,2005,2005,2,0,2,Export,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4485772,,,0
+H2,2005,2005,2005,2,0,2,Export,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3874637,,,0
+H2,2005,2005,2005,2,0,2,Export,616,Poland,POL,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,17442,,,0
+H2,2005,2005,2005,2,0,2,Export,616,Poland,POL,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,22,,,0
+H2,2005,2005,2005,2,0,1,Import,616,Poland,POL,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4628498,,,0
+H2,2005,2005,2005,2,0,2,Export,616,Poland,POL,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3363747,,,0
+H2,2005,2005,2005,2,0,2,Export,616,Poland,POL,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,6863080,,,0
+H2,2005,2005,2005,2,0,1,Import,634,Qatar,QAT,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,424474,,,0
+H2,2005,2005,2005,2,0,2,Export,634,Qatar,QAT,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,30661,,,0
+H2,2005,2005,2005,2,0,1,Import,642,Romania,ROU,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1502435,,,0
+H2,2005,2005,2005,2,0,2,Export,642,Romania,ROU,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,158867222,,,0
+H2,2005,2005,2005,2,0,2,Export,643,Russian Federation,RUS,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,645753576,,,0
+H2,2005,2005,2005,2,0,2,Export,643,Russian Federation,RUS,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1384,,,0
+H2,2005,2005,2005,2,0,1,Import,686,Senegal,SEN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,36716444,,,0
+H2,2005,2005,2005,2,0,2,Export,686,Senegal,SEN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,63544,,,0
+H2,2005,2005,2005,2,0,2,Export,699,India,IND,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5113,,,0
+H2,2005,2005,2005,2,0,2,Export,699,India,IND,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,184547,,,0
+H2,2005,2005,2005,2,0,2,Export,702,Singapore,SGP,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,12567,,,0
+H2,2005,2005,2005,2,0,2,Export,702,Singapore,SGP,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,164,,,0
+H2,2005,2005,2005,2,0,1,Import,703,Slovakia,SVK,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5535,,,0
+H2,2005,2005,2005,2,0,1,Import,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,6931879,,,0
+H2,2005,2005,2005,2,0,2,Export,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1763911,,,0
+H2,2005,2005,2005,2,0,2,Export,704,Viet Nam,VNM,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,13516,,,0
+H2,2005,2005,2005,2,0,1,Import,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,115265999,,,0
+H2,2005,2005,2005,2,0,2,Export,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,83374325,,,0
+H2,2005,2005,2005,2,0,2,Export,710,South Africa,ZAF,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,89371,,,0
+H2,2005,2005,2005,2,0,2,Export,710,South Africa,ZAF,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,12266526,,,0
+H2,2005,2005,2005,2,0,1,Import,710,South Africa,ZAF,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10,,,0
+H2,2005,2005,2005,2,0,2,Export,710,South Africa,ZAF,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,566092,,,0
+H2,2005,2005,2005,2,0,1,Import,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,,,114,,,4
+H2,2005,2005,2005,2,0,2,Export,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,206684,,,0
+H2,2005,2005,2005,2,0,1,Import,724,Spain,ESP,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,6103248,,,0
+H2,2005,2005,2005,2,0,2,Export,724,Spain,ESP,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,1550231,,,0
+H2,2005,2005,2005,2,0,2,Export,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,221556,,,0
+H2,2005,2005,2005,2,0,2,Export,752,Sweden,SWE,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1876,,,0
+H2,2005,2005,2005,2,0,2,Export,752,Sweden,SWE,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,120979,,,0
+H2,2005,2005,2005,2,0,2,Export,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4167,,,0
+H2,2005,2005,2005,2,0,2,Export,757,Switzerland,CHE,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3093927,,,0
+H2,2005,2005,2005,2,0,2,Export,757,Switzerland,CHE,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4582,,,0
+H2,2005,2005,2005,2,0,1,Import,760,Syria,SYR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,7415114,,,0
+H2,2005,2005,2005,2,0,2,Export,760,Syria,SYR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,29779916,,,0
+H2,2005,2005,2005,2,0,1,Import,768,Togo,TGO,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,28273225,,,0
+H2,2005,2005,2005,2,0,2,Export,768,Togo,TGO,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5547,,,0
+H2,2005,2005,2005,2,0,2,Export,780,Trinidad and Tobago,TTO,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4800438,,,0
+H2,2005,2005,2005,2,0,2,Export,784,United Arab Emirates,ARE,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,18453,,,0
+H2,2005,2005,2005,2,0,2,Export,784,United Arab Emirates,ARE,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1831431,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,784,United Arab Emirates,ARE,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,404118,,,0
+H2,2005,2005,2005,2,0,2,Export,788,Tunisia,TUN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4504,,,0
+H2,2005,2005,2005,2,0,2,Export,788,Tunisia,TUN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,59413,,,0
+H2,2005,2005,2005,2,0,2,Export,792,Turkey,TUR,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,46523,,,0
+H2,2005,2005,2005,2,0,1,Import,792,Turkey,TUR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3315602,,,0
+H2,2005,2005,2005,2,0,2,Export,792,Turkey,TUR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,26528211,,,0
+H2,2005,2005,2005,2,0,2,Export,792,Turkey,TUR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,493134,,,0
+H2,2005,2005,2005,2,0,1,Import,807,North Macedonia,MKD,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,753932,,,0
+H2,2005,2005,2005,2,0,2,Export,807,North Macedonia,MKD,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,15923,,,0
+H2,2005,2005,2005,2,0,2,Export,826,United Kingdom,GBR,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,19849887,,,0
+H2,2005,2005,2005,2,0,2,Export,826,United Kingdom,GBR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,195109,,,0
+H2,2005,2005,2005,2,0,1,Import,826,United Kingdom,GBR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4562,,,0
+H2,2005,2005,2005,2,0,2,Export,826,United Kingdom,GBR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,748009,,,0
+H2,2005,2005,2005,2,0,2,Export,834,United Rep. of Tanzania,TZA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,33285,,,0
+H2,2005,2005,2005,2,0,1,Import,842,USA,USA,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,34680,,,0
+H2,2005,2005,2005,2,0,2,Export,842,USA,USA,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,118609424,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,842,USA,USA,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2784,,,0
+H2,2005,2005,2005,2,0,2,Export,842,USA,USA,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,57061102,,,0
+H2,2005,2005,2005,2,0,1,Import,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,574018862,,,0
+H2,2005,2005,2005,2,0,2,Export,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5040036,,,0
+H2,2005,2005,2005,2,0,1,Import,854,Burkina Faso,BFA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,79727297,,,0
+H2,2005,2005,2005,2,0,1,Import,8,Albania,ALB,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,882825,,,0
+H2,2005,2005,2005,2,0,1,Import,12,Algeria,DZA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6197,,,0
+H2,2005,2005,2005,2,0,1,Import,12,Algeria,DZA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2188,,,0
+H2,2005,2005,2005,2,0,1,Import,32,Argentina,ARG,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,484067,,,0
+H2,2005,2005,2005,2,0,2,Export,32,Argentina,ARG,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2326936,,,0
+H2,2005,2005,2005,2,0,2,Export,32,Argentina,ARG,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,218,,,0
+H2,2005,2005,2005,2,0,2,Export,32,Argentina,ARG,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,966,,,0
+H2,2005,2005,2005,2,0,2,Export,36,Australia,AUS,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39783,,,0
+H2,2005,2005,2005,2,0,1,Import,36,Australia,AUS,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,132605,,,0
+H2,2005,2005,2005,2,0,2,Export,36,Australia,AUS,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8,,,0
+H2,2005,2005,2005,2,0,2,Export,36,Australia,AUS,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29572,,,0
+H2,2005,2005,2005,2,0,1,Import,36,Australia,AUS,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24320,,,0
+H2,2005,2005,2005,2,0,1,Import,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,692,,,0
+H2,2005,2005,2005,2,0,2,Export,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,38423,,,0
+H2,2005,2005,2005,2,0,1,Import,40,Austria,AUT,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9060766,,,0
+H2,2005,2005,2005,2,0,2,Export,40,Austria,AUT,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,64229549,,,0
+H2,2005,2005,2005,2,0,2,Export,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,152578,,,0
+H2,2005,2005,2005,2,0,2,Export,48,Bahrain,BHR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2997,,,0
+H2,2005,2005,2005,2,0,1,Import,50,Bangladesh,BGD,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3937,,,0
+H2,2005,2005,2005,2,0,2,Export,50,Bangladesh,BGD,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37209,,,0
+H2,2005,2005,2005,2,0,1,Import,52,Barbados,BRB,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,765086,,,0
+H2,2005,2005,2005,2,0,2,Export,52,Barbados,BRB,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23458,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,52,Barbados,BRB,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23458,,,0
+H2,2005,2005,2005,2,0,1,Import,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6063,,,0
+H2,2005,2005,2005,2,0,2,Export,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1164055,,,0
+H2,2005,2005,2005,2,0,1,Import,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,481832,,,0
+H2,2005,2005,2005,2,0,2,Export,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19464674,,,0
+H2,2005,2005,2005,2,0,2,Export,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11387892,,,0
+H2,2005,2005,2005,2,0,1,Import,60,Bermuda,BMU,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6287,,,0
+H2,2005,2005,2005,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1038,,,0
+H2,2005,2005,2005,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,52547,,,0
+H2,2005,2005,2005,2,0,1,Import,70,Bosnia Herzegovina,BIH,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,254,,,0
+H2,2005,2005,2005,2,0,1,Import,70,Bosnia Herzegovina,BIH,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,35800535,,,0
+H2,2005,2005,2005,2,0,2,Export,70,Bosnia Herzegovina,BIH,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13708109,,,0
+H2,2005,2005,2005,2,0,1,Import,76,Brazil,BRA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,670712,,,4
+H2,2005,2005,2005,2,0,2,Export,76,Brazil,BRA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6436440,,,4
+H2,2005,2005,2005,2,0,2,Export,76,Brazil,BRA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3685,,,0
+H2,2005,2005,2005,2,0,2,Export,76,Brazil,BRA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3658317,,,0
+H2,2005,2005,2005,2,0,1,Import,84,Belize,BLZ,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,225589,,,0
+H2,2005,2005,2005,2,0,2,Export,100,Bulgaria,BGR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,38478,,,0
+H2,2005,2005,2005,2,0,1,Import,100,Bulgaria,BGR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4723233,,,0
+H2,2005,2005,2005,2,0,2,Export,100,Bulgaria,BGR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,353823,,,0
+H2,2005,2005,2005,2,0,2,Export,100,Bulgaria,BGR,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6101,,,0
+H2,2005,2005,2005,2,0,1,Import,112,Belarus,BLR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,800,,,0
+H2,2005,2005,2005,2,0,1,Import,112,Belarus,BLR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1700,,,0
+H2,2005,2005,2005,2,0,1,Import,120,Cameroon,CMR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,860966,,,0
+H2,2005,2005,2005,2,0,1,Import,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,627683,,,0
+H2,2005,2005,2005,2,0,2,Export,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,107982,,,0
+H2,2005,2005,2005,2,0,2,Export,124,Canada,CAN,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,241007,,,0
+H2,2005,2005,2005,2,0,1,Import,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,776256,,,0
+H2,2005,2005,2005,2,0,2,Export,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2873902,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31933,,,0
+H2,2005,2005,2005,2,0,1,Import,124,Canada,CAN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2073,,,0
+H2,2005,2005,2005,2,0,2,Export,124,Canada,CAN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,732433,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,124,Canada,CAN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20529,,,0
+H2,2005,2005,2005,2,0,1,Import,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,448,,,0
+H2,2005,2005,2005,2,0,2,Export,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,108267,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1209,,,0
+H2,2005,2005,2005,2,0,2,Export,144,Sri Lanka,LKA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,152,,,0
+H2,2005,2005,2005,2,0,1,Import,144,Sri Lanka,LKA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,188,,,0
+H2,2005,2005,2005,2,0,2,Export,144,Sri Lanka,LKA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,220,,,0
+H2,2005,2005,2005,2,0,2,Export,144,Sri Lanka,LKA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1223,,,0
+H2,2005,2005,2005,2,0,1,Import,152,Chile,CHL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,286428,,,0
+H2,2005,2005,2005,2,0,2,Export,152,Chile,CHL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6207583,,,0
+H2,2005,2005,2005,2,0,1,Import,152,Chile,CHL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32,,,0
+H2,2005,2005,2005,2,0,2,Export,152,Chile,CHL,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,91484,,,0
+H2,2005,2005,2005,2,0,2,Export,156,China,CHN,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19290,,,0
+H2,2005,2005,2005,2,0,1,Import,156,China,CHN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,503876,,,0
+H2,2005,2005,2005,2,0,2,Export,156,China,CHN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9294984,,,0
+H2,2005,2005,2005,2,0,1,Import,156,China,CHN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,673258,,,0
+H2,2005,2005,2005,2,0,2,Export,156,China,CHN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27125411,,,0
+H2,2005,2005,2005,2,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4603251,,,0
+H2,2005,2005,2005,2,0,1,Import,170,Colombia,COL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3077639,,,0
+H2,2005,2005,2005,2,0,2,Export,170,Colombia,COL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43055779,,,0
+H2,2005,2005,2005,2,0,1,Import,170,Colombia,COL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7,,,0
+H2,2005,2005,2005,2,0,2,Export,170,Colombia,COL,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24082,,,0
+H2,2005,2005,2005,2,0,1,Import,188,Costa Rica,CRI,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6,,,0
+H2,2005,2005,2005,2,0,1,Import,188,Costa Rica,CRI,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2762341,,,0
+H2,2005,2005,2005,2,0,4,Re-Import,188,Costa Rica,CRI,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2762341,,,0
+H2,2005,2005,2005,2,0,1,Import,191,Croatia,HRV,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4551,,,0
+H2,2005,2005,2005,2,0,1,Import,191,Croatia,HRV,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24507,,,0
+H2,2005,2005,2005,2,0,1,Import,192,Cuba,CUB,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,687938,,,0
+H2,2005,2005,2005,2,0,1,Import,203,Czechia,CZE,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,172690,,,0
+H2,2005,2005,2005,2,0,2,Export,203,Czechia,CZE,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1110690,,,0
+H2,2005,2005,2005,2,0,1,Import,203,Czechia,CZE,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4096000,,,0
+H2,2005,2005,2005,2,0,2,Export,203,Czechia,CZE,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17287000,,,0
+H2,2005,2005,2005,2,0,1,Import,203,Czechia,CZE,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,84,,,0
+H2,2005,2005,2005,2,0,2,Export,203,Czechia,CZE,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12403,,,0
+H2,2005,2005,2005,2,0,2,Export,208,Denmark,DNK,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4378,,,0
+H2,2005,2005,2005,2,0,1,Import,208,Denmark,DNK,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,47,,,0
+H2,2005,2005,2005,2,0,2,Export,208,Denmark,DNK,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,203660,,,0
+H2,2005,2005,2005,2,0,1,Import,208,Denmark,DNK,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,72804,,,0
+H2,2005,2005,2005,2,0,2,Export,208,Denmark,DNK,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,941686,,,0
+H2,2005,2005,2005,2,0,2,Export,208,Denmark,DNK,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,164793,,,0
+H2,2005,2005,2005,2,0,1,Import,218,Ecuador,ECU,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,591661,,,0
+H2,2005,2005,2005,2,0,2,Export,218,Ecuador,ECU,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,328870,,,0
+H2,2005,2005,2005,2,0,1,Import,222,El Salvador,SLV,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15306195,,,0
+H2,2005,2005,2005,2,0,2,Export,222,El Salvador,SLV,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8559853,,,0
+H2,2005,2005,2005,2,0,1,Import,233,Estonia,EST,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,309,,,0
+H2,2005,2005,2005,2,0,1,Import,233,Estonia,EST,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,211,,,0
+H2,2005,2005,2005,2,0,2,Export,233,Estonia,EST,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,563957,,,0
+H2,2005,2005,2005,2,0,1,Import,242,Fiji,FJI,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8,,,0
+H2,2005,2005,2005,2,0,2,Export,242,Fiji,FJI,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5288,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,242,Fiji,FJI,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1514,,,0
+H2,2005,2005,2005,2,0,1,Import,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,71836,,,0
+H2,2005,2005,2005,2,0,2,Export,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,169294,,,0
+H2,2005,2005,2005,2,0,1,Import,246,Finland,FIN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20921,,,0
+H2,2005,2005,2005,2,0,2,Export,246,Finland,FIN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,624941,,,0
+H2,2005,2005,2005,2,0,1,Import,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3233,,,0
+H2,2005,2005,2005,2,0,1,Import,251,France,FRA,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3733,,,0
+H2,2005,2005,2005,2,0,2,Export,251,France,FRA,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2488,,,0
+H2,2005,2005,2005,2,0,1,Import,251,France,FRA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1020304,,,0
+H2,2005,2005,2005,2,0,2,Export,251,France,FRA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2468577,,,0
+H2,2005,2005,2005,2,0,1,Import,251,France,FRA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4450764,,,0
+H2,2005,2005,2005,2,0,2,Export,251,France,FRA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18906261,,,0
+H2,2005,2005,2005,2,0,1,Import,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,64702,,,0
+H2,2005,2005,2005,2,0,2,Export,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18921192,,,0
+H2,2005,2005,2005,2,0,2,Export,258,French Polynesia,PYF,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3430,,,0
+H2,2005,2005,2005,2,0,1,Import,266,Gabon,GAB,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,827059,,,0
+H2,2005,2005,2005,2,0,2,Export,266,Gabon,GAB,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,66,,,0
+H2,2005,2005,2005,2,0,1,Import,276,Germany,DEU,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12000,,,0
+H2,2005,2005,2005,2,0,2,Export,276,Germany,DEU,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26000,,,0
+H2,2005,2005,2005,2,0,1,Import,276,Germany,DEU,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,391000,,,0
+H2,2005,2005,2005,2,0,2,Export,276,Germany,DEU,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6065000,,,0
+H2,2005,2005,2005,2,0,1,Import,276,Germany,DEU,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43206000,,,0
+H2,2005,2005,2005,2,0,2,Export,276,Germany,DEU,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,167556000,,,0
+H2,2005,2005,2005,2,0,2,Export,276,Germany,DEU,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5159000,,,0
+H2,2005,2005,2005,2,0,1,Import,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,82737,,,0
+H2,2005,2005,2005,2,0,2,Export,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,54344,,,0
+H2,2005,2005,2005,2,0,2,Export,300,Greece,GRC,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4697,,,0
+H2,2005,2005,2005,2,0,1,Import,300,Greece,GRC,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1069729,,,0
+H2,2005,2005,2005,2,0,2,Export,300,Greece,GRC,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,599048,,,0
+H2,2005,2005,2005,2,0,2,Export,300,Greece,GRC,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8444,,,0
+H2,2005,2005,2005,2,0,1,Import,320,Guatemala,GTM,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2937,,,0
+H2,2005,2005,2005,2,0,1,Import,320,Guatemala,GTM,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25533359,,,0
+H2,2005,2005,2005,2,0,2,Export,320,Guatemala,GTM,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16920198,,,0
+H2,2005,2005,2005,2,0,1,Import,324,Guinea,GIN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,752426,,,0
+H2,2005,2005,2005,2,0,1,Import,328,Guyana,GUY,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,44228,,,0
+H2,2005,2005,2005,2,0,1,Import,340,Honduras,HND,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17107034,,,0
+H2,2005,2005,2005,2,0,2,Export,340,Honduras,HND,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,561766,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,340,Honduras,HND,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11120,,,0
+H2,2005,2005,2005,2,0,1,Import,340,Honduras,HND,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7873,,,0
+H2,2005,2005,2005,2,0,1,Import,344,"China, Hong Kong SAR",HKG,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,155088,,,0
+H2,2005,2005,2005,2,0,2,Export,344,"China, Hong Kong SAR",HKG,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1060489,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1056415,,,0
+H2,2005,2005,2005,2,0,1,Import,344,"China, Hong Kong SAR",HKG,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,75723,,,0
+H2,2005,2005,2005,2,0,2,Export,344,"China, Hong Kong SAR",HKG,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,519420,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,517111,,,0
+H2,2005,2005,2005,2,0,2,Export,344,"China, Hong Kong SAR",HKG,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,58688,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,58688,,,0
+H2,2005,2005,2005,2,0,1,Import,348,Hungary,HUN,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,40000,,,0
+H2,2005,2005,2005,2,0,2,Export,348,Hungary,HUN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6000,,,0
+H2,2005,2005,2005,2,0,1,Import,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6381000,,,0
+H2,2005,2005,2005,2,0,2,Export,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32605000,,,0
+H2,2005,2005,2005,2,0,1,Import,352,Iceland,ISL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,84,,,0
+H2,2005,2005,2005,2,0,1,Import,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,316,,,0
+H2,2005,2005,2005,2,0,2,Export,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,99195,,,0
+H2,2005,2005,2005,2,0,1,Import,364,Iran,IRN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11566,,,0
+H2,2005,2005,2005,2,0,2,Export,364,Iran,IRN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,82251,,,0
+H2,2005,2005,2005,2,0,1,Import,372,Ireland,IRL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,51896,,,0
+H2,2005,2005,2005,2,0,2,Export,372,Ireland,IRL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26850,,,0
+H2,2005,2005,2005,2,0,1,Import,372,Ireland,IRL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3981,,,0
+H2,2005,2005,2005,2,0,2,Export,372,Ireland,IRL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,379840,,,0
+H2,2005,2005,2005,2,0,1,Import,372,Ireland,IRL,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11330,,,0
+H2,2005,2005,2005,2,0,2,Export,376,Israel,ISR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1878000,,,0
+H2,2005,2005,2005,2,0,1,Import,376,Israel,ISR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34000,,,0
+H2,2005,2005,2005,2,0,2,Export,376,Israel,ISR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1704000,,,0
+H2,2005,2005,2005,2,0,1,Import,381,Italy,ITA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,85500,,,0
+H2,2005,2005,2005,2,0,2,Export,381,Italy,ITA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3353991,,,0
+H2,2005,2005,2005,2,0,1,Import,381,Italy,ITA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,117182158,,,0
+H2,2005,2005,2005,2,0,2,Export,381,Italy,ITA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,120929454,,,0
+H2,2005,2005,2005,2,0,1,Import,381,Italy,ITA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6975,,,0
+H2,2005,2005,2005,2,0,2,Export,381,Italy,ITA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7955475,,,0
+H2,2005,2005,2005,2,0,1,Import,388,Jamaica,JAM,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3881189,,,0
+H2,2005,2005,2005,2,0,2,Export,388,Jamaica,JAM,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1760,,,0
+H2,2005,2005,2005,2,0,1,Import,392,Japan,JPN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,862462,,,0
+H2,2005,2005,2005,2,0,2,Export,392,Japan,JPN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6171219,,,0
+H2,2005,2005,2005,2,0,2,Export,392,Japan,JPN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12197,,,0
+H2,2005,2005,2005,2,0,2,Export,392,Japan,JPN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,362103,,,0
+H2,2005,2005,2005,2,0,1,Import,398,Kazakhstan,KAZ,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1231,,,0
+H2,2005,2005,2005,2,0,1,Import,404,Kenya,KEN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2705,,,0
+H2,2005,2005,2005,2,0,2,Export,404,Kenya,KEN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8076,,,0
+H2,2005,2005,2005,2,0,1,Import,410,Rep. of Korea,KOR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,769,,,0
+H2,2005,2005,2005,2,0,2,Export,410,Rep. of Korea,KOR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13632978,,,0
+H2,2005,2005,2005,2,0,2,Export,410,Rep. of Korea,KOR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8745600,,,0
+H2,2005,2005,2005,2,0,2,Export,410,Rep. of Korea,KOR,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6713467,,,0
+H2,2005,2005,2005,2,0,1,Import,422,Lebanon,LBN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,229000,,,0
+H2,2005,2005,2005,2,0,2,Export,422,Lebanon,LBN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14000,,,0
+H2,2005,2005,2005,2,0,2,Export,422,Lebanon,LBN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1252000,,,0
+H2,2005,2005,2005,2,0,1,Import,428,Latvia,LVA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,136,,,0
+H2,2005,2005,2005,2,0,2,Export,428,Latvia,LVA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,174,,,0
+H2,2005,2005,2005,2,0,1,Import,440,Lithuania,LTU,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2473749,,,0
+H2,2005,2005,2005,2,0,2,Export,440,Lithuania,LTU,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,818113,,,0
+H2,2005,2005,2005,2,0,1,Import,442,Luxembourg,LUX,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12,,,0
+H2,2005,2005,2005,2,0,2,Export,442,Luxembourg,LUX,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,180114,,,0
+H2,2005,2005,2005,2,0,1,Import,442,Luxembourg,LUX,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,108,,,0
+H2,2005,2005,2005,2,0,2,Export,442,Luxembourg,LUX,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,47470,,,0
+H2,2005,2005,2005,2,0,1,Import,446,"China, Macao SAR",MAC,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3551,,,0
+H2,2005,2005,2005,2,0,1,Import,450,Madagascar,MDG,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1202,,,0
+H2,2005,2005,2005,2,0,1,Import,458,Malaysia,MYS,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,111283,,,0
+H2,2005,2005,2005,2,0,2,Export,458,Malaysia,MYS,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3580737,,,0
+H2,2005,2005,2005,2,0,2,Export,458,Malaysia,MYS,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,137450,,,0
+H2,2005,2005,2005,2,0,1,Import,466,Mali,MLI,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3168170,,,0
+H2,2005,2005,2005,2,0,1,Import,470,Malta,MLT,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5739,,,0
+H2,2005,2005,2005,2,0,2,Export,470,Malta,MLT,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17983,,,0
+H2,2005,2005,2005,2,0,1,Import,470,Malta,MLT,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7065,,,0
+H2,2005,2005,2005,2,0,2,Export,470,Malta,MLT,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3191,,,0
+H2,2005,2005,2005,2,0,2,Export,470,Malta,MLT,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,583,,,0
+H2,2005,2005,2005,2,0,1,Import,480,Mauritius,MUS,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,78,,,0
+H2,2005,2005,2005,2,0,1,Import,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5221508,,,0
+H2,2005,2005,2005,2,0,2,Export,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29892480,,,0
+H2,2005,2005,2005,2,0,1,Import,484,Mexico,MEX,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1387,,,0
+H2,2005,2005,2005,2,0,1,Import,484,Mexico,MEX,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,51,,,0
+H2,2005,2005,2005,2,0,2,Export,484,Mexico,MEX,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11979,,,0
+H2,2005,2005,2005,2,0,2,Export,490,"Other Asia, nes",,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30896,,,0
+H2,2005,2005,2005,2,0,1,Import,490,"Other Asia, nes",,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1089,,,0
+H2,2005,2005,2005,2,0,2,Export,490,"Other Asia, nes",,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13220641,,,0
+H2,2005,2005,2005,2,0,2,Export,490,"Other Asia, nes",,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6141371,,,0
+H2,2005,2005,2005,2,0,1,Import,490,"Other Asia, nes",,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,119,,,0
+H2,2005,2005,2005,2,0,2,Export,490,"Other Asia, nes",,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,782777,,,0
+H2,2005,2005,2005,2,0,1,Import,498,Rep. of Moldova,MDA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,52654,,,0
+H2,2005,2005,2005,2,0,2,Export,504,Morocco,MAR,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,106196,,,0
+H2,2005,2005,2005,2,0,2,Export,516,Namibia,NAM,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2086,,,0
+H2,2005,2005,2005,2,0,1,Import,528,Netherlands,NLD,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19891,,,0
+H2,2005,2005,2005,2,0,2,Export,528,Netherlands,NLD,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2285861,,,0
+H2,2005,2005,2005,2,0,1,Import,528,Netherlands,NLD,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1645957,,,0
+H2,2005,2005,2005,2,0,2,Export,528,Netherlands,NLD,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17018347,,,0
+H2,2005,2005,2005,2,0,1,Import,528,Netherlands,NLD,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4973,,,0
+H2,2005,2005,2005,2,0,2,Export,528,Netherlands,NLD,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3758363,,,0
+H2,2005,2005,2005,2,0,1,Import,533,Aruba,ABW,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15798,,,0
+H2,2005,2005,2005,2,0,1,Import,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1908,,,0
+H2,2005,2005,2005,2,0,2,Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2005995,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,72742,,,0
+H2,2005,2005,2005,2,0,2,Export,554,New Zealand,NZL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43697,,,0
+H2,2005,2005,2005,2,0,1,Import,554,New Zealand,NZL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,217,,,0
+H2,2005,2005,2005,2,0,2,Export,554,New Zealand,NZL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,103,,,0
+H2,2005,2005,2005,2,0,1,Import,554,New Zealand,NZL,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,56,,,0
+H2,2005,2005,2005,2,0,1,Import,558,Nicaragua,NIC,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26045550,,,0
+H2,2005,2005,2005,2,0,2,Export,558,Nicaragua,NIC,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2483050,,,0
+H2,2005,2005,2005,2,0,1,Import,562,Niger,NER,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1458832,,,0
+H2,2005,2005,2005,2,0,1,Import,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9418,,,0
+H2,2005,2005,2005,2,0,2,Export,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5823,,,0
+H2,2005,2005,2005,2,0,1,Import,579,Norway,NOR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,467516,,,0
+H2,2005,2005,2005,2,0,2,Export,579,Norway,NOR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,810079,,,0
+H2,2005,2005,2005,2,0,1,Import,586,Pakistan,PAK,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5088,,,0
+H2,2005,2005,2005,2,0,2,Export,586,Pakistan,PAK,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2785,,,0
+H2,2005,2005,2005,2,0,2,Export,586,Pakistan,PAK,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,927851,,,0
+H2,2005,2005,2005,2,0,1,Import,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16777325,,,0
+H2,2005,2005,2005,2,0,2,Export,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1041642,,,0
+H2,2005,2005,2005,2,0,1,Import,600,Paraguay,PRY,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,57,,,0
+H2,2005,2005,2005,2,0,1,Import,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,823994,,,0
+H2,2005,2005,2005,2,0,2,Export,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2416958,,,0
+H2,2005,2005,2005,2,0,1,Import,616,Poland,POL,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,149091,,,0
+H2,2005,2005,2005,2,0,1,Import,616,Poland,POL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,88801,,,0
+H2,2005,2005,2005,2,0,2,Export,616,Poland,POL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,416430,,,0
+H2,2005,2005,2005,2,0,1,Import,616,Poland,POL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12425724,,,0
+H2,2005,2005,2005,2,0,2,Export,616,Poland,POL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10603196,,,0
+H2,2005,2005,2005,2,0,2,Export,616,Poland,POL,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9638,,,0
+H2,2005,2005,2005,2,0,2,Export,620,Portugal,PRT,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,354158,,,0
+H2,2005,2005,2005,2,0,1,Import,620,Portugal,PRT,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,421208,,,0
+H2,2005,2005,2005,2,0,2,Export,620,Portugal,PRT,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,60091,,,0
+H2,2005,2005,2005,2,0,2,Export,620,Portugal,PRT,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,373315,,,0
+H2,2005,2005,2005,2,0,2,Export,626,Timor-Leste,TLS,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,626,Timor-Leste,TLS,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20,,,0
+H2,2005,2005,2005,2,0,2,Export,634,Qatar,QAT,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2790911,,,0
+H2,2005,2005,2005,2,0,1,Import,642,Romania,ROU,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2782,,,0
+H2,2005,2005,2005,2,0,2,Export,642,Romania,ROU,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,48160,,,0
+H2,2005,2005,2005,2,0,1,Import,642,Romania,ROU,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2864992,,,0
+H2,2005,2005,2005,2,0,2,Export,642,Romania,ROU,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4208505,,,0
+H2,2005,2005,2005,2,0,2,Export,642,Romania,ROU,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14830,,,0
+H2,2005,2005,2005,2,0,1,Import,643,Russian Federation,RUS,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,247,,,0
+H2,2005,2005,2005,2,0,2,Export,643,Russian Federation,RUS,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,53322,,,0
+H2,2005,2005,2005,2,0,1,Import,643,Russian Federation,RUS,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,619052,,,0
+H2,2005,2005,2005,2,0,2,Export,643,Russian Federation,RUS,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18454,,,0
+H2,2005,2005,2005,2,0,2,Export,643,Russian Federation,RUS,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,41390,,,0
+H2,2005,2005,2005,2,0,1,Import,682,Saudi Arabia,SAU,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,906325,,,0
+H2,2005,2005,2005,2,0,2,Export,682,Saudi Arabia,SAU,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37101,,,0
+H2,2005,2005,2005,2,0,2,Export,682,Saudi Arabia,SAU,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2611991,,,0
+H2,2005,2005,2005,2,0,1,Import,686,Senegal,SEN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1297901,,,0
+H2,2005,2005,2005,2,0,2,Export,686,Senegal,SEN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2615671,,,0
+H2,2005,2005,2005,2,0,1,Import,699,India,IND,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,496,,,0
+H2,2005,2005,2005,2,0,2,Export,699,India,IND,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,288172,,,0
+H2,2005,2005,2005,2,0,1,Import,699,India,IND,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4835,,,0
+H2,2005,2005,2005,2,0,2,Export,699,India,IND,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1172626,,,0
+H2,2005,2005,2005,2,0,2,Export,699,India,IND,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5593243,,,0
+H2,2005,2005,2005,2,0,1,Import,702,Singapore,SGP,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,829,,,0
+H2,2005,2005,2005,2,0,2,Export,702,Singapore,SGP,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,263640,,,0
+H2,2005,2005,2005,2,0,1,Import,702,Singapore,SGP,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31397,,,0
+H2,2005,2005,2005,2,0,2,Export,702,Singapore,SGP,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4048,,,0
+H2,2005,2005,2005,2,0,2,Export,702,Singapore,SGP,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1340781,,,0
+H2,2005,2005,2005,2,0,1,Import,703,Slovakia,SVK,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,57,,,0
+H2,2005,2005,2005,2,0,1,Import,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4452351,,,0
+H2,2005,2005,2005,2,0,2,Export,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5759825,,,0
+H2,2005,2005,2005,2,0,2,Export,704,Viet Nam,VNM,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2861,,,0
+H2,2005,2005,2005,2,0,2,Export,704,Viet Nam,VNM,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,582360,,,0
+H2,2005,2005,2005,2,0,2,Export,704,Viet Nam,VNM,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,51276,,,0
+H2,2005,2005,2005,2,0,2,Export,704,Viet Nam,VNM,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1219051,,,0
+H2,2005,2005,2005,2,0,1,Import,705,Slovenia,SVN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1280,,,0
+H2,2005,2005,2005,2,0,2,Export,705,Slovenia,SVN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4132,,,0
+H2,2005,2005,2005,2,0,1,Import,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,42291337,,,0
+H2,2005,2005,2005,2,0,2,Export,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,82321669,,,0
+H2,2005,2005,2005,2,0,1,Import,710,South Africa,ZAF,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3552,,,0
+H2,2005,2005,2005,2,0,2,Export,710,South Africa,ZAF,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8156,,,0
+H2,2005,2005,2005,2,0,1,Import,710,South Africa,ZAF,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,285,,,0
+H2,2005,2005,2005,2,0,2,Export,710,South Africa,ZAF,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2378,,,0
+H2,2005,2005,2005,2,0,1,Import,710,South Africa,ZAF,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23294,,,0
+H2,2005,2005,2005,2,0,2,Export,710,South Africa,ZAF,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7171885,,,0
+H2,2005,2005,2005,2,0,1,Import,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,119259,,,0
+H2,2005,2005,2005,2,0,2,Export,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5101021,,,4
+H2,2005,2005,2005,2,0,3,Re-Export,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,88810,,,0
+H2,2005,2005,2005,2,0,1,Import,724,Spain,ESP,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,761706,,,0
+H2,2005,2005,2005,2,0,2,Export,724,Spain,ESP,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7317869,,,0
+H2,2005,2005,2005,2,0,1,Import,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,638,,,0
+H2,2005,2005,2005,2,0,2,Export,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4406129,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,605058,,,0
+H2,2005,2005,2005,2,0,2,Export,752,Sweden,SWE,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1340,,,0
+H2,2005,2005,2005,2,0,2,Export,752,Sweden,SWE,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,277728,,,0
+H2,2005,2005,2005,2,0,1,Import,752,Sweden,SWE,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,653544,,,0
+H2,2005,2005,2005,2,0,2,Export,752,Sweden,SWE,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5598909,,,0
+H2,2005,2005,2005,2,0,2,Export,752,Sweden,SWE,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,155678,,,0
+H2,2005,2005,2005,2,0,2,Export,757,Switzerland,CHE,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2410,,,0
+H2,2005,2005,2005,2,0,1,Import,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32088,,,0
+H2,2005,2005,2005,2,0,2,Export,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,188918,,,0
+H2,2005,2005,2005,2,0,1,Import,757,Switzerland,CHE,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1205646,,,0
+H2,2005,2005,2005,2,0,2,Export,757,Switzerland,CHE,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7380322,,,0
+H2,2005,2005,2005,2,0,2,Export,757,Switzerland,CHE,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,62213,,,0
+H2,2005,2005,2005,2,0,2,Export,764,Thailand,THA,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,388,,,0
+H2,2005,2005,2005,2,0,1,Import,764,Thailand,THA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,963,,,0
+H2,2005,2005,2005,2,0,2,Export,764,Thailand,THA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2080193,,,0
+H2,2005,2005,2005,2,0,1,Import,764,Thailand,THA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5316,,,0
+H2,2005,2005,2005,2,0,2,Export,764,Thailand,THA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1435522,,,0
+H2,2005,2005,2005,2,0,1,Import,764,Thailand,THA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2654,,,0
+H2,2005,2005,2005,2,0,2,Export,764,Thailand,THA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4834380,,,0
+H2,2005,2005,2005,2,0,1,Import,768,Togo,TGO,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,69958,,,0
+H2,2005,2005,2005,2,0,2,Export,768,Togo,TGO,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,181216,,,0
+H2,2005,2005,2005,2,0,1,Import,780,Trinidad and Tobago,TTO,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2886705,,,0
+H2,2005,2005,2005,2,0,2,Export,780,Trinidad and Tobago,TTO,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,57711,,,0
+H2,2005,2005,2005,2,0,1,Import,784,United Arab Emirates,ARE,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,93,,,0
+H2,2005,2005,2005,2,0,2,Export,784,United Arab Emirates,ARE,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12047,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,784,United Arab Emirates,ARE,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1188,,,0
+H2,2005,2005,2005,2,0,2,Export,784,United Arab Emirates,ARE,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,699871,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,784,United Arab Emirates,ARE,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,625043,,,0
+H2,2005,2005,2005,2,0,1,Import,788,Tunisia,TUN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1900,,,0
+H2,2005,2005,2005,2,0,1,Import,788,Tunisia,TUN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13616,,,0
+H2,2005,2005,2005,2,0,1,Import,788,Tunisia,TUN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,51375,,,0
+H2,2005,2005,2005,2,0,2,Export,788,Tunisia,TUN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,436192,,,0
+H2,2005,2005,2005,2,0,1,Import,792,Turkey,TUR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5473,,,0
+H2,2005,2005,2005,2,0,2,Export,792,Turkey,TUR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,343865,,,0
+H2,2005,2005,2005,2,0,1,Import,792,Turkey,TUR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9712934,,,0
+H2,2005,2005,2005,2,0,2,Export,792,Turkey,TUR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3801808,,,0
+H2,2005,2005,2005,2,0,2,Export,792,Turkey,TUR,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,331728,,,0
+H2,2005,2005,2005,2,0,1,Import,800,Uganda,UGA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7,,,0
+H2,2005,2005,2005,2,0,1,Import,807,North Macedonia,MKD,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,649,,,0
+H2,2005,2005,2005,2,0,1,Import,807,North Macedonia,MKD,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3924572,,,0
+H2,2005,2005,2005,2,0,2,Export,807,North Macedonia,MKD,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,579645,,,0
+H2,2005,2005,2005,2,0,1,Import,826,United Kingdom,GBR,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9308,,,0
+H2,2005,2005,2005,2,0,2,Export,826,United Kingdom,GBR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1649696,,,0
+H2,2005,2005,2005,2,0,1,Import,826,United Kingdom,GBR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,502561,,,0
+H2,2005,2005,2005,2,0,2,Export,826,United Kingdom,GBR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8204703,,,0
+H2,2005,2005,2005,2,0,2,Export,826,United Kingdom,GBR,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1891205,,,0
+H2,2005,2005,2005,2,0,2,Export,834,United Rep. of Tanzania,TZA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2917,,,0
+H2,2005,2005,2005,2,0,1,Import,842,USA,USA,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,494,,,0
+H2,2005,2005,2005,2,0,2,Export,842,USA,USA,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13309,,,0
+H2,2005,2005,2005,2,0,1,Import,842,USA,USA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,41741716,,,0
+H2,2005,2005,2005,2,0,2,Export,842,USA,USA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,272166268,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,842,USA,USA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3555073,,,0
+H2,2005,2005,2005,2,0,1,Import,842,USA,USA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,524344,,,0
+H2,2005,2005,2005,2,0,2,Export,842,USA,USA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1536450,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,842,USA,USA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39966,,,0
+H2,2005,2005,2005,2,0,1,Import,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,167059,,,0
+H2,2005,2005,2005,2,0,2,Export,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10870235,,,0
+H2,2005,2005,2005,2,0,1,Import,854,Burkina Faso,BFA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4599232,,,0
+H2,2005,2005,2005,2,0,2,Export,854,Burkina Faso,BFA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,379,,,0
+H2,2005,2005,2005,2,0,1,Import,858,Uruguay,URY,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6032,,,0
+H2,2005,2005,2005,2,0,2,Export,858,Uruguay,URY,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7679,,,0
+H2,2005,2005,2005,2,0,1,Import,8,Albania,ALB,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,37714,,,0
+H2,2005,2005,2005,2,0,1,Import,12,Algeria,DZA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23791,,,0
+H2,2005,2005,2005,2,0,1,Import,12,Algeria,DZA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3138,,,0
+H2,2005,2005,2005,2,0,1,Import,12,Algeria,DZA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,133936,,,0
+H2,2005,2005,2005,2,0,1,Import,31,Azerbaijan,AZE,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2522,,,0
+H2,2005,2005,2005,2,0,1,Import,32,Argentina,ARG,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,550842,,,0
+H2,2005,2005,2005,2,0,2,Export,32,Argentina,ARG,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,34441,,,0
+H2,2005,2005,2005,2,0,1,Import,32,Argentina,ARG,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1008168,,,0
+H2,2005,2005,2005,2,0,2,Export,32,Argentina,ARG,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,41095,,,0
+H2,2005,2005,2005,2,0,2,Export,36,Australia,AUS,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15686,,,0
+H2,2005,2005,2005,2,0,1,Import,36,Australia,AUS,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,717366,,,0
+H2,2005,2005,2005,2,0,2,Export,36,Australia,AUS,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,74231,,,0
+H2,2005,2005,2005,2,0,1,Import,36,Australia,AUS,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,685,,,0
+H2,2005,2005,2005,2,0,2,Export,36,Australia,AUS,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6860,,,0
+H2,2005,2005,2005,2,0,1,Import,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2,,,0
+H2,2005,2005,2005,2,0,2,Export,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9012,,,0
+H2,2005,2005,2005,2,0,1,Import,40,Austria,AUT,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,141144,,,0
+H2,2005,2005,2005,2,0,2,Export,40,Austria,AUT,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12439824,,,0
+H2,2005,2005,2005,2,0,1,Import,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8257,,,0
+H2,2005,2005,2005,2,0,2,Export,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,121275,,,0
+H2,2005,2005,2005,2,0,1,Import,52,Barbados,BRB,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,127095,,,0
+H2,2005,2005,2005,2,0,2,Export,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,74646,,,0
+H2,2005,2005,2005,2,0,1,Import,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,59830,,,0
+H2,2005,2005,2005,2,0,2,Export,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2717099,,,0
+H2,2005,2005,2005,2,0,1,Import,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9060681,,,0
+H2,2005,2005,2005,2,0,2,Export,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,310652,,,0
+H2,2005,2005,2005,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,351703,,,0
+H2,2005,2005,2005,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38,,,0
+H2,2005,2005,2005,2,0,1,Import,70,Bosnia Herzegovina,BIH,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2717655,,,0
+H2,2005,2005,2005,2,0,2,Export,70,Bosnia Herzegovina,BIH,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,643977,,,0
+H2,2005,2005,2005,2,0,1,Import,70,Bosnia Herzegovina,BIH,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,99,,,0
+H2,2005,2005,2005,2,0,1,Import,76,Brazil,BRA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1697446,,,4
+H2,2005,2005,2005,2,0,2,Export,76,Brazil,BRA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,10236008,,,4
+H2,2005,2005,2005,2,0,1,Import,76,Brazil,BRA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,97138,,,0
+H2,2005,2005,2005,2,0,2,Export,76,Brazil,BRA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,550,,,0
+H2,2005,2005,2005,2,0,1,Import,76,Brazil,BRA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,214242,,,0
+H2,2005,2005,2005,2,0,2,Export,76,Brazil,BRA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,751498,,,4
+H2,2005,2005,2005,2,0,1,Import,100,Bulgaria,BGR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8639,,,0
+H2,2005,2005,2005,2,0,2,Export,100,Bulgaria,BGR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3562,,,0
+H2,2005,2005,2005,2,0,1,Import,100,Bulgaria,BGR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,36447,,,0
+H2,2005,2005,2005,2,0,1,Import,112,Belarus,BLR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,79400,,,0
+H2,2005,2005,2005,2,0,2,Export,112,Belarus,BLR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1400,,,0
+H2,2005,2005,2005,2,0,1,Import,112,Belarus,BLR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2268400,,,0
+H2,2005,2005,2005,2,0,1,Import,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,219203,,,0
+H2,2005,2005,2005,2,0,2,Export,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,34183,,,0
+H2,2005,2005,2005,2,0,1,Import,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12189120,,,0
+H2,2005,2005,2005,2,0,2,Export,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,122179,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,80161,,,0
+H2,2005,2005,2005,2,0,1,Import,124,Canada,CAN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,190142,,,0
+H2,2005,2005,2005,2,0,2,Export,124,Canada,CAN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,184325,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,124,Canada,CAN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,158897,,,0
+H2,2005,2005,2005,2,0,1,Import,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3611235,,,0
+H2,2005,2005,2005,2,0,2,Export,144,Sri Lanka,LKA,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30127,,,0
+H2,2005,2005,2005,2,0,2,Export,144,Sri Lanka,LKA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,42535,,,0
+H2,2005,2005,2005,2,0,1,Import,144,Sri Lanka,LKA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6425,,,0
+H2,2005,2005,2005,2,0,2,Export,144,Sri Lanka,LKA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2224086,,,0
+H2,2005,2005,2005,2,0,2,Export,144,Sri Lanka,LKA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,45618,,,0
+H2,2005,2005,2005,2,0,1,Import,152,Chile,CHL,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,103002,,,0
+H2,2005,2005,2005,2,0,2,Export,152,Chile,CHL,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23915,,,0
+H2,2005,2005,2005,2,0,1,Import,156,China,CHN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,133679,,,0
+H2,2005,2005,2005,2,0,2,Export,156,China,CHN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5493880,,,0
+H2,2005,2005,2005,2,0,2,Export,156,China,CHN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1879262,,,0
+H2,2005,2005,2005,2,0,1,Import,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,958495,,,0
+H2,2005,2005,2005,2,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5327820,,,0
+H2,2005,2005,2005,2,0,1,Import,170,Colombia,COL,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1374934,,,0
+H2,2005,2005,2005,2,0,2,Export,170,Colombia,COL,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,510321,,,0
+H2,2005,2005,2005,2,0,1,Import,170,Colombia,COL,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,31686,,,0
+H2,2005,2005,2005,2,0,1,Import,188,Costa Rica,CRI,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2404,,,0
+H2,2005,2005,2005,2,0,1,Import,188,Costa Rica,CRI,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,211102,,,0
+H2,2005,2005,2005,2,0,4,Re-Import,188,Costa Rica,CRI,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,211102,,,0
+H2,2005,2005,2005,2,0,1,Import,188,Costa Rica,CRI,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7,,,0
+H2,2005,2005,2005,2,0,1,Import,192,Cuba,CUB,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,279495,,,0
+H2,2005,2005,2005,2,0,1,Import,203,Czechia,CZE,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,624,,,0
+H2,2005,2005,2005,2,0,2,Export,203,Czechia,CZE,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2050,,,0
+H2,2005,2005,2005,2,0,1,Import,203,Czechia,CZE,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,245329,,,0
+H2,2005,2005,2005,2,0,2,Export,203,Czechia,CZE,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10181086,,,0
+H2,2005,2005,2005,2,0,1,Import,203,Czechia,CZE,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2522466,,,0
+H2,2005,2005,2005,2,0,2,Export,203,Czechia,CZE,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,89136,,,0
+H2,2005,2005,2005,2,0,2,Export,208,Denmark,DNK,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19621,,,0
+H2,2005,2005,2005,2,0,1,Import,208,Denmark,DNK,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,197542,,,0
+H2,2005,2005,2005,2,0,2,Export,208,Denmark,DNK,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,247328,,,0
+H2,2005,2005,2005,2,0,2,Export,208,Denmark,DNK,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28362,,,0
+H2,2005,2005,2005,2,0,1,Import,218,Ecuador,ECU,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,34071,,,0
+H2,2005,2005,2005,2,0,2,Export,218,Ecuador,ECU,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,422410,,,0
+H2,2005,2005,2005,2,0,1,Import,222,El Salvador,SLV,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7519917,,,0
+H2,2005,2005,2005,2,0,2,Export,222,El Salvador,SLV,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,196054,,,0
+H2,2005,2005,2005,2,0,1,Import,234,Faeroe Isds,FRO,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,488,,,0
+H2,2005,2005,2005,2,0,2,Export,242,Fiji,FJI,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,210,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,242,Fiji,FJI,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,210,,,0
+H2,2005,2005,2005,2,0,2,Export,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1619,,,0
+H2,2005,2005,2005,2,0,2,Export,246,Finland,FIN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,36530,,,0
+H2,2005,2005,2005,2,0,2,Export,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20006,,,0
+H2,2005,2005,2005,2,0,1,Import,251,France,FRA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2792149,,,0
+H2,2005,2005,2005,2,0,2,Export,251,France,FRA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,82120,,,0
+H2,2005,2005,2005,2,0,1,Import,251,France,FRA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,99542,,,0
+H2,2005,2005,2005,2,0,2,Export,251,France,FRA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5805634,,,0
+H2,2005,2005,2005,2,0,1,Import,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32473036,,,0
+H2,2005,2005,2005,2,0,2,Export,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3370652,,,0
+H2,2005,2005,2005,2,0,2,Export,258,French Polynesia,PYF,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,104,,,0
+H2,2005,2005,2005,2,0,1,Import,266,Gabon,GAB,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20187,,,0
+H2,2005,2005,2005,2,0,2,Export,266,Gabon,GAB,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16319,,,0
+H2,2005,2005,2005,2,0,1,Import,276,Germany,DEU,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1000,,,0
+H2,2005,2005,2005,2,0,1,Import,276,Germany,DEU,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3001000,,,0
+H2,2005,2005,2005,2,0,2,Export,276,Germany,DEU,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,650000,,,0
+H2,2005,2005,2005,2,0,1,Import,276,Germany,DEU,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3420000,,,0
+H2,2005,2005,2005,2,0,2,Export,276,Germany,DEU,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15629000,,,0
+H2,2005,2005,2005,2,0,1,Import,276,Germany,DEU,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30121000,,,0
+H2,2005,2005,2005,2,0,2,Export,276,Germany,DEU,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,926000,,,0
+H2,2005,2005,2005,2,0,1,Import,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4334,,,0
+H2,2005,2005,2005,2,0,2,Export,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23432,,,0
+H2,2005,2005,2005,2,0,1,Import,300,Greece,GRC,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23627,,,0
+H2,2005,2005,2005,2,0,2,Export,300,Greece,GRC,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43924,,,0
+H2,2005,2005,2005,2,0,1,Import,300,Greece,GRC,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5397031,,,0
+H2,2005,2005,2005,2,0,1,Import,320,Guatemala,GTM,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10525934,,,0
+H2,2005,2005,2005,2,0,2,Export,320,Guatemala,GTM,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10703919,,,0
+H2,2005,2005,2005,2,0,1,Import,324,Guinea,GIN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9362,,,0
+H2,2005,2005,2005,2,0,1,Import,328,Guyana,GUY,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,382,,,0
+H2,2005,2005,2005,2,0,1,Import,340,Honduras,HND,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3845569,,,0
+H2,2005,2005,2005,2,0,2,Export,340,Honduras,HND,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,152824,,,0
+H2,2005,2005,2005,2,0,1,Import,344,"China, Hong Kong SAR",HKG,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,292085,,,0
+H2,2005,2005,2005,2,0,2,Export,344,"China, Hong Kong SAR",HKG,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7719,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7719,,,0
+H2,2005,2005,2005,2,0,1,Import,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,50000,,,0
+H2,2005,2005,2005,2,0,2,Export,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20236000,,,0
+H2,2005,2005,2005,2,0,1,Import,348,Hungary,HUN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2139000,,,0
+H2,2005,2005,2005,2,0,1,Import,352,Iceland,ISL,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,71,,,0
+H2,2005,2005,2005,2,0,1,Import,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,41,,,0
+H2,2005,2005,2005,2,0,1,Import,364,Iran,IRN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,51957,,,0
+H2,2005,2005,2005,2,0,1,Import,372,Ireland,IRL,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14154,,,0
+H2,2005,2005,2005,2,0,2,Export,372,Ireland,IRL,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1866,,,0
+H2,2005,2005,2005,2,0,2,Export,376,Israel,ISR,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,781000,,,0
+H2,2005,2005,2005,2,0,2,Export,376,Israel,ISR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8000,,,0
+H2,2005,2005,2005,2,0,2,Export,376,Israel,ISR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,56000,,,0
+H2,2005,2005,2005,2,0,1,Import,381,Italy,ITA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,90452,,,0
+H2,2005,2005,2005,2,0,2,Export,381,Italy,ITA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,144399,,,0
+H2,2005,2005,2005,2,0,1,Import,381,Italy,ITA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2128974,,,0
+H2,2005,2005,2005,2,0,2,Export,381,Italy,ITA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12179805,,,0
+H2,2005,2005,2005,2,0,1,Import,381,Italy,ITA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20440113,,,0
+H2,2005,2005,2005,2,0,2,Export,381,Italy,ITA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1289552,,,0
+H2,2005,2005,2005,2,0,1,Import,384,Côte d'Ivoire,CIV,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,337,,,0
+H2,2005,2005,2005,2,0,1,Import,388,Jamaica,JAM,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,462700,,,0
+H2,2005,2005,2005,2,0,1,Import,392,Japan,JPN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,101997,,,0
+H2,2005,2005,2005,2,0,2,Export,392,Japan,JPN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5037664,,,0
+H2,2005,2005,2005,2,0,2,Export,392,Japan,JPN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1537123,,,0
+H2,2005,2005,2005,2,0,2,Export,392,Japan,JPN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3725889,,,0
+H2,2005,2005,2005,2,0,1,Import,398,Kazakhstan,KAZ,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,162,,,0
+H2,2005,2005,2005,2,0,1,Import,404,Kenya,KEN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,275686,,,0
+H2,2005,2005,2005,2,0,2,Export,410,Rep. of Korea,KOR,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6835128,,,0
+H2,2005,2005,2005,2,0,1,Import,410,Rep. of Korea,KOR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,604,,,0
+H2,2005,2005,2005,2,0,2,Export,410,Rep. of Korea,KOR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,269394,,,0
+H2,2005,2005,2005,2,0,2,Export,410,Rep. of Korea,KOR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2705670,,,0
+H2,2005,2005,2005,2,0,2,Export,422,Lebanon,LBN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,101000,,,0
+H2,2005,2005,2005,2,0,1,Import,428,Latvia,LVA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12,,,0
+H2,2005,2005,2005,2,0,2,Export,428,Latvia,LVA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7318,,,0
+H2,2005,2005,2005,2,0,2,Export,440,Lithuania,LTU,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2791,,,0
+H2,2005,2005,2005,2,0,2,Export,440,Lithuania,LTU,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13744,,,0
+H2,2005,2005,2005,2,0,1,Import,442,Luxembourg,LUX,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,187,,,0
+H2,2005,2005,2005,2,0,2,Export,442,Luxembourg,LUX,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12843,,,0
+H2,2005,2005,2005,2,0,1,Import,442,Luxembourg,LUX,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5953447,,,0
+H2,2005,2005,2005,2,0,1,Import,458,Malaysia,MYS,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,89440,,,0
+H2,2005,2005,2005,2,0,2,Export,458,Malaysia,MYS,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2574364,,,0
+H2,2005,2005,2005,2,0,2,Export,458,Malaysia,MYS,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,598647,,,0
+H2,2005,2005,2005,2,0,1,Import,458,Malaysia,MYS,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3997535,,,0
+H2,2005,2005,2005,2,0,2,Export,458,Malaysia,MYS,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,195737,,,0
+H2,2005,2005,2005,2,0,1,Import,466,Mali,MLI,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3793,,,0
+H2,2005,2005,2005,2,0,1,Import,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4085545,,,0
+H2,2005,2005,2005,2,0,2,Export,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14661198,,,0
+H2,2005,2005,2005,2,0,1,Import,484,Mexico,MEX,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3236,,,0
+H2,2005,2005,2005,2,0,1,Import,484,Mexico,MEX,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,104526,,,0
+H2,2005,2005,2005,2,0,2,Export,490,"Other Asia, nes",,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32,,,0
+H2,2005,2005,2005,2,0,1,Import,490,"Other Asia, nes",,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,574,,,0
+H2,2005,2005,2005,2,0,2,Export,490,"Other Asia, nes",,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1931583,,,0
+H2,2005,2005,2005,2,0,1,Import,490,"Other Asia, nes",,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32,,,0
+H2,2005,2005,2005,2,0,2,Export,490,"Other Asia, nes",,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,55118,,,0
+H2,2005,2005,2005,2,0,2,Export,490,"Other Asia, nes",,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,108534,,,0
+H2,2005,2005,2005,2,0,1,Import,504,Morocco,MAR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,448194,,,0
+H2,2005,2005,2005,2,0,2,Export,504,Morocco,MAR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,53430,,,0
+H2,2005,2005,2005,2,0,2,Export,528,Netherlands,NLD,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,70889,,,0
+H2,2005,2005,2005,2,0,1,Import,528,Netherlands,NLD,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,131776,,,0
+H2,2005,2005,2005,2,0,2,Export,528,Netherlands,NLD,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5015711,,,0
+H2,2005,2005,2005,2,0,1,Import,528,Netherlands,NLD,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1486831,,,0
+H2,2005,2005,2005,2,0,2,Export,528,Netherlands,NLD,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,443989,,,0
+H2,2005,2005,2005,2,0,1,Import,533,Aruba,ABW,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6694,,,0
+H2,2005,2005,2005,2,0,1,Import,540,New Caledonia,NCL,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8,,,0
+H2,2005,2005,2005,2,0,2,Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,481288,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,262519,,,0
+H2,2005,2005,2005,2,0,1,Import,554,New Zealand,NZL,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,214,,,0
+H2,2005,2005,2005,2,0,1,Import,558,Nicaragua,NIC,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4002880,,,0
+H2,2005,2005,2005,2,0,2,Export,558,Nicaragua,NIC,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3950,,,0
+H2,2005,2005,2005,2,0,1,Import,562,Niger,NER,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28,,,0
+H2,2005,2005,2005,2,0,2,Export,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27876,,,0
+H2,2005,2005,2005,2,0,1,Import,579,Norway,NOR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1605,,,0
+H2,2005,2005,2005,2,0,2,Export,579,Norway,NOR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17594,,,0
+H2,2005,2005,2005,2,0,2,Export,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43821,,,0
+H2,2005,2005,2005,2,0,2,Export,586,Pakistan,PAK,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28684,,,0
+H2,2005,2005,2005,2,0,1,Import,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1736365,,,0
+H2,2005,2005,2005,2,0,2,Export,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7173,,,0
+H2,2005,2005,2005,2,0,1,Import,600,Paraguay,PRY,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27164,,,0
+H2,2005,2005,2005,2,0,1,Import,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,209754,,,0
+H2,2005,2005,2005,2,0,2,Export,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4392,,,0
+H2,2005,2005,2005,2,0,2,Export,604,Peru,PER,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,136961,,,0
+H2,2005,2005,2005,2,0,1,Import,616,Poland,POL,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1109,,,0
+H2,2005,2005,2005,2,0,1,Import,616,Poland,POL,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2364,,,0
+H2,2005,2005,2005,2,0,2,Export,616,Poland,POL,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2421873,,,0
+H2,2005,2005,2005,2,0,1,Import,616,Poland,POL,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22572940,,,0
+H2,2005,2005,2005,2,0,2,Export,616,Poland,POL,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,234089,,,0
+H2,2005,2005,2005,2,0,2,Export,620,Portugal,PRT,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1031,,,0
+H2,2005,2005,2005,2,0,1,Import,620,Portugal,PRT,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,21221,,,0
+H2,2005,2005,2005,2,0,2,Export,620,Portugal,PRT,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,225584,,,0
+H2,2005,2005,2005,2,0,1,Import,620,Portugal,PRT,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2851668,,,0
+H2,2005,2005,2005,2,0,2,Export,620,Portugal,PRT,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,75291,,,0
+H2,2005,2005,2005,2,0,1,Import,642,Romania,ROU,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,26551,,,0
+H2,2005,2005,2005,2,0,1,Import,642,Romania,ROU,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,298157,,,0
+H2,2005,2005,2005,2,0,2,Export,642,Romania,ROU,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1578155,,,0
+H2,2005,2005,2005,2,0,1,Import,642,Romania,ROU,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1766332,,,0
+H2,2005,2005,2005,2,0,2,Export,642,Romania,ROU,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,170,,,0
+H2,2005,2005,2005,2,0,1,Import,643,Russian Federation,RUS,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,251,,,0
+H2,2005,2005,2005,2,0,1,Import,643,Russian Federation,RUS,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,249100,,,0
+H2,2005,2005,2005,2,0,2,Export,643,Russian Federation,RUS,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,31213,,,0
+H2,2005,2005,2005,2,0,1,Import,643,Russian Federation,RUS,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,36098,,,0
+H2,2005,2005,2005,2,0,2,Export,643,Russian Federation,RUS,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1925,,,0
+H2,2005,2005,2005,2,0,1,Import,682,Saudi Arabia,SAU,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,57913,,,0
+H2,2005,2005,2005,2,0,1,Import,686,Senegal,SEN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,103637,,,0
+H2,2005,2005,2005,2,0,2,Export,686,Senegal,SEN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,31111,,,0
+H2,2005,2005,2005,2,0,1,Import,699,India,IND,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24334,,,0
+H2,2005,2005,2005,2,0,2,Export,699,India,IND,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,379447,,,0
+H2,2005,2005,2005,2,0,1,Import,699,India,IND,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,97,,,0
+H2,2005,2005,2005,2,0,2,Export,699,India,IND,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,143873,,,0
+H2,2005,2005,2005,2,0,2,Export,699,India,IND,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2686982,,,0
+H2,2005,2005,2005,2,0,2,Export,702,Singapore,SGP,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,172354,,,0
+H2,2005,2005,2005,2,0,2,Export,702,Singapore,SGP,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,144886,,,0
+H2,2005,2005,2005,2,0,2,Export,702,Singapore,SGP,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20851,,,0
+H2,2005,2005,2005,2,0,1,Import,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11578,,,0
+H2,2005,2005,2005,2,0,2,Export,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1785873,,,0
+H2,2005,2005,2005,2,0,1,Import,703,Slovakia,SVK,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,214044,,,0
+H2,2005,2005,2005,2,0,1,Import,704,Viet Nam,VNM,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,265028,,,0
+H2,2005,2005,2005,2,0,2,Export,704,Viet Nam,VNM,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,178395,,,0
+H2,2005,2005,2005,2,0,1,Import,704,Viet Nam,VNM,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,214,,,0
+H2,2005,2005,2005,2,0,2,Export,704,Viet Nam,VNM,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,471902,,,0
+H2,2005,2005,2005,2,0,2,Export,704,Viet Nam,VNM,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,472880,,,0
+H2,2005,2005,2005,2,0,1,Import,705,Slovenia,SVN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20,,,0
+H2,2005,2005,2005,2,0,2,Export,705,Slovenia,SVN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6,,,0
+H2,2005,2005,2005,2,0,1,Import,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1545755,,,0
+H2,2005,2005,2005,2,0,2,Export,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47206818,,,0
+H2,2005,2005,2005,2,0,1,Import,705,Slovenia,SVN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,385578,,,0
+H2,2005,2005,2005,2,0,2,Export,705,Slovenia,SVN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32385,,,0
+H2,2005,2005,2005,2,0,1,Import,710,South Africa,ZAF,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16,,,0
+H2,2005,2005,2005,2,0,1,Import,710,South Africa,ZAF,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,465,,,0
+H2,2005,2005,2005,2,0,2,Export,710,South Africa,ZAF,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,39,,,0
+H2,2005,2005,2005,2,0,1,Import,710,South Africa,ZAF,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1352141,,,0
+H2,2005,2005,2005,2,0,2,Export,710,South Africa,ZAF,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,653605,,,0
+H2,2005,2005,2005,2,0,1,Import,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2098911,,,0
+H2,2005,2005,2005,2,0,2,Export,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,199815,,,0
+H2,2005,2005,2005,2,0,1,Import,724,Spain,ESP,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,58693,,,0
+H2,2005,2005,2005,2,0,2,Export,724,Spain,ESP,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,800513,,,0
+H2,2005,2005,2005,2,0,1,Import,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,44336521,,,0
+H2,2005,2005,2005,2,0,2,Export,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,168054,,,0
+H2,2005,2005,2005,2,0,2,Export,752,Sweden,SWE,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,51446,,,0
+H2,2005,2005,2005,2,0,1,Import,752,Sweden,SWE,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27594,,,0
+H2,2005,2005,2005,2,0,2,Export,752,Sweden,SWE,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,641736,,,0
+H2,2005,2005,2005,2,0,2,Export,752,Sweden,SWE,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16211,,,0
+H2,2005,2005,2005,2,0,1,Import,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,512692,,,0
+H2,2005,2005,2005,2,0,2,Export,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,59295,,,0
+H2,2005,2005,2005,2,0,1,Import,757,Switzerland,CHE,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12180,,,0
+H2,2005,2005,2005,2,0,2,Export,757,Switzerland,CHE,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,184414,,,0
+H2,2005,2005,2005,2,0,2,Export,757,Switzerland,CHE,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,118305,,,0
+H2,2005,2005,2005,2,0,2,Export,764,Thailand,THA,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4660,,,0
+H2,2005,2005,2005,2,0,2,Export,764,Thailand,THA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1381990,,,0
+H2,2005,2005,2005,2,0,1,Import,764,Thailand,THA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10275,,,0
+H2,2005,2005,2005,2,0,2,Export,764,Thailand,THA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,928439,,,0
+H2,2005,2005,2005,2,0,1,Import,764,Thailand,THA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,884,,,0
+H2,2005,2005,2005,2,0,2,Export,764,Thailand,THA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,835681,,,0
+H2,2005,2005,2005,2,0,1,Import,768,Togo,TGO,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,46921,,,0
+H2,2005,2005,2005,2,0,2,Export,768,Togo,TGO,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3567,,,0
+H2,2005,2005,2005,2,0,1,Import,780,Trinidad and Tobago,TTO,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,61378,,,0
+H2,2005,2005,2005,2,0,1,Import,784,United Arab Emirates,ARE,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,33851,,,0
+H2,2005,2005,2005,2,0,2,Export,784,United Arab Emirates,ARE,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12661,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,784,United Arab Emirates,ARE,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12661,,,0
+H2,2005,2005,2005,2,0,1,Import,784,United Arab Emirates,ARE,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13478,,,0
+H2,2005,2005,2005,2,0,1,Import,784,United Arab Emirates,ARE,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,256,,,0
+H2,2005,2005,2005,2,0,2,Export,784,United Arab Emirates,ARE,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1300904,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,784,United Arab Emirates,ARE,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1300904,,,0
+H2,2005,2005,2005,2,0,1,Import,788,Tunisia,TUN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,412,,,0
+H2,2005,2005,2005,2,0,2,Export,788,Tunisia,TUN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,172824,,,0
+H2,2005,2005,2005,2,0,1,Import,792,Turkey,TUR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1096,,,0
+H2,2005,2005,2005,2,0,2,Export,792,Turkey,TUR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,790919,,,0
+H2,2005,2005,2005,2,0,1,Import,792,Turkey,TUR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,890669,,,0
+H2,2005,2005,2005,2,0,2,Export,792,Turkey,TUR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1438843,,,0
+H2,2005,2005,2005,2,0,1,Import,807,North Macedonia,MKD,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,116800,,,0
+H2,2005,2005,2005,2,0,2,Export,807,North Macedonia,MKD,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9220,,,0
+H2,2005,2005,2005,2,0,2,Export,826,United Kingdom,GBR,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2922,,,0
+H2,2005,2005,2005,2,0,1,Import,826,United Kingdom,GBR,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,108992,,,0
+H2,2005,2005,2005,2,0,2,Export,826,United Kingdom,GBR,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,87517,,,0
+H2,2005,2005,2005,2,0,1,Import,826,United Kingdom,GBR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10482,,,0
+H2,2005,2005,2005,2,0,2,Export,826,United Kingdom,GBR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1664890,,,0
+H2,2005,2005,2005,2,0,1,Import,826,United Kingdom,GBR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17220061,,,0
+H2,2005,2005,2005,2,0,2,Export,826,United Kingdom,GBR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,385015,,,0
+H2,2005,2005,2005,2,0,2,Export,842,USA,USA,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9182,,,0
+H2,2005,2005,2005,2,0,1,Import,842,USA,USA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,117650792,,,0
+H2,2005,2005,2005,2,0,2,Export,842,USA,USA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23203628,,,0
+H2,2005,2005,2005,2,0,3,Re-Export,842,USA,USA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,795562,,,0
+H2,2005,2005,2005,2,0,1,Import,842,USA,USA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23225,,,0
+H2,2005,2005,2005,2,0,2,Export,842,USA,USA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,327485,,,0
+H2,2005,2005,2005,2,0,1,Import,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4727927,,,0
+H2,2005,2005,2005,2,0,2,Export,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,339929,,,0
+H2,2005,2005,2005,2,0,1,Import,854,Burkina Faso,BFA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,909282,,,0
+H2,2005,2005,2005,2,0,2,Export,854,Burkina Faso,BFA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,44727,,,0
+H2,2005,2005,2005,2,0,1,Import,858,Uruguay,URY,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15689,,,0
+H1,2005,2005,2005,2,0,2,Export,28,Antigua and Barbuda,ATG,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,42203,,,0
+H1,2005,2005,2005,2,0,3,Re-Export,28,Antigua and Barbuda,ATG,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,42203,,,0
+H1,2005,2005,2005,2,0,1,Import,132,Cabo Verde,CPV,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1555579,,,0
+H1,2005,2005,2005,2,0,2,Export,132,Cabo Verde,CPV,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,11908028,,,0
+H1,2005,2005,2005,2,0,3,Re-Export,132,Cabo Verde,CPV,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,11908028,,,0
+H1,2005,2005,2005,2,0,1,Import,204,Benin,BEN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,22438,,,0
+H1,2005,2005,2005,2,0,1,Import,204,Benin,BEN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,46457740,,,0
+H1,2005,2005,2005,2,0,2,Export,204,Benin,BEN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1238225,,,0
+H1,2005,2005,2005,2,0,3,Re-Export,204,Benin,BEN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1238225,,,0
+H1,2005,2005,2005,2,0,1,Import,214,Dominican Rep.,DOM,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,57507,,,0
+H1,2005,2005,2005,2,0,1,Import,270,Gambia,GMB,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,31753526,,,0
+H1,2005,2005,2005,2,0,2,Export,360,Indonesia,IDN,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4000,,,0
+H1,2005,2005,2005,2,0,2,Export,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3138684,,,0
+H1,2005,2005,2005,2,0,1,Import,624,Guinea-Bissau,GNB,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,694,,,0
+H1,2005,2005,2005,2,0,1,Import,804,Ukraine,UKR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3224,,,0
+H1,2005,2005,2005,2,0,2,Export,804,Ukraine,UKR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4297071,,,0
+H1,2005,2005,2005,2,0,2,Export,862,Venezuela,VEN,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,356501,,,0
+H1,2005,2005,2005,2,0,2,Export,862,Venezuela,VEN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5085135,,,0
+H1,2005,2005,2005,2,0,1,Import,28,Antigua and Barbuda,ATG,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,803,,,0
+H1,2005,2005,2005,2,0,1,Import,108,Burundi,BDI,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,181,,,0
+H1,2005,2005,2005,2,0,1,Import,204,Benin,BEN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,663588,,,0
+H1,2005,2005,2005,2,0,1,Import,212,Dominica,DMA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,152388,,,0
+H1,2005,2005,2005,2,0,1,Import,214,Dominican Rep.,DOM,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16911408,,,0
+H1,2005,2005,2005,2,0,2,Export,214,Dominican Rep.,DOM,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1677568,,,0
+H1,2005,2005,2005,2,0,1,Import,270,Gambia,GMB,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16315,,,0
+H1,2005,2005,2005,2,0,1,Import,308,Grenada,GRD,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6004,,,0
+H1,2005,2005,2005,2,0,2,Export,360,Indonesia,IDN,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1631,,,0
+H1,2005,2005,2005,2,0,2,Export,360,Indonesia,IDN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,51182,,,0
+H1,2005,2005,2005,2,0,1,Import,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4317,,,0
+H1,2005,2005,2005,2,0,2,Export,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1411942,,,0
+H1,2005,2005,2005,2,0,1,Import,360,Indonesia,IDN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,54,,,0
+H1,2005,2005,2005,2,0,2,Export,360,Indonesia,IDN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,294979,,,0
+H1,2005,2005,2005,2,0,2,Export,608,Philippines,PHL,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3119,,,0
+H1,2005,2005,2005,2,0,1,Import,608,Philippines,PHL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,118438,,,0
+H1,2005,2005,2005,2,0,2,Export,608,Philippines,PHL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,412549,,,0
+H1,2005,2005,2005,2,0,1,Import,659,Saint Kitts and Nevis,KNA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1460,,,0
+H1,2005,2005,2005,2,0,1,Import,662,Saint Lucia,LCA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,223099,,,0
+H1,2005,2005,2005,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,192178,,,0
+H1,2005,2005,2005,2,0,2,Export,670,Saint Vincent and the Grenadines,VCT,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27842,,,0
+H1,2005,2005,2005,2,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27842,,,0
+H1,2005,2005,2005,2,0,1,Import,804,Ukraine,UKR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2140,,,0
+H1,2005,2005,2005,2,0,2,Export,804,Ukraine,UKR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,45252,,,0
+H1,2005,2005,2005,2,0,1,Import,804,Ukraine,UKR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1720418,,,0
+H1,2005,2005,2005,2,0,2,Export,804,Ukraine,UKR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1866,,,0
+H1,2005,2005,2005,2,0,1,Import,862,Venezuela,VEN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,415271,,,0
+H1,2005,2005,2005,2,0,2,Export,862,Venezuela,VEN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1414136,,,0
+H1,2005,2005,2005,2,0,2,Export,882,Samoa,WSM,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,61576,,,0
+H1,2005,2005,2005,2,0,1,Import,204,Benin,BEN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,78211,,,0
+H1,2005,2005,2005,2,0,1,Import,214,Dominican Rep.,DOM,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,55172,,,0
+H1,2005,2005,2005,2,0,1,Import,214,Dominican Rep.,DOM,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3018272,,,0
+H1,2005,2005,2005,2,0,2,Export,214,Dominican Rep.,DOM,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,252,,,0
+H1,2005,2005,2005,2,0,1,Import,308,Grenada,GRD,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28,,,0
+H1,2005,2005,2005,2,0,1,Import,360,Indonesia,IDN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,120,,,0
+H1,2005,2005,2005,2,0,2,Export,360,Indonesia,IDN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1226006,,,0
+H1,2005,2005,2005,2,0,1,Import,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,46,,,0
+H1,2005,2005,2005,2,0,2,Export,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,988,,,0
+H1,2005,2005,2005,2,0,2,Export,360,Indonesia,IDN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,234711,,,0
+H1,2005,2005,2005,2,0,2,Export,608,Philippines,PHL,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19370,,,0
+H1,2005,2005,2005,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,326,,,0
+H1,2005,2005,2005,2,0,1,Import,736,Fmr Sudan,SDN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,23740,,,0
+H1,2005,2005,2005,2,0,1,Import,804,Ukraine,UKR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9183,,,0
+H1,2005,2005,2005,2,0,2,Export,804,Ukraine,UKR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11434,,,0
+H1,2005,2005,2005,2,0,1,Import,804,Ukraine,UKR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1503644,,,0
+H1,2005,2005,2005,2,0,1,Import,862,Venezuela,VEN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4268203,,,0
+H1,2005,2005,2005,2,0,2,Export,862,Venezuela,VEN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,185862,,,0
+H1,2005,2005,2005,2,0,2,Export,862,Venezuela,VEN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16082,,,0
+H0,2005,2005,2005,2,0,1,Import,818,Egypt,EGY,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2553030,,,0
+H0,2005,2005,2005,2,0,2,Export,818,Egypt,EGY,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,26579201,,,0
+H0,2005,2005,2005,2,0,1,Import,140,Central African Rep.,CAF,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21835,,,0
+H0,2005,2005,2005,2,0,1,Import,740,Suriname,SUR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,344498,,,0
+H0,2005,2005,2005,2,0,1,Import,740,Suriname,SUR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,140234,,,0
+H0,2005,2005,2005,2,0,1,Import,818,Egypt,EGY,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,920653,,,0
+H0,2005,2005,2005,2,0,2,Export,818,Egypt,EGY,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,90021,,,0
+H0,2005,2005,2005,2,0,2,Export,818,Egypt,EGY,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,56408,,,0
+H0,2005,2005,2005,2,0,1,Import,740,Suriname,SUR,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,58988,,,0
+H0,2005,2005,2005,2,0,2,Export,818,Egypt,EGY,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43459,,,0

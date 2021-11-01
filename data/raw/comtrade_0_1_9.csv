@@ -1,0 +1,976 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2009,2009,2009,2,0,2,Export,12,Algeria,DZA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10443,,,0
+H3,2009,2009,2009,2,0,1,Import,12,Algeria,DZA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2344,,,0
+H3,2009,2009,2009,2,0,1,Import,12,Algeria,DZA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1193,,,0
+H3,2009,2009,2009,2,0,2,Export,12,Algeria,DZA,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2779,,,0
+H3,2009,2009,2009,2,0,1,Import,20,Andorra,AND,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13938,,,0
+H3,2009,2009,2009,2,0,4,Re-Import,20,Andorra,AND,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13938,,,0
+H3,2009,2009,2009,2,0,1,Import,24,Angola,AGO,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,464,,,0
+H3,2009,2009,2009,2,0,1,Import,24,Angola,AGO,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,25604,,,0
+H3,2009,2009,2009,2,0,2,Export,24,Angola,AGO,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,668650522,,,0
+H3,2009,2009,2009,2,0,1,Import,24,Angola,AGO,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2783,,,0
+H3,2009,2009,2009,2,0,1,Import,24,Angola,AGO,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,826130,,,0
+H3,2009,2009,2009,2,0,1,Import,24,Angola,AGO,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,206,,,0
+H3,2009,2009,2009,2,0,1,Import,24,Angola,AGO,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,172612,,,0
+H1,2009,2009,2009,2,0,2,Export,28,Antigua and Barbuda,ATG,660,Anguilla,AIA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4660864,,,0
+H1,2009,2009,2009,2,0,3,Re-Export,28,Antigua and Barbuda,ATG,660,Anguilla,AIA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4660864,,,0
+H1,2009,2009,2009,2,0,1,Import,28,Antigua and Barbuda,ATG,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,266921870,,,0
+H1,2009,2009,2009,2,0,2,Export,28,Antigua and Barbuda,ATG,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,209466,,,0
+H1,2009,2009,2009,2,0,3,Re-Export,28,Antigua and Barbuda,ATG,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,209466,,,0
+H1,2009,2009,2009,2,0,2,Export,28,Antigua and Barbuda,ATG,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16046,,,0
+H1,2009,2009,2009,2,0,1,Import,28,Antigua and Barbuda,ATG,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1329,,,0
+H1,2009,2009,2009,2,0,2,Export,28,Antigua and Barbuda,ATG,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14537,,,0
+H1,2009,2009,2009,2,0,3,Re-Export,28,Antigua and Barbuda,ATG,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14537,,,0
+H1,2009,2009,2009,2,0,3,Re-Export,28,Antigua and Barbuda,ATG,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16046,,,0
+H1,2009,2009,2009,2,0,1,Import,28,Antigua and Barbuda,ATG,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2132,,,0
+H1,2009,2009,2009,2,0,2,Export,28,Antigua and Barbuda,ATG,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,45929,,,0
+H1,2009,2009,2009,2,0,3,Re-Export,28,Antigua and Barbuda,ATG,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,45929,,,0
+H1,2009,2009,2009,2,0,2,Export,28,Antigua and Barbuda,ATG,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,89,,,0
+H1,2009,2009,2009,2,0,3,Re-Export,28,Antigua and Barbuda,ATG,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,89,,,0
+H3,2009,2009,2009,2,0,2,Export,31,Azerbaijan,AZE,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,140411178,,,0
+H3,2009,2009,2009,2,0,1,Import,31,Azerbaijan,AZE,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5949,,,0
+H3,2009,2009,2009,2,0,1,Import,31,Azerbaijan,AZE,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,209,,,0
+H3,2009,2009,2009,2,0,1,Import,31,Azerbaijan,AZE,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1003265,,,0
+H3,2009,2009,2009,2,0,1,Import,32,Argentina,ARG,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,943514469,,,0
+H3,2009,2009,2009,2,0,2,Export,32,Argentina,ARG,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,156716,,,0
+H3,2009,2009,2009,2,0,1,Import,32,Argentina,ARG,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14081713,,,0
+H3,2009,2009,2009,2,0,2,Export,32,Argentina,ARG,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,87123,,,0
+H3,2009,2009,2009,2,0,1,Import,32,Argentina,ARG,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12,,,0
+H3,2009,2009,2009,2,0,2,Export,32,Argentina,ARG,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24367,,,0
+H3,2009,2009,2009,2,0,1,Import,32,Argentina,ARG,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13267249,,,0
+H3,2009,2009,2009,2,0,2,Export,32,Argentina,ARG,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,91922,,,0
+H3,2009,2009,2009,2,0,2,Export,36,Australia,AUS,10,Antarctica,ATA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4046887,,,0
+H3,2009,2009,2009,2,0,1,Import,36,Australia,AUS,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2066910960,,,0
+H3,2009,2009,2009,2,0,2,Export,36,Australia,AUS,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6405357668,,,0
+H3,2009,2009,2009,2,0,2,Export,36,Australia,AUS,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14880,,,0
+H3,2009,2009,2009,2,0,1,Import,36,Australia,AUS,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1524,,,0
+H3,2009,2009,2009,2,0,1,Import,36,Australia,AUS,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,358897103,,,0
+H3,2009,2009,2009,2,0,2,Export,36,Australia,AUS,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,524372,,,0
+H3,2009,2009,2009,2,0,2,Export,36,Australia,AUS,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6884,,,0
+H3,2009,2009,2009,2,0,1,Import,36,Australia,AUS,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3578,,,0
+H3,2009,2009,2009,2,0,1,Import,36,Australia,AUS,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3831088,,,0
+H3,2009,2009,2009,2,0,2,Export,36,Australia,AUS,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,229909,,,0
+H3,2009,2009,2009,2,0,2,Export,40,Austria,AUT,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10960,,,0
+H3,2009,2009,2009,2,0,1,Import,40,Austria,AUT,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,943,,,0
+H3,2009,2009,2009,2,0,2,Export,40,Austria,AUT,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,132453,,,0
+H3,2009,2009,2009,2,0,2,Export,40,Austria,AUT,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,326,,,0
+H3,2009,2009,2009,2,0,2,Export,40,Austria,AUT,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32601,,,0
+H3,2009,2009,2009,2,0,1,Import,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5917651,,,0
+H3,2009,2009,2009,2,0,1,Import,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,44314,,,0
+H3,2009,2009,2009,2,0,2,Export,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,700,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,700,,,0
+H3,2009,2009,2009,2,0,1,Import,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1172,,,0
+H3,2009,2009,2009,2,0,2,Export,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2500,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2500,,,0
+H3,2009,2009,2009,2,0,1,Import,48,Bahrain,BHR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5147265301,,,0
+H3,2009,2009,2009,2,0,2,Export,48,Bahrain,BHR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5370151622,,,0
+H3,2009,2009,2009,2,0,1,Import,48,Bahrain,BHR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5434,,,0
+H3,2009,2009,2009,2,0,2,Export,48,Bahrain,BHR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,183566,,,0
+H3,2009,2009,2009,2,0,1,Import,50,Bangladesh,BGD,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,103020,,,0
+H3,2009,2009,2009,2,0,2,Export,50,Bangladesh,BGD,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,100853576,,,0
+H3,2009,2009,2009,2,0,1,Import,50,Bangladesh,BGD,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4885167,,,0
+H3,2009,2009,2009,2,0,2,Export,50,Bangladesh,BGD,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11708196,,,0
+H3,2009,2009,2009,2,0,1,Import,50,Bangladesh,BGD,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,673052,,,0
+H3,2009,2009,2009,2,0,2,Export,50,Bangladesh,BGD,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,751245,,,0
+H3,2009,2009,2009,2,0,2,Export,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5305333,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5305333,,,0
+H3,2009,2009,2009,2,0,2,Export,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,89504,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,89217,,,0
+H3,2009,2009,2009,2,0,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,506729,,,0
+H3,2009,2009,2009,2,0,2,Export,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,224,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,224,,,0
+H3,2009,2009,2009,2,0,4,Re-Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,506729,,,0
+H2,2009,2009,2009,2,0,2,Export,52,Barbados,BRB,660,Anguilla,AIA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1497,,,0
+H2,2009,2009,2009,2,0,3,Re-Export,52,Barbados,BRB,660,Anguilla,AIA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1497,,,0
+H2,2009,2009,2009,2,0,1,Import,52,Barbados,BRB,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,120,,,0
+H2,2009,2009,2009,2,0,2,Export,52,Barbados,BRB,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8816,,,0
+H2,2009,2009,2009,2,0,3,Re-Export,52,Barbados,BRB,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,922,,,0
+H2,2009,2009,2009,2,0,2,Export,52,Barbados,BRB,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,899,,,0
+H2,2009,2009,2009,2,0,3,Re-Export,52,Barbados,BRB,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,743,,,0
+H3,2009,2009,2009,2,0,2,Export,56,Belgium,BEL,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,203451,,,0
+H3,2009,2009,2009,2,0,1,Import,56,Belgium,BEL,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,44443448,,,0
+H3,2009,2009,2009,2,0,2,Export,56,Belgium,BEL,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2381090,,,0
+H3,2009,2009,2009,2,0,1,Import,56,Belgium,BEL,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13518,,,0
+H3,2009,2009,2009,2,0,2,Export,56,Belgium,BEL,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,59413,,,0
+H3,2009,2009,2009,2,0,1,Import,56,Belgium,BEL,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10,,,0
+H3,2009,2009,2009,2,0,2,Export,56,Belgium,BEL,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5041989,,,0
+H3,2009,2009,2009,2,0,1,Import,56,Belgium,BEL,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,616,,,0
+H3,2009,2009,2009,2,0,2,Export,56,Belgium,BEL,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,57043,,,0
+H3,2009,2009,2009,2,0,1,Import,56,Belgium,BEL,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9408,,,0
+H3,2009,2009,2009,2,0,2,Export,56,Belgium,BEL,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6589873,,,0
+H2,2009,2009,2009,2,0,1,Import,60,Bermuda,BMU,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,283,,,0
+H2,2009,2009,2009,2,0,1,Import,60,Bermuda,BMU,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,175989,,,0
+H2,2009,2009,2009,2,0,1,Import,60,Bermuda,BMU,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1492,,,0
+H3,2009,2009,2009,2,0,2,Export,68,Bolivia (Plurinational State of),BOL,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,260413,,,0
+H3,2009,2009,2009,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,34,,,0
+H3,2009,2009,2009,2,0,1,Import,70,Bosnia Herzegovina,BIH,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,205,,,0
+H3,2009,2009,2009,2,0,1,Import,70,Bosnia Herzegovina,BIH,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10441,,,0
+H3,2009,2009,2009,2,0,1,Import,70,Bosnia Herzegovina,BIH,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,367,,,0
+H2,2009,2009,2009,2,0,2,Export,72,Botswana,BWA,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3239,,,0
+H2,2009,2009,2009,2,0,1,Import,72,Botswana,BWA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1297,,,0
+H2,2009,2009,2009,2,0,2,Export,72,Botswana,BWA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,73,,,0
+H2,2009,2009,2009,2,0,2,Export,72,Botswana,BWA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5475,,,0
+H2,2009,2009,2009,2,0,1,Import,72,Botswana,BWA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,207,,,0
+H3,2009,2009,2009,2,0,1,Import,76,Brazil,BRA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,141686123,,,0
+H3,2009,2009,2009,2,0,2,Export,76,Brazil,BRA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,32163224,,,4
+H3,2009,2009,2009,2,0,1,Import,76,Brazil,BRA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,18910,,,4
+H3,2009,2009,2009,2,0,1,Import,76,Brazil,BRA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,31858,,,0
+H3,2009,2009,2009,2,0,2,Export,76,Brazil,BRA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,28062643,,,4
+H3,2009,2009,2009,2,0,1,Import,76,Brazil,BRA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1759023,,,4
+H3,2009,2009,2009,2,0,2,Export,76,Brazil,BRA,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6129827,,,4
+H3,2009,2009,2009,2,0,1,Import,76,Brazil,BRA,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1104040,,,4
+H2,2009,2009,2009,2,0,1,Import,84,Belize,BLZ,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2498,,,0
+H3,2009,2009,2009,2,0,2,Export,96,Brunei Darussalam,BRN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,55,,,0
+H3,2009,2009,2009,2,0,1,Import,96,Brunei Darussalam,BRN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5,,,0
+H3,2009,2009,2009,2,0,2,Export,96,Brunei Darussalam,BRN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2335,,,0
+H3,2009,2009,2009,2,0,1,Import,96,Brunei Darussalam,BRN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4513,,,0
+H3,2009,2009,2009,2,0,2,Export,96,Brunei Darussalam,BRN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2811,,,0
+H3,2009,2009,2009,2,0,2,Export,100,Bulgaria,BGR,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,963,,,0
+H3,2009,2009,2009,2,0,2,Export,100,Bulgaria,BGR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1722189,,,0
+H3,2009,2009,2009,2,0,1,Import,100,Bulgaria,BGR,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,154,,,0
+H3,2009,2009,2009,2,0,2,Export,100,Bulgaria,BGR,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7434,,,0
+H3,2009,2009,2009,2,0,2,Export,100,Bulgaria,BGR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,651,,,0
+H3,2009,2009,2009,2,0,1,Import,112,Belarus,BLR,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,700,,,0
+H3,2009,2009,2009,2,0,2,Export,112,Belarus,BLR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18200,,,0
+H3,2009,2009,2009,2,0,1,Import,112,Belarus,BLR,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12500,,,0
+H3,2009,2009,2009,2,0,1,Import,112,Belarus,BLR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,700,,,0
+H3,2009,2009,2009,2,0,2,Export,112,Belarus,BLR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4600,,,0
+H2,2009,2009,2009,2,0,1,Import,120,Cameroon,CMR,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,625,,,0
+H2,2009,2009,2009,2,0,2,Export,120,Cameroon,CMR,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,61460,,,0
+H3,2009,2009,2009,2,0,2,Export,124,Canada,CAN,10,Antarctica,ATA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,256,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,124,Canada,CAN,10,Antarctica,ATA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,172,,,0
+H3,2009,2009,2009,2,0,1,Import,124,Canada,CAN,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1206904805,,,0
+H3,2009,2009,2009,2,0,2,Export,124,Canada,CAN,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1160,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,124,Canada,CAN,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,105,,,0
+H3,2009,2009,2009,2,0,2,Export,124,Canada,CAN,660,Anguilla,AIA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,15344,,,0
+H3,2009,2009,2009,2,0,2,Export,124,Canada,CAN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,62956,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,124,Canada,CAN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,45711,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,124,Canada,CAN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11893,,,0
+H3,2009,2009,2009,2,0,1,Import,124,Canada,CAN,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1392,,,0
+H3,2009,2009,2009,2,0,2,Export,124,Canada,CAN,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6085,,,0
+H3,2009,2009,2009,2,0,2,Export,124,Canada,CAN,10,Antarctica,ATA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7102,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,124,Canada,CAN,10,Antarctica,ATA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2189,,,0
+H3,2009,2009,2009,2,0,1,Import,124,Canada,CAN,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3594,,,0
+H3,2009,2009,2009,2,0,1,Import,124,Canada,CAN,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25,,,0
+H3,2009,2009,2009,2,0,2,Export,124,Canada,CAN,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,264,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,124,Canada,CAN,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,221,,,0
+H3,2009,2009,2009,2,0,1,Import,124,Canada,CAN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2759,,,0
+H3,2009,2009,2009,2,0,1,Import,124,Canada,CAN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,340,,,0
+H3,2009,2009,2009,2,0,2,Export,124,Canada,CAN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,75986,,,0
+H3,2009,2009,2009,2,0,1,Import,132,Cabo Verde,CPV,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1480,,,0
+H3,2009,2009,2009,2,0,2,Export,132,Cabo Verde,CPV,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,47356496,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,132,Cabo Verde,CPV,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,47356496,,,0
+H3,2009,2009,2009,2,0,1,Import,132,Cabo Verde,CPV,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28337,,,0
+H3,2009,2009,2009,2,0,2,Export,132,Cabo Verde,CPV,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,69159,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,132,Cabo Verde,CPV,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,69159,,,0
+H3,2009,2009,2009,2,0,1,Import,132,Cabo Verde,CPV,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6,,,0
+H3,2009,2009,2009,2,0,1,Import,132,Cabo Verde,CPV,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14027,,,0
+H3,2009,2009,2009,2,0,2,Export,132,Cabo Verde,CPV,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,69957,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,132,Cabo Verde,CPV,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,69957,,,0
+H3,2009,2009,2009,2,0,2,Export,144,Sri Lanka,LKA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,199,,,0
+H3,2009,2009,2009,2,0,1,Import,152,Chile,CHL,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,42462384,,,0
+H3,2009,2009,2009,2,0,1,Import,152,Chile,CHL,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,832637310,,,0
+H3,2009,2009,2009,2,0,2,Export,152,Chile,CHL,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,404212979,,,0
+H3,2009,2009,2009,2,0,1,Import,152,Chile,CHL,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2517035,,,0
+H3,2009,2009,2009,2,0,2,Export,152,Chile,CHL,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,603515,,,0
+H3,2009,2009,2009,2,0,1,Import,152,Chile,CHL,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,191251035,,,0
+H3,2009,2009,2009,2,0,2,Export,152,Chile,CHL,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2806654,,,0
+H3,2009,2009,2009,2,0,1,Import,156,China,CHN,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,14617853760,,,0
+H3,2009,2009,2009,2,0,2,Export,156,China,CHN,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5115939,,,0
+H3,2009,2009,2009,2,0,1,Import,156,China,CHN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,168451,,,0
+H3,2009,2009,2009,2,0,1,Import,156,China,CHN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,176267,,,0
+H3,2009,2009,2009,2,0,2,Export,156,China,CHN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,175855,,,0
+H3,2009,2009,2009,2,0,1,Import,156,China,CHN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,287,,,0
+H3,2009,2009,2009,2,0,2,Export,156,China,CHN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,59993835,,,0
+H3,2009,2009,2009,2,0,1,Import,156,China,CHN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,703552,,,0
+H3,2009,2009,2009,2,0,2,Export,156,China,CHN,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2534,,,0
+H3,2009,2009,2009,2,0,2,Export,156,China,CHN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,36280353,,,0
+H3,2009,2009,2009,2,0,1,Import,156,China,CHN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,200569,,,0
+H3,2009,2009,2009,2,0,2,Export,170,Colombia,COL,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3519905,,,0
+H3,2009,2009,2009,2,0,2,Export,170,Colombia,COL,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8,,,0
+H2,2009,2009,2009,2,0,1,Import,178,Congo,COG,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4393130,,,0
+H2,2009,2009,2009,2,0,2,Export,178,Congo,COG,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2934039,,,0
+H2,2009,2009,2009,2,0,1,Import,178,Congo,COG,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3526,,,0
+H2,2009,2009,2009,2,0,2,Export,178,Congo,COG,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,56105,,,0
+H2,2009,2009,2009,2,0,1,Import,178,Congo,COG,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,839,,,0
+H2,2009,2009,2009,2,0,2,Export,178,Congo,COG,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,153617,,,0
+H3,2009,2009,2009,2,0,1,Import,188,Costa Rica,CRI,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,16215103,,,0
+H3,2009,2009,2009,2,0,2,Export,188,Costa Rica,CRI,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,63029,,,0
+H3,2009,2009,2009,2,0,1,Import,188,Costa Rica,CRI,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1685,,,0
+H3,2009,2009,2009,2,0,1,Import,188,Costa Rica,CRI,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,458,,,0
+H3,2009,2009,2009,2,0,1,Import,188,Costa Rica,CRI,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,72463936,,,0
+H3,2009,2009,2009,2,0,2,Export,188,Costa Rica,CRI,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1357358,,,0
+H3,2009,2009,2009,2,0,1,Import,188,Costa Rica,CRI,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1294,,,0
+H3,2009,2009,2009,2,0,1,Import,188,Costa Rica,CRI,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4456790,,,0
+H3,2009,2009,2009,2,0,2,Export,188,Costa Rica,CRI,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,292570,,,0
+H3,2009,2009,2009,2,0,2,Export,191,Croatia,HRV,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,463,,,0
+H3,2009,2009,2009,2,0,1,Import,196,Cyprus,CYP,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10103,,,0
+H3,2009,2009,2009,2,0,2,Export,203,Czechia,CZE,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2000,,,0
+H3,2009,2009,2009,2,0,1,Import,203,Czechia,CZE,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,449226,,,0
+H3,2009,2009,2009,2,0,2,Export,203,Czechia,CZE,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2869450,,,0
+H3,2009,2009,2009,2,0,1,Import,203,Czechia,CZE,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9484,,,0
+H3,2009,2009,2009,2,0,2,Export,203,Czechia,CZE,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2000,,,0
+H3,2009,2009,2009,2,0,2,Export,203,Czechia,CZE,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3000,,,0
+H3,2009,2009,2009,2,0,2,Export,203,Czechia,CZE,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3237,,,0
+H3,2009,2009,2009,2,0,2,Export,203,Czechia,CZE,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,81,,,0
+H3,2009,2009,2009,2,0,1,Import,203,Czechia,CZE,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1306374,,,0
+H3,2009,2009,2009,2,0,2,Export,203,Czechia,CZE,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10413,,,0
+H3,2009,2009,2009,2,0,1,Import,203,Czechia,CZE,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14000,,,0
+H3,2009,2009,2009,2,0,2,Export,203,Czechia,CZE,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11227,,,0
+H3,2009,2009,2009,2,0,1,Import,203,Czechia,CZE,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,87318,,,0
+H2,2009,2009,2009,2,0,1,Import,204,Benin,BEN,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,298357,,,0
+H2,2009,2009,2009,2,0,1,Import,204,Benin,BEN,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,73045,,,0
+H2,2009,2009,2009,2,0,1,Import,204,Benin,BEN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3812,,,0
+H2,2009,2009,2009,2,0,1,Import,204,Benin,BEN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5612,,,0
+H3,2009,2009,2009,2,0,1,Import,208,Denmark,DNK,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,108,,,0
+H3,2009,2009,2009,2,0,2,Export,208,Denmark,DNK,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,271315,,,0
+H3,2009,2009,2009,2,0,1,Import,208,Denmark,DNK,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,175893,,,0
+H3,2009,2009,2009,2,0,2,Export,208,Denmark,DNK,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5663,,,0
+H3,2009,2009,2009,2,0,2,Export,208,Denmark,DNK,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34945,,,0
+H3,2009,2009,2009,2,0,2,Export,208,Denmark,DNK,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23212,,,0
+H3,2009,2009,2009,2,0,2,Export,208,Denmark,DNK,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,123254,,,0
+H3,2009,2009,2009,2,0,2,Export,208,Denmark,DNK,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1447,,,0
+H3,2009,2009,2009,2,0,1,Import,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,211222,,,0
+H3,2009,2009,2009,2,0,2,Export,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,13347,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,13347,,,0
+H3,2009,2009,2009,2,0,1,Import,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4276,,,0
+H3,2009,2009,2009,2,0,1,Import,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,37157,,,0
+H3,2009,2009,2009,2,0,2,Export,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,459,,,0
+H3,2009,2009,2009,2,0,1,Import,214,Dominican Rep.,DOM,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3418,,,0
+H3,2009,2009,2009,2,0,2,Export,214,Dominican Rep.,DOM,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17009,,,0
+H3,2009,2009,2009,2,0,1,Import,214,Dominican Rep.,DOM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,511398,,,0
+H3,2009,2009,2009,2,0,1,Import,214,Dominican Rep.,DOM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,153565,,,0
+H3,2009,2009,2009,2,0,1,Import,218,Ecuador,ECU,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,51151945,,,0
+H3,2009,2009,2009,2,0,2,Export,218,Ecuador,ECU,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,14603,,,0
+H3,2009,2009,2009,2,0,1,Import,218,Ecuador,ECU,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,459,,,0
+H3,2009,2009,2009,2,0,2,Export,218,Ecuador,ECU,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,353301,,,0
+H3,2009,2009,2009,2,0,2,Export,218,Ecuador,ECU,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,31172,,,0
+H3,2009,2009,2009,2,0,2,Export,222,El Salvador,SLV,660,Anguilla,AIA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,65120,,,0
+H3,2009,2009,2009,2,0,1,Import,222,El Salvador,SLV,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39422,,,0
+H3,2009,2009,2009,2,0,1,Import,222,El Salvador,SLV,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,657,,,0
+H3,2009,2009,2009,2,0,2,Export,222,El Salvador,SLV,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30811,,,0
+H3,2009,2009,2009,2,0,1,Import,222,El Salvador,SLV,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,74,,,0
+H3,2009,2009,2009,2,0,1,Import,222,El Salvador,SLV,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,252990,,,0
+H3,2009,2009,2009,2,0,2,Export,222,El Salvador,SLV,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1,,,0
+H3,2009,2009,2009,2,0,1,Import,231,Ethiopia,ETH,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,160,,,0
+H3,2009,2009,2009,2,0,1,Import,231,Ethiopia,ETH,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4433,,,0
+H3,2009,2009,2009,2,0,2,Export,233,Estonia,EST,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,50378602,,,0
+H3,2009,2009,2009,2,0,2,Export,233,Estonia,EST,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3575,,,0
+H3,2009,2009,2009,2,0,2,Export,233,Estonia,EST,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,267,,,0
+H3,2009,2009,2009,2,0,1,Import,234,Faeroe Isds,FRO,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,95,,,0
+H3,2009,2009,2009,2,0,1,Import,234,Faeroe Isds,FRO,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21,,,0
+H3,2009,2009,2009,2,0,1,Import,234,Faeroe Isds,FRO,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,188052,,,0
+H3,2009,2009,2009,2,0,1,Import,234,Faeroe Isds,FRO,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4351,,,0
+H3,2009,2009,2009,2,0,1,Import,242,Fiji,FJI,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,894015,,,0
+H3,2009,2009,2009,2,0,2,Export,242,Fiji,FJI,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,22913518,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,242,Fiji,FJI,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,22913518,,,0
+H3,2009,2009,2009,2,0,1,Import,242,Fiji,FJI,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,238,,,0
+H3,2009,2009,2009,2,0,1,Import,246,Finland,FIN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16960,,,0
+H3,2009,2009,2009,2,0,2,Export,246,Finland,FIN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,349,,,0
+H3,2009,2009,2009,2,0,2,Export,246,Finland,FIN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,298210,,,0
+H3,2009,2009,2009,2,0,2,Export,246,Finland,FIN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19232,,,0
+H3,2009,2009,2009,2,0,2,Export,251,France,FRA,10,Antarctica,ATA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,29176,,,0
+H3,2009,2009,2009,2,0,1,Import,251,France,FRA,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,38863,,,0
+H3,2009,2009,2009,2,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,59770152,,,0
+H3,2009,2009,2009,2,0,1,Import,251,France,FRA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3268081693,,,0
+H3,2009,2009,2009,2,0,2,Export,251,France,FRA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,12581727,,,0
+H3,2009,2009,2009,2,0,1,Import,251,France,FRA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,30040937,,,0
+H3,2009,2009,2009,2,0,1,Import,251,France,FRA,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5552,,,0
+H3,2009,2009,2009,2,0,2,Export,251,France,FRA,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2960652,,,0
+H3,2009,2009,2009,2,0,1,Import,251,France,FRA,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4341529,,,0
+H3,2009,2009,2009,2,0,2,Export,251,France,FRA,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6947,,,0
+H3,2009,2009,2009,2,0,1,Import,251,France,FRA,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,81889,,,0
+H3,2009,2009,2009,2,0,2,Export,251,France,FRA,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6947,,,0
+H3,2009,2009,2009,2,0,1,Import,251,France,FRA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4749588,,,0
+H3,2009,2009,2009,2,0,2,Export,251,France,FRA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,652983,,,0
+H3,2009,2009,2009,2,0,1,Import,251,France,FRA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,31923,,,0
+H3,2009,2009,2009,2,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3538611,,,0
+H3,2009,2009,2009,2,0,2,Export,251,France,FRA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,162941429,,,0
+H3,2009,2009,2009,2,0,2,Export,251,France,FRA,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,134765,,,0
+H3,2009,2009,2009,2,0,1,Import,251,France,FRA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,59682,,,0
+H3,2009,2009,2009,2,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2086766,,,0
+H3,2009,2009,2009,2,0,1,Import,251,France,FRA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1388,,,0
+H3,2009,2009,2009,2,0,2,Export,251,France,FRA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11821767,,,0
+H3,2009,2009,2009,2,0,1,Import,258,French Polynesia,PYF,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1460,,,0
+H3,2009,2009,2009,2,0,2,Export,262,Djibouti,DJI,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10210,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,262,Djibouti,DJI,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10210,,,0
+H3,2009,2009,2009,2,0,1,Import,262,Djibouti,DJI,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10355,,,0
+H3,2009,2009,2009,2,0,2,Export,262,Djibouti,DJI,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8329,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,262,Djibouti,DJI,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8329,,,0
+H3,2009,2009,2009,2,0,1,Import,262,Djibouti,DJI,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,36548,,,0
+H2,2009,2009,2009,2,0,1,Import,266,Gabon,GAB,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,84,,,0
+H2,2009,2009,2009,2,0,1,Import,266,Gabon,GAB,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,860,,,0
+H2,2009,2009,2009,2,0,2,Export,266,Gabon,GAB,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,65458,,,0
+H2,2009,2009,2009,2,0,1,Import,266,Gabon,GAB,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6908,,,0
+H2,2009,2009,2009,2,0,2,Export,266,Gabon,GAB,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11062,,,0
+H3,2009,2009,2009,2,0,1,Import,268,Georgia,GEO,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,196544749,,,0
+H3,2009,2009,2009,2,0,2,Export,268,Georgia,GEO,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,20077008,,,0
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1453,,,4
+H3,2009,2009,2009,2,0,1,Import,276,Germany,DEU,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,341080658,,,0
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,163224,,,4
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,660,Anguilla,AIA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,428,,,0
+H3,2009,2009,2009,2,0,1,Import,276,Germany,DEU,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,202169765,,,0
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,154843800,,,0
+H3,2009,2009,2009,2,0,1,Import,276,Germany,DEU,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,394,,,0
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,86,,,4
+H3,2009,2009,2009,2,0,1,Import,276,Germany,DEU,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,7203021,,,0
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,10336946,,,4
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,31875,,,0
+H3,2009,2009,2009,2,0,1,Import,276,Germany,DEU,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14431644,,,4
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,37409611,,,4
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14177,,,4
+H3,2009,2009,2009,2,0,1,Import,276,Germany,DEU,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1318,,,0
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1491719,,,4
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,427036,,,0
+H3,2009,2009,2009,2,0,1,Import,276,Germany,DEU,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16,,,4
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,500514,,,4
+H3,2009,2009,2009,2,0,1,Import,276,Germany,DEU,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2683,,,4
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3614909,,,4
+H3,2009,2009,2009,2,0,1,Import,276,Germany,DEU,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,731217,,,0
+H2,2009,2009,2009,2,0,1,Import,288,Ghana,GHA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,840,,,0
+H2,2009,2009,2009,2,0,1,Import,288,Ghana,GHA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,55327,,,0
+H2,2009,2009,2009,2,0,1,Import,288,Ghana,GHA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6636,,,0
+H2,2009,2009,2009,2,0,1,Import,288,Ghana,GHA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5298,,,0
+H2,2009,2009,2009,2,0,2,Export,288,Ghana,GHA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,208966,,,0
+H2,2009,2009,2009,2,0,1,Import,288,Ghana,GHA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,110367,,,0
+H2,2009,2009,2009,2,0,1,Import,288,Ghana,GHA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2362,,,0
+H2,2009,2009,2009,2,0,1,Import,288,Ghana,GHA,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,312,,,0
+H2,2009,2009,2009,2,0,1,Import,288,Ghana,GHA,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,382211,,,0
+H3,2009,2009,2009,2,0,2,Export,300,Greece,GRC,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,11393,,,0
+H3,2009,2009,2009,2,0,2,Export,300,Greece,GRC,660,Anguilla,AIA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,743695,,,0
+H3,2009,2009,2009,2,0,1,Import,300,Greece,GRC,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,805800281,,,0
+H3,2009,2009,2009,2,0,2,Export,300,Greece,GRC,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,767373,,,0
+H3,2009,2009,2009,2,0,2,Export,300,Greece,GRC,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,225277,,,0
+H3,2009,2009,2009,2,0,1,Import,300,Greece,GRC,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6577368,,,0
+H3,2009,2009,2009,2,0,1,Import,300,Greece,GRC,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,836,,,0
+H3,2009,2009,2009,2,0,1,Import,304,Greenland,GRL,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,98,,,0
+H3,2009,2009,2009,2,0,1,Import,304,Greenland,GRL,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,11,,,0
+H3,2009,2009,2009,2,0,1,Import,304,Greenland,GRL,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,88,,,0
+H3,2009,2009,2009,2,0,1,Import,320,Guatemala,GTM,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,808,,,0
+H3,2009,2009,2009,2,0,1,Import,320,Guatemala,GTM,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18028,,,0
+H3,2009,2009,2009,2,0,1,Import,320,Guatemala,GTM,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,542,,,0
+H3,2009,2009,2009,2,0,1,Import,320,Guatemala,GTM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5655585,,,0
+H3,2009,2009,2009,2,0,2,Export,320,Guatemala,GTM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3026308,,,0
+H3,2009,2009,2009,2,0,1,Import,320,Guatemala,GTM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9563,,,0
+H3,2009,2009,2009,2,0,1,Import,340,Honduras,HND,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,911346,,,0
+H3,2009,2009,2009,2,0,1,Import,340,Honduras,HND,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,48388,,,0
+H3,2009,2009,2009,2,0,1,Import,340,Honduras,HND,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2553,,,0
+H3,2009,2009,2009,2,0,2,Export,340,Honduras,HND,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,425320,,,0
+H3,2009,2009,2009,2,0,1,Import,340,Honduras,HND,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,59750,,,0
+H3,2009,2009,2009,2,0,2,Export,340,Honduras,HND,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11,,,0
+H3,2009,2009,2009,2,0,2,Export,344,"China, Hong Kong SAR",HKG,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,46351,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,46351,,,0
+H3,2009,2009,2009,2,0,2,Export,344,"China, Hong Kong SAR",HKG,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,21930,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,21930,,,0
+H3,2009,2009,2009,2,0,1,Import,344,"China, Hong Kong SAR",HKG,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21723,,,0
+H3,2009,2009,2009,2,0,2,Export,344,"China, Hong Kong SAR",HKG,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,92539,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,92539,,,0
+H3,2009,2009,2009,2,0,2,Export,344,"China, Hong Kong SAR",HKG,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,247903,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,247903,,,0
+H3,2009,2009,2009,2,0,2,Export,348,Hungary,HUN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,169000,,,0
+H1,2009,2009,2009,2,0,1,Import,360,Indonesia,IDN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,327,,,0
+H1,2009,2009,2009,2,0,2,Export,360,Indonesia,IDN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,45924,,,0
+H1,2009,2009,2009,2,0,2,Export,360,Indonesia,IDN,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13456,,,0
+H1,2009,2009,2009,2,0,1,Import,360,Indonesia,IDN,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,132,,,0
+H1,2009,2009,2009,2,0,2,Export,360,Indonesia,IDN,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,105840,,,0
+H1,2009,2009,2009,2,0,2,Export,360,Indonesia,IDN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,215,,,0
+H3,2009,2009,2009,2,0,1,Import,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2197318,,,0
+H3,2009,2009,2009,2,0,1,Import,372,Ireland,IRL,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,40039,,,0
+H3,2009,2009,2009,2,0,2,Export,372,Ireland,IRL,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1613,,,0
+H3,2009,2009,2009,2,0,2,Export,372,Ireland,IRL,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17007,,,0
+H3,2009,2009,2009,2,0,1,Import,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11160375,,,0
+H3,2009,2009,2009,2,0,2,Export,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,308747,,,0
+H3,2009,2009,2009,2,0,2,Export,372,Ireland,IRL,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,924,,,0
+H3,2009,2009,2009,2,0,1,Import,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2675496,,,0
+H3,2009,2009,2009,2,0,2,Export,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1559,,,0
+H3,2009,2009,2009,2,0,1,Import,376,Israel,ISR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6186409000,,,0
+H3,2009,2009,2009,2,0,2,Export,376,Israel,ISR,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1289000,,,0
+H3,2009,2009,2009,2,0,1,Import,376,Israel,ISR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,440000,,,0
+H3,2009,2009,2009,2,0,2,Export,376,Israel,ISR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2532000,,,0
+H3,2009,2009,2009,2,0,1,Import,376,Israel,ISR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1000,,,0
+H3,2009,2009,2009,2,0,2,Export,376,Israel,ISR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,349000,,,0
+H3,2009,2009,2009,2,0,1,Import,376,Israel,ISR,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,85000,,,0
+H3,2009,2009,2009,2,0,1,Import,381,Italy,ITA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,20444777,,,0
+H3,2009,2009,2009,2,0,2,Export,381,Italy,ITA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,41449328,,,0
+H3,2009,2009,2009,2,0,1,Import,381,Italy,ITA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,24095100,,,0
+H3,2009,2009,2009,2,0,2,Export,381,Italy,ITA,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1534272,,,0
+H3,2009,2009,2009,2,0,2,Export,381,Italy,ITA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3416959,,,0
+H3,2009,2009,2009,2,0,1,Import,381,Italy,ITA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,214667,,,0
+H3,2009,2009,2009,2,0,2,Export,381,Italy,ITA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1635637,,,0
+H3,2009,2009,2009,2,0,2,Export,381,Italy,ITA,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10158134,,,0
+H3,2009,2009,2009,2,0,1,Import,381,Italy,ITA,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11093,,,0
+H3,2009,2009,2009,2,0,2,Export,381,Italy,ITA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2398,,,0
+H3,2009,2009,2009,2,0,1,Import,381,Italy,ITA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,80016,,,0
+H3,2009,2009,2009,2,0,2,Export,381,Italy,ITA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1208693,,,0
+H3,2009,2009,2009,2,0,1,Import,381,Italy,ITA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,307176,,,0
+H3,2009,2009,2009,2,0,2,Export,384,Côte d'Ivoire,CIV,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,26454605,,,0
+H3,2009,2009,2009,2,0,1,Import,384,Côte d'Ivoire,CIV,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2768626,,,0
+H3,2009,2009,2009,2,0,2,Export,384,Côte d'Ivoire,CIV,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,136812650,,,0
+H3,2009,2009,2009,2,0,2,Export,384,Côte d'Ivoire,CIV,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1620704,,,0
+H3,2009,2009,2009,2,0,1,Import,384,Côte d'Ivoire,CIV,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,46547035,,,4
+H3,2009,2009,2009,2,0,2,Export,384,Côte d'Ivoire,CIV,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,337344,,,0
+H3,2009,2009,2009,2,0,1,Import,384,Côte d'Ivoire,CIV,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5928766,,,4
+H3,2009,2009,2009,2,0,2,Export,384,Côte d'Ivoire,CIV,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,15651588,,,0
+H3,2009,2009,2009,2,0,1,Import,388,Jamaica,JAM,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,21870,,,0
+H3,2009,2009,2009,2,0,1,Import,388,Jamaica,JAM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3411,,,0
+H3,2009,2009,2009,2,0,2,Export,388,Jamaica,JAM,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,68,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,388,Jamaica,JAM,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,68,,,0
+H3,2009,2009,2009,2,0,1,Import,388,Jamaica,JAM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7374,,,0
+H3,2009,2009,2009,2,0,1,Import,392,Japan,JPN,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,23584075,,,0
+H3,2009,2009,2009,2,0,2,Export,392,Japan,JPN,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,85697,,,0
+H3,2009,2009,2009,2,0,1,Import,392,Japan,JPN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,11105724,,,0
+H3,2009,2009,2009,2,0,2,Export,392,Japan,JPN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15362,,,0
+H3,2009,2009,2009,2,0,2,Export,392,Japan,JPN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,196254,,,0
+H3,2009,2009,2009,2,0,2,Export,392,Japan,JPN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,678555,,,0
+H3,2009,2009,2009,2,0,1,Import,398,Kazakhstan,KAZ,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,390,,,0
+H3,2009,2009,2009,2,0,1,Import,398,Kazakhstan,KAZ,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,648,,,0
+H3,2009,2009,2009,2,0,1,Import,398,Kazakhstan,KAZ,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,138,,,0
+H3,2009,2009,2009,2,0,1,Import,398,Kazakhstan,KAZ,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16,,,0
+H3,2009,2009,2009,2,0,2,Export,398,Kazakhstan,KAZ,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,451,,,0
+H3,2009,2009,2009,2,0,1,Import,404,Kenya,KEN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,834610,,,0
+H3,2009,2009,2009,2,0,2,Export,404,Kenya,KEN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,134404,,,0
+H3,2009,2009,2009,2,0,2,Export,404,Kenya,KEN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5876,,,0
+H3,2009,2009,2009,2,0,2,Export,404,Kenya,KEN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,178440,,,0
+H3,2009,2009,2009,2,0,1,Import,404,Kenya,KEN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2098,,,0
+H3,2009,2009,2009,2,0,1,Import,410,Rep. of Korea,KOR,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,102616432,,,0
+H3,2009,2009,2009,2,0,2,Export,410,Rep. of Korea,KOR,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,37208433,,,0
+H3,2009,2009,2009,2,0,1,Import,410,Rep. of Korea,KOR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,32059272,,,0
+H3,2009,2009,2009,2,0,2,Export,410,Rep. of Korea,KOR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,19909516,,,0
+H3,2009,2009,2009,2,0,1,Import,410,Rep. of Korea,KOR,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6960,,,0
+H3,2009,2009,2009,2,0,2,Export,410,Rep. of Korea,KOR,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5255,,,0
+H3,2009,2009,2009,2,0,1,Import,410,Rep. of Korea,KOR,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8128,,,0
+H3,2009,2009,2009,2,0,2,Export,410,Rep. of Korea,KOR,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,142964,,,0
+H3,2009,2009,2009,2,0,2,Export,410,Rep. of Korea,KOR,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26295785,,,0
+H3,2009,2009,2009,2,0,1,Import,410,Rep. of Korea,KOR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,36527,,,0
+H3,2009,2009,2009,2,0,2,Export,410,Rep. of Korea,KOR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,415101,,,0
+H3,2009,2009,2009,2,0,1,Import,410,Rep. of Korea,KOR,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3097,,,0
+H3,2009,2009,2009,2,0,1,Import,410,Rep. of Korea,KOR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17192,,,0
+H3,2009,2009,2009,2,0,2,Export,410,Rep. of Korea,KOR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4766633,,,0
+H2,2009,2009,2009,2,0,2,Export,414,Kuwait,KWT,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,46873192031,,,0
+H3,2009,2009,2009,2,0,2,Export,422,Lebanon,LBN,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,26723,,,0
+H3,2009,2009,2009,2,0,2,Export,422,Lebanon,LBN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,41711,,,0
+H3,2009,2009,2009,2,0,2,Export,422,Lebanon,LBN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5222179,,,0
+H3,2009,2009,2009,2,0,2,Export,422,Lebanon,LBN,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,183775,,,0
+H3,2009,2009,2009,2,0,1,Import,422,Lebanon,LBN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,356000,,,0
+H3,2009,2009,2009,2,0,2,Export,422,Lebanon,LBN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1080855,,,0
+H3,2009,2009,2009,2,0,1,Import,422,Lebanon,LBN,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38070,,,0
+H3,2009,2009,2009,2,0,2,Export,422,Lebanon,LBN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,277632,,,0
+H3,2009,2009,2009,2,0,2,Export,422,Lebanon,LBN,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,480,,,0
+H3,2009,2009,2009,2,0,1,Import,422,Lebanon,LBN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2815,,,0
+H3,2009,2009,2009,2,0,2,Export,428,Latvia,LVA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,28535,,,0
+H3,2009,2009,2009,2,0,2,Export,428,Latvia,LVA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12140,,,0
+H3,2009,2009,2009,2,0,2,Export,428,Latvia,LVA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,524,,,0
+H3,2009,2009,2009,2,0,2,Export,428,Latvia,LVA,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2425,,,0
+H3,2009,2009,2009,2,0,1,Import,442,Luxembourg,LUX,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,222,,,0
+H3,2009,2009,2009,2,0,1,Import,442,Luxembourg,LUX,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4334,,,0
+H3,2009,2009,2009,2,0,2,Export,442,Luxembourg,LUX,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3218,,,0
+H3,2009,2009,2009,2,0,2,Export,442,Luxembourg,LUX,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,38141,,,0
+H3,2009,2009,2009,2,0,1,Import,442,Luxembourg,LUX,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,641616,,,0
+H3,2009,2009,2009,2,0,2,Export,442,Luxembourg,LUX,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1493,,,0
+H3,2009,2009,2009,2,0,4,Re-Import,442,Luxembourg,LUX,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,102885,,,0
+H3,2009,2009,2009,2,0,2,Export,442,Luxembourg,LUX,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,80220,,,0
+H3,2009,2009,2009,2,0,1,Import,442,Luxembourg,LUX,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,681504,,,0
+H3,2009,2009,2009,2,0,2,Export,442,Luxembourg,LUX,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,63626,,,0
+H3,2009,2009,2009,2,0,4,Re-Import,442,Luxembourg,LUX,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14283,,,0
+H3,2009,2009,2009,2,0,2,Export,446,"China, Macao SAR",MAC,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,87370359,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,446,"China, Macao SAR",MAC,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,87370359,,,0
+H3,2009,2009,2009,2,0,1,Import,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,913418,,,0
+H3,2009,2009,2009,2,0,2,Export,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,11044819,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,59231,,,0
+H3,2009,2009,2009,2,0,1,Import,450,Madagascar,MDG,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5699,,,0
+H3,2009,2009,2009,2,0,1,Import,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,792738,,,0
+H3,2009,2009,2009,2,0,2,Export,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2549006,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,861346,,,0
+H3,2009,2009,2009,2,0,1,Import,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,96783,,,0
+H3,2009,2009,2009,2,0,2,Export,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43039,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,37837,,,0
+H3,2009,2009,2009,2,0,1,Import,454,Malawi,MWI,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,18780,,,0
+H3,2009,2009,2009,2,0,2,Export,458,Malaysia,MYS,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1519,,,0
+H3,2009,2009,2009,2,0,1,Import,458,Malaysia,MYS,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,21276888,,,0
+H3,2009,2009,2009,2,0,1,Import,458,Malaysia,MYS,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,61225,,,0
+H3,2009,2009,2009,2,0,2,Export,458,Malaysia,MYS,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7440695,,,0
+H3,2009,2009,2009,2,0,1,Import,458,Malaysia,MYS,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8896087,,,0
+H3,2009,2009,2009,2,0,2,Export,458,Malaysia,MYS,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1691424,,,0
+H3,2009,2009,2009,2,0,2,Export,458,Malaysia,MYS,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,536483,,,0
+H3,2009,2009,2009,2,0,1,Import,458,Malaysia,MYS,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2484574,,,0
+H3,2009,2009,2009,2,0,2,Export,458,Malaysia,MYS,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6517204,,,0
+H3,2009,2009,2009,2,0,1,Import,470,Malta,MLT,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,745,,,0
+H3,2009,2009,2009,2,0,2,Export,470,Malta,MLT,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2588,,,0
+H3,2009,2009,2009,2,0,1,Import,470,Malta,MLT,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,107012,,,0
+H3,2009,2009,2009,2,0,1,Import,470,Malta,MLT,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2451,,,0
+H1,2009,2009,2009,2,0,1,Import,478,Mauritania,MRT,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,57541043,,,0
+H1,2009,2009,2009,2,0,2,Export,478,Mauritania,MRT,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,217912871,,,0
+H1,2009,2009,2009,2,0,1,Import,478,Mauritania,MRT,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,508419,,,0
+H1,2009,2009,2009,2,0,1,Import,478,Mauritania,MRT,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3772840,,,0
+H3,2009,2009,2009,2,0,1,Import,480,Mauritius,MUS,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38,,,0
+H3,2009,2009,2009,2,0,1,Import,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,40321,,,0
+H3,2009,2009,2009,2,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,78573,,,0
+H3,2009,2009,2009,2,0,1,Import,484,Mexico,MEX,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,118905,,,0
+H3,2009,2009,2009,2,0,1,Import,484,Mexico,MEX,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3496,,,0
+H3,2009,2009,2009,2,0,2,Export,484,Mexico,MEX,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,53637,,,0
+H3,2009,2009,2009,2,0,1,Import,484,Mexico,MEX,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1,,,0
+H3,2009,2009,2009,2,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4143,,,0
+H3,2009,2009,2009,2,0,1,Import,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2171032,,,0
+H3,2009,2009,2009,2,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,75638,,,0
+H3,2009,2009,2009,2,0,1,Import,484,Mexico,MEX,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,160,,,0
+H3,2009,2009,2009,2,0,1,Import,484,Mexico,MEX,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,251,,,0
+H3,2009,2009,2009,2,0,2,Export,484,Mexico,MEX,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3758,,,0
+H3,2009,2009,2009,2,0,1,Import,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,535075,,,0
+H3,2009,2009,2009,2,0,1,Import,490,"Other Asia, nes",,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1058140253,,,0
+H3,2009,2009,2009,2,0,1,Import,490,"Other Asia, nes",,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1305,,,0
+H3,2009,2009,2009,2,0,2,Export,490,"Other Asia, nes",,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1687044312,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,490,"Other Asia, nes",,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,18241288,,,0
+H3,2009,2009,2009,2,0,2,Export,490,"Other Asia, nes",,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9099,,,0
+H3,2009,2009,2009,2,0,2,Export,490,"Other Asia, nes",,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,442135,,,0
+H3,2009,2009,2009,2,0,2,Export,490,"Other Asia, nes",,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,182,,,0
+H3,2009,2009,2009,2,0,2,Export,490,"Other Asia, nes",,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3094,,,0
+H3,2009,2009,2009,2,0,1,Import,490,"Other Asia, nes",,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18641133,,,0
+H3,2009,2009,2009,2,0,2,Export,490,"Other Asia, nes",,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,178134,,,0
+H3,2009,2009,2009,2,0,2,Export,490,"Other Asia, nes",,10,Antarctica,ATA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20837,,,0
+H3,2009,2009,2009,2,0,2,Export,490,"Other Asia, nes",,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,92176,,,0
+H3,2009,2009,2009,2,0,1,Import,490,"Other Asia, nes",,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,471957,,,0
+H3,2009,2009,2009,2,0,1,Import,498,Rep. of Moldova,MDA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,14333,,,0
+H3,2009,2009,2009,2,0,4,Re-Import,498,Rep. of Moldova,MDA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,14333,,,0
+H3,2009,2009,2009,2,0,1,Import,498,Rep. of Moldova,MDA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,645,,,0
+H3,2009,2009,2009,2,0,1,Import,498,Rep. of Moldova,MDA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20938,,,0
+H3,2009,2009,2009,2,0,4,Re-Import,498,Rep. of Moldova,MDA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20938,,,0
+H3,2009,2009,2009,2,0,1,Import,499,Montenegro,MNE,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,218077,,,0
+H3,2009,2009,2009,2,0,1,Import,499,Montenegro,MNE,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3169098,,,0
+H3,2009,2009,2009,2,0,2,Export,499,Montenegro,MNE,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5032,,,0
+H3,2009,2009,2009,2,0,1,Import,499,Montenegro,MNE,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5058033,,,0
+H2,2009,2009,2009,2,0,2,Export,504,Morocco,MAR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,54933,,,0
+H2,2009,2009,2009,2,0,2,Export,504,Morocco,MAR,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7215,,,0
+H2,2009,2009,2009,2,0,1,Import,504,Morocco,MAR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5730,,,0
+H2,2009,2009,2009,2,0,2,Export,504,Morocco,MAR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,79971,,,0
+H2,2009,2009,2009,2,0,2,Export,504,Morocco,MAR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1700,,,0
+H2,2009,2009,2009,2,0,1,Import,504,Morocco,MAR,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,311,,,0
+H2,2009,2009,2009,2,0,1,Import,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,16916,,,0
+H2,2009,2009,2009,2,0,2,Export,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2421505,,,0
+H2,2009,2009,2009,2,0,1,Import,508,Mozambique,MOZ,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2302,,,0
+H2,2009,2009,2009,2,0,2,Export,508,Mozambique,MOZ,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24111,,,0
+H2,2009,2009,2009,2,0,1,Import,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9014,,,0
+H2,2009,2009,2009,2,0,2,Export,508,Mozambique,MOZ,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1506,,,0
+H2,2009,2009,2009,2,0,1,Import,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,39268,,,0
+H2,2009,2009,2009,2,0,2,Export,512,Oman,OMN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3416396782,,,0
+H2,2009,2009,2009,2,0,2,Export,512,Oman,OMN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,151626,,,0
+H3,2009,2009,2009,2,0,2,Export,516,Namibia,NAM,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,54783,,,0
+H3,2009,2009,2009,2,0,1,Import,516,Namibia,NAM,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,7581882,,,0
+H3,2009,2009,2009,2,0,2,Export,516,Namibia,NAM,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6599798,,,0
+H3,2009,2009,2009,2,0,2,Export,516,Namibia,NAM,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,9296447,,,0
+H3,2009,2009,2009,2,0,1,Import,516,Namibia,NAM,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2305,,,0
+H3,2009,2009,2009,2,0,2,Export,516,Namibia,NAM,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16357266,,,0
+H3,2009,2009,2009,2,0,2,Export,516,Namibia,NAM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,118279,,,0
+H3,2009,2009,2009,2,0,2,Export,516,Namibia,NAM,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39,,,0
+H3,2009,2009,2009,2,0,1,Import,516,Namibia,NAM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,708,,,0
+H3,2009,2009,2009,2,0,2,Export,516,Namibia,NAM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27224,,,0
+H3,2009,2009,2009,2,0,2,Export,516,Namibia,NAM,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8003,,,0
+H3,2009,2009,2009,2,0,2,Export,516,Namibia,NAM,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9021242,,,0
+H3,2009,2009,2009,2,0,1,Import,516,Namibia,NAM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18715,,,0
+H3,2009,2009,2009,2,0,1,Import,524,Nepal,NPL,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1964,,,0
+H3,2009,2009,2009,2,0,2,Export,528,Netherlands,NLD,10,Antarctica,ATA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8372,,,0
+H3,2009,2009,2009,2,0,1,Import,528,Netherlands,NLD,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,645827724,,,0
+H3,2009,2009,2009,2,0,2,Export,528,Netherlands,NLD,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,18490283,,,0
+H3,2009,2009,2009,2,0,1,Import,528,Netherlands,NLD,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,99241049,,,0
+H3,2009,2009,2009,2,0,2,Export,528,Netherlands,NLD,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,13817482,,,0
+H3,2009,2009,2009,2,0,1,Import,528,Netherlands,NLD,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1395,,,0
+H3,2009,2009,2009,2,0,2,Export,528,Netherlands,NLD,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2550576,,,0
+H3,2009,2009,2009,2,0,1,Import,528,Netherlands,NLD,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29292,,,0
+H3,2009,2009,2009,2,0,2,Export,528,Netherlands,NLD,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,149295,,,0
+H3,2009,2009,2009,2,0,2,Export,528,Netherlands,NLD,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5917393,,,0
+H3,2009,2009,2009,2,0,1,Import,528,Netherlands,NLD,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,224575,,,0
+H3,2009,2009,2009,2,0,2,Export,528,Netherlands,NLD,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,154876,,,0
+H3,2009,2009,2009,2,0,1,Import,528,Netherlands,NLD,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8369,,,0
+H3,2009,2009,2009,2,0,2,Export,528,Netherlands,NLD,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5581,,,0
+H3,2009,2009,2009,2,0,1,Import,533,Aruba,ABW,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,14105713,,,0
+H3,2009,2009,2009,2,0,2,Export,533,Aruba,ABW,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1426,,,0
+H3,2009,2009,2009,2,0,1,Import,533,Aruba,ABW,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1141388,,,0
+H3,2009,2009,2009,2,0,2,Export,533,Aruba,ABW,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43677,,,0
+H3,2009,2009,2009,2,0,1,Import,533,Aruba,ABW,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,147823,,,0
+H3,2009,2009,2009,2,0,2,Export,533,Aruba,ABW,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,103120,,,0
+H3,2009,2009,2009,2,0,1,Import,540,New Caledonia,NCL,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3432,,,0
+H3,2009,2009,2009,2,0,1,Import,540,New Caledonia,NCL,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,65421,,,0
+H3,2009,2009,2009,2,0,2,Export,540,New Caledonia,NCL,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2089,,,0
+H3,2009,2009,2009,2,0,1,Import,540,New Caledonia,NCL,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,84088,,,0
+H3,2009,2009,2009,2,0,1,Import,554,New Zealand,NZL,660,Anguilla,AIA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4015,,,0
+H3,2009,2009,2009,2,0,1,Import,554,New Zealand,NZL,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,73034,,,0
+H3,2009,2009,2009,2,0,1,Import,554,New Zealand,NZL,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6,,,0
+H3,2009,2009,2009,2,0,1,Import,554,New Zealand,NZL,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1381216,,,0
+H3,2009,2009,2009,2,0,1,Import,554,New Zealand,NZL,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,182760,,,0
+H3,2009,2009,2009,2,0,2,Export,558,Nicaragua,NIC,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,80,,,0
+H3,2009,2009,2009,2,0,1,Import,562,Niger,NER,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4065167,,,0
+H3,2009,2009,2009,2,0,1,Import,562,Niger,NER,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,47,,,0
+H3,2009,2009,2009,2,0,1,Import,562,Niger,NER,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,230806,,,0
+H3,2009,2009,2009,2,0,1,Import,562,Niger,NER,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,39948,,,0
+H3,2009,2009,2009,2,0,1,Import,566,Nigeria,NGA,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4054203,,,0
+H3,2009,2009,2009,2,0,2,Export,566,Nigeria,NGA,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,95741165,,,0
+H3,2009,2009,2009,2,0,1,Import,566,Nigeria,NGA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,65909,,,0
+H3,2009,2009,2009,2,0,2,Export,566,Nigeria,NGA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,210986827,,,0
+H3,2009,2009,2009,2,0,1,Import,566,Nigeria,NGA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,156458,,,0
+H3,2009,2009,2009,2,0,2,Export,566,Nigeria,NGA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1531720,,,0
+H3,2009,2009,2009,2,0,1,Import,566,Nigeria,NGA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5848579,,,0
+H3,2009,2009,2009,2,0,2,Export,566,Nigeria,NGA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,849784,,,0
+H3,2009,2009,2009,2,0,1,Import,566,Nigeria,NGA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,221301,,,0
+H3,2009,2009,2009,2,0,2,Export,566,Nigeria,NGA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,86269,,,0
+H3,2009,2009,2009,2,0,1,Import,566,Nigeria,NGA,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,81084,,,0
+H3,2009,2009,2009,2,0,2,Export,566,Nigeria,NGA,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,609591,,,0
+H3,2009,2009,2009,2,0,1,Import,579,Norway,NOR,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,62900158,,,0
+H3,2009,2009,2009,2,0,2,Export,579,Norway,NOR,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,35828,,,0
+H3,2009,2009,2009,2,0,1,Import,579,Norway,NOR,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1934,,,0
+H3,2009,2009,2009,2,0,2,Export,579,Norway,NOR,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1965539,,,0
+H3,2009,2009,2009,2,0,1,Import,579,Norway,NOR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4576,,,0
+H3,2009,2009,2009,2,0,2,Export,579,Norway,NOR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,459841,,,0
+H3,2009,2009,2009,2,0,1,Import,586,Pakistan,PAK,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,238,,,0
+H3,2009,2009,2009,2,0,2,Export,586,Pakistan,PAK,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8096,,,0
+H3,2009,2009,2009,2,0,2,Export,591,Panama,PAN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,149054,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,591,Panama,PAN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,149054,,,0
+H3,2009,2009,2009,2,0,2,Export,591,Panama,PAN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3607,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,591,Panama,PAN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3607,,,0
+H3,2009,2009,2009,2,0,2,Export,591,Panama,PAN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,197309,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,591,Panama,PAN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,197309,,,0
+H3,2009,2009,2009,2,0,2,Export,591,Panama,PAN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24044,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,591,Panama,PAN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24044,,,0
+H3,2009,2009,2009,2,0,2,Export,591,Panama,PAN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,247650,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,591,Panama,PAN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,247650,,,0
+H3,2009,2009,2009,2,0,2,Export,600,Paraguay,PRY,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4324,,,0
+H3,2009,2009,2009,2,0,2,Export,600,Paraguay,PRY,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16200,,,0
+H3,2009,2009,2009,2,0,1,Import,600,Paraguay,PRY,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,131377,,,0
+H3,2009,2009,2009,2,0,2,Export,600,Paraguay,PRY,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,206205,,,0
+H3,2009,2009,2009,2,0,1,Import,604,Peru,PER,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,220530963,,,0
+H3,2009,2009,2009,2,0,1,Import,604,Peru,PER,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3136,,,0
+H3,2009,2009,2009,2,0,2,Export,604,Peru,PER,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,118034831,,,0
+H3,2009,2009,2009,2,0,2,Export,604,Peru,PER,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,690,,,0
+H3,2009,2009,2009,2,0,2,Export,604,Peru,PER,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13702,,,0
+H2,2009,2009,2009,2,0,2,Export,608,Philippines,PHL,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,314,,,0
+H3,2009,2009,2009,2,0,2,Export,616,Poland,POL,10,Antarctica,ATA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,12215,,,0
+H3,2009,2009,2009,2,0,1,Import,616,Poland,POL,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,223155,,,0
+H3,2009,2009,2009,2,0,2,Export,616,Poland,POL,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,20608189,,,0
+H3,2009,2009,2009,2,0,2,Export,616,Poland,POL,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6653,,,0
+H3,2009,2009,2009,2,0,1,Import,616,Poland,POL,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7954,,,0
+H3,2009,2009,2009,2,0,2,Export,616,Poland,POL,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,701174,,,0
+H3,2009,2009,2009,2,0,2,Export,616,Poland,POL,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6601,,,0
+H3,2009,2009,2009,2,0,1,Import,616,Poland,POL,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2836628,,,0
+H3,2009,2009,2009,2,0,2,Export,616,Poland,POL,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,164509,,,0
+H3,2009,2009,2009,2,0,2,Export,616,Poland,POL,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,417560,,,0
+H3,2009,2009,2009,2,0,2,Export,616,Poland,POL,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33380,,,0
+H3,2009,2009,2009,2,0,1,Import,616,Poland,POL,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13929418,,,0
+H3,2009,2009,2009,2,0,2,Export,616,Poland,POL,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,365237,,,0
+H3,2009,2009,2009,2,0,2,Export,616,Poland,POL,10,Antarctica,ATA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4280,,,0
+H3,2009,2009,2009,2,0,1,Import,616,Poland,POL,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,118,,,0
+H3,2009,2009,2009,2,0,1,Import,620,Portugal,PRT,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,207763991,,,0
+H3,2009,2009,2009,2,0,2,Export,620,Portugal,PRT,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,18824320,,,0
+H3,2009,2009,2009,2,0,1,Import,620,Portugal,PRT,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,14307950,,,0
+H3,2009,2009,2009,2,0,2,Export,620,Portugal,PRT,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,121181081,,,0
+H3,2009,2009,2009,2,0,2,Export,620,Portugal,PRT,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5300,,,0
+H3,2009,2009,2009,2,0,1,Import,620,Portugal,PRT,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4259,,,0
+H3,2009,2009,2009,2,0,2,Export,620,Portugal,PRT,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,97077460,,,0
+H3,2009,2009,2009,2,0,1,Import,620,Portugal,PRT,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12739,,,0
+H3,2009,2009,2009,2,0,2,Export,620,Portugal,PRT,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8234,,,0
+H3,2009,2009,2009,2,0,1,Import,620,Portugal,PRT,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10,,,0
+H3,2009,2009,2009,2,0,2,Export,620,Portugal,PRT,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,21052812,,,0
+H3,2009,2009,2009,2,0,1,Import,620,Portugal,PRT,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10610,,,0
+H3,2009,2009,2009,2,0,2,Export,634,Qatar,QAT,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2917381731,,,0
+H3,2009,2009,2009,2,0,2,Export,634,Qatar,QAT,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,245643,,,0
+H3,2009,2009,2009,2,0,2,Export,634,Qatar,QAT,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,65999744,,,0
+H3,2009,2009,2009,2,0,2,Export,642,Romania,ROU,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5429883,,,0
+H3,2009,2009,2009,2,0,1,Import,642,Romania,ROU,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7506,,,0
+H3,2009,2009,2009,2,0,2,Export,642,Romania,ROU,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,104447,,,0
+H3,2009,2009,2009,2,0,1,Import,642,Romania,ROU,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,360,,,0
+H3,2009,2009,2009,2,0,1,Import,642,Romania,ROU,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,548,,,0
+H3,2009,2009,2009,2,0,2,Export,642,Romania,ROU,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,83544,,,0
+H3,2009,2009,2009,2,0,2,Export,643,Russian Federation,RUS,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,113166,,,0
+H3,2009,2009,2009,2,0,1,Import,643,Russian Federation,RUS,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,159236036,,,0
+H3,2009,2009,2009,2,0,2,Export,643,Russian Federation,RUS,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,39455486782,,,0
+H3,2009,2009,2009,2,0,1,Import,643,Russian Federation,RUS,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2892,,,0
+H3,2009,2009,2009,2,0,2,Export,643,Russian Federation,RUS,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13400,,,0
+H3,2009,2009,2009,2,0,1,Import,643,Russian Federation,RUS,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,89741,,,0
+H3,2009,2009,2009,2,0,2,Export,643,Russian Federation,RUS,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,91557,,,0
+H3,2009,2009,2009,2,0,2,Export,643,Russian Federation,RUS,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,908609,,,0
+H3,2009,2009,2009,2,0,1,Import,643,Russian Federation,RUS,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,326,,,0
+H3,2009,2009,2009,2,0,2,Export,646,Rwanda,RWA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,114176,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,646,Rwanda,RWA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,57088,,,0
+H3,2009,2009,2009,2,0,1,Import,646,Rwanda,RWA,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,249,,,0
+H3,2009,2009,2009,2,0,1,Import,646,Rwanda,RWA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11,,,0
+H3,2009,2009,2009,2,0,1,Import,659,Saint Kitts and Nevis,KNA,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,111,,,0
+H3,2009,2009,2009,2,0,2,Export,659,Saint Kitts and Nevis,KNA,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3485,,,0
+H3,2009,2009,2009,2,0,2,Export,659,Saint Kitts and Nevis,KNA,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,148,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3261,,,0
+H3,2009,2009,2009,2,0,2,Export,659,Saint Kitts and Nevis,KNA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2196,,,0
+H1,2009,2009,2009,2,0,1,Import,662,Saint Lucia,LCA,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,118,,,0
+H1,2009,2009,2009,2,0,2,Export,662,Saint Lucia,LCA,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,56,,,0
+H1,2009,2009,2009,2,0,3,Re-Export,662,Saint Lucia,LCA,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,56,,,0
+H1,2009,2009,2009,2,0,1,Import,662,Saint Lucia,LCA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6193,,,0
+H3,2009,2009,2009,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,451787,,,0
+H3,2009,2009,2009,2,0,2,Export,670,Saint Vincent and the Grenadines,VCT,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1,,,0
+H3,2009,2009,2009,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,238,,,0
+H3,2009,2009,2009,2,0,2,Export,670,Saint Vincent and the Grenadines,VCT,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,111,,,0
+H3,2009,2009,2009,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1343,,,0
+H3,2009,2009,2009,2,0,2,Export,670,Saint Vincent and the Grenadines,VCT,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,251,,,0
+H3,2009,2009,2009,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,77,,,0
+H3,2009,2009,2009,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,481,,,0
+H3,2009,2009,2009,2,0,2,Export,670,Saint Vincent and the Grenadines,VCT,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,718,,,0
+H1,2009,2009,2009,2,0,1,Import,678,Sao Tome and Principe,STP,24,Angola,AGO,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,15046041,,,0
+H1,2009,2009,2009,2,0,2,Export,678,Sao Tome and Principe,STP,24,Angola,AGO,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1850595,,,0
+H1,2009,2009,2009,2,0,3,Re-Export,678,Sao Tome and Principe,STP,24,Angola,AGO,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1850595,,,0
+H1,2009,2009,2009,2,0,1,Import,678,Sao Tome and Principe,STP,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,115,,,0
+H1,2009,2009,2009,2,0,1,Import,678,Sao Tome and Principe,STP,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1013,,,0
+H1,2009,2009,2009,2,0,1,Import,678,Sao Tome and Principe,STP,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8099,,,0
+H1,2009,2009,2009,2,0,1,Import,678,Sao Tome and Principe,STP,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1710,,,0
+H1,2009,2009,2009,2,0,1,Import,678,Sao Tome and Principe,STP,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4412,,,0
+H3,2009,2009,2009,2,0,2,Export,682,Saudi Arabia,SAU,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,12097599510,,,0
+H3,2009,2009,2009,2,0,2,Export,682,Saudi Arabia,SAU,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3053090,,,0
+H3,2009,2009,2009,2,0,2,Export,682,Saudi Arabia,SAU,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1035565,,,0
+H3,2009,2009,2009,2,0,2,Export,686,Senegal,SEN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,145765,,,0
+H3,2009,2009,2009,2,0,1,Import,686,Senegal,SEN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,262875,,,0
+H3,2009,2009,2009,2,0,1,Import,686,Senegal,SEN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3204,,,0
+H3,2009,2009,2009,2,0,2,Export,688,Serbia,SRB,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,142008,,,0
+H3,2009,2009,2009,2,0,1,Import,688,Serbia,SRB,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9501,,,0
+H3,2009,2009,2009,2,0,2,Export,688,Serbia,SRB,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,51979,,,0
+H3,2009,2009,2009,2,0,1,Import,699,India,IND,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3389550778,,,0
+H3,2009,2009,2009,2,0,2,Export,699,India,IND,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,293803864,,,0
+H3,2009,2009,2009,2,0,1,Import,699,India,IND,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,24388551,,,0
+H3,2009,2009,2009,2,0,2,Export,699,India,IND,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,721328969,,,0
+H3,2009,2009,2009,2,0,1,Import,699,India,IND,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,687,,,0
+H3,2009,2009,2009,2,0,2,Export,699,India,IND,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3116,,,0
+H3,2009,2009,2009,2,0,2,Export,699,India,IND,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2863321,,,0
+H3,2009,2009,2009,2,0,2,Export,699,India,IND,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4685489,,,0
+H3,2009,2009,2009,2,0,1,Import,699,India,IND,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,96019112,,,0
+H3,2009,2009,2009,2,0,2,Export,699,India,IND,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5474272,,,0
+H3,2009,2009,2009,2,0,1,Import,699,India,IND,10,Antarctica,ATA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11877,,,0
+H3,2009,2009,2009,2,0,2,Export,699,India,IND,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,452949,,,0
+H3,2009,2009,2009,2,0,1,Import,699,India,IND,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6801407,,,0
+H3,2009,2009,2009,2,0,1,Import,702,Singapore,SGP,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,32,,,0
+H3,2009,2009,2009,2,0,2,Export,702,Singapore,SGP,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,192065906,,,0
+H3,2009,2009,2009,2,0,2,Export,702,Singapore,SGP,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9319768,,,0
+H3,2009,2009,2009,2,0,2,Export,702,Singapore,SGP,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,69963,,,0
+H3,2009,2009,2009,2,0,1,Import,703,Slovakia,SVK,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,841,,,0
+H3,2009,2009,2009,2,0,1,Import,703,Slovakia,SVK,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,299374,,,0
+H3,2009,2009,2009,2,0,1,Import,703,Slovakia,SVK,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,52929,,,0
+H3,2009,2009,2009,2,0,2,Export,703,Slovakia,SVK,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21183,,,0
+H3,2009,2009,2009,2,0,1,Import,703,Slovakia,SVK,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3198271,,,0
+H3,2009,2009,2009,2,0,2,Export,703,Slovakia,SVK,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,159944,,,0
+H3,2009,2009,2009,2,0,1,Import,703,Slovakia,SVK,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18,,,0
+H3,2009,2009,2009,2,0,2,Export,703,Slovakia,SVK,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,467,,,0
+H3,2009,2009,2009,2,0,1,Import,703,Slovakia,SVK,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,619422,,,0
+H3,2009,2009,2009,2,0,2,Export,703,Slovakia,SVK,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,70839,,,0
+H3,2009,2009,2009,2,0,1,Import,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,916315,,,0
+H3,2009,2009,2009,2,0,2,Export,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,180866278,,,0
+H3,2009,2009,2009,2,0,2,Export,704,Viet Nam,VNM,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,55910,,,0
+H3,2009,2009,2009,2,0,1,Import,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10477981,,,0
+H3,2009,2009,2009,2,0,2,Export,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2888181,,,0
+H3,2009,2009,2009,2,0,2,Export,704,Viet Nam,VNM,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,395622,,,0
+H3,2009,2009,2009,2,0,1,Import,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3387893,,,0
+H3,2009,2009,2009,2,0,2,Export,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3462091,,,0
+H3,2009,2009,2009,2,0,1,Import,705,Slovenia,SVN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,246072382,,,0
+H3,2009,2009,2009,2,0,1,Import,705,Slovenia,SVN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30028,,,0
+H3,2009,2009,2009,2,0,2,Export,705,Slovenia,SVN,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,184,,,0
+H3,2009,2009,2009,2,0,2,Export,705,Slovenia,SVN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19543,,,0
+H3,2009,2009,2009,2,0,2,Export,705,Slovenia,SVN,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,73,,,0
+H3,2009,2009,2009,2,0,1,Import,705,Slovenia,SVN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,49136,,,0
+H3,2009,2009,2009,2,0,1,Import,705,Slovenia,SVN,10,Antarctica,ATA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8188,,,0
+H3,2009,2009,2009,2,0,1,Import,705,Slovenia,SVN,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10714,,,0
+H3,2009,2009,2009,2,0,2,Export,705,Slovenia,SVN,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,60,,,0
+H3,2009,2009,2009,2,0,2,Export,705,Slovenia,SVN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15684,,,0
+H3,2009,2009,2009,2,0,2,Export,705,Slovenia,SVN,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,113,,,0
+H3,2009,2009,2009,2,0,1,Import,705,Slovenia,SVN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1330,,,0
+H3,2009,2009,2009,2,0,2,Export,710,South Africa,ZAF,10,Antarctica,ATA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,46595,,,0
+H3,2009,2009,2009,2,0,2,Export,710,South Africa,ZAF,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,11246,,,0
+H3,2009,2009,2009,2,0,1,Import,710,South Africa,ZAF,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1351467349,,,0
+H3,2009,2009,2009,2,0,2,Export,710,South Africa,ZAF,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,31414599,,,0
+H3,2009,2009,2009,2,0,1,Import,710,South Africa,ZAF,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,52600812,,,0
+H3,2009,2009,2009,2,0,2,Export,710,South Africa,ZAF,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,9703343,,,0
+H3,2009,2009,2009,2,0,2,Export,710,South Africa,ZAF,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39075,,,0
+H3,2009,2009,2009,2,0,2,Export,710,South Africa,ZAF,10,Antarctica,ATA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7312,,,0
+H3,2009,2009,2009,2,0,1,Import,710,South Africa,ZAF,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,188,,,0
+H3,2009,2009,2009,2,0,2,Export,710,South Africa,ZAF,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8767779,,,0
+H3,2009,2009,2009,2,0,1,Import,710,South Africa,ZAF,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8,,,0
+H3,2009,2009,2009,2,0,1,Import,710,South Africa,ZAF,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1621570,,,0
+H3,2009,2009,2009,2,0,2,Export,710,South Africa,ZAF,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17112,,,0
+H3,2009,2009,2009,2,0,2,Export,710,South Africa,ZAF,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,64874,,,0
+H3,2009,2009,2009,2,0,1,Import,710,South Africa,ZAF,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,899,,,0
+H3,2009,2009,2009,2,0,2,Export,710,South Africa,ZAF,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22712024,,,0
+H3,2009,2009,2009,2,0,1,Import,710,South Africa,ZAF,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1,,,0
+H3,2009,2009,2009,2,0,1,Import,710,South Africa,ZAF,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2173412,,,0
+H3,2009,2009,2009,2,0,2,Export,716,Zimbabwe,ZWE,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1160,,,0
+H3,2009,2009,2009,2,0,2,Export,716,Zimbabwe,ZWE,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,22052,,,0
+H3,2009,2009,2009,2,0,1,Import,724,Spain,ESP,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,683,,,0
+H3,2009,2009,2009,2,0,2,Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,86992320,,,4
+H3,2009,2009,2009,2,0,1,Import,724,Spain,ESP,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,742104994,,,0
+H3,2009,2009,2009,2,0,2,Export,724,Spain,ESP,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,768081,,,0
+H3,2009,2009,2009,2,0,1,Import,724,Spain,ESP,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,496,,,4
+H3,2009,2009,2009,2,0,2,Export,724,Spain,ESP,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1569445640,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,270177,,,0
+H3,2009,2009,2009,2,0,2,Export,724,Spain,ESP,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,189763,,,0
+H3,2009,2009,2009,2,0,1,Import,724,Spain,ESP,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,15,,,0
+H3,2009,2009,2009,2,0,2,Export,724,Spain,ESP,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,176771,,,0
+H3,2009,2009,2009,2,0,2,Export,724,Spain,ESP,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4386579,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,724,Spain,ESP,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1015956,,,0
+H3,2009,2009,2009,2,0,2,Export,724,Spain,ESP,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,119750,,,0
+H3,2009,2009,2009,2,0,2,Export,724,Spain,ESP,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,489764,,,0
+H3,2009,2009,2009,2,0,1,Import,724,Spain,ESP,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,43177,,,0
+H3,2009,2009,2009,2,0,2,Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,11291380,,,0
+H3,2009,2009,2009,2,0,1,Import,724,Spain,ESP,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,353158,,,0
+H3,2009,2009,2009,2,0,2,Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16100492,,,4
+H3,2009,2009,2009,2,0,3,Re-Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,185149,,,0
+H3,2009,2009,2009,2,0,4,Re-Import,724,Spain,ESP,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,56,,,0
+H3,2009,2009,2009,2,0,1,Import,724,Spain,ESP,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,18358,,,0
+H3,2009,2009,2009,2,0,1,Import,736,Fmr Sudan,SDN,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,48616,,,0
+H3,2009,2009,2009,2,0,1,Import,736,Fmr Sudan,SDN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1931143,,,0
+H3,2009,2009,2009,2,0,1,Import,736,Fmr Sudan,SDN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1200,,,0
+H1,2009,2009,2009,2,0,1,Import,740,Suriname,SUR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,79459,,,0
+H1,2009,2009,2009,2,0,1,Import,740,Suriname,SUR,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6360,,,0
+H3,2009,2009,2009,2,0,2,Export,748,Eswatini,SWZ,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,161199,,,4
+H3,2009,2009,2009,2,0,1,Import,748,Eswatini,SWZ,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,28386,,,0
+H3,2009,2009,2009,2,0,1,Import,752,Sweden,SWE,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,553275351,,,0
+H3,2009,2009,2009,2,0,2,Export,752,Sweden,SWE,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,71111,,,0
+H3,2009,2009,2009,2,0,2,Export,752,Sweden,SWE,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,163203565,,,0
+H3,2009,2009,2009,2,0,2,Export,752,Sweden,SWE,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6309,,,0
+H3,2009,2009,2009,2,0,1,Import,752,Sweden,SWE,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5532,,,0
+H3,2009,2009,2009,2,0,2,Export,752,Sweden,SWE,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,641705,,,0
+H3,2009,2009,2009,2,0,2,Export,752,Sweden,SWE,10,Antarctica,ATA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,131,,,0
+H3,2009,2009,2009,2,0,2,Export,752,Sweden,SWE,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,303108,,,0
+H3,2009,2009,2009,2,0,2,Export,757,Switzerland,CHE,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,33066,,,0
+H3,2009,2009,2009,2,0,2,Export,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,12572,,,0
+H3,2009,2009,2009,2,0,1,Import,757,Switzerland,CHE,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,331,,,0
+H3,2009,2009,2009,2,0,2,Export,757,Switzerland,CHE,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5813,,,0
+H3,2009,2009,2009,2,0,2,Export,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,112903,,,0
+H3,2009,2009,2009,2,0,2,Export,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,225907,,,0
+H3,2009,2009,2009,2,0,1,Import,760,Syria,SYR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,33089156,,,0
+H3,2009,2009,2009,2,0,2,Export,760,Syria,SYR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,73684059,,,0
+H3,2009,2009,2009,2,0,2,Export,760,Syria,SYR,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,882783,,,0
+H3,2009,2009,2009,2,0,2,Export,760,Syria,SYR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7243,,,0
+H3,2009,2009,2009,2,0,1,Import,764,Thailand,THA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,346,,,0
+H3,2009,2009,2009,2,0,2,Export,764,Thailand,THA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,20886,,,0
+H3,2009,2009,2009,2,0,1,Import,764,Thailand,THA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10387,,,0
+H3,2009,2009,2009,2,0,2,Export,764,Thailand,THA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,425704815,,,0
+H3,2009,2009,2009,2,0,2,Export,764,Thailand,THA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,58443,,,0
+H3,2009,2009,2009,2,0,2,Export,764,Thailand,THA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5936824,,,0
+H3,2009,2009,2009,2,0,1,Import,764,Thailand,THA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22008,,,0
+H3,2009,2009,2009,2,0,2,Export,764,Thailand,THA,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,158622,,,0
+H3,2009,2009,2009,2,0,2,Export,764,Thailand,THA,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1219916,,,0
+H3,2009,2009,2009,2,0,1,Import,764,Thailand,THA,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3827,,,0
+H3,2009,2009,2009,2,0,2,Export,764,Thailand,THA,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,332924,,,0
+H3,2009,2009,2009,2,0,1,Import,780,Trinidad and Tobago,TTO,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,38572337,,,0
+H3,2009,2009,2009,2,0,1,Import,780,Trinidad and Tobago,TTO,660,Anguilla,AIA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,15,,,0
+H3,2009,2009,2009,2,0,2,Export,780,Trinidad and Tobago,TTO,660,Anguilla,AIA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2961012,,,0
+H3,2009,2009,2009,2,0,1,Import,780,Trinidad and Tobago,TTO,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,116,,,0
+H3,2009,2009,2009,2,0,2,Export,780,Trinidad and Tobago,TTO,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19332,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,780,Trinidad and Tobago,TTO,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,651,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,780,Trinidad and Tobago,TTO,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,46,,,0
+H3,2009,2009,2009,2,0,2,Export,780,Trinidad and Tobago,TTO,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,514,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,780,Trinidad and Tobago,TTO,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,514,,,0
+H3,2009,2009,2009,2,0,1,Import,780,Trinidad and Tobago,TTO,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,87,,,0
+H3,2009,2009,2009,2,0,2,Export,780,Trinidad and Tobago,TTO,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2366,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,780,Trinidad and Tobago,TTO,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2366,,,0
+H3,2009,2009,2009,2,0,2,Export,780,Trinidad and Tobago,TTO,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,46,,,0
+H3,2009,2009,2009,2,0,2,Export,784,United Arab Emirates,ARE,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4562686,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,784,United Arab Emirates,ARE,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,494525,,,0
+H3,2009,2009,2009,2,0,1,Import,784,United Arab Emirates,ARE,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,320790225,,,0
+H3,2009,2009,2009,2,0,2,Export,784,United Arab Emirates,ARE,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8043383692,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,784,United Arab Emirates,ARE,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6824302,,,0
+H3,2009,2009,2009,2,0,2,Export,784,United Arab Emirates,ARE,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,318,,,0
+H3,2009,2009,2009,2,0,2,Export,784,United Arab Emirates,ARE,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7579554,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,784,United Arab Emirates,ARE,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7577141,,,0
+H3,2009,2009,2009,2,0,1,Import,784,United Arab Emirates,ARE,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3676275,,,0
+H3,2009,2009,2009,2,0,2,Export,784,United Arab Emirates,ARE,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32151331,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,784,United Arab Emirates,ARE,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32044417,,,0
+H3,2009,2009,2009,2,0,2,Export,784,United Arab Emirates,ARE,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3827090,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,784,United Arab Emirates,ARE,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2547332,,,0
+H3,2009,2009,2009,2,0,2,Export,784,United Arab Emirates,ARE,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1089,,,0
+H3,2009,2009,2009,2,0,1,Import,784,United Arab Emirates,ARE,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,148156032,,,0
+H3,2009,2009,2009,2,0,2,Export,784,United Arab Emirates,ARE,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12286156,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,784,United Arab Emirates,ARE,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4036877,,,0
+H3,2009,2009,2009,2,0,2,Export,788,Tunisia,TUN,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,22322,,,0
+H3,2009,2009,2009,2,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,248146,,,0
+H3,2009,2009,2009,2,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5680912,,,0
+H3,2009,2009,2009,2,0,1,Import,788,Tunisia,TUN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,161,,,0
+H3,2009,2009,2009,2,0,2,Export,788,Tunisia,TUN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,170045,,,0
+H3,2009,2009,2009,2,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5441443,,,0
+H3,2009,2009,2009,2,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25294761,,,0
+H3,2009,2009,2009,2,0,2,Export,788,Tunisia,TUN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,357376,,,0
+H3,2009,2009,2009,2,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,446600,,,0
+H3,2009,2009,2009,2,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,512294,,,0
+H3,2009,2009,2009,2,0,2,Export,792,Turkey,TUR,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,21298248,,,0
+H3,2009,2009,2009,2,0,1,Import,792,Turkey,TUR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4789359209,,,0
+H3,2009,2009,2009,2,0,2,Export,792,Turkey,TUR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,425928392,,,0
+H3,2009,2009,2009,2,0,1,Import,792,Turkey,TUR,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,145,,,0
+H3,2009,2009,2009,2,0,1,Import,792,Turkey,TUR,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1019,,,0
+H3,2009,2009,2009,2,0,2,Export,792,Turkey,TUR,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1171775,,,0
+H3,2009,2009,2009,2,0,1,Import,792,Turkey,TUR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1894287,,,0
+H3,2009,2009,2009,2,0,2,Export,792,Turkey,TUR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,473182,,,0
+H3,2009,2009,2009,2,0,2,Export,792,Turkey,TUR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,35135,,,0
+H3,2009,2009,2009,2,0,1,Import,792,Turkey,TUR,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28451,,,0
+H3,2009,2009,2009,2,0,1,Import,800,Uganda,UGA,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,41351,,,0
+H3,2009,2009,2009,2,0,2,Export,800,Uganda,UGA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,98912466,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,800,Uganda,UGA,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,98912466,,,0
+H3,2009,2009,2009,2,0,1,Import,800,Uganda,UGA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5853,,,0
+H3,2009,2009,2009,2,0,1,Import,800,Uganda,UGA,10,Antarctica,ATA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,480,,,0
+H3,2009,2009,2009,2,0,1,Import,800,Uganda,UGA,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,121,,,0
+H2,2009,2009,2009,2,0,1,Import,804,Ukraine,UKR,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1854,,,0
+H2,2009,2009,2009,2,0,1,Import,804,Ukraine,UKR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,152746,,,0
+H2,2009,2009,2009,2,0,2,Export,804,Ukraine,UKR,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43746,,,0
+H2,2009,2009,2009,2,0,1,Import,804,Ukraine,UKR,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,63,,,0
+H2,2009,2009,2009,2,0,1,Import,804,Ukraine,UKR,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15680,,,0
+H2,2009,2009,2009,2,0,2,Export,804,Ukraine,UKR,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10559,,,0
+H3,2009,2009,2009,2,0,2,Export,807,North Macedonia,MKD,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1760,,,0
+H3,2009,2009,2009,2,0,1,Import,807,North Macedonia,MKD,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,226,,,0
+H3,2009,2009,2009,2,0,2,Export,818,Egypt,EGY,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4325251,,,0
+H3,2009,2009,2009,2,0,1,Import,818,Egypt,EGY,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,22451914,,,0
+H3,2009,2009,2009,2,0,2,Export,818,Egypt,EGY,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1949087,,,0
+H3,2009,2009,2009,2,0,1,Import,818,Egypt,EGY,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1037,,,0
+H3,2009,2009,2009,2,0,2,Export,818,Egypt,EGY,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,336891,,,0
+H3,2009,2009,2009,2,0,1,Import,818,Egypt,EGY,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,690932,,,0
+H3,2009,2009,2009,2,0,2,Export,818,Egypt,EGY,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7989640,,,0
+H3,2009,2009,2009,2,0,1,Import,818,Egypt,EGY,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6724,,,0
+H3,2009,2009,2009,2,0,2,Export,818,Egypt,EGY,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,35618,,,0
+H3,2009,2009,2009,2,0,1,Import,826,United Kingdom,GBR,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,415256246,,,0
+H3,2009,2009,2009,2,0,2,Export,826,United Kingdom,GBR,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,9379046,,,0
+H3,2009,2009,2009,2,0,2,Export,826,United Kingdom,GBR,10,Antarctica,ATA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26286,,,0
+H3,2009,2009,2009,2,0,2,Export,826,United Kingdom,GBR,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,178105,,,0
+H3,2009,2009,2009,2,0,1,Import,826,United Kingdom,GBR,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,187117,,,0
+H3,2009,2009,2009,2,0,2,Export,826,United Kingdom,GBR,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4528074,,,0
+H3,2009,2009,2009,2,0,1,Import,826,United Kingdom,GBR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,26627,,,0
+H3,2009,2009,2009,2,0,2,Export,826,United Kingdom,GBR,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5776871,,,0
+H3,2009,2009,2009,2,0,2,Export,826,United Kingdom,GBR,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,59788,,,0
+H3,2009,2009,2009,2,0,1,Import,834,United Rep. of Tanzania,TZA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4069,,,0
+H3,2009,2009,2009,2,0,2,Export,834,United Rep. of Tanzania,TZA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,159912,,,0
+H3,2009,2009,2009,2,0,1,Import,842,USA,USA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,9653350745,,,0
+H3,2009,2009,2009,2,0,2,Export,842,USA,USA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,44679740,,,0
+H3,2009,2009,2009,2,0,2,Export,842,USA,USA,660,Anguilla,AIA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,810005,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,842,USA,USA,660,Anguilla,AIA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,333606,,,0
+H3,2009,2009,2009,2,0,2,Export,842,USA,USA,660,Anguilla,AIA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,513760,,,0
+H3,2009,2009,2009,2,0,1,Import,842,USA,USA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1003,,,0
+H3,2009,2009,2009,2,0,2,Export,842,USA,USA,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,37857,,,0
+H3,2009,2009,2009,2,0,2,Export,842,USA,USA,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3154941,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,842,USA,USA,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,35510,,,0
+H3,2009,2009,2009,2,0,2,Export,842,USA,USA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,353101,,,0
+H3,2009,2009,2009,2,0,2,Export,842,USA,USA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7611868,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,842,USA,USA,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,64158,,,0
+H3,2009,2009,2009,2,0,1,Import,842,USA,USA,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32661,,,0
+H3,2009,2009,2009,2,0,2,Export,842,USA,USA,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3632184,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,842,USA,USA,660,Anguilla,AIA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7908,,,0
+H3,2009,2009,2009,2,0,1,Import,842,USA,USA,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31076,,,0
+H3,2009,2009,2009,2,0,1,Import,854,Burkina Faso,BFA,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,106158,,,0
+H3,2009,2009,2009,2,0,1,Import,858,Uruguay,URY,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,82261278,,,0
+H3,2009,2009,2009,2,0,1,Import,858,Uruguay,URY,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,287,,,0
+H3,2009,2009,2009,2,0,1,Import,858,Uruguay,URY,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,329,,,0
+H2,2009,2009,2009,2,0,1,Import,862,Venezuela,VEN,24,Angola,AGO,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2210,,,0
+H2,2009,2009,2009,2,0,2,Export,862,Venezuela,VEN,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8848,,,0
+H2,2009,2009,2009,2,0,2,Export,862,Venezuela,VEN,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,18356978730,,,0
+H2,2009,2009,2009,2,0,1,Import,862,Venezuela,VEN,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43,,,0
+H2,2009,2009,2009,2,0,2,Export,862,Venezuela,VEN,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1164,,,0
+H3,2009,2009,2009,2,0,1,Import,887,Yemen,YEM,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,740685,,,0
+H3,2009,2009,2009,2,0,2,Export,887,Yemen,YEM,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8661,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,887,Yemen,YEM,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8661,,,0
+H3,2009,2009,2009,2,0,1,Import,887,Yemen,YEM,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8752,,,0
+H3,2009,2009,2009,2,0,1,Import,887,Yemen,YEM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5733546,,,0
+H3,2009,2009,2009,2,0,2,Export,887,Yemen,YEM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,102188,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,887,Yemen,YEM,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,102188,,,0
+H3,2009,2009,2009,2,0,1,Import,887,Yemen,YEM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1714322,,,0
+H3,2009,2009,2009,2,0,2,Export,887,Yemen,YEM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38855,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,887,Yemen,YEM,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38855,,,0
+H3,2009,2009,2009,2,0,1,Import,894,Zambia,ZMB,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1885,,,0
+H3,2009,2009,2009,2,0,2,Export,894,Zambia,ZMB,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,33717,,,0
+H3,2009,2009,2009,2,0,1,Import,894,Zambia,ZMB,20,Andorra,AND,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1820,,,0
+H3,2009,2009,2009,2,0,2,Export,894,Zambia,ZMB,24,Angola,AGO,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,34601,,,0
+H3,2009,2009,2009,2,0,1,Import,894,Zambia,ZMB,20,Andorra,AND,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6042,,,0

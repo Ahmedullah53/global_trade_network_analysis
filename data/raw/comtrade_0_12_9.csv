@@ -1,0 +1,1056 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2009,2009,2009,2,0,1,Import,8,Albania,ALB,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2778020,,,0
+H3,2009,2009,2009,2,0,2,Export,8,Albania,ALB,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10293,,,0
+H3,2009,2009,2009,2,0,1,Import,8,Albania,ALB,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2278800,,,0
+H3,2009,2009,2009,2,0,2,Export,8,Albania,ALB,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23380,,,0
+H3,2009,2009,2009,2,0,1,Import,8,Albania,ALB,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2558,,,0
+H3,2009,2009,2009,2,0,1,Import,12,Algeria,DZA,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,143017,,,0
+H3,2009,2009,2009,2,0,1,Import,12,Algeria,DZA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9204,,,0
+H3,2009,2009,2009,2,0,1,Import,12,Algeria,DZA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2724,,,0
+H3,2009,2009,2009,2,0,2,Export,12,Algeria,DZA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18715,,,0
+H3,2009,2009,2009,2,0,1,Import,12,Algeria,DZA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,150926,,,0
+H3,2009,2009,2009,2,0,1,Import,12,Algeria,DZA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14112,,,0
+H3,2009,2009,2009,2,0,1,Import,12,Algeria,DZA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,844962,,,0
+H3,2009,2009,2009,2,0,1,Import,24,Angola,AGO,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,132447461,,,0
+H3,2009,2009,2009,2,0,2,Export,24,Angola,AGO,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,34269746,,,0
+H3,2009,2009,2009,2,0,1,Import,24,Angola,AGO,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,683852,,,0
+H1,2009,2009,2009,2,0,1,Import,28,Antigua and Barbuda,ATG,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,78695,,,0
+H3,2009,2009,2009,2,0,2,Export,31,Azerbaijan,AZE,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,193740351,,,0
+H3,2009,2009,2009,2,0,2,Export,32,Argentina,ARG,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10769024,,,0
+H3,2009,2009,2009,2,0,1,Import,32,Argentina,ARG,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,237853,,,0
+H3,2009,2009,2009,2,0,2,Export,32,Argentina,ARG,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3732295,,,0
+H3,2009,2009,2009,2,0,1,Import,32,Argentina,ARG,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10540,,,0
+H3,2009,2009,2009,2,0,2,Export,32,Argentina,ARG,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,59,,,0
+H3,2009,2009,2009,2,0,2,Export,32,Argentina,ARG,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,126099,,,0
+H3,2009,2009,2009,2,0,1,Import,32,Argentina,ARG,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1267052,,,0
+H3,2009,2009,2009,2,0,2,Export,32,Argentina,ARG,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47409,,,0
+H3,2009,2009,2009,2,0,1,Import,32,Argentina,ARG,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3886,,,0
+H3,2009,2009,2009,2,0,1,Import,32,Argentina,ARG,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,748285,,,0
+H3,2009,2009,2009,2,0,2,Export,32,Argentina,ARG,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,333,,,0
+H3,2009,2009,2009,2,0,2,Export,36,Australia,AUS,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1265176,,,0
+H3,2009,2009,2009,2,0,2,Export,36,Australia,AUS,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8690937,,,0
+H3,2009,2009,2009,2,0,2,Export,36,Australia,AUS,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,9494,,,0
+H3,2009,2009,2009,2,0,2,Export,36,Australia,AUS,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,134318,,,0
+H3,2009,2009,2009,2,0,1,Import,36,Australia,AUS,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,174889,,,0
+H3,2009,2009,2009,2,0,2,Export,36,Australia,AUS,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,120707,,,0
+H3,2009,2009,2009,2,0,1,Import,36,Australia,AUS,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,300759,,,0
+H3,2009,2009,2009,2,0,2,Export,36,Australia,AUS,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7589,,,0
+H3,2009,2009,2009,2,0,2,Export,36,Australia,AUS,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,794913,,,0
+H3,2009,2009,2009,2,0,1,Import,36,Australia,AUS,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39940,,,0
+H3,2009,2009,2009,2,0,2,Export,36,Australia,AUS,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28354,,,0
+H3,2009,2009,2009,2,0,2,Export,36,Australia,AUS,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,91325,,,0
+H3,2009,2009,2009,2,0,2,Export,36,Australia,AUS,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24804,,,0
+H3,2009,2009,2009,2,0,1,Import,36,Australia,AUS,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,759854,,,0
+H3,2009,2009,2009,2,0,2,Export,36,Australia,AUS,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,70667,,,0
+H3,2009,2009,2009,2,0,2,Export,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,65604,,,0
+H3,2009,2009,2009,2,0,1,Import,40,Austria,AUT,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2319660,,,0
+H3,2009,2009,2009,2,0,2,Export,40,Austria,AUT,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,54134084,,,0
+H3,2009,2009,2009,2,0,2,Export,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,9556,,,0
+H3,2009,2009,2009,2,0,1,Import,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1375,,,0
+H3,2009,2009,2009,2,0,2,Export,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,95593,,,0
+H3,2009,2009,2009,2,0,1,Import,40,Austria,AUT,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,700732,,,0
+H3,2009,2009,2009,2,0,2,Export,40,Austria,AUT,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8017385,,,0
+H3,2009,2009,2009,2,0,1,Import,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,552779,,,0
+H3,2009,2009,2009,2,0,2,Export,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,117167,,,0
+H3,2009,2009,2009,2,0,1,Import,40,Austria,AUT,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22371246,,,0
+H3,2009,2009,2009,2,0,2,Export,40,Austria,AUT,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,79440257,,,0
+H3,2009,2009,2009,2,0,1,Import,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3499,,,0
+H3,2009,2009,2009,2,0,2,Export,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,139227,,,0
+H3,2009,2009,2009,2,0,1,Import,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,443,,,0
+H3,2009,2009,2009,2,0,2,Export,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29324,,,0
+H3,2009,2009,2009,2,0,1,Import,44,Bahamas,BHS,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5856615,,,0
+H3,2009,2009,2009,2,0,1,Import,44,Bahamas,BHS,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,85,,,0
+H3,2009,2009,2009,2,0,1,Import,50,Bangladesh,BGD,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,29409,,,0
+H3,2009,2009,2009,2,0,1,Import,50,Bangladesh,BGD,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15,,,0
+H3,2009,2009,2009,2,0,1,Import,51,Armenia,ARM,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,707,,,0
+H3,2009,2009,2009,2,0,1,Import,51,Armenia,ARM,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2071,,,0
+H2,2009,2009,2009,2,0,1,Import,52,Barbados,BRB,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,312937,,,0
+H2,2009,2009,2009,2,0,1,Import,52,Barbados,BRB,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,201051,,,0
+H3,2009,2009,2009,2,0,1,Import,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,47,,,0
+H3,2009,2009,2009,2,0,2,Export,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,145083,,,0
+H3,2009,2009,2009,2,0,1,Import,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,353,,,0
+H3,2009,2009,2009,2,0,2,Export,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10337269,,,0
+H3,2009,2009,2009,2,0,1,Import,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4183,,,0
+H3,2009,2009,2009,2,0,2,Export,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2793984,,,0
+H3,2009,2009,2009,2,0,2,Export,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1728487,,,0
+H3,2009,2009,2009,2,0,2,Export,56,Belgium,BEL,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27,,,0
+H3,2009,2009,2009,2,0,1,Import,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1902136,,,0
+H3,2009,2009,2009,2,0,2,Export,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,27101,,,0
+H3,2009,2009,2009,2,0,1,Import,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16524,,,0
+H3,2009,2009,2009,2,0,2,Export,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2329632,,,0
+H3,2009,2009,2009,2,0,1,Import,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13143457,,,0
+H3,2009,2009,2009,2,0,1,Import,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1333,,,0
+H3,2009,2009,2009,2,0,2,Export,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1759994,,,0
+H3,2009,2009,2009,2,0,1,Import,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,717135,,,0
+H3,2009,2009,2009,2,0,2,Export,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26114584,,,0
+H3,2009,2009,2009,2,0,1,Import,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,117532,,,0
+H3,2009,2009,2009,2,0,2,Export,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13311730,,,0
+H3,2009,2009,2009,2,0,2,Export,68,Bolivia (Plurinational State of),BOL,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,19967,,,0
+H3,2009,2009,2009,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4016,,,0
+H3,2009,2009,2009,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,100055,,,0
+H3,2009,2009,2009,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,918376,,,0
+H3,2009,2009,2009,2,0,1,Import,70,Bosnia Herzegovina,BIH,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,334150223,,,0
+H3,2009,2009,2009,2,0,2,Export,70,Bosnia Herzegovina,BIH,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,132301838,,,0
+H3,2009,2009,2009,2,0,1,Import,70,Bosnia Herzegovina,BIH,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5265,,,0
+H3,2009,2009,2009,2,0,1,Import,70,Bosnia Herzegovina,BIH,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39346345,,,0
+H3,2009,2009,2009,2,0,2,Export,70,Bosnia Herzegovina,BIH,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22133297,,,0
+H3,2009,2009,2009,2,0,1,Import,70,Bosnia Herzegovina,BIH,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1394883,,,0
+H3,2009,2009,2009,2,0,2,Export,70,Bosnia Herzegovina,BIH,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1096780,,,0
+H2,2009,2009,2009,2,0,2,Export,72,Botswana,BWA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,610,,,0
+H2,2009,2009,2009,2,0,2,Export,72,Botswana,BWA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,455,,,0
+H2,2009,2009,2009,2,0,2,Export,72,Botswana,BWA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,908,,,0
+H3,2009,2009,2009,2,0,2,Export,76,Brazil,BRA,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,240328,,,0
+H3,2009,2009,2009,2,0,2,Export,76,Brazil,BRA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1456327,,,0
+H3,2009,2009,2009,2,0,1,Import,76,Brazil,BRA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,492557,,,4
+H3,2009,2009,2009,2,0,2,Export,76,Brazil,BRA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7213113,,,4
+H3,2009,2009,2009,2,0,1,Import,76,Brazil,BRA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,11146,,,0
+H3,2009,2009,2009,2,0,2,Export,76,Brazil,BRA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,41447,,,0
+H3,2009,2009,2009,2,0,2,Export,76,Brazil,BRA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1176335,,,4
+H3,2009,2009,2009,2,0,2,Export,76,Brazil,BRA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9764026,,,4
+H3,2009,2009,2009,2,0,1,Import,76,Brazil,BRA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6917689,,,4
+H3,2009,2009,2009,2,0,2,Export,76,Brazil,BRA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,9465963,,,4
+H3,2009,2009,2009,2,0,1,Import,76,Brazil,BRA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,517,,,4
+H3,2009,2009,2009,2,0,2,Export,76,Brazil,BRA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14412,,,0
+H3,2009,2009,2009,2,0,1,Import,76,Brazil,BRA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6481942,,,0
+H2,2009,2009,2009,2,0,1,Import,84,Belize,BLZ,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,187375,,,0
+H2,2009,2009,2009,2,0,1,Import,84,Belize,BLZ,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1098,,,0
+H3,2009,2009,2009,2,0,1,Import,100,Bulgaria,BGR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10456647,,,0
+H3,2009,2009,2009,2,0,2,Export,100,Bulgaria,BGR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,20430304,,,0
+H3,2009,2009,2009,2,0,1,Import,100,Bulgaria,BGR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3496,,,0
+H3,2009,2009,2009,2,0,1,Import,100,Bulgaria,BGR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3240098,,,0
+H3,2009,2009,2009,2,0,2,Export,100,Bulgaria,BGR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1653649,,,0
+H3,2009,2009,2009,2,0,1,Import,100,Bulgaria,BGR,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,660,,,0
+H3,2009,2009,2009,2,0,2,Export,100,Bulgaria,BGR,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,233,,,0
+H3,2009,2009,2009,2,0,1,Import,100,Bulgaria,BGR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,34316,,,0
+H3,2009,2009,2009,2,0,2,Export,100,Bulgaria,BGR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,116046,,,0
+H3,2009,2009,2009,2,0,1,Import,100,Bulgaria,BGR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,42764,,,0
+H3,2009,2009,2009,2,0,2,Export,112,Belarus,BLR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,21400,,,0
+H3,2009,2009,2009,2,0,1,Import,112,Belarus,BLR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,933400,,,0
+H3,2009,2009,2009,2,0,2,Export,112,Belarus,BLR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,100,,,0
+H3,2009,2009,2009,2,0,1,Import,112,Belarus,BLR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,44400,,,0
+H3,2009,2009,2009,2,0,1,Import,112,Belarus,BLR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2208900,,,0
+H3,2009,2009,2009,2,0,2,Export,116,Cambodia,KHM,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,346,,,0
+H2,2009,2009,2009,2,0,1,Import,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,19450210,,,0
+H2,2009,2009,2009,2,0,1,Import,120,Cameroon,CMR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,519784,,,0
+H2,2009,2009,2009,2,0,1,Import,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2959426,,,0
+H2,2009,2009,2009,2,0,2,Export,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,252021,,,0
+H2,2009,2009,2009,2,0,1,Import,120,Cameroon,CMR,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5,,,0
+H2,2009,2009,2009,2,0,1,Import,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,774,,,0
+H2,2009,2009,2009,2,0,2,Export,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2541,,,0
+H3,2009,2009,2009,2,0,1,Import,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,13,,,0
+H3,2009,2009,2009,2,0,2,Export,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1377652,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,42,,,0
+H3,2009,2009,2009,2,0,2,Export,124,Canada,CAN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,23098,,,0
+H3,2009,2009,2009,2,0,1,Import,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,51991735,,,0
+H3,2009,2009,2009,2,0,2,Export,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,135817,,,0
+H3,2009,2009,2009,2,0,2,Export,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7232,,,0
+H3,2009,2009,2009,2,0,2,Export,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,462903,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,419848,,,0
+H3,2009,2009,2009,2,0,1,Import,124,Canada,CAN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1973,,,0
+H3,2009,2009,2009,2,0,2,Export,124,Canada,CAN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,48485,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,124,Canada,CAN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12212,,,0
+H3,2009,2009,2009,2,0,1,Import,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1564182,,,0
+H3,2009,2009,2009,2,0,2,Export,124,Canada,CAN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,187859,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,124,Canada,CAN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13506,,,0
+H3,2009,2009,2009,2,0,1,Import,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,48494,,,0
+H3,2009,2009,2009,2,0,2,Export,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,109220,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,869,,,0
+H3,2009,2009,2009,2,0,1,Import,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10424856,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3374,,,0
+H3,2009,2009,2009,2,0,1,Import,124,Canada,CAN,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,57,,,0
+H3,2009,2009,2009,2,0,1,Import,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1465950,,,0
+H3,2009,2009,2009,2,0,2,Export,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2952257,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,144120,,,0
+H3,2009,2009,2009,2,0,1,Import,124,Canada,CAN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,122194,,,0
+H3,2009,2009,2009,2,0,1,Import,132,Cabo Verde,CPV,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,590282,,,0
+H3,2009,2009,2009,2,0,2,Export,132,Cabo Verde,CPV,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3183716,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,132,Cabo Verde,CPV,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3183716,,,0
+H2,2009,2009,2009,2,0,1,Import,140,Central African Rep.,CAF,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,90574,,,0
+H3,2009,2009,2009,2,0,2,Export,144,Sri Lanka,LKA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,87510,,,0
+H3,2009,2009,2009,2,0,2,Export,144,Sri Lanka,LKA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24991,,,0
+H3,2009,2009,2009,2,0,1,Import,152,Chile,CHL,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1121,,,0
+H3,2009,2009,2009,2,0,2,Export,152,Chile,CHL,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,39732,,,0
+H3,2009,2009,2009,2,0,1,Import,152,Chile,CHL,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,266,,,0
+H3,2009,2009,2009,2,0,1,Import,152,Chile,CHL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,358567,,,0
+H3,2009,2009,2009,2,0,2,Export,152,Chile,CHL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10384931,,,0
+H3,2009,2009,2009,2,0,1,Import,152,Chile,CHL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25225,,,0
+H3,2009,2009,2009,2,0,2,Export,152,Chile,CHL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19400,,,0
+H3,2009,2009,2009,2,0,2,Export,152,Chile,CHL,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14115,,,0
+H3,2009,2009,2009,2,0,1,Import,152,Chile,CHL,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1458213,,,0
+H3,2009,2009,2009,2,0,2,Export,152,Chile,CHL,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,21168,,,0
+H3,2009,2009,2009,2,0,2,Export,156,China,CHN,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1696581,,,0
+H3,2009,2009,2009,2,0,2,Export,156,China,CHN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2840118,,,0
+H3,2009,2009,2009,2,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,445420,,,0
+H3,2009,2009,2009,2,0,2,Export,156,China,CHN,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13277,,,0
+H3,2009,2009,2009,2,0,1,Import,156,China,CHN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2578736,,,0
+H3,2009,2009,2009,2,0,2,Export,156,China,CHN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13568249,,,0
+H3,2009,2009,2009,2,0,2,Export,156,China,CHN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4615219,,,0
+H3,2009,2009,2009,2,0,1,Import,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8178964,,,0
+H3,2009,2009,2009,2,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11375875,,,0
+H3,2009,2009,2009,2,0,1,Import,156,China,CHN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4813344,,,0
+H3,2009,2009,2009,2,0,2,Export,156,China,CHN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,42459398,,,0
+H3,2009,2009,2009,2,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10910108,,,0
+H3,2009,2009,2009,2,0,1,Import,156,China,CHN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23112,,,0
+H3,2009,2009,2009,2,0,2,Export,156,China,CHN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12686360,,,0
+H3,2009,2009,2009,2,0,1,Import,156,China,CHN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2345,,,0
+H3,2009,2009,2009,2,0,1,Import,170,Colombia,COL,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,25809,,,0
+H3,2009,2009,2009,2,0,2,Export,170,Colombia,COL,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,20696460,,,0
+H3,2009,2009,2009,2,0,2,Export,170,Colombia,COL,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,23197796,,,0
+H3,2009,2009,2009,2,0,1,Import,170,Colombia,COL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3362049,,,0
+H3,2009,2009,2009,2,0,2,Export,170,Colombia,COL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,41973544,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,170,Colombia,COL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19104,,,0
+H3,2009,2009,2009,2,0,4,Re-Import,170,Colombia,COL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,538064,,,0
+H3,2009,2009,2009,2,0,1,Import,170,Colombia,COL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,194,,,0
+H3,2009,2009,2009,2,0,2,Export,170,Colombia,COL,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,162260,,,0
+H3,2009,2009,2009,2,0,1,Import,170,Colombia,COL,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1306316,,,0
+H3,2009,2009,2009,2,0,2,Export,170,Colombia,COL,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,625223,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,170,Colombia,COL,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,223,,,0
+H2,2009,2009,2009,2,0,1,Import,174,Comoros,COM,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2838,,,0
+H3,2009,2009,2009,2,0,1,Import,175,Mayotte,MYT,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,49,,,0
+H2,2009,2009,2009,2,0,2,Export,178,Congo,COG,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10756249,,,0
+H2,2009,2009,2009,2,0,1,Import,178,Congo,COG,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,30966310,,,0
+H2,2009,2009,2009,2,0,2,Export,178,Congo,COG,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,51540997,,,0
+H2,2009,2009,2009,2,0,1,Import,178,Congo,COG,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,429637,,,0
+H2,2009,2009,2009,2,0,1,Import,178,Congo,COG,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3117,,,0
+H2,2009,2009,2009,2,0,2,Export,178,Congo,COG,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,443,,,0
+H0,2009,2009,2009,2,0,1,Import,184,Cook Isds,COK,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,3321,,,0
+H0,2009,2009,2009,2,0,1,Import,184,Cook Isds,COK,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3567,,,0
+H0,2009,2009,2009,2,0,1,Import,184,Cook Isds,COK,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,96816,,,0
+H3,2009,2009,2009,2,0,1,Import,188,Costa Rica,CRI,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,98,,,0
+H3,2009,2009,2009,2,0,1,Import,188,Costa Rica,CRI,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8,,,0
+H3,2009,2009,2009,2,0,1,Import,191,Croatia,HRV,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31703,,,0
+H3,2009,2009,2009,2,0,1,Import,191,Croatia,HRV,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1929,,,0
+H3,2009,2009,2009,2,0,1,Import,191,Croatia,HRV,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6368,,,0
+H3,2009,2009,2009,2,0,1,Import,196,Cyprus,CYP,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,12572959,,,0
+H3,2009,2009,2009,2,0,1,Import,196,Cyprus,CYP,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,14605117,,,0
+H3,2009,2009,2009,2,0,1,Import,196,Cyprus,CYP,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33562,,,0
+H3,2009,2009,2009,2,0,1,Import,203,Czechia,CZE,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1087060,,,0
+H3,2009,2009,2009,2,0,2,Export,203,Czechia,CZE,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2577000,,,0
+H3,2009,2009,2009,2,0,1,Import,203,Czechia,CZE,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10,,,0
+H3,2009,2009,2009,2,0,1,Import,203,Czechia,CZE,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8000,,,0
+H3,2009,2009,2009,2,0,2,Export,203,Czechia,CZE,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1577000,,,0
+H3,2009,2009,2009,2,0,1,Import,203,Czechia,CZE,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5768000,,,0
+H3,2009,2009,2009,2,0,1,Import,203,Czechia,CZE,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,336000,,,0
+H3,2009,2009,2009,2,0,2,Export,203,Czechia,CZE,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5379169,,,0
+H3,2009,2009,2009,2,0,1,Import,203,Czechia,CZE,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12206000,,,0
+H3,2009,2009,2009,2,0,2,Export,203,Czechia,CZE,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19263162,,,0
+H3,2009,2009,2009,2,0,1,Import,203,Czechia,CZE,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1038,,,0
+H3,2009,2009,2009,2,0,2,Export,203,Czechia,CZE,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7298,,,0
+H3,2009,2009,2009,2,0,1,Import,203,Czechia,CZE,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38155,,,0
+H3,2009,2009,2009,2,0,1,Import,203,Czechia,CZE,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19,,,0
+H3,2009,2009,2009,2,0,2,Export,203,Czechia,CZE,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2126,,,0
+H2,2009,2009,2009,2,0,1,Import,204,Benin,BEN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,19009493,,,0
+H2,2009,2009,2009,2,0,1,Import,204,Benin,BEN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,44151,,,0
+H2,2009,2009,2009,2,0,1,Import,204,Benin,BEN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2553154,,,0
+H2,2009,2009,2009,2,0,2,Export,204,Benin,BEN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,534,,,0
+H2,2009,2009,2009,2,0,1,Import,204,Benin,BEN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,41783,,,0
+H3,2009,2009,2009,2,0,2,Export,208,Denmark,DNK,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,7937,,,0
+H3,2009,2009,2009,2,0,1,Import,208,Denmark,DNK,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9423,,,0
+H3,2009,2009,2009,2,0,2,Export,208,Denmark,DNK,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,465679,,,0
+H3,2009,2009,2009,2,0,1,Import,208,Denmark,DNK,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10723,,,0
+H3,2009,2009,2009,2,0,2,Export,208,Denmark,DNK,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1239476,,,0
+H3,2009,2009,2009,2,0,1,Import,208,Denmark,DNK,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1079,,,0
+H3,2009,2009,2009,2,0,2,Export,208,Denmark,DNK,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,95233,,,0
+H3,2009,2009,2009,2,0,2,Export,208,Denmark,DNK,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,263,,,0
+H3,2009,2009,2009,2,0,1,Import,208,Denmark,DNK,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7840,,,0
+H3,2009,2009,2009,2,0,2,Export,208,Denmark,DNK,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,463892,,,0
+H3,2009,2009,2009,2,0,1,Import,212,Dominica,DMA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14117,,,0
+H3,2009,2009,2009,2,0,1,Import,214,Dominican Rep.,DOM,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6139416,,,0
+H3,2009,2009,2009,2,0,1,Import,214,Dominican Rep.,DOM,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32759880,,,0
+H3,2009,2009,2009,2,0,2,Export,214,Dominican Rep.,DOM,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2773838,,,0
+H3,2009,2009,2009,2,0,1,Import,214,Dominican Rep.,DOM,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2611711,,,0
+H3,2009,2009,2009,2,0,2,Export,214,Dominican Rep.,DOM,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5400,,,0
+H3,2009,2009,2009,2,0,1,Import,214,Dominican Rep.,DOM,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,352,,,0
+H3,2009,2009,2009,2,0,1,Import,214,Dominican Rep.,DOM,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,825,,,0
+H3,2009,2009,2009,2,0,1,Import,218,Ecuador,ECU,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,650,,,0
+H3,2009,2009,2009,2,0,1,Import,218,Ecuador,ECU,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,822388,,,0
+H3,2009,2009,2009,2,0,2,Export,218,Ecuador,ECU,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,227887,,,0
+H3,2009,2009,2009,2,0,1,Import,218,Ecuador,ECU,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,506213,,,0
+H3,2009,2009,2009,2,0,2,Export,218,Ecuador,ECU,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,317339,,,0
+H3,2009,2009,2009,2,0,1,Import,222,El Salvador,SLV,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,32007,,,0
+H3,2009,2009,2009,2,0,2,Export,222,El Salvador,SLV,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10835901,,,0
+H3,2009,2009,2009,2,0,1,Import,222,El Salvador,SLV,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11029885,,,0
+H3,2009,2009,2009,2,0,2,Export,222,El Salvador,SLV,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9970436,,,0
+H3,2009,2009,2009,2,0,1,Import,222,El Salvador,SLV,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6971665,,,0
+H3,2009,2009,2009,2,0,2,Export,222,El Salvador,SLV,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,120619,,,0
+H3,2009,2009,2009,2,0,2,Export,233,Estonia,EST,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6387,,,0
+H3,2009,2009,2009,2,0,2,Export,233,Estonia,EST,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,150229,,,0
+H3,2009,2009,2009,2,0,1,Import,233,Estonia,EST,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,924,,,0
+H3,2009,2009,2009,2,0,1,Import,233,Estonia,EST,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9903,,,0
+H3,2009,2009,2009,2,0,2,Export,233,Estonia,EST,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,401340,,,0
+H3,2009,2009,2009,2,0,1,Import,233,Estonia,EST,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,805,,,0
+H3,2009,2009,2009,2,0,2,Export,233,Estonia,EST,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2997,,,0
+H3,2009,2009,2009,2,0,1,Import,233,Estonia,EST,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,173803,,,0
+H3,2009,2009,2009,2,0,1,Import,234,Faeroe Isds,FRO,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,640,,,0
+H3,2009,2009,2009,2,0,1,Import,234,Faeroe Isds,FRO,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12216,,,0
+H3,2009,2009,2009,2,0,1,Import,242,Fiji,FJI,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,216088,,,0
+H3,2009,2009,2009,2,0,2,Export,242,Fiji,FJI,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,49817,,,0
+H3,2009,2009,2009,2,0,2,Export,242,Fiji,FJI,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16855,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,242,Fiji,FJI,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14824,,,0
+H3,2009,2009,2009,2,0,1,Import,246,Finland,FIN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,41803,,,0
+H3,2009,2009,2009,2,0,2,Export,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,43098140,,,0
+H3,2009,2009,2009,2,0,1,Import,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29870,,,0
+H3,2009,2009,2009,2,0,2,Export,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,83392,,,0
+H3,2009,2009,2009,2,0,1,Import,246,Finland,FIN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23362,,,0
+H3,2009,2009,2009,2,0,2,Export,246,Finland,FIN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,696338,,,0
+H3,2009,2009,2009,2,0,2,Export,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,469434,,,0
+H3,2009,2009,2009,2,0,2,Export,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3777,,,0
+H3,2009,2009,2009,2,0,1,Import,246,Finland,FIN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,61550,,,0
+H3,2009,2009,2009,2,0,2,Export,246,Finland,FIN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,752737,,,0
+H3,2009,2009,2009,2,0,1,Import,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3842638,,,0
+H3,2009,2009,2009,2,0,2,Export,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,533,,,0
+H3,2009,2009,2009,2,0,2,Export,251,France,FRA,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,269529,,,0
+H3,2009,2009,2009,2,0,2,Export,251,France,FRA,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5744859,,,0
+H3,2009,2009,2009,2,0,1,Import,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,11701864,,,0
+H3,2009,2009,2009,2,0,2,Export,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,43130206,,,0
+H3,2009,2009,2009,2,0,1,Import,251,France,FRA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,925767,,,0
+H3,2009,2009,2009,2,0,2,Export,251,France,FRA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1139247,,,0
+H3,2009,2009,2009,2,0,1,Import,251,France,FRA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1388,,,0
+H3,2009,2009,2009,2,0,2,Export,251,France,FRA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4770942,,,0
+H3,2009,2009,2009,2,0,1,Import,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,26174089,,,0
+H3,2009,2009,2009,2,0,2,Export,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5411421,,,0
+H3,2009,2009,2009,2,0,1,Import,251,France,FRA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1764093,,,0
+H3,2009,2009,2009,2,0,2,Export,251,France,FRA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19606155,,,0
+H3,2009,2009,2009,2,0,1,Import,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4164,,,0
+H3,2009,2009,2009,2,0,2,Export,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19656171,,,0
+H3,2009,2009,2009,2,0,1,Import,251,France,FRA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2566332,,,0
+H3,2009,2009,2009,2,0,2,Export,251,France,FRA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,155604,,,0
+H3,2009,2009,2009,2,0,2,Export,258,French Polynesia,PYF,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1536,,,0
+H3,2009,2009,2009,2,0,1,Import,258,French Polynesia,PYF,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2170,,,0
+H3,2009,2009,2009,2,0,1,Import,258,French Polynesia,PYF,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,458,,,0
+H3,2009,2009,2009,2,0,2,Export,258,French Polynesia,PYF,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,71,,,0
+H3,2009,2009,2009,2,0,1,Import,258,French Polynesia,PYF,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,106,,,0
+H3,2009,2009,2009,2,0,1,Import,262,Djibouti,DJI,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,284949,,,0
+H2,2009,2009,2009,2,0,1,Import,266,Gabon,GAB,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2478271,,,0
+H2,2009,2009,2009,2,0,2,Export,266,Gabon,GAB,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3,,,0
+H2,2009,2009,2009,2,0,1,Import,266,Gabon,GAB,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,976599,,,0
+H2,2009,2009,2009,2,0,2,Export,266,Gabon,GAB,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19797,,,0
+H2,2009,2009,2009,2,0,1,Import,266,Gabon,GAB,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,56112,,,0
+H3,2009,2009,2009,2,0,1,Import,268,Georgia,GEO,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9243,,,0
+H3,2009,2009,2009,2,0,2,Export,268,Georgia,GEO,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,220,,,0
+H3,2009,2009,2009,2,0,1,Import,268,Georgia,GEO,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,61,,,0
+H1,2009,2009,2009,2,0,1,Import,270,Gambia,GMB,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,0,,,,0,,8312958,,,0
+H1,2009,2009,2009,2,0,1,Import,270,Gambia,GMB,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,47722,,,0
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,28132,,,0
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,466388,,,4
+H3,2009,2009,2009,2,0,1,Import,276,Germany,DEU,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,212644,,,0
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,10690890,,,0
+H3,2009,2009,2009,2,0,1,Import,276,Germany,DEU,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,668562658,,,0
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1712339,,,4
+H3,2009,2009,2009,2,0,1,Import,276,Germany,DEU,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,47061919,,,0
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2384200,,,4
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7879527,,,4
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5855,,,0
+H3,2009,2009,2009,2,0,1,Import,276,Germany,DEU,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1903428,,,0
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,775304,,,4
+H3,2009,2009,2009,2,0,1,Import,276,Germany,DEU,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5285607,,,4
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,19392027,,,4
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,86155,,,4
+H3,2009,2009,2009,2,0,1,Import,276,Germany,DEU,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,65248,,,4
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6766354,,,4
+H3,2009,2009,2009,2,0,1,Import,276,Germany,DEU,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,34780376,,,4
+H3,2009,2009,2009,2,0,2,Export,276,Germany,DEU,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,173015078,,,4
+H3,2009,2009,2009,2,0,1,Import,276,Germany,DEU,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,454,,,0
+H2,2009,2009,2009,2,0,1,Import,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,31159403,,,0
+H2,2009,2009,2009,2,0,2,Export,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,64608,,,0
+H2,2009,2009,2009,2,0,1,Import,288,Ghana,GHA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1860,,,0
+H2,2009,2009,2009,2,0,1,Import,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,219851,,,0
+H2,2009,2009,2009,2,0,2,Export,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21653370,,,0
+H2,2009,2009,2009,2,0,1,Import,288,Ghana,GHA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,111,,,0
+H2,2009,2009,2009,2,0,1,Import,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22339,,,0
+H2,2009,2009,2009,2,0,2,Export,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,192276,,,0
+H3,2009,2009,2009,2,0,2,Export,300,Greece,GRC,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,84274,,,0
+H3,2009,2009,2009,2,0,1,Import,300,Greece,GRC,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,22197790,,,0
+H3,2009,2009,2009,2,0,2,Export,300,Greece,GRC,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,20911381,,,0
+H3,2009,2009,2009,2,0,2,Export,300,Greece,GRC,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,762481,,,0
+H3,2009,2009,2009,2,0,1,Import,300,Greece,GRC,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1153828,,,0
+H3,2009,2009,2009,2,0,2,Export,300,Greece,GRC,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1109135,,,0
+H3,2009,2009,2009,2,0,2,Export,300,Greece,GRC,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,41207,,,0
+H3,2009,2009,2009,2,0,1,Import,300,Greece,GRC,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8900,,,0
+H3,2009,2009,2009,2,0,2,Export,300,Greece,GRC,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3871,,,0
+H3,2009,2009,2009,2,0,1,Import,300,Greece,GRC,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4951036,,,0
+H3,2009,2009,2009,2,0,1,Import,304,Greenland,GRL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,23588,,,0
+H1,2009,2009,2009,2,0,1,Import,308,Grenada,GRD,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32740,,,0
+H3,2009,2009,2009,2,0,1,Import,320,Guatemala,GTM,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6577030,,,0
+H3,2009,2009,2009,2,0,2,Export,320,Guatemala,GTM,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,708101,,,0
+H3,2009,2009,2009,2,0,1,Import,320,Guatemala,GTM,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25763587,,,0
+H3,2009,2009,2009,2,0,2,Export,320,Guatemala,GTM,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22768832,,,0
+H3,2009,2009,2009,2,0,1,Import,320,Guatemala,GTM,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6581859,,,0
+H3,2009,2009,2009,2,0,2,Export,320,Guatemala,GTM,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8912157,,,0
+H3,2009,2009,2009,2,0,1,Import,320,Guatemala,GTM,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,21,,,0
+H3,2009,2009,2009,2,0,1,Import,328,Guyana,GUY,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,172705,,,0
+H3,2009,2009,2009,2,0,1,Import,328,Guyana,GUY,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30,,,0
+H3,2009,2009,2009,2,0,1,Import,340,Honduras,HND,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,15789397,,,0
+H3,2009,2009,2009,2,0,2,Export,340,Honduras,HND,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,585943,,,0
+H3,2009,2009,2009,2,0,1,Import,340,Honduras,HND,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18491299,,,0
+H3,2009,2009,2009,2,0,2,Export,340,Honduras,HND,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3291843,,,0
+H3,2009,2009,2009,2,0,1,Import,340,Honduras,HND,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6733036,,,0
+H3,2009,2009,2009,2,0,2,Export,340,Honduras,HND,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1863964,,,0
+H3,2009,2009,2009,2,0,2,Export,344,"China, Hong Kong SAR",HKG,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,38605,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,38605,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3394,,,0
+H3,2009,2009,2009,2,0,1,Import,344,"China, Hong Kong SAR",HKG,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,328,,,0
+H3,2009,2009,2009,2,0,2,Export,344,"China, Hong Kong SAR",HKG,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3394,,,0
+H3,2009,2009,2009,2,0,2,Export,344,"China, Hong Kong SAR",HKG,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,555680,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,555680,,,0
+H3,2009,2009,2009,2,0,1,Import,344,"China, Hong Kong SAR",HKG,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,183,,,0
+H3,2009,2009,2009,2,0,2,Export,344,"China, Hong Kong SAR",HKG,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,38776,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14868,,,0
+H3,2009,2009,2009,2,0,1,Import,344,"China, Hong Kong SAR",HKG,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,383086,,,0
+H3,2009,2009,2009,2,0,2,Export,344,"China, Hong Kong SAR",HKG,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1008583,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1008583,,,0
+H3,2009,2009,2009,2,0,1,Import,344,"China, Hong Kong SAR",HKG,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,426285,,,0
+H3,2009,2009,2009,2,0,2,Export,348,Hungary,HUN,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,47000,,,0
+H3,2009,2009,2009,2,0,1,Import,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,72839000,,,0
+H3,2009,2009,2009,2,0,2,Export,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,351473000,,,0
+H3,2009,2009,2009,2,0,2,Export,348,Hungary,HUN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,67000,,,0
+H3,2009,2009,2009,2,0,2,Export,348,Hungary,HUN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,8,Weight in kilograms,100,,,,100,,1000,,,0
+H3,2009,2009,2009,2,0,1,Import,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5882000,,,0
+H3,2009,2009,2009,2,0,2,Export,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39253000,,,0
+H3,2009,2009,2009,2,0,2,Export,348,Hungary,HUN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6000,,,0
+H3,2009,2009,2009,2,0,1,Import,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,39000,,,0
+H3,2009,2009,2009,2,0,2,Export,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18789000,,,0
+H3,2009,2009,2009,2,0,1,Import,348,Hungary,HUN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,132000,,,0
+H3,2009,2009,2009,2,0,2,Export,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4275,,,0
+H3,2009,2009,2009,2,0,1,Import,352,Iceland,ISL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1008,,,0
+H3,2009,2009,2009,2,0,1,Import,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,868,,,0
+H3,2009,2009,2009,2,0,1,Import,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,41,,,0
+H1,2009,2009,2009,2,0,2,Export,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,22473603,,,0
+H1,2009,2009,2009,2,0,1,Import,360,Indonesia,IDN,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29,,,0
+H1,2009,2009,2009,2,0,2,Export,360,Indonesia,IDN,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5037,,,0
+H1,2009,2009,2009,2,0,1,Import,360,Indonesia,IDN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10844,,,0
+H1,2009,2009,2009,2,0,2,Export,360,Indonesia,IDN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,939484,,,0
+H1,2009,2009,2009,2,0,2,Export,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,83308,,,0
+H1,2009,2009,2009,2,0,2,Export,360,Indonesia,IDN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,154475,,,0
+H1,2009,2009,2009,2,0,2,Export,360,Indonesia,IDN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2198878,,,0
+H1,2009,2009,2009,2,0,1,Import,360,Indonesia,IDN,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,31658,,,0
+H1,2009,2009,2009,2,0,2,Export,360,Indonesia,IDN,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,887,,,0
+H1,2009,2009,2009,2,0,2,Export,360,Indonesia,IDN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3950526,,,0
+H1,2009,2009,2009,2,0,1,Import,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3,,,0
+H1,2009,2009,2009,2,0,2,Export,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,388531,,,0
+H3,2009,2009,2009,2,0,2,Export,372,Ireland,IRL,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1817,,,0
+H3,2009,2009,2009,2,0,1,Import,372,Ireland,IRL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12477,,,0
+H3,2009,2009,2009,2,0,2,Export,372,Ireland,IRL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21061,,,0
+H3,2009,2009,2009,2,0,1,Import,372,Ireland,IRL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,162135,,,0
+H3,2009,2009,2009,2,0,2,Export,372,Ireland,IRL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,314488,,,0
+H3,2009,2009,2009,2,0,1,Import,372,Ireland,IRL,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,96,,,0
+H3,2009,2009,2009,2,0,2,Export,372,Ireland,IRL,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,81572,,,0
+H3,2009,2009,2009,2,0,1,Import,372,Ireland,IRL,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,117042,,,0
+H3,2009,2009,2009,2,0,2,Export,372,Ireland,IRL,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4148,,,0
+H3,2009,2009,2009,2,0,2,Export,376,Israel,ISR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1454000,,,0
+H3,2009,2009,2009,2,0,1,Import,376,Israel,ISR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,144000,,,0
+H3,2009,2009,2009,2,0,2,Export,376,Israel,ISR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3294000,,,0
+H3,2009,2009,2009,2,0,1,Import,376,Israel,ISR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,59000,,,0
+H3,2009,2009,2009,2,0,2,Export,376,Israel,ISR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1668000,,,0
+H3,2009,2009,2009,2,0,2,Export,376,Israel,ISR,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,109000,,,0
+H3,2009,2009,2009,2,0,2,Export,376,Israel,ISR,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,215000,,,0
+H3,2009,2009,2009,2,0,2,Export,381,Italy,ITA,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,246445,,,0
+H3,2009,2009,2009,2,0,1,Import,381,Italy,ITA,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,373842517,,,0
+H3,2009,2009,2009,2,0,2,Export,381,Italy,ITA,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,191422078,,,0
+H3,2009,2009,2009,2,0,1,Import,381,Italy,ITA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6508148,,,0
+H3,2009,2009,2009,2,0,2,Export,381,Italy,ITA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2885584,,,0
+H3,2009,2009,2009,2,0,1,Import,381,Italy,ITA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,47763,,,0
+H3,2009,2009,2009,2,0,2,Export,381,Italy,ITA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,357022,,,0
+H3,2009,2009,2009,2,0,1,Import,381,Italy,ITA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,999249,,,0
+H3,2009,2009,2009,2,0,2,Export,381,Italy,ITA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14224747,,,0
+H3,2009,2009,2009,2,0,1,Import,381,Italy,ITA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28753496,,,0
+H3,2009,2009,2009,2,0,2,Export,381,Italy,ITA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,653026,,,0
+H3,2009,2009,2009,2,0,1,Import,381,Italy,ITA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,81919,,,0
+H3,2009,2009,2009,2,0,2,Export,381,Italy,ITA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4069639,,,0
+H3,2009,2009,2009,2,0,1,Import,381,Italy,ITA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,91821902,,,0
+H3,2009,2009,2009,2,0,2,Export,381,Italy,ITA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,144457692,,,0
+H3,2009,2009,2009,2,0,1,Import,381,Italy,ITA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,162033,,,0
+H3,2009,2009,2009,2,0,2,Export,381,Italy,ITA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7328406,,,0
+H3,2009,2009,2009,2,0,2,Export,384,Côte d'Ivoire,CIV,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12490,,,0
+H3,2009,2009,2009,2,0,1,Import,388,Jamaica,JAM,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,249,,,0
+H3,2009,2009,2009,2,0,1,Import,388,Jamaica,JAM,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4187578,,,0
+H3,2009,2009,2009,2,0,2,Export,388,Jamaica,JAM,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24477,,,0
+H3,2009,2009,2009,2,0,1,Import,388,Jamaica,JAM,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,121603,,,0
+H3,2009,2009,2009,2,0,2,Export,392,Japan,JPN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,227332,,,0
+H3,2009,2009,2009,2,0,1,Import,392,Japan,JPN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1737862,,,0
+H3,2009,2009,2009,2,0,2,Export,392,Japan,JPN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,590350,,,0
+H3,2009,2009,2009,2,0,2,Export,392,Japan,JPN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,221533,,,0
+H3,2009,2009,2009,2,0,2,Export,392,Japan,JPN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31517,,,0
+H3,2009,2009,2009,2,0,1,Import,392,Japan,JPN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,542967,,,0
+H3,2009,2009,2009,2,0,2,Export,392,Japan,JPN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5389806,,,0
+H3,2009,2009,2009,2,0,2,Export,392,Japan,JPN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1570528,,,0
+H3,2009,2009,2009,2,0,2,Export,392,Japan,JPN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4173645,,,0
+H3,2009,2009,2009,2,0,2,Export,398,Kazakhstan,KAZ,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,108926658,,,0
+H3,2009,2009,2009,2,0,1,Import,398,Kazakhstan,KAZ,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,102,,,0
+H3,2009,2009,2009,2,0,1,Import,398,Kazakhstan,KAZ,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28619,,,0
+H3,2009,2009,2009,2,0,1,Import,398,Kazakhstan,KAZ,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24073,,,0
+H3,2009,2009,2009,2,0,1,Import,400,Jordan,JOR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,193,,,0
+H3,2009,2009,2009,2,0,1,Import,404,Kenya,KEN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3805,,,0
+H3,2009,2009,2009,2,0,2,Export,404,Kenya,KEN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,157704,,,0
+H3,2009,2009,2009,2,0,1,Import,404,Kenya,KEN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10546,,,0
+H3,2009,2009,2009,2,0,2,Export,404,Kenya,KEN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,101,,,0
+H3,2009,2009,2009,2,0,1,Import,410,Rep. of Korea,KOR,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10,,,0
+H3,2009,2009,2009,2,0,2,Export,410,Rep. of Korea,KOR,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,163271,,,0
+H3,2009,2009,2009,2,0,2,Export,410,Rep. of Korea,KOR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,244103,,,0
+H3,2009,2009,2009,2,0,1,Import,410,Rep. of Korea,KOR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,55781,,,0
+H3,2009,2009,2009,2,0,2,Export,410,Rep. of Korea,KOR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3828052,,,0
+H3,2009,2009,2009,2,0,1,Import,410,Rep. of Korea,KOR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17493,,,0
+H3,2009,2009,2009,2,0,2,Export,410,Rep. of Korea,KOR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1080296,,,0
+H3,2009,2009,2009,2,0,2,Export,410,Rep. of Korea,KOR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22594995,,,0
+H3,2009,2009,2009,2,0,1,Import,410,Rep. of Korea,KOR,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16,,,0
+H3,2009,2009,2009,2,0,2,Export,410,Rep. of Korea,KOR,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14833328,,,0
+H3,2009,2009,2009,2,0,2,Export,410,Rep. of Korea,KOR,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5352804,,,0
+H3,2009,2009,2009,2,0,1,Import,410,Rep. of Korea,KOR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,284,,,0
+H3,2009,2009,2009,2,0,2,Export,410,Rep. of Korea,KOR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,82394,,,0
+H2,2009,2009,2009,2,0,2,Export,414,Kuwait,KWT,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,950223,,,0
+H2,2009,2009,2009,2,0,2,Export,414,Kuwait,KWT,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4276631,,,0
+H3,2009,2009,2009,2,0,1,Import,422,Lebanon,LBN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,16832862,,,0
+H3,2009,2009,2009,2,0,2,Export,422,Lebanon,LBN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1081,,,0
+H3,2009,2009,2009,2,0,1,Import,422,Lebanon,LBN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,532,,,0
+H3,2009,2009,2009,2,0,1,Import,422,Lebanon,LBN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1654,,,0
+H3,2009,2009,2009,2,0,2,Export,422,Lebanon,LBN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,952659,,,0
+H3,2009,2009,2009,2,0,2,Export,422,Lebanon,LBN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,26883,,,0
+H3,2009,2009,2009,2,0,2,Export,428,Latvia,LVA,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,30498,,,0
+H3,2009,2009,2009,2,0,2,Export,428,Latvia,LVA,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,306876,,,0
+H3,2009,2009,2009,2,0,2,Export,428,Latvia,LVA,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,90727,,,0
+H3,2009,2009,2009,2,0,1,Import,428,Latvia,LVA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,69,,,0
+H3,2009,2009,2009,2,0,2,Export,428,Latvia,LVA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1830,,,0
+H3,2009,2009,2009,2,0,1,Import,428,Latvia,LVA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,79361,,,0
+H3,2009,2009,2009,2,0,2,Export,428,Latvia,LVA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13339,,,0
+H3,2009,2009,2009,2,0,2,Export,428,Latvia,LVA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1859,,,0
+H2,2009,2009,2009,2,0,2,Export,434,Libya,LBY,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,149047864,,,0
+H2,2009,2009,2009,2,0,1,Import,434,Libya,LBY,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39799,,,0
+H3,2009,2009,2009,2,0,2,Export,440,Lithuania,LTU,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,36249,,,0
+H3,2009,2009,2009,2,0,1,Import,440,Lithuania,LTU,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,60968,,,0
+H3,2009,2009,2009,2,0,2,Export,440,Lithuania,LTU,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1468495,,,0
+H3,2009,2009,2009,2,0,2,Export,440,Lithuania,LTU,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28450,,,0
+H3,2009,2009,2009,2,0,1,Import,440,Lithuania,LTU,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,887759,,,0
+H3,2009,2009,2009,2,0,2,Export,440,Lithuania,LTU,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,792011,,,0
+H3,2009,2009,2009,2,0,1,Import,440,Lithuania,LTU,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,34,,,0
+H3,2009,2009,2009,2,0,2,Export,440,Lithuania,LTU,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14642,,,0
+H3,2009,2009,2009,2,0,1,Import,442,Luxembourg,LUX,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1658,,,0
+H3,2009,2009,2009,2,0,1,Import,442,Luxembourg,LUX,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15322,,,0
+H3,2009,2009,2009,2,0,2,Export,442,Luxembourg,LUX,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,143151,,,0
+H3,2009,2009,2009,2,0,2,Export,442,Luxembourg,LUX,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4920,,,0
+H3,2009,2009,2009,2,0,1,Import,442,Luxembourg,LUX,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,760,,,0
+H3,2009,2009,2009,2,0,1,Import,442,Luxembourg,LUX,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2428,,,0
+H3,2009,2009,2009,2,0,2,Export,442,Luxembourg,LUX,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,194357,,,0
+H3,2009,2009,2009,2,0,1,Import,442,Luxembourg,LUX,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3687119,,,0
+H3,2009,2009,2009,2,0,2,Export,442,Luxembourg,LUX,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,174757,,,0
+H3,2009,2009,2009,2,0,1,Import,446,"China, Macao SAR",MAC,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9591,,,0
+H3,2009,2009,2009,2,0,1,Import,450,Madagascar,MDG,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,259,,,0
+H3,2009,2009,2009,2,0,1,Import,450,Madagascar,MDG,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,53674,,,0
+H3,2009,2009,2009,2,0,2,Export,450,Madagascar,MDG,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,433,,,0
+H3,2009,2009,2009,2,0,1,Import,450,Madagascar,MDG,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7659,,,0
+H3,2009,2009,2009,2,0,2,Export,458,Malaysia,MYS,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,80830,,,0
+H3,2009,2009,2009,2,0,1,Import,458,Malaysia,MYS,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,155477,,,0
+H3,2009,2009,2009,2,0,2,Export,458,Malaysia,MYS,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,901394,,,0
+H3,2009,2009,2009,2,0,1,Import,458,Malaysia,MYS,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9419,,,0
+H3,2009,2009,2009,2,0,2,Export,458,Malaysia,MYS,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1873436,,,0
+H3,2009,2009,2009,2,0,2,Export,458,Malaysia,MYS,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,360613,,,0
+H3,2009,2009,2009,2,0,1,Import,458,Malaysia,MYS,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4660,,,0
+H3,2009,2009,2009,2,0,2,Export,458,Malaysia,MYS,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4732603,,,0
+H3,2009,2009,2009,2,0,2,Export,458,Malaysia,MYS,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2773668,,,0
+H3,2009,2009,2009,2,0,1,Import,458,Malaysia,MYS,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,69462505,,,0
+H3,2009,2009,2009,2,0,2,Export,458,Malaysia,MYS,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,551579,,,0
+H3,2009,2009,2009,2,0,2,Export,470,Malta,MLT,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22444,,,0
+H3,2009,2009,2009,2,0,2,Export,470,Malta,MLT,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3385,,,0
+H3,2009,2009,2009,2,0,2,Export,470,Malta,MLT,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,166,,,0
+H1,2009,2009,2009,2,0,1,Import,478,Mauritania,MRT,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,96404,,,0
+H1,2009,2009,2009,2,0,1,Import,478,Mauritania,MRT,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,2876904,,,0
+H3,2009,2009,2009,2,0,1,Import,480,Mauritius,MUS,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,265,,,0
+H3,2009,2009,2009,2,0,1,Import,480,Mauritius,MUS,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5302,,,0
+H3,2009,2009,2009,2,0,2,Export,480,Mauritius,MUS,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,613,,,0
+H3,2009,2009,2009,2,0,1,Import,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,195,,,0
+H3,2009,2009,2009,2,0,2,Export,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6082207,,,0
+H3,2009,2009,2009,2,0,1,Import,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7830789,,,0
+H3,2009,2009,2009,2,0,2,Export,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,51783013,,,0
+H3,2009,2009,2009,2,0,1,Import,484,Mexico,MEX,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4737,,,0
+H3,2009,2009,2009,2,0,1,Import,484,Mexico,MEX,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3306,,,0
+H3,2009,2009,2009,2,0,2,Export,484,Mexico,MEX,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6750,,,0
+H3,2009,2009,2009,2,0,1,Import,484,Mexico,MEX,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12,,,0
+H3,2009,2009,2009,2,0,1,Import,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7921342,,,0
+H3,2009,2009,2009,2,0,2,Export,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14610849,,,0
+H3,2009,2009,2009,2,0,1,Import,484,Mexico,MEX,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,122,,,0
+H3,2009,2009,2009,2,0,1,Import,484,Mexico,MEX,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1155780,,,0
+H3,2009,2009,2009,2,0,2,Export,490,"Other Asia, nes",,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6976,,,0
+H3,2009,2009,2009,2,0,1,Import,490,"Other Asia, nes",,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5524,,,0
+H3,2009,2009,2009,2,0,2,Export,490,"Other Asia, nes",,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9497779,,,0
+H3,2009,2009,2009,2,0,1,Import,490,"Other Asia, nes",,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,102033,,,0
+H3,2009,2009,2009,2,0,2,Export,490,"Other Asia, nes",,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1265529,,,0
+H3,2009,2009,2009,2,0,2,Export,490,"Other Asia, nes",,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,956821,,,0
+H3,2009,2009,2009,2,0,2,Export,490,"Other Asia, nes",,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,394,,,0
+H3,2009,2009,2009,2,0,1,Import,490,"Other Asia, nes",,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10288,,,0
+H3,2009,2009,2009,2,0,2,Export,490,"Other Asia, nes",,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1592952,,,0
+H3,2009,2009,2009,2,0,2,Export,490,"Other Asia, nes",,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23870,,,0
+H3,2009,2009,2009,2,0,2,Export,490,"Other Asia, nes",,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,35305,,,0
+H3,2009,2009,2009,2,0,1,Import,498,Rep. of Moldova,MDA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,720,,,0
+H3,2009,2009,2009,2,0,1,Import,498,Rep. of Moldova,MDA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31373,,,0
+H3,2009,2009,2009,2,0,1,Import,498,Rep. of Moldova,MDA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1753,,,0
+H3,2009,2009,2009,2,0,1,Import,499,Montenegro,MNE,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,12087606,,,0
+H3,2009,2009,2009,2,0,2,Export,499,Montenegro,MNE,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1656,,,0
+H3,2009,2009,2009,2,0,1,Import,499,Montenegro,MNE,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,946,,,0
+H3,2009,2009,2009,2,0,1,Import,499,Montenegro,MNE,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3069171,,,0
+H3,2009,2009,2009,2,0,2,Export,499,Montenegro,MNE,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39681,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,499,Montenegro,MNE,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11,,,0
+H3,2009,2009,2009,2,0,1,Import,499,Montenegro,MNE,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3081,,,0
+H3,2009,2009,2009,2,0,1,Import,499,Montenegro,MNE,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,100544,,,0
+H3,2009,2009,2009,2,0,2,Export,499,Montenegro,MNE,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,196,,,0
+H2,2009,2009,2009,2,0,1,Import,504,Morocco,MAR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3042,,,0
+H2,2009,2009,2009,2,0,1,Import,504,Morocco,MAR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1740419,,,0
+H2,2009,2009,2009,2,0,2,Export,504,Morocco,MAR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1196679,,,0
+H2,2009,2009,2009,2,0,2,Export,504,Morocco,MAR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,70,,,0
+H2,2009,2009,2009,2,0,1,Import,504,Morocco,MAR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,49380,,,0
+H2,2009,2009,2009,2,0,2,Export,504,Morocco,MAR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25015,,,0
+H2,2009,2009,2009,2,0,1,Import,504,Morocco,MAR,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,93,,,0
+H2,2009,2009,2009,2,0,2,Export,504,Morocco,MAR,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1167990,,,0
+H2,2009,2009,2009,2,0,1,Import,504,Morocco,MAR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,458580,,,0
+H2,2009,2009,2009,2,0,2,Export,504,Morocco,MAR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,92639,,,0
+H2,2009,2009,2009,2,0,1,Import,508,Mozambique,MOZ,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,31,,,0
+H2,2009,2009,2009,2,0,1,Import,508,Mozambique,MOZ,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,93809,,,0
+H2,2009,2009,2009,2,0,1,Import,508,Mozambique,MOZ,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23,,,0
+H2,2009,2009,2009,2,0,2,Export,512,Oman,OMN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,432450,,,0
+H3,2009,2009,2009,2,0,2,Export,528,Netherlands,NLD,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,13553774,,,0
+H3,2009,2009,2009,2,0,2,Export,528,Netherlands,NLD,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6661078,,,0
+H3,2009,2009,2009,2,0,1,Import,528,Netherlands,NLD,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,127619746,,,0
+H3,2009,2009,2009,2,0,2,Export,528,Netherlands,NLD,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,132883910,,,0
+H3,2009,2009,2009,2,0,1,Import,528,Netherlands,NLD,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,62769,,,0
+H3,2009,2009,2009,2,0,2,Export,528,Netherlands,NLD,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2810099,,,0
+H3,2009,2009,2009,2,0,1,Import,528,Netherlands,NLD,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,380800,,,0
+H3,2009,2009,2009,2,0,2,Export,528,Netherlands,NLD,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4254216,,,0
+H3,2009,2009,2009,2,0,1,Import,528,Netherlands,NLD,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3805214,,,0
+H3,2009,2009,2009,2,0,2,Export,528,Netherlands,NLD,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1532020,,,0
+H3,2009,2009,2009,2,0,1,Import,528,Netherlands,NLD,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2771613,,,0
+H3,2009,2009,2009,2,0,2,Export,528,Netherlands,NLD,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29418135,,,0
+H3,2009,2009,2009,2,0,1,Import,528,Netherlands,NLD,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1395,,,0
+H3,2009,2009,2009,2,0,2,Export,528,Netherlands,NLD,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3622153,,,0
+H3,2009,2009,2009,2,0,1,Import,528,Netherlands,NLD,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,71139,,,0
+H3,2009,2009,2009,2,0,2,Export,528,Netherlands,NLD,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2005021,,,0
+H3,2009,2009,2009,2,0,1,Import,533,Aruba,ABW,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12030,,,0
+H3,2009,2009,2009,2,0,1,Import,533,Aruba,ABW,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,868,,,0
+H3,2009,2009,2009,2,0,1,Import,540,New Caledonia,NCL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4594,,,0
+H2,2009,2009,2009,2,0,1,Import,548,Vanuatu,VUT,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,624,,,0
+H3,2009,2009,2009,2,0,2,Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8206726,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6178,,,0
+H3,2009,2009,2009,2,0,2,Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2347446,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,117209,,,0
+H3,2009,2009,2009,2,0,1,Import,554,New Zealand,NZL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,598,,,0
+H3,2009,2009,2009,2,0,2,Export,554,New Zealand,NZL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,144997,,,0
+H3,2009,2009,2009,2,0,1,Import,554,New Zealand,NZL,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6908,,,0
+H3,2009,2009,2009,2,0,2,Export,554,New Zealand,NZL,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1124,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,554,New Zealand,NZL,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1038,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,554,New Zealand,NZL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,122752,,,0
+H3,2009,2009,2009,2,0,1,Import,554,New Zealand,NZL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4298,,,0
+H3,2009,2009,2009,2,0,2,Export,554,New Zealand,NZL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19,,,0
+H3,2009,2009,2009,2,0,1,Import,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1977,,,0
+H3,2009,2009,2009,2,0,2,Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,607815,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,211691,,,0
+H3,2009,2009,2009,2,0,1,Import,558,Nicaragua,NIC,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,19268,,,0
+H3,2009,2009,2009,2,0,2,Export,558,Nicaragua,NIC,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5447791,,,0
+H3,2009,2009,2009,2,0,2,Export,558,Nicaragua,NIC,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,118099,,,0
+H3,2009,2009,2009,2,0,1,Import,558,Nicaragua,NIC,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5237616,,,0
+H3,2009,2009,2009,2,0,1,Import,558,Nicaragua,NIC,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21097889,,,0
+H3,2009,2009,2009,2,0,2,Export,558,Nicaragua,NIC,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2526949,,,0
+H3,2009,2009,2009,2,0,1,Import,562,Niger,NER,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,22171886,,,0
+H3,2009,2009,2009,2,0,2,Export,562,Niger,NER,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3271152,,,0
+H3,2009,2009,2009,2,0,1,Import,562,Niger,NER,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2600168,,,0
+H3,2009,2009,2009,2,0,2,Export,566,Nigeria,NGA,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,17884733,,,0
+H3,2009,2009,2009,2,0,1,Import,566,Nigeria,NGA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2922619,,,0
+H3,2009,2009,2009,2,0,2,Export,566,Nigeria,NGA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1488377105,,,0
+H3,2009,2009,2009,2,0,1,Import,566,Nigeria,NGA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3845,,,0
+H3,2009,2009,2009,2,0,1,Import,566,Nigeria,NGA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,586044,,,0
+H3,2009,2009,2009,2,0,2,Export,566,Nigeria,NGA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,198773,,,0
+H3,2009,2009,2009,2,0,1,Import,566,Nigeria,NGA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,49985,,,0
+H3,2009,2009,2009,2,0,1,Import,566,Nigeria,NGA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3359,,,0
+H3,2009,2009,2009,2,0,2,Export,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,44764,,,0
+H3,2009,2009,2009,2,0,1,Import,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,53614,,,0
+H3,2009,2009,2009,2,0,1,Import,579,Norway,NOR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,74333,,,0
+H3,2009,2009,2009,2,0,2,Export,579,Norway,NOR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2402879,,,0
+H3,2009,2009,2009,2,0,2,Export,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23575,,,0
+H3,2009,2009,2009,2,0,1,Import,579,Norway,NOR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,26537,,,0
+H3,2009,2009,2009,2,0,2,Export,579,Norway,NOR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,56904,,,0
+H3,2009,2009,2009,2,0,2,Export,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6474,,,0
+H3,2009,2009,2009,2,0,2,Export,586,Pakistan,PAK,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,98,,,0
+H3,2009,2009,2009,2,0,1,Import,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2427562,,,0
+H3,2009,2009,2009,2,0,2,Export,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5736273,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,19696,,,0
+H3,2009,2009,2009,2,0,1,Import,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33072385,,,0
+H3,2009,2009,2009,2,0,2,Export,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6461282,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5092765,,,0
+H3,2009,2009,2009,2,0,1,Import,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4185078,,,0
+H3,2009,2009,2009,2,0,2,Export,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9811237,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9811237,,,0
+H3,2009,2009,2009,2,0,1,Import,600,Paraguay,PRY,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3603,,,0
+H3,2009,2009,2009,2,0,1,Import,600,Paraguay,PRY,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,851,,,0
+H3,2009,2009,2009,2,0,1,Import,600,Paraguay,PRY,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,77103,,,0
+H3,2009,2009,2009,2,0,1,Import,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5729,,,0
+H3,2009,2009,2009,2,0,2,Export,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5160243,,,0
+H3,2009,2009,2009,2,0,1,Import,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,338819,,,0
+H3,2009,2009,2009,2,0,2,Export,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1937180,,,0
+H3,2009,2009,2009,2,0,1,Import,604,Peru,PER,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5,,,0
+H3,2009,2009,2009,2,0,1,Import,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1748570,,,0
+H3,2009,2009,2009,2,0,2,Export,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,93755,,,0
+H3,2009,2009,2009,2,0,1,Import,604,Peru,PER,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14,,,0
+H3,2009,2009,2009,2,0,2,Export,604,Peru,PER,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,160374,,,0
+H2,2009,2009,2009,2,0,2,Export,608,Philippines,PHL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20734,,,0
+H2,2009,2009,2009,2,0,2,Export,608,Philippines,PHL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8596,,,0
+H2,2009,2009,2009,2,0,2,Export,608,Philippines,PHL,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8662,,,0
+H2,2009,2009,2009,2,0,1,Import,608,Philippines,PHL,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2249,,,0
+H3,2009,2009,2009,2,0,1,Import,616,Poland,POL,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8435456,,,0
+H3,2009,2009,2009,2,0,2,Export,616,Poland,POL,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2261198,,,0
+H3,2009,2009,2009,2,0,2,Export,616,Poland,POL,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,109252,,,0
+H3,2009,2009,2009,2,0,1,Import,616,Poland,POL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5748,,,0
+H3,2009,2009,2009,2,0,2,Export,616,Poland,POL,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,453079,,,0
+H3,2009,2009,2009,2,0,1,Import,616,Poland,POL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11776994,,,0
+H3,2009,2009,2009,2,0,1,Import,616,Poland,POL,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28843175,,,0
+H3,2009,2009,2009,2,0,2,Export,616,Poland,POL,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,224651,,,0
+H3,2009,2009,2009,2,0,2,Export,616,Poland,POL,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16661577,,,0
+H3,2009,2009,2009,2,0,2,Export,616,Poland,POL,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23984,,,0
+H3,2009,2009,2009,2,0,1,Import,616,Poland,POL,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,54,,,0
+H3,2009,2009,2009,2,0,2,Export,616,Poland,POL,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,320968,,,0
+H3,2009,2009,2009,2,0,1,Import,616,Poland,POL,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5025,,,0
+H3,2009,2009,2009,2,0,2,Export,616,Poland,POL,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6909590,,,0
+H3,2009,2009,2009,2,0,2,Export,620,Portugal,PRT,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,443909,,,0
+H3,2009,2009,2009,2,0,2,Export,620,Portugal,PRT,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,387757,,,0
+H3,2009,2009,2009,2,0,1,Import,620,Portugal,PRT,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3478,,,0
+H3,2009,2009,2009,2,0,2,Export,620,Portugal,PRT,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,113757,,,0
+H3,2009,2009,2009,2,0,2,Export,620,Portugal,PRT,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,260128,,,0
+H3,2009,2009,2009,2,0,2,Export,620,Portugal,PRT,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,26023,,,0
+H3,2009,2009,2009,2,0,2,Export,620,Portugal,PRT,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,696132,,,0
+H3,2009,2009,2009,2,0,1,Import,620,Portugal,PRT,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5080177,,,0
+H3,2009,2009,2009,2,0,2,Export,620,Portugal,PRT,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,171799,,,0
+H3,2009,2009,2009,2,0,2,Export,634,Qatar,QAT,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,92905,,,0
+H3,2009,2009,2009,2,0,2,Export,634,Qatar,QAT,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,986492,,,0
+H3,2009,2009,2009,2,0,2,Export,642,Romania,ROU,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,9083245,,,0
+H3,2009,2009,2009,2,0,1,Import,642,Romania,ROU,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6885332,,,0
+H3,2009,2009,2009,2,0,2,Export,642,Romania,ROU,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1684792,,,0
+H3,2009,2009,2009,2,0,1,Import,642,Romania,ROU,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,50,,,0
+H3,2009,2009,2009,2,0,1,Import,642,Romania,ROU,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32076,,,0
+H3,2009,2009,2009,2,0,2,Export,642,Romania,ROU,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5917765,,,0
+H3,2009,2009,2009,2,0,1,Import,642,Romania,ROU,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2048160,,,0
+H3,2009,2009,2009,2,0,2,Export,642,Romania,ROU,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,432584,,,0
+H3,2009,2009,2009,2,0,1,Import,643,Russian Federation,RUS,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,60,,,0
+H3,2009,2009,2009,2,0,2,Export,643,Russian Federation,RUS,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,642272038,,,0
+H3,2009,2009,2009,2,0,2,Export,643,Russian Federation,RUS,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2862,,,0
+H3,2009,2009,2009,2,0,1,Import,643,Russian Federation,RUS,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,721,,,0
+H3,2009,2009,2009,2,0,1,Import,643,Russian Federation,RUS,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,144,,,0
+H3,2009,2009,2009,2,0,2,Export,643,Russian Federation,RUS,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2824,,,0
+H3,2009,2009,2009,2,0,1,Import,643,Russian Federation,RUS,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,103759,,,0
+H3,2009,2009,2009,2,0,2,Export,643,Russian Federation,RUS,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,169342,,,0
+H3,2009,2009,2009,2,0,1,Import,643,Russian Federation,RUS,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3020175,,,0
+H3,2009,2009,2009,2,0,2,Export,643,Russian Federation,RUS,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,495,,,0
+H3,2009,2009,2009,2,0,1,Import,643,Russian Federation,RUS,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1063408,,,0
+H3,2009,2009,2009,2,0,2,Export,643,Russian Federation,RUS,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,339671,,,0
+H3,2009,2009,2009,2,0,1,Import,643,Russian Federation,RUS,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3901,,,0
+H3,2009,2009,2009,2,0,2,Export,643,Russian Federation,RUS,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,491,,,0
+H3,2009,2009,2009,2,0,1,Import,646,Rwanda,RWA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1864,,,0
+H3,2009,2009,2009,2,0,1,Import,659,Saint Kitts and Nevis,KNA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,40238,,,0
+H1,2009,2009,2009,2,0,1,Import,662,Saint Lucia,LCA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,370597,,,0
+H1,2009,2009,2009,2,0,2,Export,662,Saint Lucia,LCA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20,,,0
+H1,2009,2009,2009,2,0,3,Re-Export,662,Saint Lucia,LCA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20,,,0
+H1,2009,2009,2009,2,0,2,Export,662,Saint Lucia,LCA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10,,,0
+H1,2009,2009,2009,2,0,3,Re-Export,662,Saint Lucia,LCA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10,,,0
+H3,2009,2009,2009,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,135585,,,0
+H3,2009,2009,2009,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,339,,,0
+H3,2009,2009,2009,2,0,2,Export,682,Saudi Arabia,SAU,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2855472,,,0
+H3,2009,2009,2009,2,0,1,Import,682,Saudi Arabia,SAU,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,81340,,,0
+H3,2009,2009,2009,2,0,2,Export,682,Saudi Arabia,SAU,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6462748,,,0
+H3,2009,2009,2009,2,0,1,Import,686,Senegal,SEN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,58996439,,,0
+H3,2009,2009,2009,2,0,2,Export,686,Senegal,SEN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,151878,,,0
+H3,2009,2009,2009,2,0,1,Import,686,Senegal,SEN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,649015,,,0
+H3,2009,2009,2009,2,0,2,Export,686,Senegal,SEN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5850,,,0
+H3,2009,2009,2009,2,0,1,Import,686,Senegal,SEN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6135534,,,0
+H3,2009,2009,2009,2,0,2,Export,686,Senegal,SEN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7838162,,,0
+H3,2009,2009,2009,2,0,1,Import,688,Serbia,SRB,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,35020353,,,0
+H3,2009,2009,2009,2,0,2,Export,688,Serbia,SRB,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,9005463,,,0
+H3,2009,2009,2009,2,0,1,Import,688,Serbia,SRB,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2710,,,0
+H3,2009,2009,2009,2,0,1,Import,688,Serbia,SRB,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7118,,,0
+H3,2009,2009,2009,2,0,1,Import,688,Serbia,SRB,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29696535,,,0
+H3,2009,2009,2009,2,0,2,Export,688,Serbia,SRB,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18654250,,,0
+H3,2009,2009,2009,2,0,1,Import,688,Serbia,SRB,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,769281,,,0
+H3,2009,2009,2009,2,0,2,Export,688,Serbia,SRB,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2208436,,,0
+H3,2009,2009,2009,2,0,1,Import,688,Serbia,SRB,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,647315,,,0
+H3,2009,2009,2009,2,0,2,Export,699,India,IND,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,115431,,,0
+H3,2009,2009,2009,2,0,2,Export,699,India,IND,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,116929,,,0
+H3,2009,2009,2009,2,0,1,Import,699,India,IND,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,90292177,,,0
+H3,2009,2009,2009,2,0,2,Export,699,India,IND,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2367289,,,0
+H3,2009,2009,2009,2,0,1,Import,699,India,IND,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34384,,,0
+H3,2009,2009,2009,2,0,2,Export,699,India,IND,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,529144,,,0
+H3,2009,2009,2009,2,0,2,Export,699,India,IND,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,568551,,,0
+H3,2009,2009,2009,2,0,1,Import,699,India,IND,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2000831,,,0
+H3,2009,2009,2009,2,0,2,Export,699,India,IND,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4047927,,,0
+H3,2009,2009,2009,2,0,1,Import,699,India,IND,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,494955,,,0
+H3,2009,2009,2009,2,0,2,Export,699,India,IND,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3498009,,,0
+H3,2009,2009,2009,2,0,2,Export,699,India,IND,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8655665,,,0
+H3,2009,2009,2009,2,0,1,Import,699,India,IND,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14738,,,0
+H3,2009,2009,2009,2,0,2,Export,699,India,IND,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1199345,,,0
+H3,2009,2009,2009,2,0,1,Import,699,India,IND,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5939,,,0
+H3,2009,2009,2009,2,0,2,Export,702,Singapore,SGP,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,26621,,,0
+H3,2009,2009,2009,2,0,1,Import,702,Singapore,SGP,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,371071,,,0
+H3,2009,2009,2009,2,0,2,Export,702,Singapore,SGP,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,459278,,,0
+H3,2009,2009,2009,2,0,1,Import,702,Singapore,SGP,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4847,,,0
+H3,2009,2009,2009,2,0,2,Export,702,Singapore,SGP,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22316,,,0
+H3,2009,2009,2009,2,0,2,Export,702,Singapore,SGP,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1998612,,,0
+H3,2009,2009,2009,2,0,1,Import,702,Singapore,SGP,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1226,,,0
+H3,2009,2009,2009,2,0,2,Export,702,Singapore,SGP,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2968392,,,0
+H3,2009,2009,2009,2,0,2,Export,702,Singapore,SGP,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,118844,,,0
+H3,2009,2009,2009,2,0,2,Export,702,Singapore,SGP,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,212278,,,0
+H3,2009,2009,2009,2,0,1,Import,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,7276366,,,0
+H3,2009,2009,2009,2,0,2,Export,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,16792139,,,0
+H3,2009,2009,2009,2,0,1,Import,703,Slovakia,SVK,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,40371,,,0
+H3,2009,2009,2009,2,0,2,Export,703,Slovakia,SVK,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,57230,,,0
+H3,2009,2009,2009,2,0,1,Import,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2597378,,,0
+H3,2009,2009,2009,2,0,2,Export,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8699640,,,0
+H3,2009,2009,2009,2,0,1,Import,703,Slovakia,SVK,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,80,,,0
+H3,2009,2009,2009,2,0,2,Export,703,Slovakia,SVK,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25,,,0
+H3,2009,2009,2009,2,0,1,Import,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,732,,,0
+H3,2009,2009,2009,2,0,2,Export,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,673069,,,0
+H3,2009,2009,2009,2,0,1,Import,703,Slovakia,SVK,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,553602,,,0
+H3,2009,2009,2009,2,0,2,Export,704,Viet Nam,VNM,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,102152,,,0
+H3,2009,2009,2009,2,0,2,Export,704,Viet Nam,VNM,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,20985,,,0
+H3,2009,2009,2009,2,0,1,Import,704,Viet Nam,VNM,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15392,,,0
+H3,2009,2009,2009,2,0,2,Export,704,Viet Nam,VNM,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,652358,,,0
+H3,2009,2009,2009,2,0,1,Import,704,Viet Nam,VNM,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1833,,,0
+H3,2009,2009,2009,2,0,2,Export,704,Viet Nam,VNM,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,272244,,,0
+H3,2009,2009,2009,2,0,2,Export,704,Viet Nam,VNM,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2020633,,,0
+H3,2009,2009,2009,2,0,2,Export,704,Viet Nam,VNM,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1095316,,,0
+H3,2009,2009,2009,2,0,1,Import,704,Viet Nam,VNM,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,583874,,,0
+H3,2009,2009,2009,2,0,2,Export,704,Viet Nam,VNM,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2209488,,,0
+H3,2009,2009,2009,2,0,1,Import,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,60060307,,,0
+H3,2009,2009,2009,2,0,2,Export,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,260809123,,,0
+H3,2009,2009,2009,2,0,1,Import,705,Slovenia,SVN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4386,,,0
+H3,2009,2009,2009,2,0,2,Export,705,Slovenia,SVN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5945,,,0
+H3,2009,2009,2009,2,0,1,Import,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,49420318,,,0
+H3,2009,2009,2009,2,0,2,Export,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,80635623,,,0
+H3,2009,2009,2009,2,0,2,Export,705,Slovenia,SVN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,135009,,,0
+H3,2009,2009,2009,2,0,1,Import,705,Slovenia,SVN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,571,,,0
+H3,2009,2009,2009,2,0,2,Export,705,Slovenia,SVN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,56,,,0
+H3,2009,2009,2009,2,0,1,Import,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3101865,,,0
+H3,2009,2009,2009,2,0,2,Export,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,48833548,,,0
+H3,2009,2009,2009,2,0,2,Export,705,Slovenia,SVN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,98838,,,0
+H3,2009,2009,2009,2,0,2,Export,710,South Africa,ZAF,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,42618,,,0
+H3,2009,2009,2009,2,0,2,Export,710,South Africa,ZAF,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1705421,,,0
+H3,2009,2009,2009,2,0,2,Export,710,South Africa,ZAF,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,566587,,,0
+H3,2009,2009,2009,2,0,1,Import,710,South Africa,ZAF,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20,,,0
+H3,2009,2009,2009,2,0,1,Import,710,South Africa,ZAF,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29409,,,0
+H3,2009,2009,2009,2,0,2,Export,710,South Africa,ZAF,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2,,,0
+H3,2009,2009,2009,2,0,1,Import,710,South Africa,ZAF,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7610179,,,0
+H3,2009,2009,2009,2,0,2,Export,710,South Africa,ZAF,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,916588,,,0
+H3,2009,2009,2009,2,0,1,Import,710,South Africa,ZAF,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,55244,,,0
+H3,2009,2009,2009,2,0,2,Export,710,South Africa,ZAF,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,35321,,,0
+H3,2009,2009,2009,2,0,2,Export,710,South Africa,ZAF,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14926930,,,0
+H3,2009,2009,2009,2,0,1,Import,710,South Africa,ZAF,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,236996,,,0
+H3,2009,2009,2009,2,0,1,Import,710,South Africa,ZAF,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10397,,,0
+H3,2009,2009,2009,2,0,2,Export,710,South Africa,ZAF,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2647,,,0
+H3,2009,2009,2009,2,0,1,Import,716,Zimbabwe,ZWE,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,655,,,0
+H3,2009,2009,2009,2,0,2,Export,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,589760,,,0
+H3,2009,2009,2009,2,0,1,Import,724,Spain,ESP,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,49,,,0
+H3,2009,2009,2009,2,0,2,Export,724,Spain,ESP,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6670857,,,0
+H3,2009,2009,2009,2,0,1,Import,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,15718298,,,0
+H3,2009,2009,2009,2,0,2,Export,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,476803,,,0
+H3,2009,2009,2009,2,0,1,Import,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1609171,,,0
+H3,2009,2009,2009,2,0,2,Export,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,503536,,,0
+H3,2009,2009,2009,2,0,1,Import,724,Spain,ESP,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,108646,,,0
+H3,2009,2009,2009,2,0,2,Export,724,Spain,ESP,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,446301,,,0
+H3,2009,2009,2009,2,0,1,Import,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,55401520,,,0
+H3,2009,2009,2009,2,0,2,Export,724,Spain,ESP,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7776275,,,4
+H3,2009,2009,2009,2,0,3,Re-Export,724,Spain,ESP,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5354,,,0
+H3,2009,2009,2009,2,0,4,Re-Import,724,Spain,ESP,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8057,,,0
+H3,2009,2009,2009,2,0,1,Import,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4372,,,0
+H3,2009,2009,2009,2,0,2,Export,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3112428,,,0
+H3,2009,2009,2009,2,0,2,Export,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1289337,,,0
+H3,2009,2009,2009,2,0,1,Import,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,233551,,,0
+H3,2009,2009,2009,2,0,2,Export,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3364293,,,0
+H3,2009,2009,2009,2,0,1,Import,724,Spain,ESP,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1253222,,,0
+H3,2009,2009,2009,2,0,1,Import,736,Fmr Sudan,SDN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,364,,,0
+H1,2009,2009,2009,2,0,1,Import,740,Suriname,SUR,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,39931,,,0
+H1,2009,2009,2009,2,0,1,Import,740,Suriname,SUR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,658915,,,0
+H1,2009,2009,2009,2,0,1,Import,740,Suriname,SUR,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,60253,,,0
+H3,2009,2009,2009,2,0,2,Export,752,Sweden,SWE,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,37987,,,0
+H3,2009,2009,2009,2,0,2,Export,752,Sweden,SWE,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,166538,,,0
+H3,2009,2009,2009,2,0,1,Import,752,Sweden,SWE,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4083,,,0
+H3,2009,2009,2009,2,0,2,Export,752,Sweden,SWE,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,369224,,,0
+H3,2009,2009,2009,2,0,1,Import,752,Sweden,SWE,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,657012,,,0
+H3,2009,2009,2009,2,0,2,Export,752,Sweden,SWE,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5042552,,,0
+H3,2009,2009,2009,2,0,2,Export,752,Sweden,SWE,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,90039,,,0
+H3,2009,2009,2009,2,0,2,Export,752,Sweden,SWE,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,79786,,,0
+H3,2009,2009,2009,2,0,1,Import,752,Sweden,SWE,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6191,,,0
+H3,2009,2009,2009,2,0,2,Export,752,Sweden,SWE,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,809821,,,0
+H3,2009,2009,2009,2,0,1,Import,752,Sweden,SWE,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,324291,,,0
+H3,2009,2009,2009,2,0,2,Export,752,Sweden,SWE,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9727,,,0
+H3,2009,2009,2009,2,0,2,Export,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,987,,,0
+H3,2009,2009,2009,2,0,1,Import,757,Switzerland,CHE,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,24230,,,0
+H3,2009,2009,2009,2,0,2,Export,757,Switzerland,CHE,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2366416,,,0
+H3,2009,2009,2009,2,0,2,Export,757,Switzerland,CHE,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,9098,,,0
+H3,2009,2009,2009,2,0,1,Import,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2267,,,0
+H3,2009,2009,2009,2,0,2,Export,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,187169,,,0
+H3,2009,2009,2009,2,0,1,Import,757,Switzerland,CHE,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38268,,,0
+H3,2009,2009,2009,2,0,2,Export,757,Switzerland,CHE,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,270604,,,0
+H3,2009,2009,2009,2,0,2,Export,757,Switzerland,CHE,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,84527,,,0
+H3,2009,2009,2009,2,0,1,Import,757,Switzerland,CHE,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2765739,,,0
+H3,2009,2009,2009,2,0,2,Export,757,Switzerland,CHE,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10083211,,,0
+H3,2009,2009,2009,2,0,1,Import,757,Switzerland,CHE,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11,,,0
+H3,2009,2009,2009,2,0,2,Export,757,Switzerland,CHE,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,101183,,,0
+H3,2009,2009,2009,2,0,1,Import,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,375445,,,0
+H3,2009,2009,2009,2,0,2,Export,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,69064,,,0
+H3,2009,2009,2009,2,0,1,Import,760,Syria,SYR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,9957876,,,0
+H3,2009,2009,2009,2,0,2,Export,760,Syria,SYR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,158039,,,0
+H3,2009,2009,2009,2,0,2,Export,760,Syria,SYR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26768,,,0
+H3,2009,2009,2009,2,0,2,Export,760,Syria,SYR,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,84903,,,0
+H3,2009,2009,2009,2,0,2,Export,760,Syria,SYR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,69707,,,0
+H3,2009,2009,2009,2,0,2,Export,764,Thailand,THA,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10829,,,0
+H3,2009,2009,2009,2,0,1,Import,764,Thailand,THA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19800,,,0
+H3,2009,2009,2009,2,0,2,Export,764,Thailand,THA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1164175,,,0
+H3,2009,2009,2009,2,0,1,Import,764,Thailand,THA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3432,,,0
+H3,2009,2009,2009,2,0,2,Export,764,Thailand,THA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,321181,,,0
+H3,2009,2009,2009,2,0,1,Import,764,Thailand,THA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7782,,,0
+H3,2009,2009,2009,2,0,2,Export,764,Thailand,THA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9197112,,,0
+H3,2009,2009,2009,2,0,2,Export,764,Thailand,THA,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,253,,,0
+H3,2009,2009,2009,2,0,2,Export,764,Thailand,THA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2013143,,,0
+H3,2009,2009,2009,2,0,1,Import,764,Thailand,THA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,229,,,0
+H3,2009,2009,2009,2,0,2,Export,764,Thailand,THA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,848173,,,0
+H3,2009,2009,2009,2,0,2,Export,764,Thailand,THA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,707587,,,0
+H3,2009,2009,2009,2,0,1,Import,768,Togo,TGO,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,32990488,,,0
+H3,2009,2009,2009,2,0,2,Export,768,Togo,TGO,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,157254,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,768,Togo,TGO,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,156682,,,0
+H3,2009,2009,2009,2,0,1,Import,768,Togo,TGO,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,609661,,,0
+H3,2009,2009,2009,2,0,2,Export,768,Togo,TGO,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3929746,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,768,Togo,TGO,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,27722,,,0
+H3,2009,2009,2009,2,0,1,Import,768,Togo,TGO,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,174,,,0
+H3,2009,2009,2009,2,0,2,Export,780,Trinidad and Tobago,TTO,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,16642725,,,0
+H3,2009,2009,2009,2,0,1,Import,780,Trinidad and Tobago,TTO,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4297366,,,0
+H3,2009,2009,2009,2,0,2,Export,780,Trinidad and Tobago,TTO,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,665,,,0
+H3,2009,2009,2009,2,0,1,Import,780,Trinidad and Tobago,TTO,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,210134,,,0
+H3,2009,2009,2009,2,0,2,Export,784,United Arab Emirates,ARE,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,24595,,,0
+H3,2009,2009,2009,2,0,1,Import,784,United Arab Emirates,ARE,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,954243,,,0
+H3,2009,2009,2009,2,0,2,Export,784,United Arab Emirates,ARE,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,53043,,,0
+H3,2009,2009,2009,2,0,2,Export,784,United Arab Emirates,ARE,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4329869,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,784,United Arab Emirates,ARE,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1142721,,,0
+H3,2009,2009,2009,2,0,1,Import,784,United Arab Emirates,ARE,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10813,,,0
+H3,2009,2009,2009,2,0,2,Export,784,United Arab Emirates,ARE,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,622479,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,784,United Arab Emirates,ARE,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,609204,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,784,United Arab Emirates,ARE,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,525772,,,0
+H3,2009,2009,2009,2,0,1,Import,784,United Arab Emirates,ARE,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13845,,,0
+H3,2009,2009,2009,2,0,1,Import,784,United Arab Emirates,ARE,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25167,,,0
+H3,2009,2009,2009,2,0,2,Export,784,United Arab Emirates,ARE,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11864,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,784,United Arab Emirates,ARE,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11864,,,0
+H3,2009,2009,2009,2,0,1,Import,784,United Arab Emirates,ARE,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29,,,0
+H3,2009,2009,2009,2,0,2,Export,784,United Arab Emirates,ARE,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,284317,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,784,United Arab Emirates,ARE,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,113681,,,0
+H3,2009,2009,2009,2,0,1,Import,784,United Arab Emirates,ARE,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,242890,,,0
+H3,2009,2009,2009,2,0,2,Export,784,United Arab Emirates,ARE,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1810795,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,784,United Arab Emirates,ARE,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,71262,,,0
+H3,2009,2009,2009,2,0,2,Export,784,United Arab Emirates,ARE,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1028150,,,0
+H3,2009,2009,2009,2,0,2,Export,788,Tunisia,TUN,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,18808,,,0
+H3,2009,2009,2009,2,0,2,Export,788,Tunisia,TUN,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,291236,,,0
+H3,2009,2009,2009,2,0,1,Import,788,Tunisia,TUN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21828,,,0
+H3,2009,2009,2009,2,0,1,Import,788,Tunisia,TUN,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5068,,,0
+H3,2009,2009,2009,2,0,2,Export,788,Tunisia,TUN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,545101,,,0
+H3,2009,2009,2009,2,0,1,Import,788,Tunisia,TUN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,97422,,,0
+H3,2009,2009,2009,2,0,2,Export,788,Tunisia,TUN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3938,,,0
+H3,2009,2009,2009,2,0,2,Export,792,Turkey,TUR,184,Cook Isds,COK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10216,,,0
+H3,2009,2009,2009,2,0,2,Export,792,Turkey,TUR,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1317899,,,0
+H3,2009,2009,2009,2,0,1,Import,792,Turkey,TUR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,9132232,,,0
+H3,2009,2009,2009,2,0,2,Export,792,Turkey,TUR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3419796,,,0
+H3,2009,2009,2009,2,0,2,Export,792,Turkey,TUR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,24701719,,,0
+H3,2009,2009,2009,2,0,1,Import,792,Turkey,TUR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22727,,,0
+H3,2009,2009,2009,2,0,1,Import,792,Turkey,TUR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5896,,,0
+H3,2009,2009,2009,2,0,2,Export,792,Turkey,TUR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1740714,,,0
+H3,2009,2009,2009,2,0,1,Import,792,Turkey,TUR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,638055,,,0
+H3,2009,2009,2009,2,0,2,Export,792,Turkey,TUR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2637656,,,0
+H3,2009,2009,2009,2,0,2,Export,792,Turkey,TUR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,96344,,,0
+H3,2009,2009,2009,2,0,1,Import,792,Turkey,TUR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4194230,,,0
+H3,2009,2009,2009,2,0,2,Export,792,Turkey,TUR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8787773,,,0
+H3,2009,2009,2009,2,0,2,Export,792,Turkey,TUR,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1331205,,,0
+H3,2009,2009,2009,2,0,1,Import,792,Turkey,TUR,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,800147,,,0
+H3,2009,2009,2009,2,0,2,Export,792,Turkey,TUR,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,110072,,,0
+H3,2009,2009,2009,2,0,1,Import,800,Uganda,UGA,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,580422,,,0
+H3,2009,2009,2009,2,0,1,Import,800,Uganda,UGA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,21700,,,0
+H2,2009,2009,2009,2,0,1,Import,804,Ukraine,UKR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,29,,,0
+H2,2009,2009,2009,2,0,2,Export,804,Ukraine,UKR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,296139,,,0
+H2,2009,2009,2009,2,0,2,Export,804,Ukraine,UKR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,36366,,,0
+H2,2009,2009,2009,2,0,1,Import,804,Ukraine,UKR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,300,,,0
+H2,2009,2009,2009,2,0,2,Export,804,Ukraine,UKR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,117598,,,0
+H2,2009,2009,2009,2,0,1,Import,804,Ukraine,UKR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8816878,,,0
+H2,2009,2009,2009,2,0,2,Export,804,Ukraine,UKR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,157493,,,0
+H2,2009,2009,2009,2,0,1,Import,804,Ukraine,UKR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,45135,,,0
+H2,2009,2009,2009,2,0,2,Export,804,Ukraine,UKR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,81505,,,0
+H2,2009,2009,2009,2,0,1,Import,804,Ukraine,UKR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2528502,,,0
+H3,2009,2009,2009,2,0,1,Import,807,North Macedonia,MKD,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4138084,,,0
+H3,2009,2009,2009,2,0,2,Export,807,North Macedonia,MKD,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,159238,,,0
+H3,2009,2009,2009,2,0,1,Import,807,North Macedonia,MKD,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,856,,,0
+H3,2009,2009,2009,2,0,1,Import,807,North Macedonia,MKD,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3866423,,,0
+H3,2009,2009,2009,2,0,2,Export,807,North Macedonia,MKD,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,932193,,,0
+H3,2009,2009,2009,2,0,1,Import,807,North Macedonia,MKD,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,141380,,,0
+H3,2009,2009,2009,2,0,2,Export,807,North Macedonia,MKD,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10572,,,0
+H3,2009,2009,2009,2,0,2,Export,818,Egypt,EGY,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,37325,,,0
+H3,2009,2009,2009,2,0,2,Export,818,Egypt,EGY,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,291171,,,0
+H3,2009,2009,2009,2,0,1,Import,818,Egypt,EGY,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21728,,,0
+H3,2009,2009,2009,2,0,2,Export,818,Egypt,EGY,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,54335,,,0
+H3,2009,2009,2009,2,0,1,Import,818,Egypt,EGY,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,270541,,,0
+H3,2009,2009,2009,2,0,2,Export,818,Egypt,EGY,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,278797,,,0
+H3,2009,2009,2009,2,0,2,Export,818,Egypt,EGY,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3725874,,,0
+H3,2009,2009,2009,2,0,1,Import,818,Egypt,EGY,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4864,,,0
+H3,2009,2009,2009,2,0,2,Export,818,Egypt,EGY,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,28103,,,0
+H3,2009,2009,2009,2,0,2,Export,818,Egypt,EGY,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,445346,,,0
+H3,2009,2009,2009,2,0,2,Export,826,United Kingdom,GBR,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,207866,,,0
+H3,2009,2009,2009,2,0,1,Import,826,United Kingdom,GBR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,808237,,,0
+H3,2009,2009,2009,2,0,2,Export,826,United Kingdom,GBR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,21925064,,,0
+H3,2009,2009,2009,2,0,1,Import,826,United Kingdom,GBR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,62640996,,,0
+H3,2009,2009,2009,2,0,2,Export,826,United Kingdom,GBR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,206510,,,0
+H3,2009,2009,2009,2,0,1,Import,826,United Kingdom,GBR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,269136,,,0
+H3,2009,2009,2009,2,0,1,Import,826,United Kingdom,GBR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,473594,,,0
+H3,2009,2009,2009,2,0,2,Export,826,United Kingdom,GBR,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3904766,,,0
+H3,2009,2009,2009,2,0,1,Import,826,United Kingdom,GBR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13049086,,,0
+H3,2009,2009,2009,2,0,2,Export,826,United Kingdom,GBR,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,126860,,,0
+H3,2009,2009,2009,2,0,2,Export,826,United Kingdom,GBR,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2379636,,,0
+H3,2009,2009,2009,2,0,1,Import,826,United Kingdom,GBR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,849469,,,0
+H3,2009,2009,2009,2,0,2,Export,826,United Kingdom,GBR,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10965292,,,0
+H3,2009,2009,2009,2,0,2,Export,826,United Kingdom,GBR,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3232766,,,0
+H3,2009,2009,2009,2,0,2,Export,826,United Kingdom,GBR,184,Cook Isds,COK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4700,,,0
+H3,2009,2009,2009,2,0,2,Export,826,United Kingdom,GBR,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,75880,,,0
+H3,2009,2009,2009,2,0,1,Import,834,United Rep. of Tanzania,TZA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,7,,,0
+H3,2009,2009,2009,2,0,1,Import,834,United Rep. of Tanzania,TZA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,46818,,,0
+H3,2009,2009,2009,2,0,1,Import,834,United Rep. of Tanzania,TZA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17433,,,0
+H3,2009,2009,2009,2,0,1,Import,834,United Rep. of Tanzania,TZA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2135,,,0
+H3,2009,2009,2009,2,0,1,Import,834,United Rep. of Tanzania,TZA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2628,,,0
+H3,2009,2009,2009,2,0,1,Import,834,United Rep. of Tanzania,TZA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,64820,,,0
+H3,2009,2009,2009,2,0,2,Export,834,United Rep. of Tanzania,TZA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,51182,,,0
+H3,2009,2009,2009,2,0,1,Import,842,USA,USA,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,19468275,,,0
+H3,2009,2009,2009,2,0,2,Export,842,USA,USA,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,777384089,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,842,USA,USA,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,121648,,,0
+H3,2009,2009,2009,2,0,2,Export,842,USA,USA,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,55286603,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,842,USA,USA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,78265,,,0
+H3,2009,2009,2009,2,0,1,Import,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23427369,,,0
+H3,2009,2009,2009,2,0,2,Export,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1560188,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,36877,,,0
+H3,2009,2009,2009,2,0,1,Import,842,USA,USA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,126824432,,,0
+H3,2009,2009,2009,2,0,2,Export,842,USA,USA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,31220117,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,842,USA,USA,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1350058,,,0
+H3,2009,2009,2009,2,0,1,Import,842,USA,USA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,112730,,,0
+H3,2009,2009,2009,2,0,2,Export,842,USA,USA,191,Croatia,HRV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,485079,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,842,USA,USA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,49934,,,0
+H3,2009,2009,2009,2,0,1,Import,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3212,,,0
+H3,2009,2009,2009,2,0,2,Export,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28015027,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,97202,,,0
+H3,2009,2009,2009,2,0,2,Export,842,USA,USA,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8070,,,0
+H3,2009,2009,2009,2,0,1,Import,842,USA,USA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,36425960,,,0
+H3,2009,2009,2009,2,0,2,Export,842,USA,USA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,277167025,,,0
+H3,2009,2009,2009,2,0,3,Re-Export,842,USA,USA,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3916355,,,0
+H3,2009,2009,2009,2,0,1,Import,842,USA,USA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,416393,,,0
+H3,2009,2009,2009,2,0,2,Export,842,USA,USA,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2342799,,,0
+H3,2009,2009,2009,2,0,1,Import,842,USA,USA,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3645,,,0
+H3,2009,2009,2009,2,0,1,Import,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,69454730,,,0
+H3,2009,2009,2009,2,0,2,Export,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,27542902,,,0
+H3,2009,2009,2009,2,0,1,Import,854,Burkina Faso,BFA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,138891783,,,0
+H3,2009,2009,2009,2,0,2,Export,854,Burkina Faso,BFA,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,79511,,,0
+H3,2009,2009,2009,2,0,1,Import,854,Burkina Faso,BFA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9677799,,,0
+H3,2009,2009,2009,2,0,2,Export,854,Burkina Faso,BFA,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,125159,,,0
+H3,2009,2009,2009,2,0,1,Import,854,Burkina Faso,BFA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1102050,,,0
+H3,2009,2009,2009,2,0,2,Export,854,Burkina Faso,BFA,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,98411,,,0
+H3,2009,2009,2009,2,0,1,Import,858,Uruguay,URY,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4143,,,0
+H3,2009,2009,2009,2,0,2,Export,858,Uruguay,URY,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,143353,,,0
+H3,2009,2009,2009,2,0,1,Import,858,Uruguay,URY,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14292,,,0
+H2,2009,2009,2009,2,0,1,Import,862,Venezuela,VEN,188,Costa Rica,CRI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2101945,,,0
+H2,2009,2009,2009,2,0,1,Import,862,Venezuela,VEN,384,Côte d'Ivoire,CIV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,42638,,,0
+H2,2009,2009,2009,2,0,1,Import,862,Venezuela,VEN,188,Costa Rica,CRI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,189,,,0
+H2,2009,2009,2009,2,0,1,Import,862,Venezuela,VEN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,707557,,,0
+H2,2009,2009,2009,2,0,2,Export,862,Venezuela,VEN,188,Costa Rica,CRI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,94472,,,0
+H2,2009,2009,2009,2,0,1,Import,862,Venezuela,VEN,384,Côte d'Ivoire,CIV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2056,,,0
+H3,2009,2009,2009,2,0,1,Import,887,Yemen,YEM,184,Cook Isds,COK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,193,,,0
+H3,2009,2009,2009,2,0,1,Import,894,Zambia,ZMB,191,Croatia,HRV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,249,,,0

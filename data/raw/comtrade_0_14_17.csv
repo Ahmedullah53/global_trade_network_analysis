@@ -1,0 +1,1240 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,2,0,1,Import,8,Albania,ALB,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,8342455,,,0
+H5,2017,2017,2017,2,0,2,Export,8,Albania,ALB,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2772617,,,0
+H5,2017,2017,2017,2,0,1,Import,8,Albania,ALB,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,91748,,,0
+H5,2017,2017,2017,2,0,1,Import,8,Albania,ALB,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3881,,,0
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,9388,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,456110,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,222938,,,4
+H5,2017,2017,2017,2,0,1,Import,20,Andorra,AND,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10529,,,0
+H5,2017,2017,2017,2,0,2,Export,20,Andorra,AND,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,356,,,0
+H5,2017,2017,2017,2,0,1,Import,20,Andorra,AND,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6,,,0
+H4,2017,2017,2017,2,0,1,Import,24,Angola,AGO,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7375,,,4
+H4,2017,2017,2017,2,0,1,Import,24,Angola,AGO,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,23659,,,4
+H4,2017,2017,2017,2,0,2,Export,24,Angola,AGO,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2534338,,,4
+H4,2017,2017,2017,2,0,1,Import,24,Angola,AGO,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,307799,,,4
+H4,2017,2017,2017,2,0,2,Export,24,Angola,AGO,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6763,,,0
+H4,2017,2017,2017,2,0,1,Import,24,Angola,AGO,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,612,,,0
+H4,2017,2017,2017,2,0,1,Import,24,Angola,AGO,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,51858,,,4
+H4,2017,2017,2017,2,0,2,Export,24,Angola,AGO,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1077006,,,0
+H4,2017,2017,2017,2,0,1,Import,24,Angola,AGO,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,127118,,,0
+H4,2017,2017,2017,2,0,2,Export,24,Angola,AGO,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8866,,,0
+H4,2017,2017,2017,2,0,1,Import,24,Angola,AGO,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,60813,,,0
+H3,2017,2017,2017,2,0,2,Export,28,Antigua and Barbuda,ATG,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,24210,,,0
+H3,2017,2017,2017,2,0,3,Re-Export,28,Antigua and Barbuda,ATG,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,24210,,,0
+H3,2017,2017,2017,2,0,1,Import,28,Antigua and Barbuda,ATG,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1433,,,0
+H3,2017,2017,2017,2,0,1,Import,28,Antigua and Barbuda,ATG,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3140,,,0
+H3,2017,2017,2017,2,0,2,Export,28,Antigua and Barbuda,ATG,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,145108,,,0
+H3,2017,2017,2017,2,0,3,Re-Export,28,Antigua and Barbuda,ATG,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,145108,,,0
+H3,2017,2017,2017,2,0,1,Import,28,Antigua and Barbuda,ATG,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1878,,,0
+H3,2017,2017,2017,2,0,1,Import,28,Antigua and Barbuda,ATG,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,42,,,0
+H3,2017,2017,2017,2,0,2,Export,28,Antigua and Barbuda,ATG,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,16720,,,0
+H3,2017,2017,2017,2,0,3,Re-Export,28,Antigua and Barbuda,ATG,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,16720,,,0
+H4,2017,2017,2017,2,0,1,Import,31,Azerbaijan,AZE,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,11116,,,0
+H4,2017,2017,2017,2,0,2,Export,31,Azerbaijan,AZE,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,10537,,,0
+H4,2017,2017,2017,2,0,1,Import,31,Azerbaijan,AZE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,533887,,,4
+H4,2017,2017,2017,2,0,1,Import,31,Azerbaijan,AZE,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,792,,,0
+H4,2017,2017,2017,2,0,1,Import,31,Azerbaijan,AZE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,329162,,,0
+H4,2017,2017,2017,2,0,2,Export,31,Azerbaijan,AZE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,850,,,0
+H4,2017,2017,2017,2,0,1,Import,32,Argentina,ARG,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,16507,,,0
+H4,2017,2017,2017,2,0,1,Import,32,Argentina,ARG,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2104827,,,4
+H4,2017,2017,2017,2,0,2,Export,32,Argentina,ARG,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2029,,,0
+H4,2017,2017,2017,2,0,1,Import,32,Argentina,ARG,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,15,,,0
+H4,2017,2017,2017,2,0,2,Export,32,Argentina,ARG,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,53,,,0
+H4,2017,2017,2017,2,0,1,Import,32,Argentina,ARG,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,608777,,,4
+H4,2017,2017,2017,2,0,2,Export,32,Argentina,ARG,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,9401,,,0
+H4,2017,2017,2017,2,0,2,Export,32,Argentina,ARG,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,56,,,0
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,217104,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,86395,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12453794,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,527944,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1725,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,42523,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3389646,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,62666,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,215230,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4285,,,0
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,49818,,,0
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,190465,,,0
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,36,,,0
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,22434,,,0
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,19600348,,,0
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2485861,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3693019,,,0
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1848,,,0
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,206,,,0
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,53112725,,,0
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1571,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,417,,,0
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2954,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,240,,,0
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,129181,,,4
+H4,2017,2017,2017,2,0,1,Import,44,Bahamas,BHS,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1990,,,0
+H4,2017,2017,2017,2,0,1,Import,44,Bahamas,BHS,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,39785,,,4
+H4,2017,2017,2017,2,0,1,Import,44,Bahamas,BHS,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8662,,,0
+H4,2017,2017,2017,2,0,1,Import,44,Bahamas,BHS,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,865,,,0
+H5,2017,2017,2017,2,0,1,Import,48,Bahrain,BHR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,624,,,0
+H5,2017,2017,2017,2,0,2,Export,48,Bahrain,BHR,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,930166,,,0
+H5,2017,2017,2017,2,0,1,Import,48,Bahrain,BHR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,440,,,0
+H5,2017,2017,2017,2,0,2,Export,48,Bahrain,BHR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,179772,,,0
+H5,2017,2017,2017,2,0,1,Import,48,Bahrain,BHR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,167578,,,0
+H5,2017,2017,2017,2,0,2,Export,48,Bahrain,BHR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,79436,,,0
+H5,2017,2017,2017,2,0,2,Export,48,Bahrain,BHR,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3464,,,0
+H5,2017,2017,2017,2,0,1,Import,48,Bahrain,BHR,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1844,,,0
+H5,2017,2017,2017,2,0,2,Export,48,Bahrain,BHR,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8904,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,48,Bahrain,BHR,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,636,,,0
+H5,2017,2017,2017,2,0,1,Import,48,Bahrain,BHR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,26826,,,0
+H5,2017,2017,2017,2,0,2,Export,48,Bahrain,BHR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,104,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,48,Bahrain,BHR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,104,,,0
+H5,2017,2017,2017,2,0,1,Import,51,Armenia,ARM,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,116478,,,0
+H5,2017,2017,2017,2,0,1,Import,51,Armenia,ARM,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,11505,,,4
+H2,2017,2017,2017,2,0,2,Export,52,Barbados,BRB,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,3948,,,0
+H2,2017,2017,2017,2,0,1,Import,52,Barbados,BRB,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,11217,,,4
+H2,2017,2017,2017,2,0,2,Export,52,Barbados,BRB,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,509761,,,0
+H2,2017,2017,2017,2,0,3,Re-Export,52,Barbados,BRB,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,24902,,,0
+H2,2017,2017,2017,2,0,1,Import,52,Barbados,BRB,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,86031,,,4
+H2,2017,2017,2017,2,0,1,Import,52,Barbados,BRB,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,902,,,0
+H2,2017,2017,2017,2,0,2,Export,52,Barbados,BRB,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,62252,,,0
+H2,2017,2017,2017,2,0,3,Re-Export,52,Barbados,BRB,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,62026,,,0
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1970515,,,0
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5635986,,,0
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,50755842,,,0
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,31792837,,,0
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3397,,,0
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3494,,,0
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3762772,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,34106126,,,0
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,15163,,,0
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3771835,,,0
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,49567130,,,0
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,229606999,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,43890,,,0
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,31899,,,0
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1783065,,,0
+H5,2017,2017,2017,2,0,1,Import,60,Bermuda,BMU,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,17,,,0
+H5,2017,2017,2017,2,0,1,Import,60,Bermuda,BMU,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,59,,,0
+H5,2017,2017,2017,2,0,1,Import,60,Bermuda,BMU,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,7307,,,0
+H5,2017,2017,2017,2,0,1,Import,60,Bermuda,BMU,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,276,,,0
+H5,2017,2017,2017,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,97365,,,0
+H5,2017,2017,2017,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,61003,,,0
+H5,2017,2017,2017,2,0,1,Import,70,Bosnia Herzegovina,BIH,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,41891,,,4
+H5,2017,2017,2017,2,0,2,Export,70,Bosnia Herzegovina,BIH,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,266047,,,0
+H5,2017,2017,2017,2,0,1,Import,70,Bosnia Herzegovina,BIH,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16,,,0
+H5,2017,2017,2017,2,0,1,Import,70,Bosnia Herzegovina,BIH,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,388190,,,0
+H5,2017,2017,2017,2,0,2,Export,70,Bosnia Herzegovina,BIH,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,624283,,,0
+H5,2017,2017,2017,2,0,1,Import,70,Bosnia Herzegovina,BIH,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,856,,,0
+H5,2017,2017,2017,2,0,1,Import,70,Bosnia Herzegovina,BIH,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,40757,,,0
+H5,2017,2017,2017,2,0,2,Export,70,Bosnia Herzegovina,BIH,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,49654,,,0
+H4,2017,2017,2017,2,0,2,Export,72,Botswana,BWA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,958,,,0
+H4,2017,2017,2017,2,0,1,Import,72,Botswana,BWA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,15953,,,0
+H4,2017,2017,2017,2,0,2,Export,72,Botswana,BWA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,26,,,0
+H4,2017,2017,2017,2,0,1,Import,72,Botswana,BWA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8229,,,0
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,67201,,,0
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2896,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,17867,,,0
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,20439871,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1144097,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,77673,,,0
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,209895,,,0
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2816882,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,54011,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,15105,,,0
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,91376,,,0
+H4,2017,2017,2017,2,0,1,Import,84,Belize,BLZ,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1396,,,0
+H4,2017,2017,2017,2,0,2,Export,84,Belize,BLZ,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1993,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,84,Belize,BLZ,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,329,,,0
+H4,2017,2017,2017,2,0,1,Import,84,Belize,BLZ,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4269,,,0
+H4,2017,2017,2017,2,0,1,Import,90,Solomon Isds,SLB,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2163,,,4
+H5,2017,2017,2017,2,0,1,Import,96,Brunei Darussalam,BRN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7734,,,0
+H5,2017,2017,2017,2,0,1,Import,96,Brunei Darussalam,BRN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,109,,,0
+H5,2017,2017,2017,2,0,1,Import,96,Brunei Darussalam,BRN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,25139,,,4
+H5,2017,2017,2017,2,0,1,Import,96,Brunei Darussalam,BRN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,43015,,,4
+H5,2017,2017,2017,2,0,1,Import,100,Bulgaria,BGR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,2930543,,,4
+H5,2017,2017,2017,2,0,2,Export,100,Bulgaria,BGR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,26728522,,,4
+H5,2017,2017,2017,2,0,1,Import,100,Bulgaria,BGR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3840901,,,4
+H5,2017,2017,2017,2,0,2,Export,100,Bulgaria,BGR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3528372,,,0
+H5,2017,2017,2017,2,0,1,Import,100,Bulgaria,BGR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,263490,,,4
+H5,2017,2017,2017,2,0,2,Export,100,Bulgaria,BGR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,578358,,,0
+H5,2017,2017,2017,2,0,1,Import,104,Myanmar,MMR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,28199,,,0
+H5,2017,2017,2017,2,0,2,Export,104,Myanmar,MMR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7264,,,0
+H5,2017,2017,2017,2,0,1,Import,104,Myanmar,MMR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4485,,,0
+H4,2017,2017,2017,2,0,1,Import,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5351,,,0
+H4,2017,2017,2017,2,0,2,Export,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,348214,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,346730,,,0
+H4,2017,2017,2017,2,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,208417,,,0
+H4,2017,2017,2017,2,0,1,Import,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,464,,,0
+H4,2017,2017,2017,2,0,2,Export,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3340866,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13,,,0
+H4,2017,2017,2017,2,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16661,,,0
+H4,2017,2017,2017,2,0,1,Import,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3222,,,4
+H4,2017,2017,2017,2,0,2,Export,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4031,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4031,,,0
+H4,2017,2017,2017,2,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,259261,,,0
+H5,2017,2017,2017,2,0,1,Import,112,Belarus,BLR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,16100,,,0
+H5,2017,2017,2017,2,0,2,Export,112,Belarus,BLR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3404600,,,0
+H5,2017,2017,2017,2,0,1,Import,112,Belarus,BLR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4112700,,,4
+H5,2017,2017,2017,2,0,2,Export,112,Belarus,BLR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1271900,,,0
+H5,2017,2017,2017,2,0,2,Export,112,Belarus,BLR,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1800,,,0
+H5,2017,2017,2017,2,0,1,Import,112,Belarus,BLR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,421800,,,4
+H5,2017,2017,2017,2,0,2,Export,112,Belarus,BLR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,800,,,4
+H5,2017,2017,2017,2,0,2,Export,112,Belarus,BLR,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,900,,,0
+H5,2017,2017,2017,2,0,1,Import,116,Cambodia,KHM,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,92751,,,4
+H5,2017,2017,2017,2,0,2,Export,116,Cambodia,KHM,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,199708,,,4
+H5,2017,2017,2017,2,0,2,Export,116,Cambodia,KHM,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,30538,,,4
+H5,2017,2017,2017,2,0,1,Import,116,Cambodia,KHM,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,1196,,,4
+H4,2017,2017,2017,2,0,2,Export,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,13758952,,,0
+H4,2017,2017,2017,2,0,1,Import,120,Cameroon,CMR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1293,,,0
+H4,2017,2017,2017,2,0,2,Export,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,31716,,,0
+H4,2017,2017,2017,2,0,1,Import,120,Cameroon,CMR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,144914,,,0
+H4,2017,2017,2017,2,0,1,Import,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,13024,,,0
+H4,2017,2017,2017,2,0,2,Export,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,793,,,0
+H4,2017,2017,2017,2,0,1,Import,120,Cameroon,CMR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,39683,,,0
+H5,2017,2017,2017,2,0,1,Import,124,Canada,CAN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4136609,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,31796817,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,17907,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,11250,,,0
+H5,2017,2017,2017,2,0,1,Import,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,4899,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,124,Canada,CAN,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5108,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,504,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,124,Canada,CAN,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,504,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1101,,,0
+H5,2017,2017,2017,2,0,1,Import,124,Canada,CAN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,2486320,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4898759,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,124,Canada,CAN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4253799,,,0
+H5,2017,2017,2017,2,0,1,Import,124,Canada,CAN,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,7841,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8106,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,124,Canada,CAN,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,502,,,0
+H5,2017,2017,2017,2,0,1,Import,124,Canada,CAN,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,43,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,124,Canada,CAN,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13,,,0
+H5,2017,2017,2017,2,0,1,Import,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,1905,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,10295,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3,,,0
+H5,2017,2017,2017,2,0,1,Import,124,Canada,CAN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,10590345,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2090019,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,124,Canada,CAN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1377174,,,0
+H5,2017,2017,2017,2,0,1,Import,124,Canada,CAN,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,703,,,0
+H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,230059,,,4
+H4,2017,2017,2017,2,0,1,Import,132,Cabo Verde,CPV,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1782,,,0
+H4,2017,2017,2017,2,0,1,Import,132,Cabo Verde,CPV,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1703,,,0
+H4,2017,2017,2017,2,0,1,Import,140,Central African Rep.,CAF,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,76793,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,9793,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1140983,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,912266,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,17812,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,488039,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2706864,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,144,Sri Lanka,LKA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,9988,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,93205,,,4
+H5,2017,2017,2017,2,0,1,Import,152,Chile,CHL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,176487,,,4
+H5,2017,2017,2017,2,0,1,Import,152,Chile,CHL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5521149,,,4
+H5,2017,2017,2017,2,0,2,Export,152,Chile,CHL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,138608,,,0
+H5,2017,2017,2017,2,0,1,Import,152,Chile,CHL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,857287,,,4
+H5,2017,2017,2017,2,0,2,Export,152,Chile,CHL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,66098,,,0
+H5,2017,2017,2017,2,0,1,Import,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,199004040,,,0
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1188605,,,0
+H5,2017,2017,2017,2,0,1,Import,156,China,CHN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1023766,,,0
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,18180459,,,0
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,253208,,,0
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,180231,,,0
+H5,2017,2017,2017,2,0,1,Import,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,244,,,4
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,25651320,,,4
+H5,2017,2017,2017,2,0,1,Import,156,China,CHN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,20586874,,,4
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,40209423,,,4
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1186184,,,4
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,26618861,,,0
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,41609800,,,4
+H5,2017,2017,2017,2,0,1,Import,156,China,CHN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,60394374,,,4
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,143183467,,,4
+H5,2017,2017,2017,2,0,1,Import,156,China,CHN,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,41410,,,0
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2485474,,,4
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,121058976,,,4
+H5,2017,2017,2017,2,0,1,Import,170,Colombia,COL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,276,,,0
+H5,2017,2017,2017,2,0,2,Export,170,Colombia,COL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,18519390,,,0
+H5,2017,2017,2017,2,0,2,Export,170,Colombia,COL,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,364,,,0
+H5,2017,2017,2017,2,0,2,Export,170,Colombia,COL,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10,,,0
+H5,2017,2017,2017,2,0,1,Import,170,Colombia,COL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1125750,,,0
+H5,2017,2017,2017,2,0,2,Export,170,Colombia,COL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,384,,,0
+H5,2017,2017,2017,2,0,2,Export,170,Colombia,COL,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,25472,,,0
+H5,2017,2017,2017,2,0,1,Import,170,Colombia,COL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,182208,,,0
+H4,2017,2017,2017,2,0,1,Import,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1168541,,,0
+H4,2017,2017,2017,2,0,2,Export,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7227,,,0
+H4,2017,2017,2017,2,0,1,Import,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3242,,,0
+H4,2017,2017,2017,2,0,2,Export,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16923,,,0
+H4,2017,2017,2017,2,0,1,Import,178,Congo,COG,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,25638,,,0
+H4,2017,2017,2017,2,0,2,Export,178,Congo,COG,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,79,,,0
+H4,2017,2017,2017,2,0,1,Import,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1779,,,0
+H4,2017,2017,2017,2,0,2,Export,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,908,,,0
+H4,2017,2017,2017,2,0,1,Import,178,Congo,COG,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,11009,,,0
+H4,2017,2017,2017,2,0,2,Export,178,Congo,COG,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,603,,,0
+H4,2017,2017,2017,2,0,1,Import,180,Dem. Rep. of the Congo,COD,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,158704,,,0
+H4,2017,2017,2017,2,0,1,Import,180,Dem. Rep. of the Congo,COD,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,178268,,,0
+H5,2017,2017,2017,2,0,1,Import,188,Costa Rica,CRI,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,11532,,,4
+H5,2017,2017,2017,2,0,1,Import,188,Costa Rica,CRI,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,71031,,,4
+H5,2017,2017,2017,2,0,2,Export,188,Costa Rica,CRI,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,75,,,0
+H5,2017,2017,2017,2,0,1,Import,188,Costa Rica,CRI,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,697,,,0
+H5,2017,2017,2017,2,0,2,Export,188,Costa Rica,CRI,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,36464,,,0
+H5,2017,2017,2017,2,0,1,Import,188,Costa Rica,CRI,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,102948,,,4
+H5,2017,2017,2017,2,0,2,Export,188,Costa Rica,CRI,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4,,,0
+H5,2017,2017,2017,2,0,1,Import,191,Croatia,HRV,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,52633,,,4
+H5,2017,2017,2017,2,0,2,Export,191,Croatia,HRV,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,250,,,4
+H5,2017,2017,2017,2,0,2,Export,191,Croatia,HRV,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,865549,,,4
+H5,2017,2017,2017,2,0,2,Export,191,Croatia,HRV,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,673,,,4
+H5,2017,2017,2017,2,0,1,Import,191,Croatia,HRV,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2224929,,,4
+H5,2017,2017,2017,2,0,2,Export,191,Croatia,HRV,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,4114174,,,4
+H5,2017,2017,2017,2,0,2,Export,191,Croatia,HRV,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,350,,,4
+H5,2017,2017,2017,2,0,1,Import,191,Croatia,HRV,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,484550,,,4
+H5,2017,2017,2017,2,0,2,Export,191,Croatia,HRV,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,29208,,,4
+H5,2017,2017,2017,2,0,1,Import,196,Cyprus,CYP,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,497,,,0
+H5,2017,2017,2017,2,0,1,Import,196,Cyprus,CYP,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,579713,,,0
+H5,2017,2017,2017,2,0,2,Export,196,Cyprus,CYP,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,30638,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,196,Cyprus,CYP,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8996,,,0
+H5,2017,2017,2017,2,0,1,Import,196,Cyprus,CYP,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,94283,,,0
+H5,2017,2017,2017,2,0,1,Import,203,Czechia,CZE,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,14560435,,,4
+H5,2017,2017,2017,2,0,2,Export,203,Czechia,CZE,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5754871,,,4
+H5,2017,2017,2017,2,0,2,Export,203,Czechia,CZE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1511,,,0
+H5,2017,2017,2017,2,0,1,Import,203,Czechia,CZE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,56006423,,,4
+H5,2017,2017,2017,2,0,2,Export,203,Czechia,CZE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,68649015,,,4
+H5,2017,2017,2017,2,0,2,Export,203,Czechia,CZE,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7197,,,0
+H5,2017,2017,2017,2,0,2,Export,203,Czechia,CZE,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,100000,,,0
+H5,2017,2017,2017,2,0,1,Import,203,Czechia,CZE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,44,,,4
+H5,2017,2017,2017,2,0,2,Export,203,Czechia,CZE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,12671,,,0
+H5,2017,2017,2017,2,0,1,Import,203,Czechia,CZE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1836585,,,4
+H5,2017,2017,2017,2,0,2,Export,203,Czechia,CZE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4869744,,,4
+H4,2017,2017,2017,2,0,1,Import,204,Benin,BEN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1321,,,0
+H4,2017,2017,2017,2,0,1,Import,204,Benin,BEN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2325,,,0
+H4,2017,2017,2017,2,0,1,Import,204,Benin,BEN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4323,,,0
+H5,2017,2017,2017,2,0,2,Export,208,Denmark,DNK,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,37406,,,0
+H5,2017,2017,2017,2,0,2,Export,208,Denmark,DNK,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14674,,,0
+H5,2017,2017,2017,2,0,2,Export,208,Denmark,DNK,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,25131,,,0
+H5,2017,2017,2017,2,0,1,Import,214,Dominican Rep.,DOM,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,9343,,,4
+H5,2017,2017,2017,2,0,2,Export,214,Dominican Rep.,DOM,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,116948,,,4
+H5,2017,2017,2017,2,0,1,Import,214,Dominican Rep.,DOM,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2265828,,,4
+H5,2017,2017,2017,2,0,2,Export,214,Dominican Rep.,DOM,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,79062,,,4
+H5,2017,2017,2017,2,0,1,Import,214,Dominican Rep.,DOM,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4548,,,4
+H5,2017,2017,2017,2,0,2,Export,214,Dominican Rep.,DOM,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,412286,,,4
+H5,2017,2017,2017,2,0,1,Import,214,Dominican Rep.,DOM,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,209943,,,4
+H5,2017,2017,2017,2,0,2,Export,214,Dominican Rep.,DOM,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,150,,,4
+H5,2017,2017,2017,2,0,1,Import,218,Ecuador,ECU,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,15275,,,0
+H5,2017,2017,2017,2,0,1,Import,218,Ecuador,ECU,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,304717,,,0
+H5,2017,2017,2017,2,0,1,Import,218,Ecuador,ECU,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,301,,,0
+H5,2017,2017,2017,2,0,2,Export,218,Ecuador,ECU,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4676,,,0
+H5,2017,2017,2017,2,0,1,Import,218,Ecuador,ECU,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,121500,,,4
+H5,2017,2017,2017,2,0,2,Export,218,Ecuador,ECU,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,41,,,0
+H5,2017,2017,2017,2,0,1,Import,222,El Salvador,SLV,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,22,,,0
+H5,2017,2017,2017,2,0,1,Import,222,El Salvador,SLV,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,65655,,,0
+H5,2017,2017,2017,2,0,2,Export,222,El Salvador,SLV,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1660,,,0
+H5,2017,2017,2017,2,0,1,Import,222,El Salvador,SLV,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,41902,,,0
+H5,2017,2017,2017,2,0,2,Export,222,El Salvador,SLV,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,924,,,0
+H4,2017,2017,2017,2,0,1,Import,231,Ethiopia,ETH,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3047,,,0
+H4,2017,2017,2017,2,0,1,Import,231,Ethiopia,ETH,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,140798,,,0
+H4,2017,2017,2017,2,0,2,Export,231,Ethiopia,ETH,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,118,,,0
+H4,2017,2017,2017,2,0,2,Export,231,Ethiopia,ETH,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,290145,,,0
+H4,2017,2017,2017,2,0,1,Import,231,Ethiopia,ETH,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8,,,0
+H4,2017,2017,2017,2,0,1,Import,231,Ethiopia,ETH,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,79702,,,0
+H4,2017,2017,2017,2,0,2,Export,231,Ethiopia,ETH,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8727,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,231,Ethiopia,ETH,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6700,,,0
+H5,2017,2017,2017,2,0,1,Import,233,Estonia,EST,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,34806226,,,0
+H5,2017,2017,2017,2,0,2,Export,233,Estonia,EST,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3557083,,,0
+H5,2017,2017,2017,2,0,2,Export,233,Estonia,EST,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,12459,,,0
+H5,2017,2017,2017,2,0,1,Import,233,Estonia,EST,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8984683,,,4
+H5,2017,2017,2017,2,0,2,Export,233,Estonia,EST,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7729891,,,0
+H5,2017,2017,2017,2,0,1,Import,233,Estonia,EST,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,839229,,,4
+H5,2017,2017,2017,2,0,2,Export,233,Estonia,EST,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,29552,,,0
+H5,2017,2017,2017,2,0,1,Import,242,Fiji,FJI,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7412,,,0
+H5,2017,2017,2017,2,0,1,Import,242,Fiji,FJI,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,229,,,0
+H5,2017,2017,2017,2,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,126643266,,,0
+H5,2017,2017,2017,2,0,2,Export,246,Finland,FIN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,43865802,,,4
+H5,2017,2017,2017,2,0,2,Export,246,Finland,FIN,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,750,,,0
+H5,2017,2017,2017,2,0,2,Export,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,33,,,0
+H5,2017,2017,2017,2,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,58174231,,,4
+H5,2017,2017,2017,2,0,2,Export,246,Finland,FIN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,57465870,,,4
+H5,2017,2017,2017,2,0,2,Export,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8107,,,0
+H5,2017,2017,2017,2,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4477253,,,4
+H5,2017,2017,2017,2,0,2,Export,246,Finland,FIN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3892563,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4502218,,,0
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,68564,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,54385457,,,0
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,19254436,,,0
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1805,,,0
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,44674,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3843129,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2142076,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2170190,,,0
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,9325128,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,21514834,,,0
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1498,,,0
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6483,,,0
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4782,,,0
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1491787,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,111513477,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,164189491,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13041,,,0
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,40,,,0
+H5,2017,2017,2017,2,0,1,Import,268,Georgia,GEO,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,466,,,0
+H5,2017,2017,2017,2,0,1,Import,268,Georgia,GEO,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,105881,,,0
+H5,2017,2017,2017,2,0,1,Import,268,Georgia,GEO,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,58960,,,0
+H4,2017,2017,2017,2,0,1,Import,270,Gambia,GMB,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5641,,,0
+H4,2017,2017,2017,2,0,1,Import,270,Gambia,GMB,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,38962,,,4
+H4,2017,2017,2017,2,0,1,Import,270,Gambia,GMB,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,44,,,0
+H4,2017,2017,2017,2,0,1,Import,270,Gambia,GMB,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3213,,,0
+H4,2017,2017,2017,2,0,1,Import,275,State of Palestine,PSE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,21813,,,4
+H4,2017,2017,2017,2,0,1,Import,275,State of Palestine,PSE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2978,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,28039,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,535622293,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,305212538,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5178,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2011673,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,409777443,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,12071,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8258145,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1096975171,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,83310,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,744852,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,409430,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,65542749,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,288968972,,,0
+H4,2017,2017,2017,2,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,706804,,,4
+H4,2017,2017,2017,2,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1734329,,,0
+H4,2017,2017,2017,2,0,1,Import,288,Ghana,GHA,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,151700,,,0
+H4,2017,2017,2017,2,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,745681,,,0
+H5,2017,2017,2017,2,0,2,Export,300,Greece,GRC,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,152658,,,0
+H5,2017,2017,2017,2,0,1,Import,300,Greece,GRC,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,49478902,,,0
+H5,2017,2017,2017,2,0,2,Export,300,Greece,GRC,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,17778626,,,0
+H5,2017,2017,2017,2,0,2,Export,300,Greece,GRC,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2069576,,,0
+H5,2017,2017,2017,2,0,1,Import,300,Greece,GRC,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6903323,,,0
+H5,2017,2017,2017,2,0,2,Export,300,Greece,GRC,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2609217,,,0
+H5,2017,2017,2017,2,0,1,Import,300,Greece,GRC,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,205154,,,0
+H5,2017,2017,2017,2,0,2,Export,300,Greece,GRC,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14157,,,0
+H5,2017,2017,2017,2,0,1,Import,304,Greenland,GRL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6364333,,,4
+H5,2017,2017,2017,2,0,2,Export,304,Greenland,GRL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2986,,,0
+H5,2017,2017,2017,2,0,1,Import,304,Greenland,GRL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13098903,,,4
+H5,2017,2017,2017,2,0,2,Export,304,Greenland,GRL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,28333,,,0
+H5,2017,2017,2017,2,0,1,Import,304,Greenland,GRL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1796573,,,4
+H5,2017,2017,2017,2,0,2,Export,304,Greenland,GRL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,18302,,,0
+H4,2017,2017,2017,2,0,1,Import,308,Grenada,GRD,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5580,,,0
+H4,2017,2017,2017,2,0,2,Export,308,Grenada,GRD,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,839,,,0
+H4,2017,2017,2017,2,0,1,Import,308,Grenada,GRD,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8,,,0
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,530,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10175,,,0
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,38054,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,18341,,,0
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,61745,,,0
+H3,2017,2017,2017,2,0,1,Import,328,Guyana,GUY,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2304,,,0
+H3,2017,2017,2017,2,0,1,Import,328,Guyana,GUY,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1910,,,0
+H3,2017,2017,2017,2,0,1,Import,328,Guyana,GUY,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2886,,,0
+H3,2017,2017,2017,2,0,1,Import,328,Guyana,GUY,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,53958,,,0
+H3,2017,2017,2017,2,0,2,Export,328,Guyana,GUY,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3890,,,0
+H3,2017,2017,2017,2,0,1,Import,328,Guyana,GUY,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5218,,,0
+H3,2017,2017,2017,2,0,1,Import,328,Guyana,GUY,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,628,,,0
+H5,2017,2017,2017,2,0,1,Import,340,Honduras,HND,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2668,,,0
+H5,2017,2017,2017,2,0,1,Import,340,Honduras,HND,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,45035,,,4
+H5,2017,2017,2017,2,0,2,Export,340,Honduras,HND,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,250,,,0
+H5,2017,2017,2017,2,0,1,Import,340,Honduras,HND,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,27158,,,4
+H5,2017,2017,2017,2,0,2,Export,340,Honduras,HND,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,60,,,0
+H5,2017,2017,2017,2,0,2,Export,344,"China, Hong Kong SAR",HKG,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,27427,,,0
+H5,2017,2017,2017,2,0,1,Import,344,"China, Hong Kong SAR",HKG,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,36060,,,0
+H5,2017,2017,2017,2,0,1,Import,344,"China, Hong Kong SAR",HKG,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6677,,,0
+H5,2017,2017,2017,2,0,2,Export,344,"China, Hong Kong SAR",HKG,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,452888,,,0
+H5,2017,2017,2017,2,0,1,Import,344,"China, Hong Kong SAR",HKG,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2609363,,,4
+H5,2017,2017,2017,2,0,2,Export,344,"China, Hong Kong SAR",HKG,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5310629,,,4
+H5,2017,2017,2017,2,0,2,Export,344,"China, Hong Kong SAR",HKG,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,57897,,,4
+H5,2017,2017,2017,2,0,1,Import,344,"China, Hong Kong SAR",HKG,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,569630,,,4
+H5,2017,2017,2017,2,0,2,Export,344,"China, Hong Kong SAR",HKG,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1040311,,,0
+H5,2017,2017,2017,2,0,2,Export,348,Hungary,HUN,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,67725,,,0
+H5,2017,2017,2017,2,0,1,Import,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,599568,,,0
+H5,2017,2017,2017,2,0,2,Export,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,472747,,,0
+H5,2017,2017,2017,2,0,2,Export,348,Hungary,HUN,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,105576,,,0
+H5,2017,2017,2017,2,0,1,Import,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,76680254,,,4
+H5,2017,2017,2017,2,0,2,Export,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,32518935,,,4
+H5,2017,2017,2017,2,0,2,Export,348,Hungary,HUN,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,34737,,,0
+H5,2017,2017,2017,2,0,2,Export,348,Hungary,HUN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5270,,,0
+H5,2017,2017,2017,2,0,1,Import,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3531568,,,4
+H5,2017,2017,2017,2,0,2,Export,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,11711364,,,4
+H5,2017,2017,2017,2,0,2,Export,348,Hungary,HUN,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,77032,,,0
+H5,2017,2017,2017,2,0,2,Export,348,Hungary,HUN,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,55986,,,0
+H5,2017,2017,2017,2,0,1,Import,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,61323220,,,0
+H5,2017,2017,2017,2,0,2,Export,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5745220,,,0
+H5,2017,2017,2017,2,0,1,Import,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,19865210,,,0
+H5,2017,2017,2017,2,0,2,Export,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2366869,,,4
+H5,2017,2017,2017,2,0,1,Import,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1886232,,,4
+H5,2017,2017,2017,2,0,2,Export,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,19607,,,4
+H5,2017,2017,2017,2,0,1,Import,360,Indonesia,IDN,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,193051923,,,0
+H5,2017,2017,2017,2,0,1,Import,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,10534,,,0
+H5,2017,2017,2017,2,0,2,Export,360,Indonesia,IDN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,75900,,,0
+H5,2017,2017,2017,2,0,1,Import,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1605016,,,0
+H5,2017,2017,2017,2,0,2,Export,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6552762,,,0
+H5,2017,2017,2017,2,0,1,Import,360,Indonesia,IDN,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,87,,,0
+H5,2017,2017,2017,2,0,2,Export,360,Indonesia,IDN,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,45309,,,0
+H5,2017,2017,2017,2,0,2,Export,360,Indonesia,IDN,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,43910,,,0
+H5,2017,2017,2017,2,0,2,Export,360,Indonesia,IDN,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1184072,,,0
+H5,2017,2017,2017,2,0,2,Export,360,Indonesia,IDN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,66726,,,0
+H5,2017,2017,2017,2,0,1,Import,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,494345,,,0
+H5,2017,2017,2017,2,0,2,Export,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1337708,,,0
+H5,2017,2017,2017,2,0,2,Export,360,Indonesia,IDN,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,105969,,,0
+H5,2017,2017,2017,2,0,1,Import,364,Iran,IRN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2218,,,0
+H5,2017,2017,2017,2,0,2,Export,364,Iran,IRN,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,17661024,,,0
+H5,2017,2017,2017,2,0,1,Import,364,Iran,IRN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2791427,,,0
+H5,2017,2017,2017,2,0,2,Export,364,Iran,IRN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,697,,,0
+H5,2017,2017,2017,2,0,1,Import,364,Iran,IRN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,174238,,,0
+H5,2017,2017,2017,2,0,1,Import,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,211312,,,0
+H5,2017,2017,2017,2,0,2,Export,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,978982,,,0
+H5,2017,2017,2017,2,0,1,Import,372,Ireland,IRL,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,653,,,0
+H5,2017,2017,2017,2,0,2,Export,372,Ireland,IRL,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,198593,,,4
+H5,2017,2017,2017,2,0,1,Import,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,19909728,,,0
+H5,2017,2017,2017,2,0,2,Export,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9754381,,,0
+H5,2017,2017,2017,2,0,1,Import,372,Ireland,IRL,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,382,,,0
+H5,2017,2017,2017,2,0,2,Export,372,Ireland,IRL,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,46,,,4
+H5,2017,2017,2017,2,0,1,Import,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,519295,,,0
+H5,2017,2017,2017,2,0,2,Export,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,875158,,,0
+H5,2017,2017,2017,2,0,1,Import,376,Israel,ISR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,760000,,,4
+H5,2017,2017,2017,2,0,2,Export,376,Israel,ISR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,376000,,,4
+H5,2017,2017,2017,2,0,1,Import,376,Israel,ISR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3480000,,,4
+H5,2017,2017,2017,2,0,2,Export,376,Israel,ISR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,11786000,,,4
+H5,2017,2017,2017,2,0,1,Import,376,Israel,ISR,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2000,,,4
+H5,2017,2017,2017,2,0,2,Export,376,Israel,ISR,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3908000,,,4
+H5,2017,2017,2017,2,0,1,Import,376,Israel,ISR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1035000,,,4
+H5,2017,2017,2017,2,0,2,Export,376,Israel,ISR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6471000,,,4
+H5,2017,2017,2017,2,0,2,Export,376,Israel,ISR,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3000,,,4
+H5,2017,2017,2017,2,0,2,Export,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,46533,,,0
+H5,2017,2017,2017,2,0,1,Import,381,Italy,ITA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,64935823,,,0
+H5,2017,2017,2017,2,0,2,Export,381,Italy,ITA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,21024643,,,0
+H5,2017,2017,2017,2,0,2,Export,381,Italy,ITA,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,15360,,,0
+H5,2017,2017,2017,2,0,1,Import,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3391,,,0
+H5,2017,2017,2017,2,0,2,Export,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,554627,,,0
+H5,2017,2017,2017,2,0,1,Import,381,Italy,ITA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,13666985,,,0
+H5,2017,2017,2017,2,0,2,Export,381,Italy,ITA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,21285754,,,0
+H5,2017,2017,2017,2,0,2,Export,381,Italy,ITA,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3559976,,,0
+H5,2017,2017,2017,2,0,1,Import,381,Italy,ITA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,35786318,,,0
+H5,2017,2017,2017,2,0,2,Export,381,Italy,ITA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,134624513,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,381,Italy,ITA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,78418,,,0
+H5,2017,2017,2017,2,0,2,Export,381,Italy,ITA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,119259,,,0
+H5,2017,2017,2017,2,0,2,Export,381,Italy,ITA,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1010492,,,0
+H5,2017,2017,2017,2,0,2,Export,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,149075,,,0
+H4,2017,2017,2017,2,0,2,Export,384,Côte d'Ivoire,CIV,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5579,,,0
+H4,2017,2017,2017,2,0,1,Import,384,Côte d'Ivoire,CIV,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,506,,,0
+H4,2017,2017,2017,2,0,2,Export,384,Côte d'Ivoire,CIV,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,32690,,,0
+H4,2017,2017,2017,2,0,1,Import,384,Côte d'Ivoire,CIV,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,77430,,,0
+H4,2017,2017,2017,2,0,2,Export,384,Côte d'Ivoire,CIV,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,501847,,,0
+H4,2017,2017,2017,2,0,1,Import,384,Côte d'Ivoire,CIV,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,48562,,,0
+H4,2017,2017,2017,2,0,2,Export,384,Côte d'Ivoire,CIV,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,54,,,0
+H4,2017,2017,2017,2,0,1,Import,384,Côte d'Ivoire,CIV,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,51852,,,0
+H4,2017,2017,2017,2,0,2,Export,384,Côte d'Ivoire,CIV,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2976,,,0
+H4,2017,2017,2017,2,0,1,Import,388,Jamaica,JAM,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6284,,,0
+H4,2017,2017,2017,2,0,2,Export,388,Jamaica,JAM,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,701612,,,0
+H4,2017,2017,2017,2,0,1,Import,388,Jamaica,JAM,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4231,,,0
+H4,2017,2017,2017,2,0,1,Import,388,Jamaica,JAM,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,854449,,,0
+H4,2017,2017,2017,2,0,2,Export,388,Jamaica,JAM,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,307244,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,388,Jamaica,JAM,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,62033,,,0
+H4,2017,2017,2017,2,0,1,Import,388,Jamaica,JAM,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,59375,,,0
+H4,2017,2017,2017,2,0,2,Export,388,Jamaica,JAM,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,11455,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,388,Jamaica,JAM,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,11327,,,0
+H5,2017,2017,2017,2,0,1,Import,392,Japan,JPN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,144565,,,0
+H5,2017,2017,2017,2,0,2,Export,392,Japan,JPN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,252726,,,0
+H5,2017,2017,2017,2,0,1,Import,392,Japan,JPN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,40310044,,,0
+H5,2017,2017,2017,2,0,2,Export,392,Japan,JPN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8774138,,,4
+H5,2017,2017,2017,2,0,2,Export,392,Japan,JPN,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,92707,,,0
+H5,2017,2017,2017,2,0,2,Export,392,Japan,JPN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,129011,,,0
+H5,2017,2017,2017,2,0,1,Import,392,Japan,JPN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1812269,,,0
+H5,2017,2017,2017,2,0,2,Export,392,Japan,JPN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5722768,,,0
+H5,2017,2017,2017,2,0,2,Export,392,Japan,JPN,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,602984,,,0
+H5,2017,2017,2017,2,0,1,Import,398,Kazakhstan,KAZ,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,839,,,0
+H5,2017,2017,2017,2,0,2,Export,398,Kazakhstan,KAZ,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,56737369,,,0
+H5,2017,2017,2017,2,0,1,Import,398,Kazakhstan,KAZ,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,530408,,,0
+H5,2017,2017,2017,2,0,2,Export,398,Kazakhstan,KAZ,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1017,,,0
+H5,2017,2017,2017,2,0,1,Import,398,Kazakhstan,KAZ,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,347398,,,4
+H5,2017,2017,2017,2,0,2,Export,398,Kazakhstan,KAZ,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,10405,,,0
+H5,2017,2017,2017,2,0,1,Import,400,Jordan,JOR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,8790,,,0
+H5,2017,2017,2017,2,0,1,Import,400,Jordan,JOR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,147774,,,0
+H5,2017,2017,2017,2,0,2,Export,400,Jordan,JOR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3136,,,0
+H5,2017,2017,2017,2,0,1,Import,400,Jordan,JOR,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13967,,,0
+H5,2017,2017,2017,2,0,2,Export,400,Jordan,JOR,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,335705,,,0
+H5,2017,2017,2017,2,0,1,Import,400,Jordan,JOR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,66087,,,0
+H4,2017,2017,2017,2,0,2,Export,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,8522483,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2600879,,,0
+H4,2017,2017,2017,2,0,1,Import,404,Kenya,KEN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,190,,,0
+H4,2017,2017,2017,2,0,2,Export,404,Kenya,KEN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,18760,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,404,Kenya,KEN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,18760,,,0
+H4,2017,2017,2017,2,0,2,Export,404,Kenya,KEN,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2450843,,,0
+H4,2017,2017,2017,2,0,2,Export,404,Kenya,KEN,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,514,,,0
+H4,2017,2017,2017,2,0,1,Import,404,Kenya,KEN,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1332,,,0
+H4,2017,2017,2017,2,0,2,Export,404,Kenya,KEN,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,498213,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,404,Kenya,KEN,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1826,,,0
+H4,2017,2017,2017,2,0,2,Export,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,40607,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,7698,,,0
+H4,2017,2017,2017,2,0,1,Import,404,Kenya,KEN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,293014,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,404,Kenya,KEN,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2434973,,,0
+H4,2017,2017,2017,2,0,1,Import,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,41809,,,0
+H4,2017,2017,2017,2,0,2,Export,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,17319229,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,805734,,,0
+H4,2017,2017,2017,2,0,1,Import,404,Kenya,KEN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,647277,,,0
+H4,2017,2017,2017,2,0,2,Export,404,Kenya,KEN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,299,,,0
+H5,2017,2017,2017,2,0,2,Export,410,Rep. of Korea,KOR,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,135290,,,0
+H5,2017,2017,2017,2,0,1,Import,410,Rep. of Korea,KOR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,433674,,,0
+H5,2017,2017,2017,2,0,2,Export,410,Rep. of Korea,KOR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,230973,,,0
+H5,2017,2017,2017,2,0,2,Export,410,Rep. of Korea,KOR,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,21185,,,0
+H5,2017,2017,2017,2,0,1,Import,410,Rep. of Korea,KOR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,30,,,0
+H5,2017,2017,2017,2,0,2,Export,410,Rep. of Korea,KOR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3672704,,,0
+H5,2017,2017,2017,2,0,2,Export,410,Rep. of Korea,KOR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8448303,,,0
+H5,2017,2017,2017,2,0,2,Export,410,Rep. of Korea,KOR,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,201891,,,0
+H5,2017,2017,2017,2,0,2,Export,410,Rep. of Korea,KOR,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3670791,,,0
+H5,2017,2017,2017,2,0,1,Import,410,Rep. of Korea,KOR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6260632,,,4
+H5,2017,2017,2017,2,0,2,Export,410,Rep. of Korea,KOR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,38374564,,,4
+H5,2017,2017,2017,2,0,2,Export,410,Rep. of Korea,KOR,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,174531,,,4
+H5,2017,2017,2017,2,0,2,Export,410,Rep. of Korea,KOR,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9041351,,,0
+H5,2017,2017,2017,2,0,2,Export,410,Rep. of Korea,KOR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,513816,,,0
+H5,2017,2017,2017,2,0,1,Import,410,Rep. of Korea,KOR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1421473,,,4
+H5,2017,2017,2017,2,0,1,Import,414,Kuwait,KWT,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,74383,,,0
+H5,2017,2017,2017,2,0,2,Export,414,Kuwait,KWT,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,139379,,,0
+H5,2017,2017,2017,2,0,1,Import,414,Kuwait,KWT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,658805,,,0
+H5,2017,2017,2017,2,0,1,Import,414,Kuwait,KWT,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,159357,,,0
+H5,2017,2017,2017,2,0,2,Export,414,Kuwait,KWT,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,49419,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,414,Kuwait,KWT,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,49419,,,0
+H5,2017,2017,2017,2,0,1,Import,417,Kyrgyzstan,KGZ,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3025,,,0
+H5,2017,2017,2017,2,0,1,Import,417,Kyrgyzstan,KGZ,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,40557,,,4
+H5,2017,2017,2017,2,0,1,Import,417,Kyrgyzstan,KGZ,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,32,,,0
+H5,2017,2017,2017,2,0,1,Import,418,Lao People's Dem. Rep.,LAO,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,712,,,4
+H5,2017,2017,2017,2,0,1,Import,422,Lebanon,LBN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4943,,,0
+H5,2017,2017,2017,2,0,1,Import,422,Lebanon,LBN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1333445,,,4
+H5,2017,2017,2017,2,0,2,Export,422,Lebanon,LBN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,28915,,,0
+H5,2017,2017,2017,2,0,1,Import,422,Lebanon,LBN,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,11918,,,0
+H5,2017,2017,2017,2,0,2,Export,422,Lebanon,LBN,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,52854,,,0
+H5,2017,2017,2017,2,0,1,Import,422,Lebanon,LBN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,76402,,,4
+H5,2017,2017,2017,2,0,2,Export,422,Lebanon,LBN,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4521,,,0
+H5,2017,2017,2017,2,0,1,Import,426,Lesotho,LSO,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,174,,,0
+H5,2017,2017,2017,2,0,1,Import,426,Lesotho,LSO,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,164910,,,0
+H5,2017,2017,2017,2,0,1,Import,428,Latvia,LVA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,236201,,,0
+H5,2017,2017,2017,2,0,2,Export,428,Latvia,LVA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2339789,,,0
+H5,2017,2017,2017,2,0,1,Import,428,Latvia,LVA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,15774424,,,4
+H5,2017,2017,2017,2,0,2,Export,428,Latvia,LVA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,11347497,,,4
+H5,2017,2017,2017,2,0,2,Export,428,Latvia,LVA,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3937,,,0
+H5,2017,2017,2017,2,0,1,Import,428,Latvia,LVA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1321983,,,4
+H5,2017,2017,2017,2,0,2,Export,428,Latvia,LVA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,115367,,,4
+H2,2017,2017,2017,2,0,1,Import,434,Libya,LBY,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10193,,,0
+H2,2017,2017,2017,2,0,1,Import,434,Libya,LBY,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,40892,,,4
+H5,2017,2017,2017,2,0,1,Import,440,Lithuania,LTU,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1650589,,,0
+H5,2017,2017,2017,2,0,2,Export,440,Lithuania,LTU,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,177833,,,0
+H5,2017,2017,2017,2,0,1,Import,440,Lithuania,LTU,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,15832754,,,4
+H5,2017,2017,2017,2,0,2,Export,440,Lithuania,LTU,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,42793940,,,0
+H5,2017,2017,2017,2,0,1,Import,440,Lithuania,LTU,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3476925,,,4
+H5,2017,2017,2017,2,0,2,Export,440,Lithuania,LTU,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,616974,,,0
+H5,2017,2017,2017,2,0,2,Export,442,Luxembourg,LUX,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1055,,,0
+H5,2017,2017,2017,2,0,1,Import,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,11701,,,0
+H5,2017,2017,2017,2,0,2,Export,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3452,,,0
+H5,2017,2017,2017,2,0,1,Import,442,Luxembourg,LUX,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,281,,,0
+H5,2017,2017,2017,2,0,2,Export,442,Luxembourg,LUX,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1891,,,0
+H5,2017,2017,2017,2,0,1,Import,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1523686,,,0
+H5,2017,2017,2017,2,0,2,Export,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8745277,,,0
+H5,2017,2017,2017,2,0,4,Re-Import,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,720,,,0
+H5,2017,2017,2017,2,0,2,Export,442,Luxembourg,LUX,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1208,,,0
+H5,2017,2017,2017,2,0,1,Import,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,73935,,,0
+H5,2017,2017,2017,2,0,2,Export,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,493643,,,0
+H5,2017,2017,2017,2,0,2,Export,450,Madagascar,MDG,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,16936,,,0
+H5,2017,2017,2017,2,0,1,Import,450,Madagascar,MDG,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,372220,,,0
+H5,2017,2017,2017,2,0,2,Export,450,Madagascar,MDG,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,55,,,0
+H5,2017,2017,2017,2,0,1,Import,450,Madagascar,MDG,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,13013,,,0
+H5,2017,2017,2017,2,0,2,Export,450,Madagascar,MDG,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,59,,,0
+H4,2017,2017,2017,2,0,1,Import,454,Malawi,MWI,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,282,,,0
+H4,2017,2017,2017,2,0,1,Import,454,Malawi,MWI,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,286,,,0
+H4,2017,2017,2017,2,0,2,Export,454,Malawi,MWI,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16091,,,0
+H4,2017,2017,2017,2,0,1,Import,454,Malawi,MWI,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4361,,,0
+H4,2017,2017,2017,2,0,1,Import,454,Malawi,MWI,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4411,,,0
+H5,2017,2017,2017,2,0,1,Import,458,Malaysia,MYS,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6945,,,0
+H5,2017,2017,2017,2,0,1,Import,458,Malaysia,MYS,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,215113,,,0
+H5,2017,2017,2017,2,0,2,Export,458,Malaysia,MYS,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,256796,,,0
+H5,2017,2017,2017,2,0,2,Export,458,Malaysia,MYS,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3302610,,,0
+H5,2017,2017,2017,2,0,1,Import,458,Malaysia,MYS,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3076458,,,0
+H5,2017,2017,2017,2,0,2,Export,458,Malaysia,MYS,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3705329,,,0
+H5,2017,2017,2017,2,0,2,Export,458,Malaysia,MYS,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,546308,,,0
+H5,2017,2017,2017,2,0,2,Export,458,Malaysia,MYS,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,729792,,,0
+H5,2017,2017,2017,2,0,1,Import,458,Malaysia,MYS,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,356996,,,0
+H5,2017,2017,2017,2,0,2,Export,458,Malaysia,MYS,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,31222832,,,4
+H5,2017,2017,2017,2,0,2,Export,458,Malaysia,MYS,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,196144,,,0
+H5,2017,2017,2017,2,0,2,Export,458,Malaysia,MYS,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2226628,,,4
+H5,2017,2017,2017,2,0,1,Import,462,Maldives,MDV,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,101784,,,0
+H5,2017,2017,2017,2,0,1,Import,462,Maldives,MDV,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,88818,,,4
+H4,2017,2017,2017,2,0,1,Import,466,Mali,MLI,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,157,,,0
+H4,2017,2017,2017,2,0,1,Import,466,Mali,MLI,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,165355,,,0
+H4,2017,2017,2017,2,0,1,Import,466,Mali,MLI,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1809,,,0
+H5,2017,2017,2017,2,0,1,Import,470,Malta,MLT,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5915391,,,0
+H5,2017,2017,2017,2,0,1,Import,470,Malta,MLT,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,706,,,0
+H5,2017,2017,2017,2,0,2,Export,470,Malta,MLT,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1279,,,0
+H5,2017,2017,2017,2,0,1,Import,470,Malta,MLT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,198529,,,4
+H5,2017,2017,2017,2,0,2,Export,470,Malta,MLT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10,,,0
+H5,2017,2017,2017,2,0,2,Export,470,Malta,MLT,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6685,,,0
+H5,2017,2017,2017,2,0,1,Import,470,Malta,MLT,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8126,,,0
+H4,2017,2017,2017,2,0,1,Import,478,Mauritania,MRT,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,29173,,,0
+H4,2017,2017,2017,2,0,1,Import,478,Mauritania,MRT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,46174,,,0
+H4,2017,2017,2017,2,0,1,Import,478,Mauritania,MRT,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,36885,,,0
+H5,2017,2017,2017,2,0,1,Import,480,Mauritius,MUS,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,35038,,,0
+H5,2017,2017,2017,2,0,2,Export,480,Mauritius,MUS,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3647,,,0
+H5,2017,2017,2017,2,0,1,Import,480,Mauritius,MUS,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,152455,,,0
+H5,2017,2017,2017,2,0,2,Export,480,Mauritius,MUS,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,22136,,,0
+H5,2017,2017,2017,2,0,1,Import,480,Mauritius,MUS,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,164574,,,0
+H5,2017,2017,2017,2,0,2,Export,480,Mauritius,MUS,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,103628,,,0
+H4,2017,2017,2017,2,0,1,Import,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,21870,,,0
+H4,2017,2017,2017,2,0,1,Import,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,19380350,,,0
+H4,2017,2017,2017,2,0,2,Export,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,226411,,,4
+H4,2017,2017,2017,2,0,2,Export,484,Mexico,MEX,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,22338,,,4
+H4,2017,2017,2017,2,0,1,Import,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1833557,,,0
+H4,2017,2017,2017,2,0,2,Export,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,62652,,,4
+H5,2017,2017,2017,2,0,2,Export,490,"Other Asia, nes",,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,230,,,0
+H5,2017,2017,2017,2,0,1,Import,490,"Other Asia, nes",,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,9304,,,4
+H5,2017,2017,2017,2,0,2,Export,490,"Other Asia, nes",,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,162997,,,4
+H5,2017,2017,2017,2,0,2,Export,490,"Other Asia, nes",,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1259353,,,0
+H5,2017,2017,2017,2,0,1,Import,490,"Other Asia, nes",,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1511564,,,4
+H5,2017,2017,2017,2,0,2,Export,490,"Other Asia, nes",,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,19377356,,,4
+H5,2017,2017,2017,2,0,2,Export,490,"Other Asia, nes",,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2565080,,,0
+H5,2017,2017,2017,2,0,2,Export,490,"Other Asia, nes",,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,21936,,,0
+H5,2017,2017,2017,2,0,1,Import,490,"Other Asia, nes",,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1270827,,,4
+H5,2017,2017,2017,2,0,2,Export,490,"Other Asia, nes",,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5354102,,,4
+H5,2017,2017,2017,2,0,2,Export,490,"Other Asia, nes",,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,26705,,,0
+H5,2017,2017,2017,2,0,1,Import,496,Mongolia,MNG,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,36241,,,0
+H5,2017,2017,2017,2,0,1,Import,496,Mongolia,MNG,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,61397,,,0
+H4,2017,2017,2017,2,0,1,Import,498,Rep. of Moldova,MDA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3141,,,4
+H4,2017,2017,2017,2,0,1,Import,498,Rep. of Moldova,MDA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,139985,,,4
+H4,2017,2017,2017,2,0,2,Export,498,Rep. of Moldova,MDA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,285,,,0
+H4,2017,2017,2017,2,0,1,Import,498,Rep. of Moldova,MDA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,48435,,,4
+H5,2017,2017,2017,2,0,1,Import,499,Montenegro,MNE,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,2981458,,,4
+H5,2017,2017,2017,2,0,2,Export,499,Montenegro,MNE,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,1013975,,,4
+H5,2017,2017,2017,2,0,1,Import,499,Montenegro,MNE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,50767,,,0
+H5,2017,2017,2017,2,0,1,Import,499,Montenegro,MNE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2944,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,96428,,,0
+H5,2017,2017,2017,2,0,2,Export,504,Morocco,MAR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,315174,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1711916,,,0
+H5,2017,2017,2017,2,0,2,Export,504,Morocco,MAR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,134304,,,0
+H5,2017,2017,2017,2,0,2,Export,504,Morocco,MAR,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12129,,,0
+H5,2017,2017,2017,2,0,2,Export,504,Morocco,MAR,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1511,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,266944,,,0
+H4,2017,2017,2017,2,0,1,Import,508,Mozambique,MOZ,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1210,,,0
+H4,2017,2017,2017,2,0,2,Export,508,Mozambique,MOZ,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,50222,,,0
+H4,2017,2017,2017,2,0,1,Import,508,Mozambique,MOZ,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,16277,,,4
+H4,2017,2017,2017,2,0,1,Import,508,Mozambique,MOZ,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,28192,,,0
+H5,2017,2017,2017,2,0,1,Import,512,Oman,OMN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,122,,,0
+H5,2017,2017,2017,2,0,2,Export,512,Oman,OMN,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,50273171,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,512,Oman,OMN,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,49351849,,,0
+H5,2017,2017,2017,2,0,2,Export,512,Oman,OMN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1012613,,,0
+H5,2017,2017,2017,2,0,1,Import,512,Oman,OMN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16931,,,0
+H5,2017,2017,2017,2,0,2,Export,512,Oman,OMN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,304,,,0
+H5,2017,2017,2017,2,0,2,Export,512,Oman,OMN,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6818618,,,0
+H5,2017,2017,2017,2,0,1,Import,512,Oman,OMN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,65607,,,0
+H5,2017,2017,2017,2,0,2,Export,512,Oman,OMN,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14512,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,512,Oman,OMN,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14512,,,0
+H5,2017,2017,2017,2,0,2,Export,516,Namibia,NAM,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,362385,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,516,Namibia,NAM,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,338652,,,0
+H5,2017,2017,2017,2,0,1,Import,516,Namibia,NAM,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,42780,,,4
+H5,2017,2017,2017,2,0,2,Export,516,Namibia,NAM,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1212,,,0
+H5,2017,2017,2017,2,0,2,Export,516,Namibia,NAM,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1403761,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,516,Namibia,NAM,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1385450,,,0
+H5,2017,2017,2017,2,0,1,Import,516,Namibia,NAM,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,56026,,,0
+H5,2017,2017,2017,2,0,2,Export,516,Namibia,NAM,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1435,,,0
+H5,2017,2017,2017,2,0,2,Export,516,Namibia,NAM,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,27192,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,516,Namibia,NAM,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2494,,,0
+H5,2017,2017,2017,2,0,1,Import,516,Namibia,NAM,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1228,,,0
+H5,2017,2017,2017,2,0,2,Export,516,Namibia,NAM,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,160,,,0
+H4,2017,2017,2017,2,0,1,Import,524,Nepal,NPL,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,51346,,,0
+H4,2017,2017,2017,2,0,1,Import,524,Nepal,NPL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,673,,,0
+H4,2017,2017,2017,2,0,1,Import,524,Nepal,NPL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3309,,,4
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1009775,,,0
+H5,2017,2017,2017,2,0,1,Import,528,Netherlands,NLD,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,726140469,,,4
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,248581914,,,4
+H5,2017,2017,2017,2,0,1,Import,528,Netherlands,NLD,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,375,,,0
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,168780,,,0
+H5,2017,2017,2017,2,0,1,Import,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,35035,,,0
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,235842,,,0
+H5,2017,2017,2017,2,0,1,Import,528,Netherlands,NLD,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14600739,,,4
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,48298615,,,0
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,779,,,0
+H5,2017,2017,2017,2,0,1,Import,528,Netherlands,NLD,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1784394,,,0
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2562380,,,0
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,951191,,,0
+H5,2017,2017,2017,2,0,1,Import,528,Netherlands,NLD,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,206329055,,,4
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,364905781,,,4
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,722,,,0
+H5,2017,2017,2017,2,0,1,Import,528,Netherlands,NLD,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,695,,,0
+H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,373961,,,0
+H5,2017,2017,2017,2,0,1,Import,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,92970,,,4
+H5,2017,2017,2017,2,0,2,Export,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,1211,,,0
+H5,2017,2017,2017,2,0,1,Import,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1875914,,,4
+H5,2017,2017,2017,2,0,2,Export,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3175092,,,0
+H5,2017,2017,2017,2,0,2,Export,554,New Zealand,NZL,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,27,,,0
+H5,2017,2017,2017,2,0,1,Import,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,672016,,,4
+H5,2017,2017,2017,2,0,2,Export,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,1023018,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,1671,,,0
+H5,2017,2017,2017,2,0,1,Import,554,New Zealand,NZL,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,13,,,4
+H5,2017,2017,2017,2,0,1,Import,558,Nicaragua,NIC,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,14842,,,0
+H5,2017,2017,2017,2,0,1,Import,558,Nicaragua,NIC,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,293,,,0
+H5,2017,2017,2017,2,0,1,Import,558,Nicaragua,NIC,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,120152,,,0
+H5,2017,2017,2017,2,0,1,Import,558,Nicaragua,NIC,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,80981,,,0
+H4,2017,2017,2017,2,0,2,Export,562,Niger,NER,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,24228,,,0
+H4,2017,2017,2017,2,0,1,Import,562,Niger,NER,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,88515,,,0
+H4,2017,2017,2017,2,0,1,Import,562,Niger,NER,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6745,,,0
+H4,2017,2017,2017,2,0,1,Import,562,Niger,NER,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2256,,,0
+H4,2017,2017,2017,2,0,1,Import,566,Nigeria,NGA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,215256,,,4
+H4,2017,2017,2017,2,0,2,Export,566,Nigeria,NGA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,50746528,,,4
+H4,2017,2017,2017,2,0,2,Export,566,Nigeria,NGA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,26622,,,4
+H4,2017,2017,2017,2,0,1,Import,566,Nigeria,NGA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,149114,,,4
+H4,2017,2017,2017,2,0,2,Export,566,Nigeria,NGA,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,542224,,,4
+H4,2017,2017,2017,2,0,1,Import,566,Nigeria,NGA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,160974,,,4
+H5,2017,2017,2017,2,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,580494526,,,4
+H5,2017,2017,2017,2,0,2,Export,579,Norway,NOR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2109003897,,,4
+H5,2017,2017,2017,2,0,2,Export,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2413,,,0
+H5,2017,2017,2017,2,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,173377906,,,0
+H5,2017,2017,2017,2,0,2,Export,579,Norway,NOR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,44928407,,,0
+H5,2017,2017,2017,2,0,2,Export,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5860,,,0
+H5,2017,2017,2017,2,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14036595,,,0
+H5,2017,2017,2017,2,0,2,Export,579,Norway,NOR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4997967,,,4
+H4,2017,2017,2017,2,0,1,Import,585,Palau,PLW,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,76,,,0
+H5,2017,2017,2017,2,0,1,Import,586,Pakistan,PAK,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,25696,,,0
+H5,2017,2017,2017,2,0,2,Export,586,Pakistan,PAK,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,49118,,,4
+H5,2017,2017,2017,2,0,1,Import,586,Pakistan,PAK,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,288703,,,0
+H5,2017,2017,2017,2,0,2,Export,586,Pakistan,PAK,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,43978,,,0
+H5,2017,2017,2017,2,0,4,Re-Import,586,Pakistan,PAK,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,81,,,0
+H5,2017,2017,2017,2,0,1,Import,586,Pakistan,PAK,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,34235,,,0
+H5,2017,2017,2017,2,0,2,Export,586,Pakistan,PAK,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,426805,,,0
+H5,2017,2017,2017,2,0,1,Import,586,Pakistan,PAK,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,621653,,,4
+H5,2017,2017,2017,2,0,2,Export,586,Pakistan,PAK,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,64971,,,4
+H5,2017,2017,2017,2,0,2,Export,586,Pakistan,PAK,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6864,,,0
+H5,2017,2017,2017,2,0,1,Import,591,Panama,PAN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,57612,,,0
+H5,2017,2017,2017,2,0,2,Export,591,Panama,PAN,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16736,,,0
+H5,2017,2017,2017,2,0,1,Import,591,Panama,PAN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,7524,,,0
+H5,2017,2017,2017,2,0,2,Export,591,Panama,PAN,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,952,,,0
+H5,2017,2017,2017,2,0,1,Import,600,Paraguay,PRY,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,884059,,,4
+H5,2017,2017,2017,2,0,1,Import,600,Paraguay,PRY,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,31981,,,0
+H5,2017,2017,2017,2,0,1,Import,600,Paraguay,PRY,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,48976,,,4
+H5,2017,2017,2017,2,0,1,Import,604,Peru,PER,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,100334,,,0
+H5,2017,2017,2017,2,0,2,Export,604,Peru,PER,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,352600,,,0
+H5,2017,2017,2017,2,0,1,Import,604,Peru,PER,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,938062,,,0
+H5,2017,2017,2017,2,0,2,Export,604,Peru,PER,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,715,,,0
+H5,2017,2017,2017,2,0,2,Export,604,Peru,PER,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14656,,,0
+H5,2017,2017,2017,2,0,1,Import,604,Peru,PER,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,346879,,,0
+H5,2017,2017,2017,2,0,2,Export,604,Peru,PER,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3377,,,0
+H5,2017,2017,2017,2,0,1,Import,604,Peru,PER,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,18856,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2034877,,,4
+H4,2017,2017,2017,2,0,2,Export,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,433360,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,394339,,,0
+H4,2017,2017,2017,2,0,2,Export,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,952,,,0
+H4,2017,2017,2017,2,0,2,Export,608,Philippines,PHL,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,22915,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8134,,,0
+H5,2017,2017,2017,2,0,2,Export,616,Poland,POL,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,37042,,,0
+H5,2017,2017,2017,2,0,1,Import,616,Poland,POL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,52557821,,,4
+H5,2017,2017,2017,2,0,2,Export,616,Poland,POL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,83901305,,,4
+H5,2017,2017,2017,2,0,2,Export,616,Poland,POL,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,30904,,,0
+H5,2017,2017,2017,2,0,2,Export,616,Poland,POL,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,22620,,,4
+H5,2017,2017,2017,2,0,1,Import,616,Poland,POL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,117672365,,,4
+H5,2017,2017,2017,2,0,1,Import,616,Poland,POL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,11819526,,,4
+H5,2017,2017,2017,2,0,2,Export,616,Poland,POL,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,12788667,,,4
+H5,2017,2017,2017,2,0,2,Export,616,Poland,POL,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,15967,,,0
+H5,2017,2017,2017,2,0,2,Export,616,Poland,POL,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1672423,,,0
+H5,2017,2017,2017,2,0,2,Export,616,Poland,POL,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,231423290,,,4
+H5,2017,2017,2017,2,0,1,Import,616,Poland,POL,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,19139,,,0
+H5,2017,2017,2017,2,0,2,Export,616,Poland,POL,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,25209,,,0
+H5,2017,2017,2017,2,0,1,Import,616,Poland,POL,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12221,,,0
+H5,2017,2017,2017,2,0,2,Export,616,Poland,POL,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,39266,,,0
+H5,2017,2017,2017,2,0,1,Import,616,Poland,POL,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,225,,,4
+H5,2017,2017,2017,2,0,1,Import,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1181125,,,0
+H5,2017,2017,2017,2,0,2,Export,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,9715,,,0
+H5,2017,2017,2017,2,0,2,Export,620,Portugal,PRT,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12946,,,4
+H5,2017,2017,2017,2,0,1,Import,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13530213,,,4
+H5,2017,2017,2017,2,0,2,Export,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12340655,,,4
+H5,2017,2017,2017,2,0,2,Export,620,Portugal,PRT,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5735,,,0
+H5,2017,2017,2017,2,0,2,Export,620,Portugal,PRT,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,163,,,4
+H5,2017,2017,2017,2,0,1,Import,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,517380,,,4
+H5,2017,2017,2017,2,0,2,Export,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,622158,,,4
+H2,2017,2017,2017,2,0,1,Import,626,Timor-Leste,TLS,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,704,,,0
+H4,2017,2017,2017,2,0,1,Import,634,Qatar,QAT,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3586,,,0
+H4,2017,2017,2017,2,0,2,Export,634,Qatar,QAT,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,341,,,4
+H4,2017,2017,2017,2,0,1,Import,634,Qatar,QAT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4228805,,,0
+H4,2017,2017,2017,2,0,2,Export,634,Qatar,QAT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1534930,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,634,Qatar,QAT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12877,,,0
+H4,2017,2017,2017,2,0,2,Export,634,Qatar,QAT,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,751863,,,0
+H4,2017,2017,2017,2,0,2,Export,634,Qatar,QAT,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2010527,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,634,Qatar,QAT,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,56,,,0
+H4,2017,2017,2017,2,0,1,Import,634,Qatar,QAT,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,355921,,,0
+H5,2017,2017,2017,2,0,1,Import,642,Romania,ROU,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1131187,,,0
+H5,2017,2017,2017,2,0,2,Export,642,Romania,ROU,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7614,,,0
+H5,2017,2017,2017,2,0,2,Export,642,Romania,ROU,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,20628,,,0
+H5,2017,2017,2017,2,0,1,Import,642,Romania,ROU,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13191336,,,4
+H5,2017,2017,2017,2,0,2,Export,642,Romania,ROU,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1723250,,,4
+H5,2017,2017,2017,2,0,2,Export,642,Romania,ROU,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2490,,,0
+H5,2017,2017,2017,2,0,1,Import,642,Romania,ROU,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,399462,,,0
+H5,2017,2017,2017,2,0,2,Export,642,Romania,ROU,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,557,,,0
+H5,2017,2017,2017,2,0,1,Import,642,Romania,ROU,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3342713,,,4
+H5,2017,2017,2017,2,0,2,Export,642,Romania,ROU,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2936506,,,4
+H5,2017,2017,2017,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,127745,,,4
+H5,2017,2017,2017,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2043642966,,,0
+H5,2017,2017,2017,2,0,2,Export,643,Russian Federation,RUS,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,314280,,,0
+H5,2017,2017,2017,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,25591289,,,0
+H5,2017,2017,2017,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1636870,,,0
+H5,2017,2017,2017,2,0,2,Export,643,Russian Federation,RUS,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,106900,,,0
+H5,2017,2017,2017,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,7669731,,,4
+H5,2017,2017,2017,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1527881,,,0
+H5,2017,2017,2017,2,0,1,Import,643,Russian Federation,RUS,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,133,,,0
+H5,2017,2017,2017,2,0,2,Export,643,Russian Federation,RUS,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,15696,,,0
+H4,2017,2017,2017,2,0,1,Import,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,2581227,,,4
+H4,2017,2017,2017,2,0,2,Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,103824846,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,103786628,,,0
+H4,2017,2017,2017,2,0,1,Import,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3211,,,0
+H4,2017,2017,2017,2,0,2,Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1597593,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1027749,,,0
+H4,2017,2017,2017,2,0,1,Import,646,Rwanda,RWA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2835,,,0
+H4,2017,2017,2017,2,0,1,Import,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,20820,,,0
+H4,2017,2017,2017,2,0,2,Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,360334,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,312296,,,0
+H4,2017,2017,2017,2,0,1,Import,646,Rwanda,RWA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,97246,,,0
+H3,2017,2017,2017,2,0,1,Import,659,Saint Kitts and Nevis,KNA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,729,,,0
+H3,2017,2017,2017,2,0,1,Import,659,Saint Kitts and Nevis,KNA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5737,,,0
+H3,2017,2017,2017,2,0,2,Export,659,Saint Kitts and Nevis,KNA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16837,,,0
+H3,2017,2017,2017,2,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8999,,,0
+H4,2017,2017,2017,2,0,2,Export,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,17764,,,0
+H4,2017,2017,2017,2,0,1,Import,662,Saint Lucia,LCA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,327,,,0
+H4,2017,2017,2017,2,0,1,Import,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,114947,,,0
+H4,2017,2017,2017,2,0,2,Export,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,171423,,,0
+H4,2017,2017,2017,2,0,1,Import,662,Saint Lucia,LCA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1122,,,0
+H4,2017,2017,2017,2,0,1,Import,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,19,,,0
+H4,2017,2017,2017,2,0,2,Export,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,24471,,,4
+H3,2017,2017,2017,2,0,2,Export,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,98,,,0
+H3,2017,2017,2017,2,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,98,,,0
+H3,2017,2017,2017,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,348,,,0
+H3,2017,2017,2017,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,81,,,0
+H3,2017,2017,2017,2,0,2,Export,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,58426,,,0
+H3,2017,2017,2017,2,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1463,,,0
+H3,2017,2017,2017,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3041,,,0
+H3,2017,2017,2017,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,671,,,0
+H3,2017,2017,2017,2,0,2,Export,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,11271,,,0
+H3,2017,2017,2017,2,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,10481,,,0
+H3,2017,2017,2017,2,0,1,Import,678,Sao Tome and Principe,STP,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,24107,,,0
+H3,2017,2017,2017,2,0,1,Import,678,Sao Tome and Principe,STP,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8197,,,0
+H4,2017,2017,2017,2,0,1,Import,682,Saudi Arabia,SAU,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2555513,,,0
+H4,2017,2017,2017,2,0,2,Export,682,Saudi Arabia,SAU,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,19420817,,,0
+H4,2017,2017,2017,2,0,1,Import,682,Saudi Arabia,SAU,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2940752,,,0
+H4,2017,2017,2017,2,0,2,Export,682,Saudi Arabia,SAU,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,19237927,,,0
+H4,2017,2017,2017,2,0,2,Export,682,Saudi Arabia,SAU,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4011834,,,0
+H4,2017,2017,2017,2,0,2,Export,682,Saudi Arabia,SAU,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,25902384,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,682,Saudi Arabia,SAU,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,948857,,,0
+H4,2017,2017,2017,2,0,1,Import,682,Saudi Arabia,SAU,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,792575,,,0
+H4,2017,2017,2017,2,0,2,Export,686,Senegal,SEN,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,29219,,,0
+H4,2017,2017,2017,2,0,1,Import,686,Senegal,SEN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,15800,,,0
+H4,2017,2017,2017,2,0,1,Import,686,Senegal,SEN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3853,,,0
+H4,2017,2017,2017,2,0,2,Export,686,Senegal,SEN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,80434,,,0
+H4,2017,2017,2017,2,0,1,Import,686,Senegal,SEN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,18158,,,0
+H4,2017,2017,2017,2,0,1,Import,686,Senegal,SEN,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,398,,,0
+H4,2017,2017,2017,2,0,1,Import,686,Senegal,SEN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,77409,,,0
+H4,2017,2017,2017,2,0,2,Export,686,Senegal,SEN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1526,,,0
+H5,2017,2017,2017,2,0,1,Import,688,Serbia,SRB,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,12752,,,0
+H5,2017,2017,2017,2,0,1,Import,688,Serbia,SRB,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,133,,,4
+H5,2017,2017,2017,2,0,2,Export,688,Serbia,SRB,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8580,,,0
+H5,2017,2017,2017,2,0,1,Import,688,Serbia,SRB,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5852452,,,4
+H5,2017,2017,2017,2,0,2,Export,688,Serbia,SRB,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1282701,,,4
+H5,2017,2017,2017,2,0,1,Import,688,Serbia,SRB,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,247605,,,4
+H5,2017,2017,2017,2,0,2,Export,688,Serbia,SRB,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,571023,,,4
+H3,2017,2017,2017,2,0,1,Import,690,Seychelles,SYC,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,20709,,,0
+H3,2017,2017,2017,2,0,1,Import,690,Seychelles,SYC,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13917,,,0
+H3,2017,2017,2017,2,0,1,Import,690,Seychelles,SYC,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,38942,,,0
+H3,2017,2017,2017,2,0,1,Import,694,Sierra Leone,SLE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,119361,,,0
+H3,2017,2017,2017,2,0,1,Import,694,Sierra Leone,SLE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,70020,,,0
+H5,2017,2017,2017,2,0,1,Import,699,India,IND,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,29091304,,,0
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2789696,,,4
+H5,2017,2017,2017,2,0,1,Import,699,India,IND,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4829815,,,4
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,101740,,,4
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3399,,,0
+H5,2017,2017,2017,2,0,1,Import,699,India,IND,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,119145,,,0
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13923890,,,4
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1321484,,,4
+H5,2017,2017,2017,2,0,1,Import,699,India,IND,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4282720,,,4
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14412630,,,4
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1135,,,4
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1244137,,,4
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,32066888,,,0
+H5,2017,2017,2017,2,0,1,Import,699,India,IND,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13355,,,0
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9914641,,,0
+H5,2017,2017,2017,2,0,1,Import,699,India,IND,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13346141,,,4
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,11153186,,,4
+H5,2017,2017,2017,2,0,2,Export,699,India,IND,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,19241,,,4
+H4,2017,2017,2017,2,0,1,Import,702,Singapore,SGP,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,9283607,,,0
+H4,2017,2017,2017,2,0,2,Export,702,Singapore,SGP,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,131367,,,4
+H4,2017,2017,2017,2,0,1,Import,702,Singapore,SGP,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,36463,,,4
+H4,2017,2017,2017,2,0,2,Export,702,Singapore,SGP,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,39,,,0
+H4,2017,2017,2017,2,0,1,Import,702,Singapore,SGP,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4769,,,0
+H4,2017,2017,2017,2,0,2,Export,702,Singapore,SGP,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5139601,,,4
+H4,2017,2017,2017,2,0,2,Export,702,Singapore,SGP,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,89667,,,4
+H4,2017,2017,2017,2,0,1,Import,702,Singapore,SGP,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3790415,,,4
+H4,2017,2017,2017,2,0,2,Export,702,Singapore,SGP,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,332549,,,4
+H4,2017,2017,2017,2,0,2,Export,702,Singapore,SGP,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1652,,,4
+H4,2017,2017,2017,2,0,2,Export,702,Singapore,SGP,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1533816,,,4
+H4,2017,2017,2017,2,0,2,Export,702,Singapore,SGP,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,633409,,,4
+H4,2017,2017,2017,2,0,1,Import,702,Singapore,SGP,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1878094,,,4
+H5,2017,2017,2017,2,0,1,Import,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,135150,,,0
+H5,2017,2017,2017,2,0,2,Export,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3433,,,0
+H5,2017,2017,2017,2,0,1,Import,703,Slovakia,SVK,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1981,,,0
+H5,2017,2017,2017,2,0,1,Import,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,27806869,,,4
+H5,2017,2017,2017,2,0,2,Export,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,21165172,,,0
+H5,2017,2017,2017,2,0,1,Import,703,Slovakia,SVK,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,85404,,,0
+H5,2017,2017,2017,2,0,1,Import,703,Slovakia,SVK,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,28177,,,0
+H5,2017,2017,2017,2,0,1,Import,703,Slovakia,SVK,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,402,,,0
+H5,2017,2017,2017,2,0,1,Import,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4261818,,,0
+H5,2017,2017,2017,2,0,2,Export,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2315525,,,0
+H5,2017,2017,2017,2,0,1,Import,703,Slovakia,SVK,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,10249,,,4
+H5,2017,2017,2017,2,0,1,Import,703,Slovakia,SVK,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3051,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,2451,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,11469,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,405668,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9080045,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13967778,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6211722,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1070611,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3142477,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1886544,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,242771,,,4
+H5,2017,2017,2017,2,0,1,Import,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,984626,,,4
+H5,2017,2017,2017,2,0,2,Export,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,1806857,,,4
+H5,2017,2017,2017,2,0,1,Import,705,Slovenia,SVN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,245,,,0
+H5,2017,2017,2017,2,0,1,Import,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6217038,,,0
+H5,2017,2017,2017,2,0,2,Export,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,11865895,,,0
+H5,2017,2017,2017,2,0,1,Import,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,329593,,,0
+H5,2017,2017,2017,2,0,2,Export,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3210233,,,0
+H5,2017,2017,2017,2,0,2,Export,705,Slovenia,SVN,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6108,,,0
+H5,2017,2017,2017,2,0,1,Import,705,Slovenia,SVN,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,0,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,9850,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,65542206,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,145,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,545136,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,23629562,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,76579719,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,4832,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,204213,,,4
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,796860,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,10761,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,21601521,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5401,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,837886,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,52871,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1941,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,47502057,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,40782,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5930434,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,55563,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,207,,,0
+H4,2017,2017,2017,2,0,1,Import,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7859,,,0
+H4,2017,2017,2017,2,0,1,Import,716,Zimbabwe,ZWE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,93599,,,0
+H4,2017,2017,2017,2,0,1,Import,716,Zimbabwe,ZWE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,34083,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,76409782,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,10650574,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,835761,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,37732233,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,16944755,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,11513,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4303591,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,52237428,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,245035,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,108922,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5744420,,,0
+H5,2017,2017,2017,2,0,1,Import,729,Sudan,SDN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,522759,,,4
+H5,2017,2017,2017,2,0,1,Import,729,Sudan,SDN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,65,,,4
+H3,2017,2017,2017,2,0,1,Import,740,Suriname,SUR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10849,,,0
+H3,2017,2017,2017,2,0,1,Import,740,Suriname,SUR,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,75382,,,0
+H3,2017,2017,2017,2,0,1,Import,740,Suriname,SUR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1465,,,0
+H5,2017,2017,2017,2,0,2,Export,748,Eswatini,SWZ,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,70396,,,0
+H5,2017,2017,2017,2,0,1,Import,748,Eswatini,SWZ,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,19,,,0
+H5,2017,2017,2017,2,0,2,Export,752,Sweden,SWE,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,33162,,,4
+H5,2017,2017,2017,2,0,1,Import,752,Sweden,SWE,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1624903547,,,4
+H5,2017,2017,2017,2,0,2,Export,752,Sweden,SWE,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,696650503,,,4
+H5,2017,2017,2017,2,0,2,Export,752,Sweden,SWE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,74411,,,4
+H5,2017,2017,2017,2,0,1,Import,752,Sweden,SWE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,337645303,,,4
+H5,2017,2017,2017,2,0,2,Export,752,Sweden,SWE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,420530579,,,4
+H5,2017,2017,2017,2,0,2,Export,752,Sweden,SWE,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3867,,,4
+H5,2017,2017,2017,2,0,2,Export,752,Sweden,SWE,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,21444,,,4
+H5,2017,2017,2017,2,0,2,Export,752,Sweden,SWE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,108043,,,4
+H5,2017,2017,2017,2,0,1,Import,752,Sweden,SWE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,29962210,,,4
+H5,2017,2017,2017,2,0,2,Export,752,Sweden,SWE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,70260435,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,130334,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,858731,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16134,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,34345408,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,42470694,,,4
+H5,2017,2017,2017,2,0,4,Re-Import,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,78644,,,0
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2254,,,0
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,58049,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1485163,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2575038,,,4
+H5,2017,2017,2017,2,0,4,Re-Import,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6860,,,0
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,101,,,0
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,272943,,,0
+H5,2017,2017,2017,2,0,1,Import,764,Thailand,THA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,98733,,,4
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,692,,,4
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,255041,,,0
+H5,2017,2017,2017,2,0,1,Import,764,Thailand,THA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,54,,,4
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3382485,,,4
+H5,2017,2017,2017,2,0,1,Import,764,Thailand,THA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,44497,,,0
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,89133,,,0
+H5,2017,2017,2017,2,0,1,Import,764,Thailand,THA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2096360,,,4
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4146336,,,4
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,100297,,,0
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,269587,,,4
+H5,2017,2017,2017,2,0,1,Import,764,Thailand,THA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8946095,,,4
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10982009,,,4
+H5,2017,2017,2017,2,0,1,Import,764,Thailand,THA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,69,,,4
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2694,,,4
+H5,2017,2017,2017,2,0,1,Import,764,Thailand,THA,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,20,,,0
+H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,35734781,,,4
+H4,2017,2017,2017,2,0,1,Import,768,Togo,TGO,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,80057,,,0
+H4,2017,2017,2017,2,0,2,Export,768,Togo,TGO,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,66465,,,0
+H4,2017,2017,2017,2,0,1,Import,768,Togo,TGO,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,11479,,,0
+H4,2017,2017,2017,2,0,1,Import,768,Togo,TGO,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,168324,,,0
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6474800,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,784,United Arab Emirates,ARE,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1018907,,,0
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,62389,,,0
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,47131,,,0
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,29542,,,0
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,83128901,,,0
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,918457,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,30170,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,784,United Arab Emirates,ARE,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,29004,,,0
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5169789,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,784,United Arab Emirates,ARE,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5064796,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,784,United Arab Emirates,ARE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,53479,,,0
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10374,,,0
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,38874619,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,784,United Arab Emirates,ARE,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8269486,,,0
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2275896,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,784,United Arab Emirates,ARE,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2273124,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,784,United Arab Emirates,ARE,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,62843406,,,0
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,272,,,0
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6743895,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,784,United Arab Emirates,ARE,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4158144,,,0
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7481609,,,0
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,707792,,,0
+H4,2017,2017,2017,2,0,1,Import,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,339147,,,0
+H4,2017,2017,2017,2,0,2,Export,788,Tunisia,TUN,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,19198,,,0
+H4,2017,2017,2017,2,0,1,Import,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,524010,,,0
+H4,2017,2017,2017,2,0,2,Export,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,775557,,,0
+H4,2017,2017,2017,2,0,2,Export,788,Tunisia,TUN,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,823,,,0
+H4,2017,2017,2017,2,0,1,Import,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,166760,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,57083,,,0
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,9857504,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,10331964,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,584642,,,0
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,874,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,645890,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,155572,,,0
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,21597128,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,29354181,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,440266,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,150053,,,0
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1918725,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3672835,,,0
+H4,2017,2017,2017,2,0,1,Import,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,19800,,,0
+H4,2017,2017,2017,2,0,2,Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,7385216,,,4
+H4,2017,2017,2017,2,0,3,Re-Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3639081,,,0
+H4,2017,2017,2017,2,0,1,Import,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2032,,,0
+H4,2017,2017,2017,2,0,2,Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5651478,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1071727,,,0
+H4,2017,2017,2017,2,0,1,Import,800,Uganda,UGA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3162,,,0
+H4,2017,2017,2017,2,0,2,Export,800,Uganda,UGA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,98,,,0
+H4,2017,2017,2017,2,0,1,Import,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,208444,,,0
+H4,2017,2017,2017,2,0,2,Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,785893,,,0
+H4,2017,2017,2017,2,0,3,Re-Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,575493,,,0
+H4,2017,2017,2017,2,0,1,Import,800,Uganda,UGA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,110321,,,0
+H4,2017,2017,2017,2,0,2,Export,804,Ukraine,UKR,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,201,,,0
+H4,2017,2017,2017,2,0,1,Import,804,Ukraine,UKR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2319,,,0
+H4,2017,2017,2017,2,0,2,Export,804,Ukraine,UKR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4102,,,0
+H4,2017,2017,2017,2,0,2,Export,804,Ukraine,UKR,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5196,,,0
+H4,2017,2017,2017,2,0,1,Import,804,Ukraine,UKR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2,,,0
+H4,2017,2017,2017,2,0,2,Export,804,Ukraine,UKR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5169,,,0
+H4,2017,2017,2017,2,0,1,Import,804,Ukraine,UKR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6741375,,,4
+H4,2017,2017,2017,2,0,2,Export,804,Ukraine,UKR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,486081,,,0
+H4,2017,2017,2017,2,0,2,Export,804,Ukraine,UKR,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1346,,,0
+H4,2017,2017,2017,2,0,2,Export,804,Ukraine,UKR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,24711,,,0
+H4,2017,2017,2017,2,0,1,Import,804,Ukraine,UKR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1761495,,,0
+H4,2017,2017,2017,2,0,2,Export,804,Ukraine,UKR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,9321,,,0
+H5,2017,2017,2017,2,0,1,Import,807,North Macedonia,MKD,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3029,,,4
+H5,2017,2017,2017,2,0,1,Import,807,North Macedonia,MKD,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,316675,,,4
+H5,2017,2017,2017,2,0,2,Export,807,North Macedonia,MKD,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,425,,,0
+H5,2017,2017,2017,2,0,1,Import,807,North Macedonia,MKD,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,25890,,,4
+H5,2017,2017,2017,2,0,2,Export,807,North Macedonia,MKD,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1812046,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2090,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2395947,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1067923,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,868997,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1209402,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,316390,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1069427,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,302801,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,154914,,,0
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,223339511,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,141324269,,,0
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1440,,,0
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,18296,,,0
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5752378,,,0
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,145870519,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,24471,,,0
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14278,,,0
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,168417492,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,506819,,,0
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,234031,,,0
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,47309,,,0
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8655998,,,0
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,21586981,,,4
+H5,2017,2017,2017,2,0,2,Export,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7223043,,,0
+H5,2017,2017,2017,2,0,1,Import,834,United Rep. of Tanzania,TZA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,974463,,,0
+H5,2017,2017,2017,2,0,2,Export,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4349934,,,4
+H5,2017,2017,2017,2,0,1,Import,834,United Rep. of Tanzania,TZA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,39119,,,0
+H5,2017,2017,2017,2,0,2,Export,834,United Rep. of Tanzania,TZA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1279,,,0
+H5,2017,2017,2017,2,0,2,Export,834,United Rep. of Tanzania,TZA,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,657,,,0
+H5,2017,2017,2017,2,0,2,Export,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,309706,,,4
+H5,2017,2017,2017,2,0,1,Import,834,United Rep. of Tanzania,TZA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,88302,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4178653,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,151691,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,292760024,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,150802202,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,842,USA,USA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,38239,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,85445600,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,842,USA,USA,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,207936,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,21551562,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,7781965,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,842,USA,USA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,562502,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,471924,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4458,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,262,Djibouti,DJI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3276695,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1363,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2267166,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,842,USA,USA,262,Djibouti,DJI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,36510,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,25150,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,328804,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,40931,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,98394850,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,47166650,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,842,USA,USA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6640605,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1549,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2579551,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,842,USA,USA,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,86086,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,842,USA,USA,212,Dominica,DMA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,9818650,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3059757,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,842,USA,USA,262,Djibouti,DJI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,12121,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,802,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6070253,,,4
+H5,2017,2017,2017,2,0,3,Re-Export,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,335034,,,0
+H4,2017,2017,2017,2,0,1,Import,854,Burkina Faso,BFA,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,271,,,0
+H4,2017,2017,2017,2,0,1,Import,854,Burkina Faso,BFA,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8358,,,0
+H4,2017,2017,2017,2,0,1,Import,854,Burkina Faso,BFA,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,46272,,,0
+H5,2017,2017,2017,2,0,1,Import,858,Uruguay,URY,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,117176,,,0
+H5,2017,2017,2017,2,0,1,Import,858,Uruguay,URY,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,449605,,,0
+H5,2017,2017,2017,2,0,2,Export,858,Uruguay,URY,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,678,,,0
+H5,2017,2017,2017,2,0,1,Import,858,Uruguay,URY,212,Dominica,DMA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,33351,,,0
+H5,2017,2017,2017,2,0,1,Import,858,Uruguay,URY,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,147932,,,0
+H5,2017,2017,2017,2,0,1,Import,858,Uruguay,URY,212,Dominica,DMA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,61,,,0
+H4,2017,2017,2017,2,0,2,Export,860,Uzbekistan,UZB,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,2452,,,4
+H4,2017,2017,2017,2,0,1,Import,860,Uzbekistan,UZB,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,125594,,,0
+H4,2017,2017,2017,2,0,2,Export,860,Uzbekistan,UZB,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,64,,,0
+H4,2017,2017,2017,2,0,1,Import,860,Uzbekistan,UZB,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,38061,,,4
+H5,2017,2017,2017,2,0,2,Export,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,50684266,,,4
+H5,2017,2017,2017,2,0,1,Import,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,52925,,,0
+H5,2017,2017,2017,2,0,2,Export,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6944846,,,4
+H5,2017,2017,2017,2,0,1,Import,894,Zambia,ZMB,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,483020,,,4
+H5,2017,2017,2017,2,0,1,Import,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,158981,,,0
+H5,2017,2017,2017,2,0,2,Export,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,9062040,,,4
+H5,2017,2017,2017,2,0,1,Import,894,Zambia,ZMB,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1556375,,,0

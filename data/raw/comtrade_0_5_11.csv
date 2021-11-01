@@ -1,0 +1,831 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,2,0,1,Import,8,Albania,ALB,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,20212362,,,0
+H3,2011,2011,2011,2,0,2,Export,8,Albania,ALB,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,134706,,,0
+H3,2011,2011,2011,2,0,1,Import,8,Albania,ALB,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,71031,,,0
+H3,2011,2011,2011,2,0,1,Import,8,Albania,ALB,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17,,,0
+H3,2011,2011,2011,2,0,1,Import,12,Algeria,DZA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,830,,,0
+H3,2011,2011,2011,2,0,1,Import,24,Angola,AGO,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,118931757,,,0
+H3,2011,2011,2011,2,0,2,Export,24,Angola,AGO,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1700981,,,0
+H1,2011,2011,2011,2,0,1,Import,28,Antigua and Barbuda,ATG,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9,,,0
+H3,2011,2011,2011,2,0,2,Export,31,Azerbaijan,AZE,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,15163,,,0
+H3,2011,2011,2011,2,0,1,Import,32,Argentina,ARG,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,564991080,,,0
+H3,2011,2011,2011,2,0,2,Export,32,Argentina,ARG,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,23034799,,,0
+H3,2011,2011,2011,2,0,1,Import,32,Argentina,ARG,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,796183,,,0
+H3,2011,2011,2011,2,0,2,Export,32,Argentina,ARG,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,48377300,,,0
+H3,2011,2011,2011,2,0,1,Import,32,Argentina,ARG,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,198,,,0
+H3,2011,2011,2011,2,0,2,Export,32,Argentina,ARG,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20,,,0
+H3,2011,2011,2011,2,0,1,Import,32,Argentina,ARG,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6,,,0
+H3,2011,2011,2011,2,0,2,Export,32,Argentina,ARG,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3909240,,,0
+H3,2011,2011,2011,2,0,2,Export,32,Argentina,ARG,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,92811,,,0
+H3,2011,2011,2011,2,0,2,Export,32,Argentina,ARG,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16777,,,0
+H3,2011,2011,2011,2,0,2,Export,36,Australia,AUS,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8349,,,0
+H3,2011,2011,2011,2,0,1,Import,36,Australia,AUS,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,127137,,,0
+H3,2011,2011,2011,2,0,2,Export,36,Australia,AUS,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2961,,,0
+H3,2011,2011,2011,2,0,2,Export,36,Australia,AUS,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,53629,,,0
+H3,2011,2011,2011,2,0,1,Import,36,Australia,AUS,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17048,,,0
+H3,2011,2011,2011,2,0,2,Export,36,Australia,AUS,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1371,,,0
+H3,2011,2011,2011,2,0,2,Export,36,Australia,AUS,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10066,,,0
+H3,2011,2011,2011,2,0,2,Export,36,Australia,AUS,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,595,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,64,Bhutan,BTN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,303,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,264,,,0
+H3,2011,2011,2011,2,0,1,Import,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,19169047,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6008408,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,97,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,44319,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6008,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19625,,,0
+H3,2011,2011,2011,2,0,1,Import,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,256842,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4704132,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,247238,,,0
+H3,2011,2011,2011,2,0,1,Import,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,119561,,,0
+H3,2011,2011,2011,2,0,1,Import,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18065242,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31185208,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7432,,,0
+H3,2011,2011,2011,2,0,2,Export,40,Austria,AUT,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8120,,,0
+H3,2011,2011,2011,2,0,1,Import,44,Bahamas,BHS,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29995,,,0
+H3,2011,2011,2011,2,0,2,Export,44,Bahamas,BHS,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,649,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,44,Bahamas,BHS,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,649,,,0
+H3,2011,2011,2011,2,0,2,Export,44,Bahamas,BHS,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,215,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,44,Bahamas,BHS,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,215,,,0
+H3,2011,2011,2011,2,0,1,Import,44,Bahamas,BHS,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14,,,0
+H2,2011,2011,2011,2,0,1,Import,52,Barbados,BRB,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7056,,,0
+H2,2011,2011,2011,2,0,2,Export,52,Barbados,BRB,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,65,,,0
+H2,2011,2011,2011,2,0,2,Export,52,Barbados,BRB,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,42,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,14955168,,,0
+H3,2011,2011,2011,2,0,1,Import,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4962470,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,61829,,,0
+H3,2011,2011,2011,2,0,1,Import,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1198424,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1170988,,,0
+H3,2011,2011,2011,2,0,1,Import,56,Belgium,BEL,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,341,,,0
+H3,2011,2011,2011,2,0,1,Import,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,342,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,987326,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,449646,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4935032,,,4
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,792908,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,74,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,12361,,,4
+H3,2011,2011,2011,2,0,1,Import,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,29,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,86794,,,4
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,163416638,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,250,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,513,,,0
+H3,2011,2011,2011,2,0,1,Import,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10,,,0
+H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,315388,,,4
+H3,2011,2011,2011,2,0,1,Import,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4543152,,,0
+H3,2011,2011,2011,2,0,1,Import,60,Bermuda,BMU,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1861,,,0
+H3,2011,2011,2011,2,0,4,Re-Import,60,Bermuda,BMU,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1861,,,0
+H2,2011,2011,2011,2,0,1,Import,72,Botswana,BWA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,50,,,0
+H3,2011,2011,2011,2,0,1,Import,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2884752175,,,0
+H3,2011,2011,2011,2,0,2,Export,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,152386151,,,4
+H3,2011,2011,2011,2,0,1,Import,76,Brazil,BRA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,331225,,,0
+H3,2011,2011,2011,2,0,1,Import,76,Brazil,BRA,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,130,,,0
+H3,2011,2011,2011,2,0,1,Import,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,340869,,,0
+H3,2011,2011,2011,2,0,2,Export,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,76262594,,,4
+H3,2011,2011,2011,2,0,2,Export,76,Brazil,BRA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1065,,,4
+H3,2011,2011,2011,2,0,2,Export,76,Brazil,BRA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14427,,,0
+H3,2011,2011,2011,2,0,2,Export,76,Brazil,BRA,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,581,,,0
+H3,2011,2011,2011,2,0,2,Export,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,22542930,,,4
+H3,2011,2011,2011,2,0,2,Export,76,Brazil,BRA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,934,,,0
+H3,2011,2011,2011,2,0,2,Export,76,Brazil,BRA,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,30492,,,4
+H3,2011,2011,2011,2,0,2,Export,100,Bulgaria,BGR,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,37817,,,0
+H3,2011,2011,2011,2,0,1,Import,100,Bulgaria,BGR,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2823381,,,0
+H3,2011,2011,2011,2,0,2,Export,100,Bulgaria,BGR,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4134,,,0
+H3,2011,2011,2011,2,0,2,Export,100,Bulgaria,BGR,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,29892512,,,0
+H3,2011,2011,2011,2,0,1,Import,100,Bulgaria,BGR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27062,,,0
+H3,2011,2011,2011,2,0,2,Export,100,Bulgaria,BGR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1275237,,,0
+H3,2011,2011,2011,2,0,2,Export,100,Bulgaria,BGR,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5506,,,0
+H3,2011,2011,2011,2,0,2,Export,100,Bulgaria,BGR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,134137,,,0
+H3,2011,2011,2011,2,0,2,Export,112,Belarus,BLR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1200,,,0
+H3,2011,2011,2011,2,0,2,Export,112,Belarus,BLR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1693400,,,0
+H3,2011,2011,2011,2,0,2,Export,116,Cambodia,KHM,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,519,,,0
+H2,2011,2011,2011,2,0,1,Import,120,Cameroon,CMR,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,6736028,,,0
+H2,2011,2011,2011,2,0,1,Import,120,Cameroon,CMR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1508,,,0
+H2,2011,2011,2011,2,0,1,Import,120,Cameroon,CMR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,679,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,36,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,114198,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1751,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,64,Bhutan,BTN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,40,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,64,Bhutan,BTN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,40,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,36609,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,99226,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,74343,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,609,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2121,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,527,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,153124,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,62939,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6106,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,396,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18462,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,182544,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27893,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6092,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4180,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,19,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,311,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1262532,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,60976,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1154,,,0
+H3,2011,2011,2011,2,0,2,Export,124,Canada,CAN,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9,,,0
+H3,2011,2011,2011,2,0,2,Export,144,Sri Lanka,LKA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22,,,0
+H3,2011,2011,2011,2,0,2,Export,144,Sri Lanka,LKA,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,85818,,,0
+H3,2011,2011,2011,2,0,1,Import,152,Chile,CHL,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,34268051,,,0
+H3,2011,2011,2011,2,0,2,Export,152,Chile,CHL,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,89095740,,,0
+H3,2011,2011,2011,2,0,1,Import,152,Chile,CHL,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,596482,,,0
+H3,2011,2011,2011,2,0,2,Export,152,Chile,CHL,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39890996,,,0
+H3,2011,2011,2011,2,0,1,Import,152,Chile,CHL,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1416,,,0
+H3,2011,2011,2011,2,0,2,Export,152,Chile,CHL,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,50515614,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4693980,,,0
+H3,2011,2011,2011,2,0,1,Import,156,China,CHN,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,102,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,62600,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,637969,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8029,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,520855,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,154385,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,18276875,,,0
+H3,2011,2011,2011,2,0,1,Import,156,China,CHN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3057,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,396932,,,0
+H3,2011,2011,2011,2,0,1,Import,156,China,CHN,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1549,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10837670,,,0
+H3,2011,2011,2011,2,0,1,Import,156,China,CHN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23875,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4199158,,,0
+H3,2011,2011,2011,2,0,1,Import,156,China,CHN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1890,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,461586,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,50274014,,,0
+H3,2011,2011,2011,2,0,2,Export,156,China,CHN,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,329812,,,0
+H3,2011,2011,2011,2,0,2,Export,170,Colombia,COL,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,207928,,,0
+H3,2011,2011,2011,2,0,2,Export,170,Colombia,COL,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,20588,,,0
+H3,2011,2011,2011,2,0,1,Import,170,Colombia,COL,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,241189,,,0
+H3,2011,2011,2011,2,0,2,Export,170,Colombia,COL,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29685876,,,0
+H3,2011,2011,2011,2,0,1,Import,170,Colombia,COL,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1013,,,0
+H3,2011,2011,2011,2,0,1,Import,170,Colombia,COL,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25,,,0
+H3,2011,2011,2011,2,0,2,Export,170,Colombia,COL,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,779594,,,0
+H2,2011,2011,2011,2,0,1,Import,178,Congo,COG,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,30059775,,,0
+H2,2011,2011,2011,2,0,2,Export,178,Congo,COG,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,52721282,,,0
+H2,2011,2011,2011,2,0,1,Import,178,Congo,COG,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,453,,,0
+H2,2011,2011,2011,2,0,1,Import,178,Congo,COG,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9414,,,0
+H3,2011,2011,2011,2,0,1,Import,188,Costa Rica,CRI,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,148550,,,0
+H3,2011,2011,2011,2,0,2,Export,188,Costa Rica,CRI,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5861,,,0
+H3,2011,2011,2011,2,0,2,Export,188,Costa Rica,CRI,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,365,,,0
+H3,2011,2011,2011,2,0,2,Export,188,Costa Rica,CRI,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,892975,,,0
+H3,2011,2011,2011,2,0,1,Import,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,93733608,,,0
+H3,2011,2011,2011,2,0,2,Export,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,571885248,,,0
+H3,2011,2011,2011,2,0,1,Import,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27699765,,,0
+H3,2011,2011,2011,2,0,2,Export,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39082428,,,0
+H3,2011,2011,2011,2,0,2,Export,191,Croatia,HRV,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1559,,,0
+H3,2011,2011,2011,2,0,1,Import,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,756033,,,0
+H3,2011,2011,2011,2,0,2,Export,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2473414,,,0
+H3,2011,2011,2011,2,0,1,Import,196,Cyprus,CYP,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,537,,,0
+H3,2011,2011,2011,2,0,1,Import,203,Czechia,CZE,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4,,,0
+H3,2011,2011,2011,2,0,1,Import,203,Czechia,CZE,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,28116234,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,30842459,,,0
+H3,2011,2011,2011,2,0,1,Import,203,Czechia,CZE,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,232,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,228,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10667,,,0
+H3,2011,2011,2011,2,0,1,Import,203,Czechia,CZE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,466,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1412083,,,0
+H3,2011,2011,2011,2,0,1,Import,203,Czechia,CZE,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,822,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,602811,,,0
+H3,2011,2011,2011,2,0,1,Import,203,Czechia,CZE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1127522,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10084211,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,426,,,0
+H3,2011,2011,2011,2,0,2,Export,203,Czechia,CZE,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,561,,,0
+H3,2011,2011,2011,2,0,2,Export,208,Denmark,DNK,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,73,,,0
+H3,2011,2011,2011,2,0,1,Import,208,Denmark,DNK,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4341,,,0
+H3,2011,2011,2011,2,0,2,Export,208,Denmark,DNK,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,197,,,0
+H3,2011,2011,2011,2,0,1,Import,208,Denmark,DNK,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,316629,,,0
+H3,2011,2011,2011,2,0,2,Export,208,Denmark,DNK,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,317028,,,0
+H3,2011,2011,2011,2,0,2,Export,208,Denmark,DNK,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,252781,,,0
+H3,2011,2011,2011,2,0,2,Export,208,Denmark,DNK,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,153,,,0
+H3,2011,2011,2011,2,0,1,Import,208,Denmark,DNK,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,97122,,,0
+H3,2011,2011,2011,2,0,2,Export,208,Denmark,DNK,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,53207,,,0
+H3,2011,2011,2011,2,0,2,Export,208,Denmark,DNK,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,331648,,,0
+H3,2011,2011,2011,2,0,2,Export,214,Dominican Rep.,DOM,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,18169884,,,0
+H3,2011,2011,2011,2,0,1,Import,214,Dominican Rep.,DOM,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,276032,,,0
+H3,2011,2011,2011,2,0,2,Export,214,Dominican Rep.,DOM,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9100,,,0
+H3,2011,2011,2011,2,0,2,Export,218,Ecuador,ECU,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,61752,,,0
+H3,2011,2011,2011,2,0,1,Import,218,Ecuador,ECU,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,253,,,0
+H3,2011,2011,2011,2,0,2,Export,218,Ecuador,ECU,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,250083,,,0
+H3,2011,2011,2011,2,0,1,Import,218,Ecuador,ECU,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,608,,,0
+H3,2011,2011,2011,2,0,2,Export,218,Ecuador,ECU,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2336402,,,0
+H3,2011,2011,2011,2,0,1,Import,222,El Salvador,SLV,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5,,,0
+H3,2011,2011,2011,2,0,2,Export,222,El Salvador,SLV,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9930,,,0
+H3,2011,2011,2011,2,0,1,Import,222,El Salvador,SLV,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,38294,,,0
+H3,2011,2011,2011,2,0,1,Import,231,Ethiopia,ETH,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,166,,,0
+H3,2011,2011,2011,2,0,1,Import,231,Ethiopia,ETH,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,10157,,,0
+H3,2011,2011,2011,2,0,2,Export,233,Estonia,EST,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,36438,,,0
+H3,2011,2011,2011,2,0,2,Export,233,Estonia,EST,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,210507,,,0
+H3,2011,2011,2011,2,0,1,Import,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,34486,,,0
+H3,2011,2011,2011,2,0,2,Export,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,18247,,,0
+H3,2011,2011,2011,2,0,2,Export,246,Finland,FIN,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,65382243,,,0
+H3,2011,2011,2011,2,0,2,Export,246,Finland,FIN,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,111456,,,0
+H3,2011,2011,2011,2,0,2,Export,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1459,,,0
+H3,2011,2011,2011,2,0,2,Export,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,420946,,,0
+H3,2011,2011,2011,2,0,2,Export,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1791,,,0
+H3,2011,2011,2011,2,0,1,Import,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,33648,,,0
+H3,2011,2011,2011,2,0,2,Export,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,154831,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4088312,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,64,Bhutan,BTN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,63,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,17981,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,60515,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,346,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8707795,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,680039,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4432035,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3325451,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,86,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4774552,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,21322,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,93315,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30437,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,764203976,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13121,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6475,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,644,,,0
+H3,2011,2011,2011,2,0,2,Export,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,953241,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,927739,,,0
+H3,2011,2011,2011,2,0,1,Import,258,French Polynesia,PYF,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,469,,,0
+H3,2011,2011,2011,2,0,1,Import,270,Gambia,GMB,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,145,,,0
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,312254,,,0
+H3,2011,2011,2011,2,0,1,Import,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,31370380,,,0
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,9006514,,,4
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,52194,,,4
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14016,,,4
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2429607,,,4
+H3,2011,2011,2011,2,0,1,Import,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,99925,,,4
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8865053,,,4
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2093146,,,4
+H3,2011,2011,2011,2,0,1,Import,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12608417,,,4
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,83073090,,,4
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1016164,,,4
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,98231,,,4
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,108114,,,4
+H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1351563,,,4
+H3,2011,2011,2011,2,0,1,Import,288,Ghana,GHA,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1385,,,0
+H3,2011,2011,2011,2,0,2,Export,288,Ghana,GHA,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,61652544,,,0
+H3,2011,2011,2011,2,0,1,Import,288,Ghana,GHA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2718,,,0
+H3,2011,2011,2011,2,0,1,Import,288,Ghana,GHA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,242,,,0
+H3,2011,2011,2011,2,0,2,Export,288,Ghana,GHA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4004293,,,0
+H3,2011,2011,2011,2,0,1,Import,288,Ghana,GHA,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,421,,,0
+H3,2011,2011,2011,2,0,2,Export,288,Ghana,GHA,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,254,,,0
+H3,2011,2011,2011,2,0,2,Export,300,Greece,GRC,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3206112,,,0
+H3,2011,2011,2011,2,0,1,Import,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,63894,,,0
+H3,2011,2011,2011,2,0,2,Export,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6954481,,,0
+H3,2011,2011,2011,2,0,2,Export,300,Greece,GRC,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,22755338,,,0
+H3,2011,2011,2011,2,0,1,Import,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20722,,,0
+H3,2011,2011,2011,2,0,2,Export,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9992172,,,0
+H3,2011,2011,2011,2,0,2,Export,320,Guatemala,GTM,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1384998,,,0
+H3,2011,2011,2011,2,0,1,Import,320,Guatemala,GTM,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,339,,,0
+H3,2011,2011,2011,2,0,2,Export,320,Guatemala,GTM,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,36529,,,0
+H3,2011,2011,2011,2,0,1,Import,320,Guatemala,GTM,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,103,,,0
+H3,2011,2011,2011,2,0,1,Import,328,Guyana,GUY,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,114849,,,0
+H3,2011,2011,2011,2,0,1,Import,340,Honduras,HND,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3358,,,0
+H3,2011,2011,2011,2,0,1,Import,340,Honduras,HND,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,266,,,0
+H3,2011,2011,2011,2,0,1,Import,340,Honduras,HND,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1263,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,99025,,,0
+H3,2011,2011,2011,2,0,2,Export,344,"China, Hong Kong SAR",HKG,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23527,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23527,,,0
+H3,2011,2011,2011,2,0,2,Export,344,"China, Hong Kong SAR",HKG,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,410,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,410,,,0
+H3,2011,2011,2011,2,0,2,Export,344,"China, Hong Kong SAR",HKG,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1472,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1472,,,0
+H3,2011,2011,2011,2,0,1,Import,344,"China, Hong Kong SAR",HKG,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10141,,,0
+H3,2011,2011,2011,2,0,2,Export,344,"China, Hong Kong SAR",HKG,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,99025,,,0
+H3,2011,2011,2011,2,0,2,Export,348,Hungary,HUN,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,112000,,,0
+H3,2011,2011,2011,2,0,1,Import,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4797000,,,0
+H3,2011,2011,2011,2,0,2,Export,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,11516000,,,0
+H3,2011,2011,2011,2,0,2,Export,348,Hungary,HUN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8000,,,0
+H3,2011,2011,2011,2,0,1,Import,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,338000,,,0
+H3,2011,2011,2011,2,0,2,Export,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11005000,,,0
+H3,2011,2011,2011,2,0,2,Export,348,Hungary,HUN,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1000,,,0
+H3,2011,2011,2011,2,0,1,Import,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4000,,,0
+H3,2011,2011,2011,2,0,2,Export,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6962000,,,0
+H3,2011,2011,2011,2,0,2,Export,352,Iceland,ISL,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,267448,,,0
+H3,2011,2011,2011,2,0,1,Import,352,Iceland,ISL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,685,,,0
+H3,2011,2011,2011,2,0,2,Export,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,77747940,,,0
+H3,2011,2011,2011,2,0,2,Export,360,Indonesia,IDN,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9601,,,0
+H3,2011,2011,2011,2,0,2,Export,360,Indonesia,IDN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3970,,,0
+H3,2011,2011,2011,2,0,2,Export,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,347504,,,0
+H3,2011,2011,2011,2,0,1,Import,360,Indonesia,IDN,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1,,,0
+H3,2011,2011,2011,2,0,2,Export,360,Indonesia,IDN,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,53630,,,0
+H3,2011,2011,2011,2,0,2,Export,360,Indonesia,IDN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2543289,,,0
+H3,2011,2011,2011,2,0,2,Export,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10345,,,0
+H3,2011,2011,2011,2,0,2,Export,364,Iran,IRN,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,885141,,,0
+H3,2011,2011,2011,2,0,1,Import,364,Iran,IRN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8426,,,0
+H3,2011,2011,2011,2,0,1,Import,372,Ireland,IRL,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,94837,,,0
+H3,2011,2011,2011,2,0,2,Export,372,Ireland,IRL,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,138079,,,0
+H3,2011,2011,2011,2,0,1,Import,372,Ireland,IRL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,118939,,,0
+H3,2011,2011,2011,2,0,2,Export,372,Ireland,IRL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,333735,,,0
+H3,2011,2011,2011,2,0,1,Import,372,Ireland,IRL,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,10978,,,0
+H3,2011,2011,2011,2,0,2,Export,372,Ireland,IRL,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1106,,,0
+H3,2011,2011,2011,2,0,2,Export,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,344000,,,0
+H3,2011,2011,2011,2,0,2,Export,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,268000,,,0
+H3,2011,2011,2011,2,0,2,Export,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11000,,,0
+H3,2011,2011,2011,2,0,2,Export,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,69000,,,0
+H3,2011,2011,2011,2,0,2,Export,376,Israel,ISR,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,39000,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,46529,,,0
+H3,2011,2011,2011,2,0,1,Import,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3567385,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,108795565,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,30979231,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5272,,,0
+H3,2011,2011,2011,2,0,1,Import,381,Italy,ITA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3158,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5161701,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,93263,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,368049,,,0
+H3,2011,2011,2011,2,0,1,Import,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2108526,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,41919920,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1013684,,,0
+H3,2011,2011,2011,2,0,2,Export,381,Italy,ITA,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,658992,,,0
+H3,2011,2011,2011,2,0,1,Import,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,150849,,,0
+H3,2011,2011,2011,2,0,2,Export,384,Côte d'Ivoire,CIV,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,42488236,,,0
+H3,2011,2011,2011,2,0,1,Import,384,Côte d'Ivoire,CIV,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1373,,,0
+H3,2011,2011,2011,2,0,2,Export,384,Côte d'Ivoire,CIV,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2913470,,,0
+H3,2011,2011,2011,2,0,2,Export,384,Côte d'Ivoire,CIV,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3788,,,0
+H3,2011,2011,2011,2,0,2,Export,392,Japan,JPN,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3554,,,0
+H3,2011,2011,2011,2,0,2,Export,392,Japan,JPN,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7083,,,0
+H3,2011,2011,2011,2,0,1,Import,392,Japan,JPN,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10549,,,0
+H3,2011,2011,2011,2,0,2,Export,392,Japan,JPN,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28898,,,0
+H3,2011,2011,2011,2,0,2,Export,392,Japan,JPN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39975,,,0
+H3,2011,2011,2011,2,0,2,Export,392,Japan,JPN,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,228168,,,0
+H3,2011,2011,2011,2,0,2,Export,392,Japan,JPN,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,190743,,,0
+H3,2011,2011,2011,2,0,2,Export,392,Japan,JPN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10910855,,,0
+H3,2011,2011,2011,2,0,2,Export,392,Japan,JPN,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,246064,,,0
+H3,2011,2011,2011,2,0,1,Import,398,Kazakhstan,KAZ,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,252,,,0
+H3,2011,2011,2011,2,0,2,Export,398,Kazakhstan,KAZ,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,643,,,0
+H3,2011,2011,2011,2,0,1,Import,398,Kazakhstan,KAZ,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1,,,0
+H3,2011,2011,2011,2,0,1,Import,400,Jordan,JOR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,986,,,0
+H3,2011,2011,2011,2,0,1,Import,410,Rep. of Korea,KOR,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,19272000,,,0
+H3,2011,2011,2011,2,0,1,Import,410,Rep. of Korea,KOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,125,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,650,,,0
+H3,2011,2011,2011,2,0,1,Import,410,Rep. of Korea,KOR,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,197,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,17238,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,942,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,875793,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,190092,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1353346,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16438,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1035767,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,120264,,,0
+H3,2011,2011,2011,2,0,1,Import,410,Rep. of Korea,KOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,41,,,0
+H3,2011,2011,2011,2,0,2,Export,410,Rep. of Korea,KOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1160194,,,0
+H3,2011,2011,2011,2,0,2,Export,414,Kuwait,KWT,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,68452,,,0
+H3,2011,2011,2011,2,0,1,Import,414,Kuwait,KWT,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3109,,,0
+H3,2011,2011,2011,2,0,1,Import,417,Kyrgyzstan,KGZ,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,546,,,0
+H3,2011,2011,2011,2,0,2,Export,422,Lebanon,LBN,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,602,,,0
+H3,2011,2011,2011,2,0,1,Import,422,Lebanon,LBN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17,,,0
+H3,2011,2011,2011,2,0,2,Export,422,Lebanon,LBN,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,80612,,,0
+H3,2011,2011,2011,2,0,2,Export,422,Lebanon,LBN,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7717,,,0
+H3,2011,2011,2011,2,0,2,Export,428,Latvia,LVA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,142831,,,0
+H3,2011,2011,2011,2,0,2,Export,428,Latvia,LVA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2,,,0
+H3,2011,2011,2011,2,0,2,Export,440,Lithuania,LTU,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,347555,,,0
+H3,2011,2011,2011,2,0,1,Import,440,Lithuania,LTU,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2936,,,0
+H3,2011,2011,2011,2,0,2,Export,440,Lithuania,LTU,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,207,,,0
+H3,2011,2011,2011,2,0,2,Export,440,Lithuania,LTU,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,166979,,,0
+H3,2011,2011,2011,2,0,2,Export,440,Lithuania,LTU,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,569,,,0
+H3,2011,2011,2011,2,0,2,Export,440,Lithuania,LTU,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1875,,,0
+H3,2011,2011,2011,2,0,2,Export,442,Luxembourg,LUX,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,45635,,,0
+H3,2011,2011,2011,2,0,1,Import,442,Luxembourg,LUX,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22,,,0
+H3,2011,2011,2011,2,0,2,Export,442,Luxembourg,LUX,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24,,,0
+H3,2011,2011,2011,2,0,1,Import,442,Luxembourg,LUX,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,184009,,,0
+H3,2011,2011,2011,2,0,2,Export,442,Luxembourg,LUX,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25120,,,0
+H3,2011,2011,2011,2,0,2,Export,442,Luxembourg,LUX,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,70571,,,0
+H3,2011,2011,2011,2,0,2,Export,442,Luxembourg,LUX,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32,,,0
+H3,2011,2011,2011,2,0,2,Export,442,Luxembourg,LUX,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,40082,,,0
+H3,2011,2011,2011,2,0,1,Import,454,Malawi,MWI,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6190,,,0
+H3,2011,2011,2011,2,0,1,Import,454,Malawi,MWI,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,31,,,0
+H3,2011,2011,2011,2,0,2,Export,458,Malaysia,MYS,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,42881,,,0
+H3,2011,2011,2011,2,0,2,Export,458,Malaysia,MYS,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,253187,,,0
+H3,2011,2011,2011,2,0,2,Export,458,Malaysia,MYS,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,390312,,,0
+H3,2011,2011,2011,2,0,2,Export,458,Malaysia,MYS,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,666878,,,0
+H3,2011,2011,2011,2,0,2,Export,458,Malaysia,MYS,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,156377,,,0
+H3,2011,2011,2011,2,0,2,Export,458,Malaysia,MYS,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,486632,,,0
+H3,2011,2011,2011,2,0,1,Import,466,Mali,MLI,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,253799430,,,0
+H3,2011,2011,2011,2,0,2,Export,466,Mali,MLI,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,15906518,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,466,Mali,MLI,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,15906518,,,0
+H3,2011,2011,2011,2,0,1,Import,466,Mali,MLI,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,678,,,0
+H3,2011,2011,2011,2,0,1,Import,466,Mali,MLI,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,261,,,0
+H3,2011,2011,2011,2,0,1,Import,466,Mali,MLI,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15556,,,0
+H3,2011,2011,2011,2,0,1,Import,470,Malta,MLT,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,172407,,,0
+H3,2011,2011,2011,2,0,2,Export,470,Malta,MLT,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1245,,,0
+H3,2011,2011,2011,2,0,1,Import,470,Malta,MLT,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1625,,,0
+H3,2011,2011,2011,2,0,2,Export,484,Mexico,MEX,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,107036,,,0
+H3,2011,2011,2011,2,0,2,Export,484,Mexico,MEX,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1633307,,,0
+H3,2011,2011,2011,2,0,1,Import,484,Mexico,MEX,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,29335326,,,0
+H3,2011,2011,2011,2,0,2,Export,484,Mexico,MEX,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15,,,0
+H3,2011,2011,2011,2,0,1,Import,484,Mexico,MEX,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3640,,,0
+H3,2011,2011,2011,2,0,2,Export,484,Mexico,MEX,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18266567,,,0
+H3,2011,2011,2011,2,0,1,Import,484,Mexico,MEX,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1352,,,0
+H3,2011,2011,2011,2,0,2,Export,484,Mexico,MEX,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,70939,,,0
+H3,2011,2011,2011,2,0,1,Import,484,Mexico,MEX,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,49663,,,0
+H3,2011,2011,2011,2,0,2,Export,484,Mexico,MEX,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3236841,,,0
+H3,2011,2011,2011,2,0,1,Import,484,Mexico,MEX,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1640,,,0
+H3,2011,2011,2011,2,0,1,Import,484,Mexico,MEX,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,160,,,0
+H3,2011,2011,2011,2,0,2,Export,490,"Other Asia, nes",,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10287,,,0
+H3,2011,2011,2011,2,0,2,Export,490,"Other Asia, nes",,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,253033,,,0
+H3,2011,2011,2011,2,0,2,Export,490,"Other Asia, nes",,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,441,,,0
+H3,2011,2011,2011,2,0,2,Export,490,"Other Asia, nes",,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1036271,,,0
+H3,2011,2011,2011,2,0,2,Export,490,"Other Asia, nes",,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,224073,,,0
+H3,2011,2011,2011,2,0,2,Export,490,"Other Asia, nes",,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,274150,,,0
+H3,2011,2011,2011,2,0,2,Export,490,"Other Asia, nes",,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,272,,,0
+H3,2011,2011,2011,2,0,2,Export,490,"Other Asia, nes",,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,422616,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,490,"Other Asia, nes",,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8997,,,0
+H3,2011,2011,2011,2,0,1,Import,498,Rep. of Moldova,MDA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2781246,,,0
+H3,2011,2011,2011,2,0,1,Import,499,Montenegro,MNE,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,29204760,,,0
+H3,2011,2011,2011,2,0,2,Export,499,Montenegro,MNE,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1603840,,,0
+H3,2011,2011,2011,2,0,1,Import,499,Montenegro,MNE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3890113,,,0
+H3,2011,2011,2011,2,0,2,Export,499,Montenegro,MNE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,56651,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,499,Montenegro,MNE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,150,,,0
+H3,2011,2011,2011,2,0,1,Import,499,Montenegro,MNE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,335932,,,0
+H3,2011,2011,2011,2,0,2,Export,499,Montenegro,MNE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,23386,,,0
+H2,2011,2011,2011,2,0,1,Import,504,Morocco,MAR,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,109,,,0
+H2,2011,2011,2011,2,0,1,Import,504,Morocco,MAR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8242,,,0
+H2,2011,2011,2011,2,0,2,Export,504,Morocco,MAR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4238,,,0
+H2,2011,2011,2011,2,0,2,Export,504,Morocco,MAR,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,548954,,,0
+H2,2011,2011,2011,2,0,1,Import,508,Mozambique,MOZ,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,20000,,,0
+H3,2011,2011,2011,2,0,2,Export,516,Namibia,NAM,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,267994,,,0
+H3,2011,2011,2011,2,0,1,Import,524,Nepal,NPL,64,Bhutan,BTN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,781483,,,0
+H3,2011,2011,2011,2,0,2,Export,524,Nepal,NPL,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,24,,,0
+H3,2011,2011,2011,2,0,1,Import,528,Netherlands,NLD,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1050,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4074,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,90163,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,517326,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,657785039,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,67271,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,34584,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4700,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,100372,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2068925,,,0
+H3,2011,2011,2011,2,0,1,Import,528,Netherlands,NLD,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1508,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,641778,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9365,,,0
+H3,2011,2011,2011,2,0,1,Import,528,Netherlands,NLD,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,971,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,143678,,,0
+H3,2011,2011,2011,2,0,1,Import,528,Netherlands,NLD,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2835014,,,0
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6545254,,,4
+H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,352420,,,0
+H3,2011,2011,2011,2,0,2,Export,554,New Zealand,NZL,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,236,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,554,New Zealand,NZL,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,236,,,0
+H3,2011,2011,2011,2,0,1,Import,554,New Zealand,NZL,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,306,,,0
+H3,2011,2011,2011,2,0,2,Export,554,New Zealand,NZL,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,431,,,0
+H3,2011,2011,2011,2,0,1,Import,558,Nicaragua,NIC,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1,,,0
+H3,2011,2011,2011,2,0,1,Import,558,Nicaragua,NIC,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16,,,0
+H3,2011,2011,2011,2,0,1,Import,562,Niger,NER,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,857164,,,0
+H3,2011,2011,2011,2,0,1,Import,562,Niger,NER,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,61258,,,0
+H3,2011,2011,2011,2,0,2,Export,562,Niger,NER,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,50724,,,0
+H3,2011,2011,2011,2,0,1,Import,562,Niger,NER,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16683,,,0
+H3,2011,2011,2011,2,0,1,Import,566,Nigeria,NGA,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1,,,0
+H3,2011,2011,2011,2,0,2,Export,566,Nigeria,NGA,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,421811850,,,0
+H3,2011,2011,2011,2,0,1,Import,566,Nigeria,NGA,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,35578,,,0
+H3,2011,2011,2011,2,0,2,Export,566,Nigeria,NGA,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,213535983,,,0
+H3,2011,2011,2011,2,0,2,Export,566,Nigeria,NGA,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,72827665,,,0
+H3,2011,2011,2011,2,0,1,Import,566,Nigeria,NGA,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,756650,,,0
+H3,2011,2011,2011,2,0,1,Import,566,Nigeria,NGA,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,56208,,,0
+H3,2011,2011,2011,2,0,1,Import,566,Nigeria,NGA,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,209269,,,0
+H3,2011,2011,2011,2,0,2,Export,566,Nigeria,NGA,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1204942,,,0
+H3,2011,2011,2011,2,0,1,Import,566,Nigeria,NGA,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,120823,,,0
+H3,2011,2011,2011,2,0,2,Export,566,Nigeria,NGA,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,137902,,,0
+H3,2011,2011,2011,2,0,2,Export,566,Nigeria,NGA,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10199132,,,0
+H3,2011,2011,2011,2,0,1,Import,566,Nigeria,NGA,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1118717,,,0
+H3,2011,2011,2011,2,0,2,Export,566,Nigeria,NGA,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1946927,,,0
+H3,2011,2011,2011,2,0,1,Import,566,Nigeria,NGA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,65117940,,,0
+H3,2011,2011,2011,2,0,2,Export,566,Nigeria,NGA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,985666,,,0
+H3,2011,2011,2011,2,0,2,Export,566,Nigeria,NGA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,851426,,,0
+H3,2011,2011,2011,2,0,2,Export,579,Norway,NOR,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10245938,,,0
+H3,2011,2011,2011,2,0,2,Export,579,Norway,NOR,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6683,,,0
+H3,2011,2011,2011,2,0,1,Import,579,Norway,NOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,651,,,0
+H3,2011,2011,2011,2,0,1,Import,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1465488,,,0
+H3,2011,2011,2011,2,0,2,Export,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5111,,,0
+H3,2011,2011,2011,2,0,2,Export,579,Norway,NOR,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,357,,,0
+H3,2011,2011,2011,2,0,2,Export,579,Norway,NOR,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3999,,,0
+H3,2011,2011,2011,2,0,2,Export,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,268,,,0
+H3,2011,2011,2011,2,0,2,Export,579,Norway,NOR,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6766,,,0
+H3,2011,2011,2011,2,0,1,Import,586,Pakistan,PAK,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33996,,,0
+H3,2011,2011,2011,2,0,1,Import,586,Pakistan,PAK,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,302,,,0
+H3,2011,2011,2011,2,0,2,Export,586,Pakistan,PAK,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1159766,,,0
+H3,2011,2011,2011,2,0,1,Import,586,Pakistan,PAK,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15,,,0
+H3,2011,2011,2011,2,0,2,Export,586,Pakistan,PAK,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,294,,,0
+H3,2011,2011,2011,2,0,2,Export,591,Panama,PAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,552,,,0
+H3,2011,2011,2011,2,0,2,Export,591,Panama,PAN,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5479,,,0
+H3,2011,2011,2011,2,0,1,Import,591,Panama,PAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,677,,,0
+H3,2011,2011,2011,2,0,2,Export,591,Panama,PAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1423973,,,0
+H3,2011,2011,2011,2,0,2,Export,591,Panama,PAN,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29513,,,0
+H3,2011,2011,2011,2,0,1,Import,591,Panama,PAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1518,,,0
+H3,2011,2011,2011,2,0,2,Export,591,Panama,PAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,192558,,,0
+H3,2011,2011,2011,2,0,2,Export,600,Paraguay,PRY,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,13206533,,,0
+H3,2011,2011,2011,2,0,1,Import,600,Paraguay,PRY,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,808516,,,0
+H3,2011,2011,2011,2,0,2,Export,600,Paraguay,PRY,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5441703,,,0
+H3,2011,2011,2011,2,0,1,Import,600,Paraguay,PRY,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,393,,,0
+H3,2011,2011,2011,2,0,2,Export,600,Paraguay,PRY,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,16371,,,0
+H3,2011,2011,2011,2,0,1,Import,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,371828,,,0
+H3,2011,2011,2011,2,0,2,Export,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,23860125,,,0
+H3,2011,2011,2011,2,0,1,Import,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,277416,,,0
+H3,2011,2011,2011,2,0,2,Export,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,50626491,,,0
+H3,2011,2011,2011,2,0,1,Import,604,Peru,PER,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,48,,,0
+H3,2011,2011,2011,2,0,1,Import,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,781,,,0
+H3,2011,2011,2011,2,0,2,Export,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,7883944,,,0
+H3,2011,2011,2011,2,0,1,Import,604,Peru,PER,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6,,,0
+H3,2011,2011,2011,2,0,1,Import,616,Poland,POL,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2056806,,,0
+H3,2011,2011,2011,2,0,2,Export,616,Poland,POL,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2859594,,,0
+H3,2011,2011,2011,2,0,2,Export,616,Poland,POL,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,73182,,,0
+H3,2011,2011,2011,2,0,2,Export,616,Poland,POL,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3966,,,0
+H3,2011,2011,2011,2,0,1,Import,616,Poland,POL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9422,,,0
+H3,2011,2011,2011,2,0,2,Export,616,Poland,POL,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7086502,,,0
+H3,2011,2011,2011,2,0,2,Export,616,Poland,POL,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,163,,,0
+H3,2011,2011,2011,2,0,2,Export,616,Poland,POL,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,361,,,0
+H3,2011,2011,2011,2,0,2,Export,616,Poland,POL,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,44421,,,0
+H3,2011,2011,2011,2,0,2,Export,616,Poland,POL,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7567848,,,0
+H3,2011,2011,2011,2,0,2,Export,616,Poland,POL,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30,,,0
+H3,2011,2011,2011,2,0,2,Export,620,Portugal,PRT,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,139,,,0
+H3,2011,2011,2011,2,0,2,Export,620,Portugal,PRT,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,445,,,0
+H3,2011,2011,2011,2,0,2,Export,620,Portugal,PRT,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6292,,,0
+H3,2011,2011,2011,2,0,2,Export,620,Portugal,PRT,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,427873,,,0
+H3,2011,2011,2011,2,0,2,Export,620,Portugal,PRT,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,63991,,,0
+H3,2011,2011,2011,2,0,2,Export,620,Portugal,PRT,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,369908,,,0
+H3,2011,2011,2011,2,0,2,Export,634,Qatar,QAT,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,853049,,,0
+H3,2011,2011,2011,2,0,2,Export,634,Qatar,QAT,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,140248,,,0
+H3,2011,2011,2011,2,0,2,Export,634,Qatar,QAT,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,60973860,,,0
+H3,2011,2011,2011,2,0,1,Import,642,Romania,ROU,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,811793,,,0
+H3,2011,2011,2011,2,0,2,Export,642,Romania,ROU,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,126642,,,0
+H3,2011,2011,2011,2,0,1,Import,642,Romania,ROU,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,54222,,,0
+H3,2011,2011,2011,2,0,2,Export,642,Romania,ROU,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2969809,,,0
+H3,2011,2011,2011,2,0,2,Export,642,Romania,ROU,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,47545,,,0
+H3,2011,2011,2011,2,0,2,Export,642,Romania,ROU,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,981,,,0
+H3,2011,2011,2011,2,0,1,Import,642,Romania,ROU,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11878,,,0
+H3,2011,2011,2011,2,0,2,Export,642,Romania,ROU,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3578310,,,0
+H3,2011,2011,2011,2,0,2,Export,642,Romania,ROU,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,122787,,,0
+H3,2011,2011,2011,2,0,2,Export,643,Russian Federation,RUS,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,15457078,,,0
+H3,2011,2011,2011,2,0,2,Export,643,Russian Federation,RUS,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,550425010,,,0
+H3,2011,2011,2011,2,0,2,Export,643,Russian Federation,RUS,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,97834038,,,0
+H3,2011,2011,2011,2,0,1,Import,643,Russian Federation,RUS,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7910,,,0
+H3,2011,2011,2011,2,0,2,Export,643,Russian Federation,RUS,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,58533,,,0
+H3,2011,2011,2011,2,0,1,Import,643,Russian Federation,RUS,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3,,,0
+H3,2011,2011,2011,2,0,2,Export,643,Russian Federation,RUS,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,67543,,,0
+H3,2011,2011,2011,2,0,1,Import,643,Russian Federation,RUS,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,376816,,,0
+H3,2011,2011,2011,2,0,2,Export,643,Russian Federation,RUS,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16029,,,0
+H3,2011,2011,2011,2,0,1,Import,646,Rwanda,RWA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16,,,0
+H1,2011,2011,2011,2,0,1,Import,662,Saint Lucia,LCA,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30,,,0
+H3,2011,2011,2011,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19,,,0
+H3,2011,2011,2011,2,0,2,Export,682,Saudi Arabia,SAU,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,146400,,,0
+H3,2011,2011,2011,2,0,1,Import,682,Saudi Arabia,SAU,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,306667,,,0
+H3,2011,2011,2011,2,0,2,Export,682,Saudi Arabia,SAU,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2089069,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,682,Saudi Arabia,SAU,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,341067,,,0
+H3,2011,2011,2011,2,0,2,Export,686,Senegal,SEN,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10855,,,0
+H3,2011,2011,2011,2,0,1,Import,686,Senegal,SEN,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,33604489,,,0
+H3,2011,2011,2011,2,0,2,Export,686,Senegal,SEN,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2989858,,,0
+H3,2011,2011,2011,2,0,2,Export,686,Senegal,SEN,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11376,,,0
+H3,2011,2011,2011,2,0,1,Import,686,Senegal,SEN,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3780,,,0
+H3,2011,2011,2011,2,0,2,Export,686,Senegal,SEN,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,466045,,,0
+H3,2011,2011,2011,2,0,1,Import,688,Serbia,SRB,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,293941318,,,0
+H3,2011,2011,2011,2,0,2,Export,688,Serbia,SRB,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,58756863,,,0
+H3,2011,2011,2011,2,0,1,Import,688,Serbia,SRB,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12648120,,,0
+H3,2011,2011,2011,2,0,2,Export,688,Serbia,SRB,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,58290718,,,0
+H3,2011,2011,2011,2,0,1,Import,688,Serbia,SRB,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,724745,,,0
+H3,2011,2011,2011,2,0,2,Export,688,Serbia,SRB,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15406838,,,0
+H2,2011,2011,2011,2,0,1,Import,690,Seychelles,SYC,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,46,,,0
+H2,2011,2011,2011,2,0,1,Import,690,Seychelles,SYC,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,411,,,0
+H2,2011,2011,2011,2,0,1,Import,690,Seychelles,SYC,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,711,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,64,Bhutan,BTN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10315,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,64,Bhutan,BTN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,35485553,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,82667,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,14064988,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8857900,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,218862885,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,455516,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,405456,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10358610,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2932121,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,494321,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29446,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,955686,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,61218,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5107432,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3054652,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,614339,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,56975,,,0
+H3,2011,2011,2011,2,0,2,Export,699,India,IND,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,421204,,,0
+H3,2011,2011,2011,2,0,1,Import,702,Singapore,SGP,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,37223368,,,0
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,15497849,,,0
+H3,2011,2011,2011,2,0,1,Import,702,Singapore,SGP,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,865,,,4
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,795,,,0
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,434507,,,4
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,609,,,4
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10924,,,4
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10996,,,4
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,26316,,,4
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,202524,,,4
+H3,2011,2011,2011,2,0,2,Export,702,Singapore,SGP,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1115362,,,4
+H3,2011,2011,2011,2,0,1,Import,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,413325,,,0
+H3,2011,2011,2011,2,0,2,Export,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3708850,,,4
+H3,2011,2011,2011,2,0,1,Import,703,Slovakia,SVK,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5148,,,0
+H3,2011,2011,2011,2,0,1,Import,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,21229,,,0
+H3,2011,2011,2011,2,0,2,Export,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2635726,,,0
+H3,2011,2011,2011,2,0,1,Import,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,65,,,0
+H3,2011,2011,2011,2,0,2,Export,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1707906,,,4
+H3,2011,2011,2011,2,0,2,Export,704,Viet Nam,VNM,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9000,,,0
+H3,2011,2011,2011,2,0,1,Import,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4988405,,,0
+H3,2011,2011,2011,2,0,2,Export,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,81054011,,,0
+H3,2011,2011,2011,2,0,2,Export,705,Slovenia,SVN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,108,,,0
+H3,2011,2011,2011,2,0,1,Import,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8045863,,,0
+H3,2011,2011,2011,2,0,2,Export,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34671229,,,0
+H3,2011,2011,2011,2,0,1,Import,705,Slovenia,SVN,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2272,,,0
+H3,2011,2011,2011,2,0,2,Export,705,Slovenia,SVN,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22362,,,0
+H3,2011,2011,2011,2,0,2,Export,705,Slovenia,SVN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,43237,,,0
+H3,2011,2011,2011,2,0,1,Import,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,523240,,,0
+H3,2011,2011,2011,2,0,2,Export,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24833084,,,0
+H3,2011,2011,2011,2,0,2,Export,710,South Africa,ZAF,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,26041,,,0
+H3,2011,2011,2011,2,0,2,Export,710,South Africa,ZAF,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2330828,,,0
+H3,2011,2011,2011,2,0,2,Export,710,South Africa,ZAF,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,98,,,0
+H3,2011,2011,2011,2,0,2,Export,710,South Africa,ZAF,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,15803,,,0
+H3,2011,2011,2011,2,0,2,Export,710,South Africa,ZAF,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1453638,,,0
+H3,2011,2011,2011,2,0,2,Export,710,South Africa,ZAF,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,91,,,0
+H3,2011,2011,2011,2,0,1,Import,710,South Africa,ZAF,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,630,,,0
+H3,2011,2011,2011,2,0,2,Export,710,South Africa,ZAF,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,96946,,,0
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,525,,,4
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3526,,,0
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,428669,,,0
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5765669,,,0
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,701556,,,0
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,159,,,0
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,64357,,,0
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,153189,,,0
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,939,,,0
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,810490,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,272,,,0
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1400099,,,0
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4843,,,0
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,49068417,,,0
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,14253,,,0
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,25395,,,0
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13135,,,0
+H3,2011,2011,2011,2,0,2,Export,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1304845,,,0
+H3,2011,2011,2011,2,0,2,Export,748,Eswatini,SWZ,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,42107,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,102833,,,0
+H3,2011,2011,2011,2,0,1,Import,752,Sweden,SWE,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,152455,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,107459,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3238,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6013,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8788,,,0
+H3,2011,2011,2011,2,0,1,Import,752,Sweden,SWE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1079,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,106379,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20659,,,0
+H3,2011,2011,2011,2,0,1,Import,752,Sweden,SWE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,794803,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1397271,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10330,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14184,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2313,,,0
+H3,2011,2011,2011,2,0,2,Export,752,Sweden,SWE,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,127347,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,9790,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,64,Bhutan,BTN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,96,,,0
+H3,2011,2011,2011,2,0,1,Import,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,26,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,438,,,0
+H3,2011,2011,2011,2,0,1,Import,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,54,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,617198,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1458,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3063,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,74794,,,0
+H3,2011,2011,2011,2,0,1,Import,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38617,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,165533,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,476298,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,442,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23,,,0
+H3,2011,2011,2011,2,0,1,Import,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,178,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,139171,,,0
+H3,2011,2011,2011,2,0,1,Import,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2537671,,,0
+H3,2011,2011,2011,2,0,2,Export,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,478486,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,18,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,978,,,0
+H3,2011,2011,2011,2,0,1,Import,764,Thailand,THA,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9267,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,343853,,,0
+H3,2011,2011,2011,2,0,1,Import,764,Thailand,THA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,247617,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1401340,,,0
+H3,2011,2011,2011,2,0,1,Import,764,Thailand,THA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,507,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,375804,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2292753,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,591,,,0
+H3,2011,2011,2011,2,0,1,Import,764,Thailand,THA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,115,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1210785,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,166932,,,0
+H3,2011,2011,2011,2,0,1,Import,764,Thailand,THA,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11,,,0
+H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,64,Bhutan,BTN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,101644,,,0
+H3,2011,2011,2011,2,0,1,Import,768,Togo,TGO,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2966995,,,0
+H3,2011,2011,2011,2,0,2,Export,768,Togo,TGO,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1022888,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,768,Togo,TGO,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,361449,,,0
+H3,2011,2011,2011,2,0,1,Import,768,Togo,TGO,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,359740,,,0
+H3,2011,2011,2011,2,0,2,Export,768,Togo,TGO,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,19452128,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,768,Togo,TGO,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,263814,,,0
+H3,2011,2011,2011,2,0,1,Import,768,Togo,TGO,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,52393,,,0
+H3,2011,2011,2011,2,0,2,Export,780,Trinidad and Tobago,TTO,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,989877,,,0
+H3,2011,2011,2011,2,0,2,Export,780,Trinidad and Tobago,TTO,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8975,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,780,Trinidad and Tobago,TTO,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8975,,,0
+H3,2011,2011,2011,2,0,2,Export,780,Trinidad and Tobago,TTO,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,52847843,,,0
+H3,2011,2011,2011,2,0,2,Export,780,Trinidad and Tobago,TTO,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,430,,,0
+H3,2011,2011,2011,2,0,1,Import,780,Trinidad and Tobago,TTO,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29663,,,0
+H3,2011,2011,2011,2,0,1,Import,780,Trinidad and Tobago,TTO,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24,,,0
+H3,2011,2011,2011,2,0,2,Export,784,United Arab Emirates,ARE,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3071464,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,784,United Arab Emirates,ARE,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,607439,,,0
+H3,2011,2011,2011,2,0,1,Import,784,United Arab Emirates,ARE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,82,,,0
+H3,2011,2011,2011,2,0,2,Export,784,United Arab Emirates,ARE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1328952,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,784,United Arab Emirates,ARE,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,136,,,0
+H3,2011,2011,2011,2,0,2,Export,784,United Arab Emirates,ARE,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3145903,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,784,United Arab Emirates,ARE,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1969085,,,0
+H3,2011,2011,2011,2,0,2,Export,784,United Arab Emirates,ARE,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9214573,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,784,United Arab Emirates,ARE,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9214573,,,0
+H3,2011,2011,2011,2,0,2,Export,788,Tunisia,TUN,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,95224,,,0
+H3,2011,2011,2011,2,0,2,Export,788,Tunisia,TUN,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,369898,,,0
+H3,2011,2011,2011,2,0,1,Import,788,Tunisia,TUN,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,51,,,0
+H3,2011,2011,2011,2,0,2,Export,788,Tunisia,TUN,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12004,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,74581,,,0
+H3,2011,2011,2011,2,0,1,Import,792,Turkey,TUR,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2148907,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3671157,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,28401832,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34559,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21404,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,61374,,,0
+H3,2011,2011,2011,2,0,1,Import,792,Turkey,TUR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3940,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,29938703,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,319120,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,229970,,,0
+H3,2011,2011,2011,2,0,1,Import,792,Turkey,TUR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,312,,,0
+H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4195351,,,0
+H3,2011,2011,2011,2,0,1,Import,800,Uganda,UGA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,484,,,0
+H3,2011,2011,2011,2,0,1,Import,800,Uganda,UGA,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,394,,,0
+H3,2011,2011,2011,2,0,2,Export,804,Ukraine,UKR,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3601,,,0
+H3,2011,2011,2011,2,0,2,Export,804,Ukraine,UKR,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,884,,,0
+H3,2011,2011,2011,2,0,1,Import,804,Ukraine,UKR,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10866876,,,0
+H3,2011,2011,2011,2,0,2,Export,804,Ukraine,UKR,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,9346899,,,0
+H3,2011,2011,2011,2,0,2,Export,804,Ukraine,UKR,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,92228,,,0
+H3,2011,2011,2011,2,0,1,Import,804,Ukraine,UKR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,464,,,0
+H3,2011,2011,2011,2,0,2,Export,804,Ukraine,UKR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,50339,,,0
+H3,2011,2011,2011,2,0,2,Export,804,Ukraine,UKR,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25,,,0
+H3,2011,2011,2011,2,0,1,Import,807,North Macedonia,MKD,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8241803,,,0
+H3,2011,2011,2011,2,0,2,Export,807,North Macedonia,MKD,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,22546,,,0
+H3,2011,2011,2011,2,0,1,Import,807,North Macedonia,MKD,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,352996,,,0
+H3,2011,2011,2011,2,0,2,Export,807,North Macedonia,MKD,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2434730,,,0
+H3,2011,2011,2011,2,0,1,Import,807,North Macedonia,MKD,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11281,,,0
+H3,2011,2011,2011,2,0,2,Export,807,North Macedonia,MKD,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11321,,,0
+H3,2011,2011,2011,2,0,2,Export,818,Egypt,EGY,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20863,,,0
+H3,2011,2011,2011,2,0,2,Export,818,Egypt,EGY,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6768,,,0
+H3,2011,2011,2011,2,0,2,Export,818,Egypt,EGY,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,628047,,,0
+H3,2011,2011,2011,2,0,2,Export,818,Egypt,EGY,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,84332,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4618,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,64,Bhutan,BTN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1861,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,109512,,,0
+H3,2011,2011,2011,2,0,1,Import,826,United Kingdom,GBR,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,24906033,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,633999873,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,109592,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,74778,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,144349,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,196113,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,64,Bhutan,BTN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,172184,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,189581,,,0
+H3,2011,2011,2011,2,0,1,Import,826,United Kingdom,GBR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1552,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1578031,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,299451,,,0
+H3,2011,2011,2011,2,0,2,Export,826,United Kingdom,GBR,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15895,,,0
+H3,2011,2011,2011,2,0,1,Import,834,United Rep. of Tanzania,TZA,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1894998,,,0
+H3,2011,2011,2011,2,0,1,Import,834,United Rep. of Tanzania,TZA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3969,,,0
+H3,2011,2011,2011,2,0,1,Import,842,USA,USA,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3850,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,157941104,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,842,USA,USA,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1888913,,,0
+H3,2011,2011,2011,2,0,1,Import,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,222347448,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10431721,,,0
+H3,2011,2011,2011,2,0,1,Import,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10508761,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3613903,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,355279,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,48039,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,177425,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,137330,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3178525,,,0
+H3,2011,2011,2011,2,0,1,Import,842,USA,USA,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,614,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1639240,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,842,USA,USA,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,332532,,,0
+H3,2011,2011,2011,2,0,1,Import,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2758,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15039089,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,842,USA,USA,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,188094,,,0
+H3,2011,2011,2011,2,0,1,Import,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1431470,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10670867,,,0
+H3,2011,2011,2011,2,0,3,Re-Export,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,484963,,,0
+H3,2011,2011,2011,2,0,1,Import,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,128784,,,0
+H3,2011,2011,2011,2,0,1,Import,842,USA,USA,60,Bermuda,BMU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1790,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1862658,,,0
+H3,2011,2011,2011,2,0,2,Export,842,USA,USA,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,32764323,,,0
+H3,2011,2011,2011,2,0,1,Import,854,Burkina Faso,BFA,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,22036354,,,0
+H3,2011,2011,2011,2,0,2,Export,854,Burkina Faso,BFA,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,87,,,0
+H3,2011,2011,2011,2,0,1,Import,854,Burkina Faso,BFA,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17280,,,0
+H3,2011,2011,2011,2,0,1,Import,854,Burkina Faso,BFA,70,Bosnia Herzegovina,BIH,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,116,,,0
+H3,2011,2011,2011,2,0,1,Import,854,Burkina Faso,BFA,204,Benin,BEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2007,,,0
+H3,2011,2011,2011,2,0,1,Import,858,Uruguay,URY,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,25,,,0
+H3,2011,2011,2011,2,0,2,Export,858,Uruguay,URY,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1770851,,,0
+H3,2011,2011,2011,2,0,2,Export,858,Uruguay,URY,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,563164,,,0
+H2,2011,2011,2011,2,0,2,Export,862,Venezuela,VEN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3369,,,0
+H2,2011,2011,2011,2,0,2,Export,862,Venezuela,VEN,70,Bosnia Herzegovina,BIH,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,23626,,,0
+H2,2011,2011,2011,2,0,2,Export,862,Venezuela,VEN,68,Bolivia (Plurinational State of),BOL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,33835,,,0
+H2,2011,2011,2011,2,0,1,Import,862,Venezuela,VEN,68,Bolivia (Plurinational State of),BOL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,582863,,,0
+H3,2011,2011,2011,2,0,2,Export,887,Yemen,YEM,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,204729,,,0
+H3,2011,2011,2011,2,0,2,Export,894,Zambia,ZMB,204,Benin,BEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12569,,,0
+H3,2011,2011,2011,2,0,1,Import,894,Zambia,ZMB,60,Bermuda,BMU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,9894,,,0

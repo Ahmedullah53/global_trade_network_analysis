@@ -1,0 +1,679 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2013,2013,2013,2,0,1,Import,36,Australia,AUS,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3859,,,0
+H4,2013,2013,2013,2,0,2,Export,36,Australia,AUS,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2783,,,0
+H4,2013,2013,2013,2,0,2,Export,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,27990,,,0
+H4,2013,2013,2013,2,0,1,Import,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4437440,,,0
+H4,2013,2013,2013,2,0,2,Export,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,21597510,,,0
+H4,2013,2013,2013,2,0,2,Export,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1435051,,,0
+H4,2013,2013,2013,2,0,2,Export,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,323128,,,0
+H4,2013,2013,2013,2,0,2,Export,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1036,,,0
+H4,2013,2013,2013,2,0,1,Import,124,Canada,CAN,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2,,,0
+H4,2013,2013,2013,2,0,2,Export,124,Canada,CAN,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4661,,,0
+H4,2013,2013,2013,2,0,2,Export,156,China,CHN,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,927,,,0
+H4,2013,2013,2013,2,0,2,Export,156,China,CHN,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3771725,,,0
+H4,2013,2013,2013,2,0,2,Export,208,Denmark,DNK,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,23133,,,0
+H4,2013,2013,2013,2,0,1,Import,251,France,FRA,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,9878,,,0
+H4,2013,2013,2013,2,0,2,Export,251,France,FRA,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,527,,,0
+H4,2013,2013,2013,2,0,1,Import,251,France,FRA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4803,,,0
+H4,2013,2013,2013,2,0,2,Export,251,France,FRA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,17968227,,,0
+H4,2013,2013,2013,2,0,2,Export,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,916,,,0
+H4,2013,2013,2013,2,0,1,Import,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,248,,,0
+H4,2013,2013,2013,2,0,2,Export,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,6187335,,,0
+H4,2013,2013,2013,2,0,2,Export,276,Germany,DEU,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,319389,,,0
+H4,2013,2013,2013,2,0,2,Export,276,Germany,DEU,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,429048,,,0
+H4,2013,2013,2013,2,0,1,Import,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,73454,,,0
+H4,2013,2013,2013,2,0,2,Export,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4870779,,,0
+H4,2013,2013,2013,2,0,2,Export,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,161354,,,0
+H4,2013,2013,2013,2,0,2,Export,381,Italy,ITA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,15334001,,,0
+H4,2013,2013,2013,2,0,2,Export,381,Italy,ITA,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1441125,,,0
+H4,2013,2013,2013,2,0,1,Import,392,Japan,JPN,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,25880971,,,0
+H4,2013,2013,2013,2,0,2,Export,410,Rep. of Korea,KOR,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,55064,,,0
+H4,2013,2013,2013,2,0,2,Export,422,Lebanon,LBN,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,44829,,,0
+H4,2013,2013,2013,2,0,2,Export,422,Lebanon,LBN,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4658,,,0
+H4,2013,2013,2013,2,0,2,Export,428,Latvia,LVA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,80302,,,0
+H4,2013,2013,2013,2,0,2,Export,442,Luxembourg,LUX,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2627,,,0
+H4,2013,2013,2013,2,0,1,Import,442,Luxembourg,LUX,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,31300,,,0
+H4,2013,2013,2013,2,0,2,Export,442,Luxembourg,LUX,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,21000,,,0
+H4,2013,2013,2013,2,0,2,Export,458,Malaysia,MYS,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,42516,,,0
+H4,2013,2013,2013,2,0,1,Import,470,Malta,MLT,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,61556575,,,0
+H4,2013,2013,2013,2,0,2,Export,499,Montenegro,MNE,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,100,,,0
+H4,2013,2013,2013,2,0,1,Import,528,Netherlands,NLD,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,40122981,,,0
+H4,2013,2013,2013,2,0,2,Export,528,Netherlands,NLD,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6038211,,,0
+H4,2013,2013,2013,2,0,2,Export,528,Netherlands,NLD,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,172551467,,,0
+H4,2013,2013,2013,2,0,2,Export,528,Netherlands,NLD,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1613357,,,0
+H4,2013,2013,2013,2,0,1,Import,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,108013942,,,0
+H4,2013,2013,2013,2,0,2,Export,616,Poland,POL,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1945404,,,0
+H4,2013,2013,2013,2,0,2,Export,616,Poland,POL,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,60870,,,0
+H4,2013,2013,2013,2,0,1,Import,620,Portugal,PRT,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1057735599,,,0
+H4,2013,2013,2013,2,0,2,Export,620,Portugal,PRT,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1059844,,,0
+H4,2013,2013,2013,2,0,1,Import,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,7840,,,0
+H4,2013,2013,2013,2,0,2,Export,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2878279,,,0
+H4,2013,2013,2013,2,0,1,Import,643,Russian Federation,RUS,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,577,,,0
+H4,2013,2013,2013,2,0,1,Import,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,500,,,0
+H4,2013,2013,2013,2,0,2,Export,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1450512,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1407267,,,0
+H4,2013,2013,2013,2,0,2,Export,699,India,IND,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,714172,,,0
+H4,2013,2013,2013,2,0,1,Import,699,India,IND,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,257481278,,,0
+H4,2013,2013,2013,2,0,2,Export,699,India,IND,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,12730196,,,0
+H4,2013,2013,2013,2,0,2,Export,699,India,IND,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,314238,,,0
+H4,2013,2013,2013,2,0,1,Import,702,Singapore,SGP,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1026,,,0
+H4,2013,2013,2013,2,0,2,Export,702,Singapore,SGP,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,743202,,,0
+H4,2013,2013,2013,2,0,2,Export,702,Singapore,SGP,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,30229,,,0
+H4,2013,2013,2013,2,0,2,Export,710,South Africa,ZAF,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1049410,,,0
+H4,2013,2013,2013,2,0,2,Export,710,South Africa,ZAF,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1001016,,,0
+H4,2013,2013,2013,2,0,2,Export,710,South Africa,ZAF,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3484,,,0
+H4,2013,2013,2013,2,0,1,Import,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,504839542,,,0
+H4,2013,2013,2013,2,0,2,Export,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,10041595,,,0
+H4,2013,2013,2013,2,0,2,Export,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1214341,,,0
+H4,2013,2013,2013,2,0,2,Export,724,Spain,ESP,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,236629,,,0
+H4,2013,2013,2013,2,0,1,Import,752,Sweden,SWE,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,13519886,,,0
+H4,2013,2013,2013,2,0,2,Export,752,Sweden,SWE,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,153,,,4
+H4,2013,2013,2013,2,0,2,Export,752,Sweden,SWE,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,57736,,,4
+H4,2013,2013,2013,2,0,2,Export,757,Switzerland,CHE,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,138,,,0
+H4,2013,2013,2013,2,0,2,Export,757,Switzerland,CHE,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,45008,,,0
+H4,2013,2013,2013,2,0,2,Export,757,Switzerland,CHE,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,18997,,,4
+H4,2013,2013,2013,2,0,1,Import,764,Thailand,THA,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,52,,,0
+H4,2013,2013,2013,2,0,2,Export,764,Thailand,THA,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,54415,,,0
+H4,2013,2013,2013,2,0,2,Export,784,United Arab Emirates,ARE,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,231960,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,784,United Arab Emirates,ARE,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,15855,,,0
+H4,2013,2013,2013,2,0,2,Export,784,United Arab Emirates,ARE,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,18753208,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,784,United Arab Emirates,ARE,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7601519,,,0
+H4,2013,2013,2013,2,0,2,Export,784,United Arab Emirates,ARE,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,854441,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,784,United Arab Emirates,ARE,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,71912,,,0
+H4,2013,2013,2013,2,0,2,Export,788,Tunisia,TUN,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1747,,,0
+H4,2013,2013,2013,2,0,2,Export,788,Tunisia,TUN,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,439252,,,0
+H4,2013,2013,2013,2,0,2,Export,792,Turkey,TUR,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,261952,,,0
+H4,2013,2013,2013,2,0,2,Export,792,Turkey,TUR,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,17020,,,0
+H4,2013,2013,2013,2,0,2,Export,792,Turkey,TUR,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,515675,,,0
+H4,2013,2013,2013,2,0,2,Export,800,Uganda,UGA,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,379280,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,800,Uganda,UGA,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,132693,,,0
+H4,2013,2013,2013,2,0,1,Import,826,United Kingdom,GBR,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,69596750,,,0
+H4,2013,2013,2013,2,0,2,Export,826,United Kingdom,GBR,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,7342,,,0
+H4,2013,2013,2013,2,0,2,Export,826,United Kingdom,GBR,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,16066090,,,0
+H4,2013,2013,2013,2,0,2,Export,834,United Rep. of Tanzania,TZA,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2806671,,,0
+H4,2013,2013,2013,2,0,1,Import,834,United Rep. of Tanzania,TZA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,51,,,0
+H4,2013,2013,2013,2,0,2,Export,834,United Rep. of Tanzania,TZA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,29733,,,0
+H4,2013,2013,2013,2,0,1,Import,842,USA,USA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,278028612,,,0
+H4,2013,2013,2013,2,0,2,Export,842,USA,USA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1377231,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,842,USA,USA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,28057,,,0
+H4,2013,2013,2013,2,0,2,Export,842,USA,USA,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,21306,,,0
+H4,2013,2013,2013,2,0,2,Export,887,Yemen,YEM,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,406613,,,0
+H4,2013,2013,2013,2,0,2,Export,894,Zambia,ZMB,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,31290,,,0
+H4,2013,2013,2013,2,0,1,Import,8,Albania,ALB,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,260,,,0
+H4,2013,2013,2013,2,0,2,Export,12,Algeria,DZA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,58772,,,0
+H4,2013,2013,2013,2,0,2,Export,32,Argentina,ARG,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,81,,,0
+H4,2013,2013,2013,2,0,1,Import,36,Australia,AUS,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26022,,,0
+H4,2013,2013,2013,2,0,2,Export,36,Australia,AUS,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,230595,,,0
+H4,2013,2013,2013,2,0,1,Import,40,Austria,AUT,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1909,,,0
+H4,2013,2013,2013,2,0,2,Export,40,Austria,AUT,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2892,,,4
+H4,2013,2013,2013,2,0,1,Import,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4281,,,0
+H4,2013,2013,2013,2,0,2,Export,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,53662,,,4
+H4,2013,2013,2013,2,0,1,Import,40,Austria,AUT,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,220,,,0
+H4,2013,2013,2013,2,0,2,Export,40,Austria,AUT,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9189,,,4
+H4,2013,2013,2013,2,0,2,Export,40,Austria,AUT,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,23385,,,4
+H4,2013,2013,2013,2,0,1,Import,48,Bahrain,BHR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1428,,,0
+H4,2013,2013,2013,2,0,1,Import,50,Bangladesh,BGD,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,20993,,,0
+H4,2013,2013,2013,2,0,1,Import,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,374,,,0
+H4,2013,2013,2013,2,0,2,Export,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,286190,,,0
+H4,2013,2013,2013,2,0,2,Export,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5309782,,,0
+H4,2013,2013,2013,2,0,2,Export,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,191399,,,0
+H4,2013,2013,2013,2,0,1,Import,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,910,,,0
+H4,2013,2013,2013,2,0,2,Export,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,550650,,,4
+H4,2013,2013,2013,2,0,1,Import,60,Bermuda,BMU,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,68,,,0
+H4,2013,2013,2013,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,151,,,0
+H4,2013,2013,2013,2,0,1,Import,70,Bosnia Herzegovina,BIH,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,54,,,0
+H4,2013,2013,2013,2,0,2,Export,76,Brazil,BRA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,11252,,,4
+H4,2013,2013,2013,2,0,1,Import,76,Brazil,BRA,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,122,,,0
+H4,2013,2013,2013,2,0,2,Export,76,Brazil,BRA,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,24477,,,4
+H4,2013,2013,2013,2,0,2,Export,76,Brazil,BRA,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7378,,,0
+H4,2013,2013,2013,2,0,2,Export,100,Bulgaria,BGR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12233,,,0
+H4,2013,2013,2013,2,0,1,Import,104,Myanmar,MMR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,908665,,,0
+H4,2013,2013,2013,2,0,1,Import,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2859,,,0
+H4,2013,2013,2013,2,0,2,Export,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14041,,,0
+H4,2013,2013,2013,2,0,1,Import,124,Canada,CAN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,489,,,0
+H4,2013,2013,2013,2,0,2,Export,124,Canada,CAN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,336137,,,0
+H4,2013,2013,2013,2,0,1,Import,144,Sri Lanka,LKA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28,,,0
+H4,2013,2013,2013,2,0,2,Export,144,Sri Lanka,LKA,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,587,,,0
+H4,2013,2013,2013,2,0,1,Import,152,Chile,CHL,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,365,,,0
+H4,2013,2013,2013,2,0,2,Export,152,Chile,CHL,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,74305,,,0
+H4,2013,2013,2013,2,0,2,Export,156,China,CHN,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2212235,,,0
+H4,2013,2013,2013,2,0,1,Import,156,China,CHN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1290,,,0
+H4,2013,2013,2013,2,0,2,Export,156,China,CHN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43146681,,,0
+H4,2013,2013,2013,2,0,2,Export,156,China,CHN,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5236537,,,0
+H4,2013,2013,2013,2,0,1,Import,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,68,,,0
+H4,2013,2013,2013,2,0,2,Export,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,799217,,,0
+H4,2013,2013,2013,2,0,2,Export,170,Colombia,COL,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,214,,,0
+H4,2013,2013,2013,2,0,2,Export,188,Costa Rica,CRI,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1512989,,,0
+H4,2013,2013,2013,2,0,2,Export,203,Czechia,CZE,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,559,,,0
+H4,2013,2013,2013,2,0,1,Import,203,Czechia,CZE,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,31525,,,0
+H4,2013,2013,2013,2,0,2,Export,203,Czechia,CZE,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,131678,,,0
+H4,2013,2013,2013,2,0,2,Export,203,Czechia,CZE,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8887,,,0
+H4,2013,2013,2013,2,0,2,Export,208,Denmark,DNK,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,225,,,0
+H4,2013,2013,2013,2,0,1,Import,208,Denmark,DNK,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,262,,,0
+H4,2013,2013,2013,2,0,2,Export,208,Denmark,DNK,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5645,,,0
+H4,2013,2013,2013,2,0,2,Export,208,Denmark,DNK,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13018,,,0
+H4,2013,2013,2013,2,0,1,Import,214,Dominican Rep.,DOM,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15377,,,0
+H4,2013,2013,2013,2,0,1,Import,214,Dominican Rep.,DOM,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,268,,,0
+H4,2013,2013,2013,2,0,1,Import,218,Ecuador,ECU,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,936,,,0
+H4,2013,2013,2013,2,0,1,Import,222,El Salvador,SLV,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1178,,,0
+H4,2013,2013,2013,2,0,2,Export,233,Estonia,EST,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13,,,0
+H4,2013,2013,2013,2,0,2,Export,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,40581,,,0
+H4,2013,2013,2013,2,0,2,Export,246,Finland,FIN,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,638,,,0
+H4,2013,2013,2013,2,0,2,Export,246,Finland,FIN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4961,,,0
+H4,2013,2013,2013,2,0,2,Export,251,France,FRA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1039556,,,0
+H4,2013,2013,2013,2,0,1,Import,251,France,FRA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10909,,,0
+H4,2013,2013,2013,2,0,2,Export,251,France,FRA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,21175428,,,0
+H4,2013,2013,2013,2,0,1,Import,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,106,,,0
+H4,2013,2013,2013,2,0,2,Export,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,323165,,,0
+H4,2013,2013,2013,2,0,1,Import,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18086,,,0
+H4,2013,2013,2013,2,0,2,Export,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8764487,,,0
+H4,2013,2013,2013,2,0,2,Export,276,Germany,DEU,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,489010,,,4
+H4,2013,2013,2013,2,0,1,Import,276,Germany,DEU,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,59730,,,0
+H4,2013,2013,2013,2,0,2,Export,276,Germany,DEU,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8314560,,,4
+H4,2013,2013,2013,2,0,2,Export,276,Germany,DEU,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,87814,,,4
+H4,2013,2013,2013,2,0,2,Export,276,Germany,DEU,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2101394,,,4
+H4,2013,2013,2013,2,0,1,Import,288,Ghana,GHA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9,,,0
+H4,2013,2013,2013,2,0,1,Import,288,Ghana,GHA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,104308,,,0
+H4,2013,2013,2013,2,0,2,Export,288,Ghana,GHA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,328865,,,0
+H4,2013,2013,2013,2,0,1,Import,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10777,,,0
+H4,2013,2013,2013,2,0,2,Export,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,45835829,,,0
+H4,2013,2013,2013,2,0,1,Import,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,16699,,,0
+H4,2013,2013,2013,2,0,2,Export,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,248060,,,0
+H4,2013,2013,2013,2,0,2,Export,300,Greece,GRC,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,66732,,,0
+H4,2013,2013,2013,2,0,2,Export,320,Guatemala,GTM,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33,,,0
+H4,2013,2013,2013,2,0,2,Export,320,Guatemala,GTM,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,640,,,0
+H4,2013,2013,2013,2,0,1,Import,324,Guinea,GIN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,223,,,0
+H4,2013,2013,2013,2,0,2,Export,324,Guinea,GIN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2198199,,,0
+H4,2013,2013,2013,2,0,2,Export,344,"China, Hong Kong SAR",HKG,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18622,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18622,,,0
+H4,2013,2013,2013,2,0,1,Import,344,"China, Hong Kong SAR",HKG,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7856,,,0
+H4,2013,2013,2013,2,0,2,Export,344,"China, Hong Kong SAR",HKG,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,177124,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,177124,,,0
+H4,2013,2013,2013,2,0,2,Export,344,"China, Hong Kong SAR",HKG,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6150,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6150,,,0
+H4,2013,2013,2013,2,0,2,Export,348,Hungary,HUN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26524,,,0
+H4,2013,2013,2013,2,0,2,Export,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1239745,,,0
+H4,2013,2013,2013,2,0,2,Export,364,Iran,IRN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,966,,,0
+H4,2013,2013,2013,2,0,1,Import,372,Ireland,IRL,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,423,,,0
+H4,2013,2013,2013,2,0,2,Export,372,Ireland,IRL,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,62795,,,0
+H4,2013,2013,2013,2,0,2,Export,372,Ireland,IRL,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,43988,,,0
+H4,2013,2013,2013,2,0,2,Export,376,Israel,ISR,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4000,,,0
+H4,2013,2013,2013,2,0,2,Export,376,Israel,ISR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,390000,,,0
+H4,2013,2013,2013,2,0,2,Export,376,Israel,ISR,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13000,,,0
+H4,2013,2013,2013,2,0,2,Export,381,Italy,ITA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,226415,,,0
+H4,2013,2013,2013,2,0,1,Import,381,Italy,ITA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7113,,,0
+H4,2013,2013,2013,2,0,2,Export,381,Italy,ITA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11867772,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,381,Italy,ITA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,877813,,,0
+H4,2013,2013,2013,2,0,2,Export,381,Italy,ITA,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,672447,,,0
+H4,2013,2013,2013,2,0,2,Export,381,Italy,ITA,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,699983,,,0
+H4,2013,2013,2013,2,0,1,Import,392,Japan,JPN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,5516,,,0
+H4,2013,2013,2013,2,0,2,Export,392,Japan,JPN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,59852,,,0
+H4,2013,2013,2013,2,0,2,Export,392,Japan,JPN,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,18660,,,0
+H4,2013,2013,2013,2,0,2,Export,398,Kazakhstan,KAZ,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,328,,,0
+H4,2013,2013,2013,2,0,2,Export,400,Jordan,JOR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34251,,,0
+H4,2013,2013,2013,2,0,1,Import,410,Rep. of Korea,KOR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11295,,,0
+H4,2013,2013,2013,2,0,2,Export,410,Rep. of Korea,KOR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6202795,,,0
+H4,2013,2013,2013,2,0,2,Export,410,Rep. of Korea,KOR,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,187335,,,0
+H4,2013,2013,2013,2,0,2,Export,410,Rep. of Korea,KOR,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,165,,,0
+H4,2013,2013,2013,2,0,2,Export,414,Kuwait,KWT,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,524670,,,0
+H4,2013,2013,2013,2,0,2,Export,422,Lebanon,LBN,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,170,,,0
+H4,2013,2013,2013,2,0,2,Export,422,Lebanon,LBN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1689967,,,0
+H4,2013,2013,2013,2,0,2,Export,422,Lebanon,LBN,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,262202,,,0
+H4,2013,2013,2013,2,0,2,Export,422,Lebanon,LBN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1066351,,,0
+H4,2013,2013,2013,2,0,2,Export,428,Latvia,LVA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3738,,,0
+H4,2013,2013,2013,2,0,2,Export,440,Lithuania,LTU,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,90807,,,0
+H4,2013,2013,2013,2,0,2,Export,442,Luxembourg,LUX,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1095890,,,0
+H4,2013,2013,2013,2,0,1,Import,442,Luxembourg,LUX,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,835,,,0
+H4,2013,2013,2013,2,0,2,Export,442,Luxembourg,LUX,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6307,,,0
+H4,2013,2013,2013,2,0,1,Import,450,Madagascar,MDG,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4704,,,0
+H4,2013,2013,2013,2,0,2,Export,458,Malaysia,MYS,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1587368,,,0
+H4,2013,2013,2013,2,0,2,Export,458,Malaysia,MYS,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7958,,,0
+H4,2013,2013,2013,2,0,2,Export,470,Malta,MLT,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3655,,,0
+H4,2013,2013,2013,2,0,2,Export,480,Mauritius,MUS,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,480,Mauritius,MUS,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,33,,,0
+H4,2013,2013,2013,2,0,1,Import,484,Mexico,MEX,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,199,,,0
+H4,2013,2013,2013,2,0,1,Import,484,Mexico,MEX,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,498,,,0
+H4,2013,2013,2013,2,0,2,Export,484,Mexico,MEX,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2439,,,0
+H4,2013,2013,2013,2,0,1,Import,484,Mexico,MEX,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,486,,,0
+H4,2013,2013,2013,2,0,2,Export,490,"Other Asia, nes",,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1580815,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,490,"Other Asia, nes",,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,34,,,0
+H4,2013,2013,2013,2,0,2,Export,490,"Other Asia, nes",,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3527,,,0
+H4,2013,2013,2013,2,0,2,Export,490,"Other Asia, nes",,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,166663,,,0
+H4,2013,2013,2013,2,0,2,Export,512,Oman,OMN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,149066,,,0
+H4,2013,2013,2013,2,0,2,Export,516,Namibia,NAM,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,399,,,0
+H4,2013,2013,2013,2,0,1,Import,524,Nepal,NPL,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4813,,,0
+H4,2013,2013,2013,2,0,2,Export,528,Netherlands,NLD,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,223065,,,0
+H4,2013,2013,2013,2,0,1,Import,528,Netherlands,NLD,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,119,,,0
+H4,2013,2013,2013,2,0,2,Export,528,Netherlands,NLD,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3828583,,,0
+H4,2013,2013,2013,2,0,1,Import,528,Netherlands,NLD,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,281,,,0
+H4,2013,2013,2013,2,0,2,Export,528,Netherlands,NLD,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,221477,,,0
+H4,2013,2013,2013,2,0,1,Import,528,Netherlands,NLD,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,18,,,0
+H4,2013,2013,2013,2,0,2,Export,528,Netherlands,NLD,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2697736,,,0
+H4,2013,2013,2013,2,0,1,Import,554,New Zealand,NZL,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13533,,,4
+H4,2013,2013,2013,2,0,1,Import,554,New Zealand,NZL,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,119,,,0
+H4,2013,2013,2013,2,0,1,Import,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26942,,,0
+H4,2013,2013,2013,2,0,2,Export,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2443,,,0
+H4,2013,2013,2013,2,0,2,Export,586,Pakistan,PAK,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1269075,,,0
+H4,2013,2013,2013,2,0,2,Export,586,Pakistan,PAK,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19,,,0
+H4,2013,2013,2013,2,0,2,Export,604,Peru,PER,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,23256,,,0
+H4,2013,2013,2013,2,0,1,Import,616,Poland,POL,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,760,,,0
+H4,2013,2013,2013,2,0,2,Export,616,Poland,POL,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,39005,,,0
+H4,2013,2013,2013,2,0,1,Import,616,Poland,POL,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,205,,,0
+H4,2013,2013,2013,2,0,2,Export,616,Poland,POL,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1458,,,0
+H4,2013,2013,2013,2,0,2,Export,616,Poland,POL,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30129,,,0
+H4,2013,2013,2013,2,0,2,Export,620,Portugal,PRT,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,919,,,0
+H4,2013,2013,2013,2,0,2,Export,620,Portugal,PRT,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,721882,,,0
+H4,2013,2013,2013,2,0,1,Import,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,99161,,,0
+H4,2013,2013,2013,2,0,2,Export,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,11826537,,,0
+H4,2013,2013,2013,2,0,2,Export,620,Portugal,PRT,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,43008,,,0
+H4,2013,2013,2013,2,0,1,Import,634,Qatar,QAT,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,319,,,0
+H4,2013,2013,2013,2,0,2,Export,634,Qatar,QAT,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2424391,,,0
+H4,2013,2013,2013,2,0,2,Export,634,Qatar,QAT,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,85523,,,0
+H4,2013,2013,2013,2,0,2,Export,634,Qatar,QAT,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,170289,,,0
+H4,2013,2013,2013,2,0,2,Export,642,Romania,ROU,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10752,,,0
+H4,2013,2013,2013,2,0,1,Import,643,Russian Federation,RUS,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,421,,,0
+H4,2013,2013,2013,2,0,2,Export,643,Russian Federation,RUS,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22783,,,0
+H4,2013,2013,2013,2,0,1,Import,643,Russian Federation,RUS,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,329,,,0
+H4,2013,2013,2013,2,0,2,Export,643,Russian Federation,RUS,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2427,,,0
+H4,2013,2013,2013,2,0,1,Import,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,173961,,,0
+H4,2013,2013,2013,2,0,2,Export,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2430223,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,120471,,,0
+H4,2013,2013,2013,2,0,1,Import,646,Rwanda,RWA,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,139,,,0
+H4,2013,2013,2013,2,0,2,Export,682,Saudi Arabia,SAU,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,208000,,,0
+H4,2013,2013,2013,2,0,2,Export,682,Saudi Arabia,SAU,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9211478,,,0
+H4,2013,2013,2013,2,0,1,Import,699,India,IND,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,247,,,0
+H4,2013,2013,2013,2,0,2,Export,699,India,IND,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1366842,,,0
+H4,2013,2013,2013,2,0,2,Export,699,India,IND,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10218916,,,0
+H4,2013,2013,2013,2,0,2,Export,699,India,IND,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,117871,,,0
+H4,2013,2013,2013,2,0,2,Export,699,India,IND,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,809975,,,0
+H4,2013,2013,2013,2,0,1,Import,702,Singapore,SGP,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4040,,,4
+H4,2013,2013,2013,2,0,2,Export,702,Singapore,SGP,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,507519,,,4
+H4,2013,2013,2013,2,0,1,Import,703,Slovakia,SVK,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,810,,,0
+H4,2013,2013,2013,2,0,2,Export,704,Viet Nam,VNM,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,198531,,,0
+H4,2013,2013,2013,2,0,2,Export,705,Slovenia,SVN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,46954,,,0
+H4,2013,2013,2013,2,0,2,Export,705,Slovenia,SVN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3,,,0
+H4,2013,2013,2013,2,0,1,Import,710,South Africa,ZAF,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5,,,0
+H4,2013,2013,2013,2,0,2,Export,710,South Africa,ZAF,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,77817,,,0
+H4,2013,2013,2013,2,0,1,Import,710,South Africa,ZAF,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,23776,,,0
+H4,2013,2013,2013,2,0,2,Export,710,South Africa,ZAF,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4991365,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,710,South Africa,ZAF,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,100335,,,0
+H4,2013,2013,2013,2,0,2,Export,710,South Africa,ZAF,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,35954,,,0
+H4,2013,2013,2013,2,0,1,Import,710,South Africa,ZAF,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,928,,,0
+H4,2013,2013,2013,2,0,2,Export,710,South Africa,ZAF,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2466299,,,4
+H4,2013,2013,2013,2,0,1,Import,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,18158,,,0
+H4,2013,2013,2013,2,0,2,Export,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9691632,,,0
+H4,2013,2013,2013,2,0,2,Export,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2169911,,,0
+H4,2013,2013,2013,2,0,2,Export,724,Spain,ESP,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1644984,,,0
+H4,2013,2013,2013,2,0,2,Export,752,Sweden,SWE,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5835,,,4
+H4,2013,2013,2013,2,0,2,Export,752,Sweden,SWE,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7217,,,4
+H4,2013,2013,2013,2,0,2,Export,752,Sweden,SWE,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,19194,,,4
+H4,2013,2013,2013,2,0,2,Export,757,Switzerland,CHE,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,26108,,,0
+H4,2013,2013,2013,2,0,1,Import,757,Switzerland,CHE,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7959,,,4
+H4,2013,2013,2013,2,0,2,Export,757,Switzerland,CHE,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,533858,,,4
+H4,2013,2013,2013,2,0,2,Export,757,Switzerland,CHE,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,323,,,0
+H4,2013,2013,2013,2,0,1,Import,757,Switzerland,CHE,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,478,,,0
+H4,2013,2013,2013,2,0,2,Export,757,Switzerland,CHE,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,56841,,,0
+H4,2013,2013,2013,2,0,2,Export,764,Thailand,THA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,662,,,0
+H4,2013,2013,2013,2,0,1,Import,764,Thailand,THA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,30,,,0
+H4,2013,2013,2013,2,0,2,Export,764,Thailand,THA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8292323,,,0
+H4,2013,2013,2013,2,0,2,Export,764,Thailand,THA,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,258890,,,0
+H4,2013,2013,2013,2,0,1,Import,764,Thailand,THA,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,228,,,0
+H4,2013,2013,2013,2,0,2,Export,764,Thailand,THA,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,326,,,0
+H4,2013,2013,2013,2,0,2,Export,784,United Arab Emirates,ARE,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,348754,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,784,United Arab Emirates,ARE,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,138855,,,0
+H4,2013,2013,2013,2,0,2,Export,784,United Arab Emirates,ARE,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6639257,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,784,United Arab Emirates,ARE,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2130269,,,0
+H4,2013,2013,2013,2,0,2,Export,784,United Arab Emirates,ARE,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,15225,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,784,United Arab Emirates,ARE,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,15225,,,0
+H4,2013,2013,2013,2,0,2,Export,784,United Arab Emirates,ARE,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,95704,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,784,United Arab Emirates,ARE,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,85357,,,0
+H4,2013,2013,2013,2,0,2,Export,788,Tunisia,TUN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1277427,,,0
+H4,2013,2013,2013,2,0,2,Export,788,Tunisia,TUN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,957211,,,0
+H4,2013,2013,2013,2,0,2,Export,792,Turkey,TUR,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,170,,,0
+H4,2013,2013,2013,2,0,1,Import,792,Turkey,TUR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4400,,,0
+H4,2013,2013,2013,2,0,2,Export,792,Turkey,TUR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5596065,,,0
+H4,2013,2013,2013,2,0,2,Export,792,Turkey,TUR,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,531482,,,0
+H4,2013,2013,2013,2,0,1,Import,800,Uganda,UGA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,406,,,0
+H4,2013,2013,2013,2,0,2,Export,800,Uganda,UGA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2738127,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,800,Uganda,UGA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,465910,,,0
+H4,2013,2013,2013,2,0,2,Export,826,United Kingdom,GBR,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,235831,,,0
+H4,2013,2013,2013,2,0,1,Import,826,United Kingdom,GBR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,127162,,,0
+H4,2013,2013,2013,2,0,2,Export,826,United Kingdom,GBR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,919888,,,0
+H4,2013,2013,2013,2,0,1,Import,826,United Kingdom,GBR,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26115,,,0
+H4,2013,2013,2013,2,0,2,Export,826,United Kingdom,GBR,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,50220,,,0
+H4,2013,2013,2013,2,0,2,Export,826,United Kingdom,GBR,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,22084,,,0
+H4,2013,2013,2013,2,0,2,Export,834,United Rep. of Tanzania,TZA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7794090,,,0
+H4,2013,2013,2013,2,0,2,Export,834,United Rep. of Tanzania,TZA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,645,,,0
+H4,2013,2013,2013,2,0,2,Export,842,USA,USA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,119624,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,842,USA,USA,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,15242,,,0
+H4,2013,2013,2013,2,0,1,Import,842,USA,USA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,32977,,,0
+H4,2013,2013,2013,2,0,2,Export,842,USA,USA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10567667,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,842,USA,USA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1086588,,,0
+H4,2013,2013,2013,2,0,2,Export,842,USA,USA,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6000,,,0
+H4,2013,2013,2013,2,0,2,Export,842,USA,USA,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1405433,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,842,USA,USA,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9436,,,0
+H4,2013,2013,2013,2,0,1,Import,36,Australia,AUS,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1426,,,0
+H4,2013,2013,2013,2,0,1,Import,36,Australia,AUS,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6388,,,0
+H4,2013,2013,2013,2,0,2,Export,36,Australia,AUS,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20847,,,0
+H4,2013,2013,2013,2,0,2,Export,36,Australia,AUS,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,105918,,,0
+H4,2013,2013,2013,2,0,2,Export,40,Austria,AUT,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,13,,,0
+H4,2013,2013,2013,2,0,1,Import,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,356843,,,0
+H4,2013,2013,2013,2,0,2,Export,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,281346,,,4
+H4,2013,2013,2013,2,0,2,Export,40,Austria,AUT,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,52463,,,0
+H4,2013,2013,2013,2,0,2,Export,40,Austria,AUT,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2177,,,0
+H4,2013,2013,2013,2,0,1,Import,48,Bahrain,BHR,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9634,,,0
+H4,2013,2013,2013,2,0,2,Export,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,109133,,,0
+H4,2013,2013,2013,2,0,1,Import,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,9856902,,,0
+H4,2013,2013,2013,2,0,2,Export,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1052467,,,4
+H4,2013,2013,2013,2,0,2,Export,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,17885,,,0
+H4,2013,2013,2013,2,0,2,Export,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1256216,,,0
+H4,2013,2013,2013,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,538,,,0
+H4,2013,2013,2013,2,0,2,Export,76,Brazil,BRA,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,162987,,,0
+H4,2013,2013,2013,2,0,1,Import,76,Brazil,BRA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3195946,,,0
+H4,2013,2013,2013,2,0,2,Export,76,Brazil,BRA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,374640,,,4
+H4,2013,2013,2013,2,0,2,Export,76,Brazil,BRA,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6236,,,4
+H4,2013,2013,2013,2,0,2,Export,76,Brazil,BRA,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,8787,,,0
+H4,2013,2013,2013,2,0,1,Import,100,Bulgaria,BGR,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,121245,,,0
+H4,2013,2013,2013,2,0,1,Import,112,Belarus,BLR,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2645300,,,0
+H4,2013,2013,2013,2,0,2,Export,112,Belarus,BLR,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,200,,,0
+H4,2013,2013,2013,2,0,1,Import,116,Cambodia,KHM,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3668,,,0
+H4,2013,2013,2013,2,0,2,Export,124,Canada,CAN,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10488,,,0
+H4,2013,2013,2013,2,0,1,Import,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2633443,,,0
+H4,2013,2013,2013,2,0,2,Export,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,164868,,,0
+H4,2013,2013,2013,2,0,2,Export,124,Canada,CAN,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,710155,,,0
+H4,2013,2013,2013,2,0,1,Import,144,Sri Lanka,LKA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,60,,,0
+H4,2013,2013,2013,2,0,2,Export,144,Sri Lanka,LKA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,66179,,,0
+H4,2013,2013,2013,2,0,1,Import,152,Chile,CHL,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1473,,,0
+H4,2013,2013,2013,2,0,2,Export,152,Chile,CHL,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,31,,,0
+H4,2013,2013,2013,2,0,1,Import,156,China,CHN,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,22870,,,0
+H4,2013,2013,2013,2,0,2,Export,156,China,CHN,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1173094,,,0
+H4,2013,2013,2013,2,0,1,Import,156,China,CHN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,9500320,,,0
+H4,2013,2013,2013,2,0,2,Export,156,China,CHN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,49359073,,,0
+H4,2013,2013,2013,2,0,2,Export,156,China,CHN,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1492762,,,0
+H4,2013,2013,2013,2,0,1,Import,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,24,,,0
+H4,2013,2013,2013,2,0,2,Export,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3518768,,,0
+H4,2013,2013,2013,2,0,2,Export,170,Colombia,COL,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1013,,,0
+H4,2013,2013,2013,2,0,2,Export,196,Cyprus,CYP,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2919,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,196,Cyprus,CYP,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2919,,,0
+H4,2013,2013,2013,2,0,2,Export,203,Czechia,CZE,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,21537,,,0
+H4,2013,2013,2013,2,0,2,Export,203,Czechia,CZE,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11074,,,0
+H4,2013,2013,2013,2,0,2,Export,203,Czechia,CZE,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2798,,,0
+H4,2013,2013,2013,2,0,2,Export,208,Denmark,DNK,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,56771,,,0
+H4,2013,2013,2013,2,0,2,Export,208,Denmark,DNK,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,64747,,,0
+H4,2013,2013,2013,2,0,2,Export,208,Denmark,DNK,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,13286,,,0
+H4,2013,2013,2013,2,0,2,Export,233,Estonia,EST,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,73,,,0
+H4,2013,2013,2013,2,0,1,Import,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1546713,,,0
+H4,2013,2013,2013,2,0,2,Export,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,52888,,,0
+H4,2013,2013,2013,2,0,2,Export,251,France,FRA,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12566,,,0
+H4,2013,2013,2013,2,0,1,Import,251,France,FRA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,17325175,,,0
+H4,2013,2013,2013,2,0,2,Export,251,France,FRA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8425055,,,0
+H4,2013,2013,2013,2,0,1,Import,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12271,,,0
+H4,2013,2013,2013,2,0,2,Export,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,46973,,,0
+H4,2013,2013,2013,2,0,1,Import,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3611,,,0
+H4,2013,2013,2013,2,0,2,Export,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3401560,,,0
+H4,2013,2013,2013,2,0,2,Export,276,Germany,DEU,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,159330,,,4
+H4,2013,2013,2013,2,0,1,Import,276,Germany,DEU,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,15168497,,,0
+H4,2013,2013,2013,2,0,2,Export,276,Germany,DEU,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2460484,,,4
+H4,2013,2013,2013,2,0,2,Export,276,Germany,DEU,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,47678,,,4
+H4,2013,2013,2013,2,0,2,Export,276,Germany,DEU,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,803732,,,4
+H4,2013,2013,2013,2,0,1,Import,288,Ghana,GHA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,242081,,,0
+H4,2013,2013,2013,2,0,2,Export,288,Ghana,GHA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,494,,,0
+H4,2013,2013,2013,2,0,1,Import,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4939,,,0
+H4,2013,2013,2013,2,0,2,Export,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3534450,,,0
+H4,2013,2013,2013,2,0,2,Export,320,Guatemala,GTM,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,101,,,0
+H4,2013,2013,2013,2,0,2,Export,344,"China, Hong Kong SAR",HKG,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11308,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11308,,,0
+H4,2013,2013,2013,2,0,2,Export,348,Hungary,HUN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1230,,,0
+H4,2013,2013,2013,2,0,1,Import,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,76,,,0
+H4,2013,2013,2013,2,0,2,Export,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,80970,,,0
+H4,2013,2013,2013,2,0,1,Import,372,Ireland,IRL,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,252,,,0
+H4,2013,2013,2013,2,0,2,Export,381,Italy,ITA,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3027,,,0
+H4,2013,2013,2013,2,0,1,Import,381,Italy,ITA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11127421,,,0
+H4,2013,2013,2013,2,0,2,Export,381,Italy,ITA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,732144,,,0
+H4,2013,2013,2013,2,0,2,Export,381,Italy,ITA,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,312889,,,0
+H4,2013,2013,2013,2,0,2,Export,381,Italy,ITA,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,393424,,,0
+H4,2013,2013,2013,2,0,2,Export,392,Japan,JPN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3795417,,,0
+H4,2013,2013,2013,2,0,2,Export,392,Japan,JPN,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38703,,,0
+H4,2013,2013,2013,2,0,2,Export,392,Japan,JPN,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2566323,,,0
+H4,2013,2013,2013,2,0,2,Export,398,Kazakhstan,KAZ,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,731,,,0
+H4,2013,2013,2013,2,0,1,Import,410,Rep. of Korea,KOR,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5478,,,0
+H4,2013,2013,2013,2,0,2,Export,410,Rep. of Korea,KOR,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,350897,,,0
+H4,2013,2013,2013,2,0,2,Export,422,Lebanon,LBN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,176803,,,0
+H4,2013,2013,2013,2,0,2,Export,422,Lebanon,LBN,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,34500,,,0
+H4,2013,2013,2013,2,0,2,Export,428,Latvia,LVA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,516,,,0
+H4,2013,2013,2013,2,0,2,Export,442,Luxembourg,LUX,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,133,,,0
+H4,2013,2013,2013,2,0,1,Import,442,Luxembourg,LUX,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6785780,,,0
+H4,2013,2013,2013,2,0,2,Export,442,Luxembourg,LUX,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10275,,,0
+H4,2013,2013,2013,2,0,2,Export,442,Luxembourg,LUX,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,36472,,,0
+H4,2013,2013,2013,2,0,1,Import,450,Madagascar,MDG,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,16,,,0
+H4,2013,2013,2013,2,0,1,Import,458,Malaysia,MYS,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3112504,,,0
+H4,2013,2013,2013,2,0,2,Export,458,Malaysia,MYS,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1015895,,,0
+H4,2013,2013,2013,2,0,2,Export,458,Malaysia,MYS,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1579931,,,0
+H4,2013,2013,2013,2,0,1,Import,480,Mauritius,MUS,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,4144,,,0
+H4,2013,2013,2013,2,0,1,Import,484,Mexico,MEX,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10052,,,0
+H4,2013,2013,2013,2,0,2,Export,484,Mexico,MEX,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2036,,,0
+H4,2013,2013,2013,2,0,2,Export,490,"Other Asia, nes",,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1025069,,,0
+H4,2013,2013,2013,2,0,2,Export,490,"Other Asia, nes",,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,19212,,,0
+H4,2013,2013,2013,2,0,2,Export,490,"Other Asia, nes",,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5777,,,0
+H4,2013,2013,2013,2,0,2,Export,528,Netherlands,NLD,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,236388,,,0
+H4,2013,2013,2013,2,0,1,Import,528,Netherlands,NLD,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,805862,,,0
+H4,2013,2013,2013,2,0,2,Export,528,Netherlands,NLD,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4628326,,,0
+H4,2013,2013,2013,2,0,2,Export,528,Netherlands,NLD,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,106603,,,0
+H4,2013,2013,2013,2,0,1,Import,528,Netherlands,NLD,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,128,,,0
+H4,2013,2013,2013,2,0,2,Export,528,Netherlands,NLD,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3630281,,,4
+H4,2013,2013,2013,2,0,1,Import,554,New Zealand,NZL,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1350,,,4
+H4,2013,2013,2013,2,0,1,Import,554,New Zealand,NZL,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,114,,,4
+H4,2013,2013,2013,2,0,2,Export,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,82322,,,0
+H4,2013,2013,2013,2,0,2,Export,579,Norway,NOR,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15189,,,0
+H4,2013,2013,2013,2,0,1,Import,604,Peru,PER,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,264,,,0
+H4,2013,2013,2013,2,0,2,Export,604,Peru,PER,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,137,,,0
+H4,2013,2013,2013,2,0,2,Export,604,Peru,PER,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,192,,,0
+H4,2013,2013,2013,2,0,2,Export,616,Poland,POL,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,225,,,0
+H4,2013,2013,2013,2,0,1,Import,616,Poland,POL,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12146746,,,0
+H4,2013,2013,2013,2,0,2,Export,616,Poland,POL,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1024262,,,0
+H4,2013,2013,2013,2,0,2,Export,616,Poland,POL,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,138,,,0
+H4,2013,2013,2013,2,0,1,Import,620,Portugal,PRT,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,38649,,,0
+H4,2013,2013,2013,2,0,2,Export,620,Portugal,PRT,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,55779,,,0
+H4,2013,2013,2013,2,0,1,Import,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,29035,,,0
+H4,2013,2013,2013,2,0,2,Export,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2056741,,,0
+H4,2013,2013,2013,2,0,2,Export,620,Portugal,PRT,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,542,,,0
+H4,2013,2013,2013,2,0,2,Export,642,Romania,ROU,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,79874,,,0
+H4,2013,2013,2013,2,0,1,Import,642,Romania,ROU,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,283493,,,0
+H4,2013,2013,2013,2,0,2,Export,642,Romania,ROU,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,806887,,,0
+H4,2013,2013,2013,2,0,2,Export,642,Romania,ROU,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,49473,,,0
+H4,2013,2013,2013,2,0,1,Import,643,Russian Federation,RUS,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,600102,,,0
+H4,2013,2013,2013,2,0,2,Export,643,Russian Federation,RUS,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,30860,,,0
+H4,2013,2013,2013,2,0,2,Export,643,Russian Federation,RUS,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,145272,,,0
+H4,2013,2013,2013,2,0,1,Import,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,775,,,0
+H4,2013,2013,2013,2,0,2,Export,682,Saudi Arabia,SAU,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,42667,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,682,Saudi Arabia,SAU,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,42667,,,0
+H4,2013,2013,2013,2,0,1,Import,688,Serbia,SRB,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,275,,,0
+H4,2013,2013,2013,2,0,2,Export,688,Serbia,SRB,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,122,,,0
+H4,2013,2013,2013,2,0,2,Export,699,India,IND,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,894721,,,0
+H4,2013,2013,2013,2,0,1,Import,699,India,IND,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,492358,,,0
+H4,2013,2013,2013,2,0,2,Export,699,India,IND,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,743267,,,0
+H4,2013,2013,2013,2,0,2,Export,699,India,IND,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,8265456,,,0
+H4,2013,2013,2013,2,0,1,Import,702,Singapore,SGP,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2257,,,4
+H4,2013,2013,2013,2,0,1,Import,702,Singapore,SGP,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,719580,,,0
+H4,2013,2013,2013,2,0,2,Export,702,Singapore,SGP,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,98137,,,4
+H4,2013,2013,2013,2,0,1,Import,702,Singapore,SGP,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,49,,,0
+H4,2013,2013,2013,2,0,1,Import,703,Slovakia,SVK,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,64139,,,0
+H4,2013,2013,2013,2,0,2,Export,704,Viet Nam,VNM,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,818500,,,0
+H4,2013,2013,2013,2,0,1,Import,705,Slovenia,SVN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,7591296,,,0
+H4,2013,2013,2013,2,0,2,Export,705,Slovenia,SVN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,977,,,0
+H4,2013,2013,2013,2,0,2,Export,705,Slovenia,SVN,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,32028,,,0
+H4,2013,2013,2013,2,0,2,Export,710,South Africa,ZAF,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5670,,,0
+H4,2013,2013,2013,2,0,1,Import,710,South Africa,ZAF,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,39392,,,0
+H4,2013,2013,2013,2,0,2,Export,710,South Africa,ZAF,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,289643,,,0
+H4,2013,2013,2013,2,0,2,Export,710,South Africa,ZAF,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3543,,,0
+H4,2013,2013,2013,2,0,2,Export,710,South Africa,ZAF,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,752809,,,0
+H4,2013,2013,2013,2,0,1,Import,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14270884,,,0
+H4,2013,2013,2013,2,0,2,Export,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,799610,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,24864,,,0
+H4,2013,2013,2013,2,0,2,Export,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,110501,,,0
+H4,2013,2013,2013,2,0,2,Export,724,Spain,ESP,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2144226,,,0
+H4,2013,2013,2013,2,0,2,Export,752,Sweden,SWE,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,24568,,,4
+H4,2013,2013,2013,2,0,2,Export,752,Sweden,SWE,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,908887,,,4
+H4,2013,2013,2013,2,0,2,Export,757,Switzerland,CHE,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,70202,,,4
+H4,2013,2013,2013,2,0,2,Export,757,Switzerland,CHE,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,15373,,,0
+H4,2013,2013,2013,2,0,2,Export,757,Switzerland,CHE,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,13974,,,4
+H4,2013,2013,2013,2,0,2,Export,764,Thailand,THA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2091940,,,0
+H4,2013,2013,2013,2,0,2,Export,764,Thailand,THA,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,121665,,,0
+H4,2013,2013,2013,2,0,2,Export,764,Thailand,THA,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,11767,,,0
+H4,2013,2013,2013,2,0,2,Export,784,United Arab Emirates,ARE,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,486251,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,784,United Arab Emirates,ARE,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,484372,,,0
+H4,2013,2013,2013,2,0,2,Export,784,United Arab Emirates,ARE,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3956613,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,784,United Arab Emirates,ARE,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3956613,,,0
+H4,2013,2013,2013,2,0,2,Export,784,United Arab Emirates,ARE,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1635,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,784,United Arab Emirates,ARE,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1635,,,0
+H4,2013,2013,2013,2,0,2,Export,788,Tunisia,TUN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5757,,,0
+H4,2013,2013,2013,2,0,2,Export,788,Tunisia,TUN,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6314,,,0
+H4,2013,2013,2013,2,0,2,Export,792,Turkey,TUR,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,172817,,,0
+H4,2013,2013,2013,2,0,1,Import,792,Turkey,TUR,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,939680,,,0
+H4,2013,2013,2013,2,0,2,Export,792,Turkey,TUR,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,511543,,,0
+H4,2013,2013,2013,2,0,2,Export,792,Turkey,TUR,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,276107,,,0
+H4,2013,2013,2013,2,0,2,Export,792,Turkey,TUR,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,209262,,,0
+H4,2013,2013,2013,2,0,2,Export,800,Uganda,UGA,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,59242,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,800,Uganda,UGA,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,155,,,0
+H4,2013,2013,2013,2,0,2,Export,826,United Kingdom,GBR,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1347,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,826,United Kingdom,GBR,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1347,,,0
+H4,2013,2013,2013,2,0,1,Import,826,United Kingdom,GBR,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2913262,,,0
+H4,2013,2013,2013,2,0,2,Export,826,United Kingdom,GBR,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2152140,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,826,United Kingdom,GBR,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,68260,,,0
+H4,2013,2013,2013,2,0,2,Export,826,United Kingdom,GBR,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,155493,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,826,United Kingdom,GBR,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,93230,,,0
+H4,2013,2013,2013,2,0,2,Export,834,United Rep. of Tanzania,TZA,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,135198,,,0
+H4,2013,2013,2013,2,0,1,Import,834,United Rep. of Tanzania,TZA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1176,,,0
+H4,2013,2013,2013,2,0,2,Export,834,United Rep. of Tanzania,TZA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,99,,,0
+H4,2013,2013,2013,2,0,2,Export,842,USA,USA,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25200,,,0
+H4,2013,2013,2013,2,0,1,Import,842,USA,USA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,25846168,,,0
+H4,2013,2013,2013,2,0,2,Export,842,USA,USA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3192952,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,842,USA,USA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,848562,,,0
+H4,2013,2013,2013,2,0,2,Export,842,USA,USA,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6660,,,0
+H4,2013,2013,2013,2,0,2,Export,842,USA,USA,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1508535,,,0
+H4,2013,2013,2013,2,0,3,Re-Export,842,USA,USA,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,457094,,,0
+H3,2013,2013,2013,2,0,1,Import,140,Central African Rep.,CAF,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,116310,,,0
+H3,2013,2013,2013,2,0,1,Import,204,Benin,BEN,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8113539,,,0
+H3,2013,2013,2013,2,0,2,Export,204,Benin,BEN,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1891,,,0
+H3,2013,2013,2013,2,0,1,Import,270,Gambia,GMB,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,16765,,,0
+H3,2013,2013,2013,2,0,2,Export,384,Côte d'Ivoire,CIV,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,127436235,,,0
+H3,2013,2013,2013,2,0,2,Export,384,Côte d'Ivoire,CIV,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,17722,,,0
+H3,2013,2013,2013,2,0,1,Import,384,Côte d'Ivoire,CIV,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,18160,,,0
+H3,2013,2013,2013,2,0,2,Export,384,Côte d'Ivoire,CIV,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,150944694,,,0
+H3,2013,2013,2013,2,0,2,Export,404,Kenya,KEN,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2755828,,,0
+H3,2013,2013,2013,2,0,3,Re-Export,404,Kenya,KEN,108,Burundi,BDI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1392504,,,0
+H3,2013,2013,2013,2,0,1,Import,562,Niger,NER,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3541714,,,0
+H3,2013,2013,2013,2,0,2,Export,562,Niger,NER,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2486956,,,0
+H3,2013,2013,2013,2,0,1,Import,562,Niger,NER,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,162151,,,0
+H3,2013,2013,2013,2,0,2,Export,562,Niger,NER,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,205319252,,,0
+H3,2013,2013,2013,2,0,2,Export,566,Nigeria,NGA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1124314893,,,0
+H3,2013,2013,2013,2,0,2,Export,566,Nigeria,NGA,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,130486,,,0
+H3,2013,2013,2013,2,0,2,Export,686,Senegal,SEN,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4544684,,,0
+H3,2013,2013,2013,2,0,1,Import,686,Senegal,SEN,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,13045,,,0
+H3,2013,2013,2013,2,0,2,Export,686,Senegal,SEN,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,13134110,,,0
+H3,2013,2013,2013,2,0,1,Import,768,Togo,TGO,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,23983646,,,0
+H3,2013,2013,2013,2,0,2,Export,768,Togo,TGO,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,762396,,,0
+H3,2013,2013,2013,2,0,3,Re-Export,768,Togo,TGO,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2552,,,0
+H3,2013,2013,2013,2,0,2,Export,818,Egypt,EGY,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,115489,,,0
+H3,2013,2013,2013,2,0,1,Import,854,Burkina Faso,BFA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10155014,,,0
+H3,2013,2013,2013,2,0,2,Export,854,Burkina Faso,BFA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2661975,,,0
+H3,2013,2013,2013,2,0,3,Re-Export,854,Burkina Faso,BFA,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1330988,,,0
+H3,2013,2013,2013,2,0,1,Import,24,Angola,AGO,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1511,,,0
+H3,2013,2013,2013,2,0,1,Import,24,Angola,AGO,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,19,,,0
+H3,2013,2013,2013,2,0,1,Import,140,Central African Rep.,CAF,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,85465,,,0
+H3,2013,2013,2013,2,0,2,Export,140,Central African Rep.,CAF,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,7354,,,0
+H3,2013,2013,2013,2,0,1,Import,204,Benin,BEN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2062,,,0
+H3,2013,2013,2013,2,0,2,Export,204,Benin,BEN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,45679,,,0
+H3,2013,2013,2013,2,0,1,Import,204,Benin,BEN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,12329,,,0
+H3,2013,2013,2013,2,0,2,Export,204,Benin,BEN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,760176,,,0
+H3,2013,2013,2013,2,0,3,Re-Export,204,Benin,BEN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,754699,,,0
+H3,2013,2013,2013,2,0,1,Import,231,Ethiopia,ETH,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8293,,,0
+H3,2013,2013,2013,2,0,2,Export,231,Ethiopia,ETH,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,60,,,0
+H3,2013,2013,2013,2,0,2,Export,231,Ethiopia,ETH,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,102,,,0
+H3,2013,2013,2013,2,0,1,Import,384,Côte d'Ivoire,CIV,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4244,,,0
+H3,2013,2013,2013,2,0,2,Export,384,Côte d'Ivoire,CIV,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2628008,,,0
+H3,2013,2013,2013,2,0,1,Import,384,Côte d'Ivoire,CIV,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,100219,,,0
+H3,2013,2013,2013,2,0,2,Export,384,Côte d'Ivoire,CIV,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,36658139,,,4
+H3,2013,2013,2013,2,0,2,Export,404,Kenya,KEN,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,10220541,,,0
+H3,2013,2013,2013,2,0,3,Re-Export,404,Kenya,KEN,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8908,,,0
+H3,2013,2013,2013,2,0,1,Import,404,Kenya,KEN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,519,,,0
+H3,2013,2013,2013,2,0,2,Export,404,Kenya,KEN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14737,,,0
+H3,2013,2013,2013,2,0,1,Import,454,Malawi,MWI,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1932,,,0
+H3,2013,2013,2013,2,0,1,Import,454,Malawi,MWI,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,14381,,,0
+H3,2013,2013,2013,2,0,1,Import,478,Mauritania,MRT,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2325,,,0
+H3,2013,2013,2013,2,0,1,Import,498,Rep. of Moldova,MDA,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,859,,,0
+H3,2013,2013,2013,2,0,1,Import,508,Mozambique,MOZ,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,94020,,,0
+H3,2013,2013,2013,2,0,1,Import,562,Niger,NER,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,381183,,,0
+H3,2013,2013,2013,2,0,2,Export,562,Niger,NER,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,192486,,,0
+H3,2013,2013,2013,2,0,1,Import,566,Nigeria,NGA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,26433,,,0
+H3,2013,2013,2013,2,0,2,Export,566,Nigeria,NGA,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1347944,,,0
+H3,2013,2013,2013,2,0,2,Export,566,Nigeria,NGA,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3164187,,,0
+H3,2013,2013,2013,2,0,1,Import,678,Sao Tome and Principe,STP,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,781,,,0
+H3,2013,2013,2013,2,0,1,Import,678,Sao Tome and Principe,STP,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3387,,,0
+H3,2013,2013,2013,2,0,1,Import,686,Senegal,SEN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,200,,,0
+H3,2013,2013,2013,2,0,2,Export,686,Senegal,SEN,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,458170,,,0
+H3,2013,2013,2013,2,0,1,Import,686,Senegal,SEN,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2844,,,0
+H3,2013,2013,2013,2,0,2,Export,686,Senegal,SEN,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,54025,,,0
+H3,2013,2013,2013,2,0,1,Import,686,Senegal,SEN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,13980,,,0
+H3,2013,2013,2013,2,0,2,Export,686,Senegal,SEN,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,298671,,,0
+H3,2013,2013,2013,2,0,1,Import,690,Seychelles,SYC,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,202,,,0
+H3,2013,2013,2013,2,0,2,Export,768,Togo,TGO,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,39914,,,0
+H3,2013,2013,2013,2,0,1,Import,768,Togo,TGO,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,17978,,,0
+H3,2013,2013,2013,2,0,2,Export,768,Togo,TGO,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16130388,,,0
+H3,2013,2013,2013,2,0,3,Re-Export,768,Togo,TGO,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,27294,,,0
+H3,2013,2013,2013,2,0,1,Import,780,Trinidad and Tobago,TTO,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3,,,0
+H3,2013,2013,2013,2,0,2,Export,804,Ukraine,UKR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,440,,,0
+H3,2013,2013,2013,2,0,2,Export,804,Ukraine,UKR,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,17688,,,0
+H3,2013,2013,2013,2,0,1,Import,818,Egypt,EGY,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,580,,,0
+H3,2013,2013,2013,2,0,2,Export,818,Egypt,EGY,108,Burundi,BDI,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,27592,,,0
+H3,2013,2013,2013,2,0,2,Export,818,Egypt,EGY,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,942189,,,0
+H3,2013,2013,2013,2,0,2,Export,818,Egypt,EGY,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,78620,,,0
+H3,2013,2013,2013,2,0,2,Export,818,Egypt,EGY,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,8874,,,0
+H3,2013,2013,2013,2,0,1,Import,24,Angola,AGO,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2116,,,0
+H3,2013,2013,2013,2,0,1,Import,140,Central African Rep.,CAF,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1359,,,0
+H3,2013,2013,2013,2,0,2,Export,140,Central African Rep.,CAF,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2121,,,0
+H3,2013,2013,2013,2,0,1,Import,204,Benin,BEN,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,60021,,,0
+H3,2013,2013,2013,2,0,1,Import,231,Ethiopia,ETH,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5282,,,0
+H3,2013,2013,2013,2,0,2,Export,231,Ethiopia,ETH,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,12169,,,0
+H3,2013,2013,2013,2,0,3,Re-Export,231,Ethiopia,ETH,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,12169,,,0
+H3,2013,2013,2013,2,0,1,Import,231,Ethiopia,ETH,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,125,,,0
+H3,2013,2013,2013,2,0,1,Import,384,Côte d'Ivoire,CIV,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,765,,,0
+H3,2013,2013,2013,2,0,2,Export,384,Côte d'Ivoire,CIV,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4361,,,0
+H3,2013,2013,2013,2,0,1,Import,384,Côte d'Ivoire,CIV,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,322727,,,0
+H3,2013,2013,2013,2,0,2,Export,384,Côte d'Ivoire,CIV,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2150343,,,0
+H3,2013,2013,2013,2,0,2,Export,404,Kenya,KEN,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,885216,,,0
+H3,2013,2013,2013,2,0,1,Import,508,Mozambique,MOZ,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,10,,,0
+H3,2013,2013,2013,2,0,1,Import,562,Niger,NER,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2280,,,0
+H3,2013,2013,2013,2,0,1,Import,566,Nigeria,NGA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,21655,,,0
+H3,2013,2013,2013,2,0,2,Export,566,Nigeria,NGA,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,20768,,,0
+H3,2013,2013,2013,2,0,1,Import,678,Sao Tome and Principe,STP,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,750,,,0
+H3,2013,2013,2013,2,0,1,Import,678,Sao Tome and Principe,STP,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,6047,,,0
+H3,2013,2013,2013,2,0,2,Export,686,Senegal,SEN,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,54231,,,0
+H3,2013,2013,2013,2,0,2,Export,686,Senegal,SEN,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,5847,,,0
+H3,2013,2013,2013,2,0,1,Import,690,Seychelles,SYC,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,442,,,0
+H3,2013,2013,2013,2,0,2,Export,768,Togo,TGO,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,21692,,,0
+H3,2013,2013,2013,2,0,3,Re-Export,768,Togo,TGO,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,21692,,,0
+H3,2013,2013,2013,2,0,1,Import,768,Togo,TGO,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3477,,,0
+H3,2013,2013,2013,2,0,2,Export,768,Togo,TGO,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,170382,,,0
+H3,2013,2013,2013,2,0,3,Re-Export,768,Togo,TGO,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,145647,,,0
+H3,2013,2013,2013,2,0,2,Export,804,Ukraine,UKR,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,179653,,,0
+H3,2013,2013,2013,2,0,2,Export,818,Egypt,EGY,108,Burundi,BDI,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,535464,,,0
+H3,2013,2013,2013,2,0,1,Import,818,Egypt,EGY,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1246449,,,0
+H3,2013,2013,2013,2,0,2,Export,818,Egypt,EGY,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,741003,,,0
+H3,2013,2013,2013,2,0,2,Export,818,Egypt,EGY,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,156955,,,0
+H2,2013,2013,2013,2,0,1,Import,178,Congo,COG,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1025924,,,0
+H2,2013,2013,2013,2,0,2,Export,178,Congo,COG,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,58180789,,,0
+H2,2013,2013,2013,2,0,2,Export,504,Morocco,MAR,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,201541,,,0
+H2,2013,2013,2013,2,0,2,Export,504,Morocco,MAR,132,Cabo Verde,CPV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1536979,,,0
+H2,2013,2013,2013,2,0,2,Export,504,Morocco,MAR,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2645646,,,0
+H2,2013,2013,2013,2,0,1,Import,178,Congo,COG,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,236617,,,0
+H2,2013,2013,2013,2,0,2,Export,178,Congo,COG,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,94404,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4385,,,0
+H2,2013,2013,2013,2,0,2,Export,504,Morocco,MAR,120,Cameroon,CMR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,730015,,,0
+H2,2013,2013,2013,2,0,2,Export,504,Morocco,MAR,132,Cabo Verde,CPV,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6192,,,0
+H2,2013,2013,2013,2,0,2,Export,504,Morocco,MAR,854,Burkina Faso,BFA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,720107,,,0
+H2,2013,2013,2013,2,0,1,Import,178,Congo,COG,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,287212,,,0
+H2,2013,2013,2013,2,0,2,Export,178,Congo,COG,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,12946,,,0
+H2,2013,2013,2013,2,0,2,Export,504,Morocco,MAR,120,Cameroon,CMR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,796,,,0
+H2,2013,2013,2013,2,0,2,Export,504,Morocco,MAR,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,547,,,0
+H2,2013,2013,2013,2,0,2,Export,504,Morocco,MAR,854,Burkina Faso,BFA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,15488,,,0
